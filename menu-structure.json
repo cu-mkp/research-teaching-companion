@@ -1,11 +1,19 @@
 [
     {
-        "label": "Read Fr. 640",
-        "route": "/folios"
-    },
-    {
-        "label": "Research Essays",
-        "route": "/essays"
+        "label": "Introduction",
+        "content_id": "introduction",
+        "page_heading": "Introduction",
+        "header_graphic_filename": "banner-resources.png",
+        "route": "/content/introduction",
+        "sections": [
+            {
+                "title": "Research and Teaching Companion",
+                "id": "RTC"
+            },
+            {
+                "title": "The Edition",
+                "id": "edition"
+        ]
     },
     {
         "label": "Resources",
@@ -15,53 +23,33 @@
         "route": "/content/resources",
         "sections": [
             {
-                "title": "List of Entries",
-                "id": "list-of-entries"
+                "title": "Syllabi",
+                "id": "syllabi"
             },
             {
-                "title": "Entry Categories",
-                "id": "entry-categories"
+                "title": "Activity Sheets",
+                "id": "activity-sheets"
             },
             {
-                "title": "Glossary",
-                "id": "glossary"
+                "title": "Case Studies",
+                "id": "case-studies"
             },
             {
-                "title": "Bibliography",
-                "id": "bibliography"
+                "title": "Student Projects",
+                "id": "student-projects"
             },
-            {
-                "title": "Principles of Transcription, Translation, and Encoding",
-                "id": "principles-of-transcription-translation-and-encoding"
-            },
-            {
-                "title": "Figures in the Manuscript",
-                "id": "figures-in-the-manuscript"
-            },
-            {
-                "title": "Reconstruction Insights",
-                "id": "reconstruction-insights"
-            },
-            {
-                "title": "Coming Soon",
-                "id": "coming-soon"
-            },
-            {
-                "title": "Field Notes",
-                "id": "field-notes-coming-soon"
-            }
         ]
     },
     {
         "label": "About",
         "content_id": "about",
-        "page_heading": "About the Edition",
+        "page_heading": "About the Companion",
         "header_graphic_filename": "banner-about.png",
         "route": "/content/about",
         "sections": [
             {
-                "title": "The Manuscript",
-                "id": "the-manuscript"
+                "title": "The Companion",
+                "id": "the-companion"
             },
             {
                 "title": "The Edition",
@@ -80,10 +68,6 @@
                 "id": "people-and-credits"
             },
             {
-                "title": "Peer Review",
-                "id": "peer-review"
-            },
-            {
                 "title": "How to Cite",
                 "id": "how-to-cite"
             },
@@ -97,225 +81,4 @@
             }
         ]
     },
-    {
-        "label": "How to Use",
-        "content_id": "how-to-use",
-        "page_heading": "How to Use the Edition",
-        "sub_heading_link": {
-            "text": "cliquez ici pour la version française →",
-            "url": "/#content/how-to-use-fr"
-        },
-        "header_graphic_filename": "banner-how-to.png",
-        "route": "/content/how-to-use",
-        "sections": [
-            {
-                "title": "Reading and Browsing the Manuscript",
-                "id": "reading-and-browsing-the-manuscript"
-            },
-            {
-                "title": "Resources",
-                "id": "resources"
-            },
-            {
-                "title": "How to Cite",
-                "id": "how-to-cite"
-            },
-            {
-                "title": "Source Data",
-                "id": "source-data"
-            }
-        ]
-    },
-    {
-        "content_id": "how-to-use-fr",
-        "page_heading": "Guide d'utilisation",
-        "sub_heading_link": {
-            "text": "Click here for the english version →",
-            "url": "/#content/how-to-use"
-        },
-        "header_graphic_filename": "banner-how-to.png",
-        "route": "/content/how-to-use-fr",
-        "sections": [
-            {
-                "title": "Lire et feuilleter le manuscrit",
-                "id": "lire-et-feuilleter-le-manuscrit"
-            },
-            {
-                "title": "Ressources",
-                "id": "ressources"
-            },
-            {
-                "title": "Comment citer l'édition",
-                "id": "comment-citer-lédition"
-            },
-            {
-                "title": "Données source",
-                "id": "données-source"
-            }
-        ]
-    },
-    {
-        "content_id": "about/credits",
-        "page_heading": "People and Credits",
-        "header_graphic_filename": "banner-about.png",
-        "route": "/content/about/credits",
-        "sections": [
-            {
-                "title": "Introduction",
-                "id": "introduction"
-            },
-            {
-                "title": "Project Team and Staff",
-                "id": "project-team-and-staff"
-            },
-            {
-                "title": "Senior Editorial and Digital Teams",
-                "id": "senior-editorial-and-digital-teams"
-            },
-            {
-                "title": "Project Managers, Assistants, and Interns",
-                "id": "project-managers-assistants-and-interns"
-            },
-            {
-                "title": "Research Essay Authors",
-                "id": "research-essay-authors"
-            },
-            {
-                "title": "Text Workshops in Paleography, Translation, and Digital Encoding",
-                "id": "text-workshops-in-paleography-translation-and-digital-encoding"
-            },
-            {
-                "title": "Craft & Science: Making Objects in the Early Modern World Laboratory Seminar Participants",
-                "id": "craft--science-making-objects-in-the-early-modern-world-laboratory-seminar-participants"
-            },
-            {
-                "title": "Digital Humanities Seminar Participants",
-                "id": "digital-humanities-seminar-participants"
-            },
-            {
-                "title": "Working Group Meeting Invited Scholars and Participants",
-                "id": "working-group-meeting-invited-scholars-and-participants"
-            },
-            {
-                "title": "Columbia University Libraries and the Center for Teaching and Learning",
-                "id": "columbia-university-libraries-and-the-center-for-teaching-and-learning"
-            }
-
-        ]
-
-    },
-    {
-        "content_id": "resources/principles",
-        "page_heading": "Principles of Transcription, Translation, and Encoding",
-        "header_graphic_filename": "banner-resources.png",
-        "route": "/content/resources/principles",
-        "sections": [
-            {
-                "title": "Transcription",
-                "id": "principles-of-transcription"
-            },
-            {
-                "title": "Translation",
-                "id": "principles-of-translation"
-            },
-            {
-                "title": "Encoding",
-                "id": "principles-of-encoding"
-            },
-            {
-                "title": "Linguistic Resources",
-                "id": "linguistic-resources-dictionaries-and-technical-encyclopedias"
-            }
-       ]
-
-    },
-    {
-        "content_id": "resources/bibliography",
-        "page_heading": "Bibliography",
-        "header_graphic_filename": "banner-resources.png",
-        "route": "/content/resources/bibliography",
-        "sections": [
-                {
-                    "title": "Primary Sources",
-                    "id": "primary-sources"
-                },
-                {
-                    "title": "Secondary Sources",
-                    "id": "secondary-sources-cited-in-the-editorial-comments"
-                },
-                {
-                    "title": "Sources Cited in the Glossary",
-                    "id": "sources-cited-in-the-glossary"
-                }
-        ]
-
-    },
-    {
-        "content_id": "resources/figure-index",
-        "page_heading": "Figures in Ms. Fr. 640",
-        "header_graphic_filename": "banner-resources.png",
-        "route": "/content/resources/figure-index",
-        "sections": [
-            {
-                "title": "Marks Used in the Manuscript",
-                "id": "marks-used-in-the-manuscript"
-            },
-            {
-                "title": "Figures in the Manuscript",
-                "id": "figures-in-the-manuscript"
-            }
-        ]
-    },
-    {
-        "content_id": "resources/reconstruction-insights",
-        "page_heading": "Insights from Reconstruction Research",
-        "header_graphic_filename": "banner-resources.png",
-        "route": "/content/resources/reconstruction-insights",
-        "sections": [
-            {
-                "title": "Materials",
-                "id": "materials"
-            },
-            {
-                "title": "Deciphering Obscure Materials",
-                "id": "deciphering-obscure-materials"
-            },
-            {
-                "title": "Culinary and Medical Recipes",
-                "id": "culinary-and-medical-recipes"
-            },
-            {
-                "title": "Deciphering the Text",
-                "id": "deciphering-the-text"
-            },
-            {
-                "title": "Reconstructing Historical Techniques",
-                "id": "reconstructing-historical-techniques"
-            },
-            {
-                "title": "Historical Investigation",
-                "id": "historical-investigation"
-            },
-            {
-                "title": "Workshop Practice and Daily Life",
-                "id": "workshop-practice-and-daily-life"
-            },
-            {
-                "title": "Failures",
-                "id": "failures"
-            },
-            {
-                "title": "Material Imaginary",
-                "id": "material-imaginary"
-            },
-            {
-                "title": "Artifice",
-                "id": "artifice"
-            },
-            {
-                "title": "Reading and Doing",
-                "id": "reading-and-doing"
-            }
-        ]
-    }
 ]
