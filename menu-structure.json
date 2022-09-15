@@ -13,7 +13,7 @@
             {
                 "title": "The Edition",
                 "id": "edition"
-            },
+            }
         ]
     },
     {
@@ -38,7 +38,7 @@
             {
                 "title": "Student Projects",
                 "id": "student-projects"
-            },
+            }
         ]
     },
     {
@@ -81,5 +81,5 @@
                 "id": "contact"
             }
         ]
-    },
+    }
 ]
