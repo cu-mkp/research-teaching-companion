@@ -24,7 +24,7 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
 - [Foraging for Pigments: A Making and Knowing Project](docs/su21_snyder_mellon_final-project-pigments.pdf) by Mellon Snyder (PDF), [[PPTX](docs/su21_snyder_mellon_final-project-pigments.pptx)]
 
 #### Fall 2021 Final Student Projects (2022-01-27) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vSwHOvl3vKELpALapOMMPWTRYaTkVxSn6n9243mOpekLYzlzpIbpmjzZjaRcFnj_RCi3iwNKSm5qBHS/pub)]
-- [Transcribing, Translating, and Encoding MS Gen, 262: *Sefer Refu'os u-Segulos / Book of Remedies and Incantations*](docs/fa21_steinman_charlie_final-project-ms262.md) by Charlie Steinman
+- [Transcribing, Translating, and Encoding MS Gen, 262: *Sefer Refu'os u-Segulos / Book of Remedies and Incantations*](/content/resources/student-projects/fa21_steinman_charlie_final-project-ms262) by Charlie Steinman
      - See also the Github repo dedicated to this project [ms-262-data](https://github.com/cu-mkp/ms-262-data)
 - [Oral Culture in Ms. Fr. 640](docs/fa21_ghoneima_hana_final-project-oral-culture.md) by Hana Ghoneima
 - [The Color Red in Ms. Fr. 640](docs/fa21_coutavas_allie_final-project-reds.md) by Allie Coutavas
