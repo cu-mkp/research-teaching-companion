@@ -8,11 +8,11 @@
         "sections": [
             {
                 "title": "Research and Teaching Companion",
-                "id": "RTC"
+                "id": "research-and-teaching-companion"
             },
             {
                 "title": "The Edition",
-                "id": "edition"
+                "id": "the-edition"
             }
         ]
     },
@@ -58,7 +58,7 @@
             },
             {
                 "title": "The Making and Knowing Project",
-                "id": "about-the-making-and-knowing-project"
+                "id": "the-making-and-knowing-project"
             },
             {
                 "title": "Digital Development",
@@ -81,5 +81,189 @@
                 "id": "contact"
             }
         ]
+    },
+    {
+        "content_id": "about/credits",
+        "page_heading": "People and Credits",
+        "header_graphic_filename": "banner-about.png",
+        "route": "/content/about/credits",
+        "sections": [
+            {
+                "title": "Introduction",
+                "id": "introduction"
+            },
+            {
+                "title": "Project Team and Staff",
+                "id": "project-team-and-staff"
+            },
+            {
+                "title": "Senior Editorial and Digital Teams",
+                "id": "senior-editorial-and-digital-teams"
+            },
+            {
+                "title": "Project Managers, Assistants, and Interns",
+                "id": "project-managers-assistants-and-interns"
+            },
+            {
+                "title": "Research Essay Authors",
+                "id": "research-essay-authors"
+            },
+            {
+                "title": "Text Workshops in Paleography, Translation, and Digital Encoding",
+                "id": "text-workshops-in-paleography-translation-and-digital-encoding"
+            },
+            {
+                "title": "Craft & Science: Making Objects in the Early Modern World Laboratory Seminar Participants",
+                "id": "craft--science-making-objects-in-the-early-modern-world-laboratory-seminar-participants"
+            },
+            {
+                "title": "Digital Humanities Seminar Participants",
+                "id": "digital-humanities-seminar-participants"
+            },
+            {
+                "title": "Working Group Meeting Invited Scholars and Participants",
+                "id": "working-group-meeting-invited-scholars-and-participants"
+            },
+            {
+                "title": "Columbia University Libraries and the Center for Teaching and Learning",
+                "id": "columbia-university-libraries-and-the-center-for-teaching-and-learning"
+            }
+        ]
+    },
+    {
+        "content_id": "resources/activity-sheets",
+        "page_heading": "Activity Sheets, Assignments, and Reconstruction Protocols",
+        "header_graphic_filename": "banner-resources.png",
+        "route": "/content/resources/activity-sheets"
+    },
+    {
+        "content_id": "resources/activity-sheets/pigment-cochineal-lake_assignment",
+        "page_heading": "MAKING LAKE PIGMENT FROM COCHINEAL: A HISTORICAL RECONSTRUCTION",
+        "header_graphic_filename": "banner-resources.png",
+        "route": "/content/resources/activity-sheets/pigment-cochineal-lake_assignment",
+        "sections": [
+            {
+                "title": "Lake pigments and natural colorants",
+                "id": "lake-pigments-and-natural-colorants"
+            },
+            {
+                "title": "Cochineal",
+                "id": "cochineal"
+            },
+            {
+                "title": "Examples of cochineal in art",
+                "id": "examples-of-cochineal-in-art"
+            },
+            {
+                "title": "Historical recipe for cochineal lake",
+                "id": "historical-recipe-for-cochineal-lake"
+            },
+            {
+                "title": "Modernized recipes, adapted for the laboratory (or kitchen)",
+                "id": "modernized-recipes-adapted-for-the-laboratory-or-kitchen-"
+            },
+            {
+                "title": "RECIPE 1: \"Standard\"",
+                "id": "recipe-1-standard"
+            },
+            {
+                "title": "RECIPE 2: \"Standard - Reversed\"",
+                "id": "recipe-2-standard---reversed"
+            },
+            {
+                "title": "An Alternative Method To Using Hotplates and Beakers",
+                "id": "an-alternative-method-to-using-hotplates-and-beakers"
+            }
+        ]
+    },
+    {
+        "content_id": "resources/activity-sheets/stucco-assignment",
+        "page_heading": "STUCCO FOR MOLDING RECONSTRUCTION",
+        "header_graphic_filename": "banner-resources.png",
+        "route": "/content/resources/activity-sheets/stucco-assignment",
+        "sections": [
+            {
+                "title": "Ephemeral Art in BnF Ms. Fr. 640",
+                "id": "ephemeral-art-in-bnf-ms-fr-640"
+            },
+            {
+                "title": "Stucco for Molding",
+                "id": "stucco-for-molding"
+            },
+            {
+                "title": "Materials and Equipment",
+                "id": "materials-and-equipment"
+            },
+            {
+                "title": "Instructions",
+                "id": "instructions"
+            },
+            {
+                "title": "Further reading",
+                "id": "further-reading"
+            }
+        ]
+    },
+    {
+        "content_id": "resources/activity-sheets/stucco_assignment_student-handout",
+        "page_heading": "STUCCO FOR MOLDING RECONSTRUCTION - STUDENT HANDOUT",
+        "header_graphic_filename": "banner-resources.png",
+        "route": "/content/resources/activity-sheets/stucco_assignment_student-handout",
+        "sections": [
+            {
+                "title": "Ephemeral Art in BnF Ms. Fr. 640",
+                "id": "ephemeral-art-in-bnf-ms-fr-640"
+            },
+            {
+                "title": "Stucco for Molding",
+                "id": "stucco-for-molding"
+            }
+        ]
+    },
+    {
+        "content_id": "resources/case-studies",
+        "page_heading": "Case Studies",
+        "header_graphic_filename": "banner-resources.png",
+        "route": "/content/resources/case-studies",
+        "sections": [
+            {
+                "title": "Collaborator Pilot Courses",
+                "id": "collaborator-pilot-courses"
+            }
+        ]
+    },
+    {
+        "content_id": "resources/student-projects",
+        "page_heading": "Course Projects",
+        "header_graphic_filename": "banner-resources.png",
+        "route": "/content/resources/student-projects"
+    },
+    {
+        "content_id": "resources/student-projects/fa21_steinman_charlie_final-project-ms262",
+        "page_heading": "Transcribing, Translating, and Encoding MS Gen, 262: Sefer Refu'os u-Segulos / Book of Remedies and Incantations",
+        "header_graphic_filename": "banner-resources.png",
+        "route": "/content/resources/student-projects/fa21_steinman_charlie_final-project-ms262",
+        "sections": [
+            {
+                "title": "About the MS",
+                "id": "about-the-ms"
+            },
+            {
+                "title": "The Schema",
+                "id": "the-schema"
+            }
+        ]
+    },
+    {
+        "content_id": "resources/syllabi",
+        "page_heading": "Syllabi",
+        "header_graphic_filename": "banner-resources.png",
+        "route": "/content/resources/syllabi"
+    },
+    {
+        "content_id": "resources/syllabi",
+        "page_heading": "Syllabi",
+        "header_graphic_filename": "banner-resources.png",
+        "route": "/content/resources/syllabi"
     }
 ]
