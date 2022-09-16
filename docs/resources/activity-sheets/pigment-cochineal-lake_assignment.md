@@ -5,7 +5,7 @@ _Last updated 2021-09-29 by NJR_
 
 A downloadable version of this assignment: [[PDF](pigment-cochineal-lake_assignment_downloadable_2021.pdf?raw=true)]
 
-![pigment-cochineal_header](../images/pigment-cochineal_header.png?raw=true)
+![pigment-cochineal_header](https://raw.githubusercontent.com/cu-mkp/research-teaching-companion/images/pigment-cochineal_header.png)
 
 ## Lake pigments and natural colorants
 If you are not already familiar with historical pigments and natural colorants, refer to [Presentation: Cochineal Lake: History, Chemistry, and Preparation](./rosenkranz_2021_lakes_cochineal-history-chem-prep.pdf) for more complete information and further explanation of natural colorants and lake pigments.
@@ -13,7 +13,7 @@ If you are not already familiar with historical pigments and natural colorants, 
 
 See also [Presentation: Introduction to Pigments &amp; Paints](./introduction-paints-pigments_njr_2021.pdf).
 
-[![Presentation: Cochineal Lake: History, Chemistry, and Preparation](../images/cochineal-presentation.png?raw=true)](./rosenkranz_2021_lakes_cochineal-history-chem-prep.pdf)
+[![Presentation: Cochineal Lake: History, Chemistry, and Preparation](https://raw.githubusercontent.com/cu-mkp/research-teaching-companion/main/images/cochineal-presentation.png)](./rosenkranz_2021_lakes_cochineal-history-chem-prep.pdf)
 
 
 Lake pigments are a type of pigment prepared from organic natural colorants: plant and animal sources. As most organic natural colorants are soluble, they cannot be mixed
@@ -24,7 +24,7 @@ directly with a binding medium and therefore cannot be used as a pigment. These 
 > Jo Kirby et al, _Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources_ (Archetype, London, 2014).
 
 ## Cochineal
-![cochineal-plant](../images/cochineal-plant.jpg?raw=true)
+![cochineal-plant](https://raw.githubusercontent.com/cu-mkp/research-teaching-companion/main/images/cochineal-plant.jpg)
 Photo credit: MARK WILLIAMSON/SCIENCE PHOTO LIBRARY [https://www.bbc.com/news/business-43786055](https://www.bbc.com/news/business-43786055)
 
 Cochineal is a scale insect found on prickly pear or Barbary fig cactus (Opuntia ficusindica (L.)).
@@ -41,9 +41,9 @@ Region: Cultivated in Mexico and Peruvian Andes, before Spain brought to Europe 
 
 Cochineal insects have been used for centuries in the Americas as both a red dye and pigment. In the sixteenth century, when they were first brought to Europe, their use proliferated and even continues to this day all around the world. 
 
-![cochineal-dyes](../images/cochineal-dyes.png?raw=true)
+![cochineal-dyes](https://raw.githubusercontent.com/cu-mkp/research-teaching-companion/main/images/cochineal-dyes.png)
 
-![cochineal-paintings](../images/cochineal-paintings.png?raw=true)
+![cochineal-paintings](https://raw.githubusercontent.com/cu-mkp/research-teaching-companion/main/images/cochineal-paintings.png)
 
 ## Historical recipe for cochineal lake
 
@@ -58,7 +58,7 @@ Mary P. Merrifield, _Medieval and Renaissance Treatises on the Arts of Painting:
 ## Modernized recipes, adapted for the laboratory (or kitchen)
 The following recipes have been adapted from Chapter 5, "Recipes," of Jo Kirby et al, _**Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources**_ (Archetype, London, 2014).
 
-![pigment-lake-overview](../images/pigment-lake-overview.png?raw=true) 
+![pigment-lake-overview](https://raw.githubusercontent.com/cu-mkp/research-teaching-companion/main/images/pigment-lake-overview.png)
 
 There are two modernized versions of this recipe:
 
