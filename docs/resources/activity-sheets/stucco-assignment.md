@@ -6,11 +6,11 @@ _Last updated 2021-09-24 by NJR_<br>
 
 ![stucco-header](https://raw.githubusercontent.com/cu-mkp/research-teaching-companion/main/images/stucco-header.jpg)
 
-A downloadable version of this assignment: [[PDF](stucco_assignment_downloadable_2021.pdf)]
+A downloadable version of this assignment: [[PDF](https://raw.githubusercontent.com/cu-mkp/research-teaching-companion/main/docs/resources/activity-sheets/stucco_assignment_downloadable_2021.pdf)]
 
 **NOTE TO INSTRUCTORS:** Rather than providing the full instructions, one may want to provide students only with the original recipe and the materials, allowing them to interpret the entry for themselves. A "student handout" is available:
 - [webpage (student handout)](/content/resources/activity-sheets/stucco_assignment_student-handout)
-- [PDF (student handout)](stucco_assignment_student-handout.pdf)
+- [PDF (student handout)](https://raw.githubusercontent.com/cu-mkp/research-teaching-companion/main/docs/resources/activity-sheets/stucco_assignment_student-handout.pdf)
 
 ## Ephemeral Art in BnF Ms. Fr. 640
 The 16th-century artisanal/technical manual, BnF Ms. Fr. 640, contains hundreds of entries that describe making processes and techniques from the Renaissance. These include instructions for and observations about painting, gilding, arms and armor production, plant cultivation, and making molds and metal casts.
@@ -84,10 +84,10 @@ The reconstruction of this recipe has been adapted for two variations: stucco fr
 
 __________________________________________________________________________________________________________________________________
 
-A downloadable version of this assignment: [[PDF](stucco_assignment_downloadable_2021.pdf)]
+A downloadable version of this assignment: [[PDF](https://raw.githubusercontent.com/cu-mkp/research-teaching-companion/main/docs/resources/activity-sheets/stucco_assignment_downloadable_2021.pdf)]
 
 **NOTE TO INSTRUCTORS:** Rather than providing the full instructions, one may want to provide students only with the original recipe and the materials, allowing them to interpret the entry for themselves.A "student handout" is available:
 - [webpage (student handout)](/content/resources/activity-sheets/stucco_assignment_student-handout)
-- [PDF (student handout)](stucco_assignment_student-handout.pdf)
+- [PDF (student handout)](https://raw.githubusercontent.com/cu-mkp/research-teaching-companion/main/docs/resources/activity-sheets/stucco_assignment_student-handout.pdf)
 
 

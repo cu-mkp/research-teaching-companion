@@ -31,7 +31,7 @@ The Final Project in the undergraduate/graduate lab seminar *Making and Knowing 
 - [Textual Analysis of Instances of “To Know” in Ms. Fr. 640](docs/fa21_jacobson_beah_final-project-know.md) by Beah Jacobson
 - [Regimens, Recipes, and Remedies: Understanding the ‘Cosmetic’ in Early Modern Europe](docs/fa21_lin+sundar_danli+anusha_final-project_regimens-remedies.md) by Danli Lin and Anusha Sundar
 - [The Making and Meaning of Intermediates: Workshop and Syllabus for Students of Architecture](docs/fa21_weisgall_benjamin_final-project-architecture-workshop.md) by Benjamin Weisgall
-- [The Natural History of Ms. Fr. 640: A Visual Exploration](docs/fa21_davol_eleanor_final-project-nat-history.pdf) by Eleanor Davol
+- [The Natural History of Ms. Fr. 640: A Visual Exploration](https://raw.githubusercontent.com/cu-mkp/research-teaching-companion/main/docs/resources/student-projects/fa21_davol_eleanor_final-project-nat-history.pdf) by Eleanor Davol
 - [Instructor Assignment Sheet: Ms. Fr. 640 fol. 43v, “Varied and Transmuted Wine”](docs/fa21_alberts_naomi_final-project_ph-lesson.md) by Naomi Alberts
 - [Global Ingredients: The Diverse Origins of Natural Materials in Ms. Fr. 640](https://catapanoth.com/omandka/exhibits/show/global-ingredients--the-divers) (Omeka exhibit with gallery and map) by Elia Zhang and Helena Seo
 - [An Exploration of Humor in Ms. Fr. 640](docs/fa21_atkins+joyce-farley_charlotte+siobhan_pranks.md) by Charlotte Atkins and Siobhan Joyce-Farley
