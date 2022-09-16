@@ -9,10 +9,10 @@ See [Syllabi](/content/resources/syllabi).
 See [Activity Sheets](/content/resources/activity-sheets).
 
 
-### Case Studies
+## Case Studies
 
 See [Case Studies](/content/resources/case-studies).
 
-### Student Projects
+## Student Projects
 
 See [Student Projects](/content/resources/student-projects).
