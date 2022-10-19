@@ -1,3 +1,9 @@
+---
+title: "Credits"
+draft: false
+menu: "main"
+---
+
 ## Introduction
 
 In all aspects of research and development, the creation of *Secrets of Craft and Nature in Renaissance France* has brought together scholars, students,
@@ -9,7 +15,7 @@ interdisciplinary, and collaborative work—of countless dedicated and
 enthusiastic members, individuals, and networks of the [Making and
 Knowing Project](https://www.makingandknowing.org/).
 
-![about-credits-wgm15](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/about-credits-wgm15.png)
+![about-credits-wgm15](/images/about-credits-wgm15.png)
 
 The Project, and thus the Edition, have more components than a
 traditional scholarly edition, making recognition and crediting
@@ -19,8 +25,8 @@ An exemplary model of crediting has been formulated in "Off the Tracks: Laying N
 Lines for Digital Humanities Scholars," and we strive to adhere to their
 guidelines as stated in the [Collaborators’ Bill of Rights](http://mcpress.media-commons.org/offthetracks/part-one-models-for-collaboration-career-paths-acquiring-institutional-support-and-transformation-in-the-field/a-collaboration/collaborators%e2%80%99-bill-of-rights/).
 
-For more about the creation of the edition, see [About the Edition](/content/about#creation-of-the-edition)
-and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](/essays/ann_329_ie_19).
+For more about the creation of the edition, see [About the Edition](https://edition640.makingandknowing.org/#/content/about#creation-of-the-edition)
+and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](https://edition640.makingandknowing.org/#/essays/ann_329_ie_19).
 
 ## Project Team and Staff
 
@@ -143,7 +149,7 @@ Project Director, Assistant Director, Project Assistant, Digital Lead, and Postd
 | Heather Wacha (2014, 2015, 2016, 2017, 2018-mini, 2018, 2018-micro) <br><br>Soersha Dyon (2014, 2015, 2016, 2017, 2018-mini, 2018, 2018-micro) <br><br>Tillmann Taape (2016, 2017, 2018-mini, 2018, 2018-micro) <br><br>Celine Camps (2016, 2017, 2018-mini, 2018, 2018-micro) <br><br>Gregory Champeaund (2014, 2015, 2016, 2017, 2018-mini) <br><br>Tianna Uchacz (2017, 2018-mini, 2018, 2018-micro) <br><br>Margot Lyautey (2016, 2017, 2018-mini, 2018) <br><br>Colin Debuiche (2016, 2017, 2018-mini, 2018) <br><br>Melissa Reynolds (2015, 2017, 2018, 2018-micro) <br><br>Sophie Pitman (2018-mini, 2018, 2018-micro) <br><br>Sarah Muñoz (2016, 2017, 2018) <br><br>Philip Cherian (2016, 2017, 2018) <br><br>José Beltrán (2015, 2016, 2017) <br><br>François Pageau (2014, 2015, 2016) <br><br>Sebestian Kroupa (2016, 2017) <br><br>Jenny Boulboullé (2015, 2016) <br><br>Joel A. Klein (2015, 2016) <br><br>Justin Rivest (2015, 2016) <br><br>Donna Bilak (2017) <br><br>Ludovic Touzé Peiffer (2017) <br><br>Emma Le Pouesard (2016) <br><br>Ji Gao (2016) | Joslyn DeVinney (2016) <br><br>Miguel Aristondo (2016) <br><br>Nicolas Misery (2015) <br><br>Rozemarijn Landsman (2015) <br><br>Justin Gibson (2015) <br><br>Iara Dundas (2015) <br><br>Lorraine de la Verpillière (2015) <br><br>Lucie Charasson (2015) <br><br>Emogene Cataldo (2015) <br><br>Charlotte Buecheler (2015) <br><br>Dorit Brixius (2015) <br><br>Sean O’Neil (2014) <br><br>Diana Nichols (2014) <br><br>Melissa Morris (2014) <br><br>Matthias Lakits (2014) <br><br>Abram Kaplan (2014) <br><br>Lydia Hansell (2014) <br><br>Séverin Duc (2014) <br><br>Éliseé Dion (2014) <br><br>Tamara Caulkins (2014) <br><br>Emma Capron (2014) <br><br>Adham Azab (2014) |
 
 ## *Craft & Science: Making Objects in the Early Modern World* Laboratory Seminar Participants
-This hybrid laboratory-discussion graduate seminar offered through Columbia’s History Department combined historical research with hands-on skill-building and reconstructions of Ms. Fr. 640’s recipes in the Making and Knowing Laboratory. Student final essays for this course appear in this digital critical edition under [Essays](/essays).
+This hybrid laboratory-discussion graduate seminar offered through Columbia’s History Department combined historical research with hands-on skill-building and reconstructions of Ms. Fr. 640’s recipes in the Making and Knowing Laboratory. Student final essays for this course appear in this digital critical edition under [Essays](https://edition640.makingandknowing.org/#/essays/).
 
 Each semester of the *Craft and Science* Lab Seminar was driven by a guiding theme to draw together components of the manuscript and provide focus for analysis and activities, as described below.
 

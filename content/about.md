@@ -1,3 +1,9 @@
+---
+title: "About"
+draft: false
+menu: "main"
+---
+
 ## The Companion
 
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -8,7 +14,7 @@
 
 ## The Making and Knowing Project
 
-The [Making and Knowing Project](https://www.makingandknowing.org/), founded in 2014 by Pamela H. Smith, and involving hundreds of collaborators, is a research and pedagogical initiative in the [Center for Science and Society](https://scienceandsociety.columbia.edu) at Columbia University. See [Credits](/content/about/credits) and, on the Project's website, [Collaborations](https://www.makingandknowing.org/collaborators/).
+The [Making and Knowing Project](https://www.makingandknowing.org/), founded in 2014 by Pamela H. Smith, and involving hundreds of collaborators, is a research and pedagogical initiative in the [Center for Science and Society](https://scienceandsociety.columbia.edu) at Columbia University. See [Credits]({{< ref "credits" >}}) and, on the Project's website, [Collaborations](https://www.makingandknowing.org/collaborators/).
 
 The Project explores the intersections between historical craft making and scientific knowing. Drawing on techniques from both laboratory and archival research as well as studio practice and the digital humanities, the Making and Knowing Project aims to cross the science/humanities divide.
 
@@ -16,19 +22,19 @@ The Project explores the intersections between historical craft making and scien
 
 The creation of _Secrets of Craft and Nature in Renaissance France_ has been the Project’s primary endeavor since 2014. This goal has shaped the Project’s methodology of fusing pedagogy with research, using a focused research object (Ms. Fr. 640) to teach historical, hands-on, and digital research methods while generating research outputs.
 
-![about-mk-collab-lab](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/about-mk-collab-lab.png)
+![about-mk-collab-lab](/images/about-mk-collab-lab.png)
 
 _Secrets of Craft and Nature in Renaissance France_ sheds light not only on what kind of knowledge the manuscript’s anonymous author-practitioner possessed about techniques and materials, but also, more broadly, how his work of making was related to knowing.
 
 Indeed, the overarching theme of the Project and its work on _Secrets of Craft and Nature in Renaissance France_ has been to show the ways in which making is an epistemic activity. In other words, making is itself a form of knowledge and not just an application of knowledge.
 
-![about-mk-collab-books](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/about-mk-collab-books.png)
+![about-mk-collab-books](/images/about-mk-collab-books.png)
 
 For more about the Project, please explore:
 
   - the Project’s website (www.makingandknowing.org)
 
-  - the essay Pamela H. Smith, [Making the Edition](/essays/ann_329_ie_19).
+  - the essay Pamela H. Smith, [Making the Edition](https://edition640.makingandknowing.org/#/essays/ann_329_ie_19).
 
 ## Digital Development
 
@@ -38,7 +44,7 @@ For more about the Project, please explore:
 
 Hundreds of collaborators contributed to the Edition and the Companion in different ways, from scholars to students to craft practitioners to scientists.
 <br>
-[View People and Credits >>](/content/about/credits) 
+[View People and Credits >>]({{< ref "credits" >}}) 
 
 
 ## How to Cite

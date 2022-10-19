@@ -1,4 +1,7 @@
-## Introduction
+---
+draft: false
+menu: "main"
+---
 
 ### Research and Teaching Companion
 

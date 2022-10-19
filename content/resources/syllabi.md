@@ -1,3 +1,11 @@
+---
+title: "Syllabi"
+draft: false
+menu:
+  main:
+    parent: "Resources"
+    weight: 10
+---
 ## Syllabi
 
 ### _**HIST GR8906: Craft and Science: Making Objects in the Early Modern World**_

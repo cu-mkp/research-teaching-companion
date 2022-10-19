@@ -1,3 +1,8 @@
+---
+title: "Transcribing, Translating, and Encoding MS Gen, 262"
+draft: false
+---
+
 ## Transcribing, Translating, and Encoding MS Gen, 262: *Sefer Refu'os u-Segulos / Book of Remedies and Incantations*
 Charlie Steinman
 Fall 2021
