@@ -2,7 +2,7 @@
     <ul>
         {{ $currentPage := . }}
         <li>
-            <a href="{{ "/" | relURL }}">Home</a>
+            <a href="{{ "/" | relURL }}">Introduction</a>
         </li>
         {{ range .Site.Menus.main }}
             {{ if .HasChildren }}

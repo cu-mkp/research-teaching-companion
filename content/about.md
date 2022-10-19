@@ -1,7 +1,9 @@
 ---
 title: "About"
 draft: false
-menu: "main"
+menu: 
+  main:
+    weight: 30
 ---
 
 ## The Companion
