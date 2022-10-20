@@ -1,26 +1,14 @@
 <nav class="nav">
     <ul>
         {{ $currentPage := . }}
-        <li>
-            <a href="{{ "/" | relURL }}">Introduction</a>
+        <li class="home-link">
+            <a href="{{ "/" | relURL }}">
+                <img alt="{{ .Site.Title }} project logo" src="/img/mk-banner-logo.png" />
+            </a>
         </li>
         {{ range .Site.Menus.main }}
-            {{ if .HasChildren }}
-                <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
-                    <a href="#">
-                        {{ .Pre }}
-                        <span>{{ .Name }}</span>
-                    </a>
-                </li>
-                <ul class="sub-menu">
-                    {{ range .Children }}
-                        <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
-                            <a href="{{ .URL }}">{{ .Name }}</a>
-                        </li>
-                    {{ end }}
-                </ul>
-            {{ else if .Name }}
-                <li>
+            {{ if .Name }}
+                <li class="nav-item">
                     <a href="{{ .URL }}">
                         {{ .Pre }}
                         <span>{{ .Name }}</span>
@@ -29,4 +17,4 @@
             {{ end }}
         {{ end }}
     </ul>
-  </nav>
+</nav>

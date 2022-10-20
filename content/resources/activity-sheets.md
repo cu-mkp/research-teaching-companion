@@ -1,10 +1,7 @@
 ---
 title: "Activity Sheets"
 draft: false
-menu:
-  main:
-    parent: "Resources"
-    weight: 20
+weight: 20
 ---
 
 ## Activity Sheets, Assignments, and Reconstruction Protocols

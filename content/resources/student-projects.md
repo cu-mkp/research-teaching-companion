@@ -1,10 +1,7 @@
 ---
 title: "Student Projects"
 draft: false
-menu:
-  main:
-    parent: "Resources"
-    weight: 40
+weight: 40
 ---
 
 ## Student Projects

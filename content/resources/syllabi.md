@@ -1,10 +1,7 @@
 ---
 title: "Syllabi"
 draft: false
-menu:
-  main:
-    parent: "Resources"
-    weight: 10
+weight: 10
 ---
 ## Syllabi
 

@@ -1,10 +1,7 @@
 ---
 title: "Case Studies"
 draft: false
-menu:
-  main:
-    parent: "Resources"
-    weight: 30
+weight: 30
 ---
 
 ## Case Studies
