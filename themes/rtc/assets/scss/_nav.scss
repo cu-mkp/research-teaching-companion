@@ -1,6 +1,3 @@
-@import "animation";
-@import "breakpoints";
-
 header {
     position: sticky;
     top: 0;
@@ -21,7 +18,10 @@ nav {
         margin: 0;
         padding: 0;
         li.home-link a img {
-            width: 300px;
+            width: 210px;
+            @include for-tablet-up {
+                width: 300px;
+            }
         }
         li.nav-item {
             display: block;

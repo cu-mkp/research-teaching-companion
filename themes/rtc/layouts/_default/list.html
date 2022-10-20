@@ -1,14 +1,14 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
+<h1 class="section-title">{{ .Title }}</h1>
 <content>
-  <ul class="pages {{ .Section }}">
-    {{ range .Pages }}
-      {{ if .Title }}
-      <li>
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-      </li>
-      {{ end }}
-    {{ end }}
-  </ul>
+    <ul class="pages {{ .Section }}">
+        {{ range .Pages }}
+            {{ if .Title }}
+                <li>
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                </li>
+            {{ end }}
+        {{ end }}
+    </ul>
 </content>
 {{ end }}
