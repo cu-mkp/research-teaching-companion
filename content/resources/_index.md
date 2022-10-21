@@ -6,4 +6,4 @@ menu:
     weight: 20
 ---
 
-test
+Select one of the types of resources offered in the Research and Teaching Companion.
