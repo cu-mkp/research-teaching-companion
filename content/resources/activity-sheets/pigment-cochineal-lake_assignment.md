@@ -4,8 +4,6 @@ draft: false
 date: "2021-09-29"
 ---
 
-# MAKING LAKE PIGMENT FROM COCHINEAL: A HISTORICAL RECONSTRUCTION
-
 > _The Making and Knowing Project, Columbia University_
 >
 > _Last updated 2021-09-29 by NJR_

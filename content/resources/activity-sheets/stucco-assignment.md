@@ -3,8 +3,6 @@ title: "Stucco For Molding Reconstruction"
 draft: false
 ---
 
-# STUCCO FOR MOLDING RECONSTRUCTION
-
 >_HIST GR8906: Craft and Science: Making Objects in the Early Modern World | Ephemeral Art in BnF Ms. Fr. 640_<br>
 _The Making and Knowing Project, Columbia University_<br>
 _Last updated 2021-09-24 by NJR_<br>

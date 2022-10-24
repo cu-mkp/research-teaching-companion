@@ -2,7 +2,6 @@
 title: "Stucco For Molding Reconstruction - Student Handout"
 draft: false
 ---
-# STUCCO FOR MOLDING RECONSTRUCTION - STUDENT HANDOUT
 
 >_HIST GR8906: Craft and Science: Making Objects in the Early Modern World | Ephemeral Art in BnF Ms. Fr. 640_<br>
 _The Making and Knowing Project, Columbia University_<br>
