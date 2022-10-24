@@ -51,6 +51,14 @@ h1.section-title.top-level {
 
 // content page inner headings
 content {
+    font-family: "Martel", serif;
+    p {
+        line-height: 1.25;
+        padding-bottom: 1em;
+    }
+    li {
+        line-height: 1.5;
+    }
     h1,
     h2,
     h3,
