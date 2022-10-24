@@ -7,8 +7,10 @@
             </a>
         </li>
         {{ range .Site.Menus.main }}
+            {{ $is := $currentPage.IsMenuCurrent "main" . }}
+            {{ $has := $currentPage.HasMenuCurrent "main" . }}
             {{ if .Name }}
-                <li class="nav-item">
+                <li class="nav-item{{ if or $is $has }} active{{ end }}">
                     <a href="{{ .URL }}">
                         {{ .Pre }}
                         <span>{{ .Name }}</span>

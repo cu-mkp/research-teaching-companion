@@ -23,11 +23,3 @@ body {
 main {
     flex: 1 0 auto;
 }
-a {
-    text-decoration: none;
-    &:hover {
-        color: #cba374;
-        fill: #cba374;
-        text-decoration: underline;
-    }
-}

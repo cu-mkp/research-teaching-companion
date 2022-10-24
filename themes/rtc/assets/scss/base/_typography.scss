@@ -1,6 +1,19 @@
 // google fonts
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Martel+Sans:wght@200&family=Martel:wght@400;700&family=Taviraj:wght@300;500&display=swap");
 
+// link styles
+a {
+    text-decoration: none;
+    font-weight: bold;
+    word-wrap: break-word;
+    color: #792421;
+    &:hover {
+        color: #cba374;
+        fill: #cba374;
+        text-decoration: underline;
+    }
+}
+
 // page and section titles with background
 h1.page-title,
 h1.section-title {

@@ -1,15 +1,24 @@
+// header / navigation styles
+
+// sticky header
 header {
     position: sticky;
     top: 0;
     z-index: 3;
 }
 
+// top navigation
 header nav {
     padding: 0px 20px;
+    @include for-desktop-up {
+        padding: 5px 50px;
+    }
     background-color: white;
     border-radius: 0;
     box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2),
         0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+
+    // list of nav items
     & > ul {
         display: flex;
         list-style: none;
@@ -52,11 +61,16 @@ header nav {
                     border-radius: 2px;
                 }
             }
-            &:hover a::before {
+            // line underneath active or hovered items
+            &:hover a::before,
+            &.active a::before {
                 background-color: #792421;
                 text-decoration: none;
                 height: 6px;
                 bottom: -9px;
+            }
+            // animate when hovering non-active item
+            &:not(.active):hover a::before {
                 -webkit-animation: slide-down 0.2s;
                 -moz-animation: slide-down 0.2s;
                 -ms-animation: slide-down 0.2s;
@@ -64,8 +78,5 @@ header nav {
                 animation: slide-down 0.2s;
             }
         }
-    }
-    @include for-desktop-up {
-        padding: 5px 50px;
     }
 }

@@ -2,6 +2,7 @@
     <h1 class="section-title {{ if not .Parent.Section }}top-level{{ end }}">{{ .Title }}</h1>
         <!-- Sub-section should have table of contents -->
         {{ if .Parent.Section }}
+            <div class="toc-bg"></div>
             <div class="toc-content-container">
                 <aside class="toc">
                     {{ .TableOfContents }}
