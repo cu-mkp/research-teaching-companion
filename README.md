@@ -2,6 +2,18 @@
 
 Webpage content and navigation for the [Making and Knowing Project](https://makingandknowing.org/)'s Research and Teaching Companion (RTC), built on the [Hugo](https://gohugo.io/) framework.
 
+- [Contributing](#contributing)
+  * [Front matter](#front-matter)
+  * [Content text](#content-text)
+  * [Internal links](#internal-links)
+  * [Images, documents, and other media](#images--documents--and-other-media)
+  * [`_index.md` pages](#--indexmd--pages)
+- [Publishing](#publishing)
+- [Development](#development)
+  * [Requirements](#requirements)
+  * [Commands](#commands)
+  * [Theming and templates](#theming-and-templates)
+
 ## Contributing
 
 Content pages are stored in the `content/` directory. Each content page is a Goldmark-flavored Markdown (`.md`) file. To contribute to the site content, you may edit the Markdown files directly, or add new ones. The page's URL will be determined by its location in the folder structure.
@@ -87,11 +99,13 @@ Every time changes are pushed to the `main` branch, a GitHub action will execute
 
 -   [Hugo](https://gohugo.io/) v0.104.2+
 
-### `hugo server`
+### Commands
+
+#### `hugo server`
 
 Run this command to serve the site over localhost, with hot-reloading.
 
-### `hugo`
+#### `hugo`
 
 Run this command to build the static site and output into the `public/` directory.
 
