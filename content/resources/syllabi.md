@@ -3,9 +3,8 @@ title: "Syllabi"
 draft: false
 weight: 10
 ---
-## Syllabi
 
-### _**HIST GR8906: Craft and Science: Making Objects in the Early Modern World**_
+## HIST GR8906: Craft and Science: Making Objects in the Early Modern World
 
 Columbia University, History Department, graduate-level "Lab Seminar"
 
@@ -26,7 +25,7 @@ The course was offered from 2014-18, guided by a different theme each year to he
 - Printmaking, Inscription and Impression
      - [Fall 2018 HIST GR8906: Impression Syllabus](https://docs.google.com/document/d/e/2PACX-1vQoa_ox8PAc99ebdx4wxFPULy7aLHSJIyltikSRo7CsNocqS8EfIfCCl9qDIUpaxn0iqsfdmjg9lbpX/pub)
 
-### _**HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History**_
+## HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History
 
 Columbia University, History Department, advanced undergraduate- / intro graduate-level "Lab Seminar"
 
@@ -35,7 +34,7 @@ This Laboratory Seminar is a re-working of the graduate-level *GR8906: Craft and
 - [Fall 2021 HIST GU4962: Hands-on History Syllabus](https://docs.google.com/document/d/e/2PACX-1vSwHOvl3vKELpALapOMMPWTRYaTkVxSn6n9243mOpekLYzlzpIbpmjzZjaRcFnj_RCi3iwNKSm5qBHS/pub)
 - Spring 2022 HIST GU4962: Hands-on History Syllabus (TBD)
 
-### _**HIST GR8975: What is a Book in the 21st Century? Working with Historical Texts in a Digital Environment**_
+## HIST GR8975: What is a Book in the 21st Century? Working with Historical Texts in a Digital Environment
 
 Columbia University, History Department, graduate-level "Digital Seminar"
 
@@ -45,7 +44,7 @@ Using the English translation of Ms. Fr. 640 as the basic data set, students col
 - See the [Course Github Repository](https://github.com/cu-mkp/GR8975)
 - In collaboration with Columbia's Center for Teaching and Learning, this course also resulted in the creation of the [Digital Literacy Competency Calculator (DLCC)](https://ccnmtl.github.io/digital-literacy/), a web-based tool for representing the connection between digital literacy competencies and the teaching and learning practices that produce them. See also the [“White Paper: Digital Literacy Competency Calculator: Rationale and Process”](https://docs.google.com/document/d/11Em2vX-jJw_4QoP62STwVo1i5cNi81ARft9j7gOQsoA/edit?usp=sharing) and the [DLCC for Spring 2017: What is a Book?](https://cu-mkp.github.io/diglit-gr8975/).
 
-### _**ENGL84031 / HISTGU4031 / COMS4495: Transforming Texts: Textual Analysis, Literary Modeling, and Visualization**_
+## ENGL84031 / HISTGU4031 / COMS4495: Transforming Texts: Textual Analysis, Literary Modeling, and Visualization
 
 Columbia University, cross-listed in the Departments of English, History, and Computer Science, advanced undergraduate- / intro graduate-level "Digital Seminar"
 

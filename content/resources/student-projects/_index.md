@@ -4,13 +4,11 @@ draft: false
 weight: 40
 ---
 
-## Student Projects
-
-### ENGL84031 / HISTGU4031 / COMS4495: _Transforming Texts_ (Spring 2019)
+## ENGL84031 / HISTGU4031 / COMS4495: _Transforming Texts_ (Spring 2019)
 
 The Spring 2019 course _Transforming Texts: Textual Analysis, Literary Modeling, and Visualization_ built upon M&K's previous Digital and Lab Seminars. Geared towards students from the humanities and computer science, the course encouraged the disciplines to work together to analyze, explore, and understand historical texts.
 
-#### Spring 2019 Final Student Projects (2021-05-06) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vQPLMeJc5B32slPAKIv-4W29hj_G6WR7dVQ7TTbYA7oStHv-Ze7BP5BUkQhUvFgXGXGlylSL6BsL2jT/pub)]
+### Spring 2019 Final Student Projects (2021-05-06) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vQPLMeJc5B32slPAKIv-4W29hj_G6WR7dVQ7TTbYA7oStHv-Ze7BP5BUkQhUvFgXGXGlylSL6BsL2jT/pub)]
 
 -   [Ontologies of Ms. Fr. 640](/documents/student-projects/SP19_Camps_Ontologies-of-Ms-Fr-640.pdf) by Celine Camps
 -   [“A View Inside a Messy Workshop”: Unraveling the Possibilities of Textual Analysis with Optical Character Recognition](/documents/student-projects//SP19_Bergen_Textual-Analysis-with-Optical-Character-Recognition.pdf) by Katherine Bergen
@@ -21,11 +19,11 @@ The Spring 2019 course _Transforming Texts: Textual Analysis, Literary Modeling,
 -   [Augmented Reality Group (ARGroup)](/documents/student-projects/SP19_ARGroup.pdf) by Mahzabin Hasnath, Kathleen Lee, and Taewan Shim. See also:
     -   PowerPoint presentation [[PDF](/documents/student-projects/SP19_ARGroup-Presentation.pdf)] [[PPTX](/documents/student-projects/SP19_ARGroup-Presentation.pptx)]
 
-### GU4962: _Hands-on History_ (2021- )
+## GU4962: _Hands-on History_ (2021-)
 
 The Final Project in the undergraduate/graduate lab seminar _Making and Knowing in Early Modern Europe: Hands-on History_ are intended to serve as companion pieces to the Digital Critical Edition, _Secrets of Craft and Nature_, or form a part of the Making and Knowing Project’s Research and Teaching Companion to _Secrets of Craft and Nature_. These exploratory and experimental projects are meant to help brainstorm, design, and implement alternative paths by which to access the material in the Edition and/or provide other forms of disseminating and engaging with the themes.
 
-#### Summer 2021 Final Student Projects (2021-07-08) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vTdDTbjg3Wo-03RCA7KtszFF-nVyY0ECotExiQK8SnNpBQ_zNC0tBv9f_RUCujxGlTkdFTZiGicbVKO/pub)]
+### Summer 2021 Final Student Projects (2021-07-08) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vTdDTbjg3Wo-03RCA7KtszFF-nVyY0ECotExiQK8SnNpBQ_zNC0tBv9f_RUCujxGlTkdFTZiGicbVKO/pub)]
 
 -   [Cures in Context: Medicine in Ms. Fr. 640 and Household Recipe Books]({{< ref "su21_branscum_elizabeth_final-project-medicinal" >}}) by Elizabeth Branscum
 -   [Was Ms. Fr. 640 Intentionally Disorganized?]({{< ref "su21_fox_mackenzie_final-project-disorganization" >}}) by Mackenzie Fox
@@ -33,7 +31,7 @@ The Final Project in the undergraduate/graduate lab seminar _Making and Knowing 
 -   [Understanding Natural Things in the World and the Workshop]({{< ref "su21_christensen_anna_final-project-natural-things" >}}) by Anna Christensen
 -   [Foraging for Pigments: A Making and Knowing Project](/documents/student-projects/su21_snyder_mellon_final-project-pigments.pdf) by Mellon Snyder (PDF), [[PPTX](/documents/student-projects/su21_snyder_mellon_final-project-pigments.pptx)]
 
-#### Fall 2021 Final Student Projects (2022-01-27) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vSwHOvl3vKELpALapOMMPWTRYaTkVxSn6n9243mOpekLYzlzpIbpmjzZjaRcFnj_RCi3iwNKSm5qBHS/pub)]
+### Fall 2021 Final Student Projects (2022-01-27) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vSwHOvl3vKELpALapOMMPWTRYaTkVxSn6n9243mOpekLYzlzpIbpmjzZjaRcFnj_RCi3iwNKSm5qBHS/pub)]
 
 -   [Transcribing, Translating, and Encoding MS Gen, 262: _Sefer Refu'os u-Segulos / Book of Remedies and Incantations_]({{< ref "fa21_steinman_charlie_final-project-ms262" >}}) by Charlie Steinman
     -   See also the Github repo dedicated to this project [ms-262-data](https://github.com/cu-mkp/ms-262-data)
@@ -52,14 +50,14 @@ The Final Project in the undergraduate/graduate lab seminar _Making and Knowing 
     -   Listen to [Soundscape 2: Casting the Metal](https://vimeo.com/672823504)
     -   Listen to [Soundscape 3: Recovering the Final Product](https://vimeo.com/672823543)
 
-#### Spring 2022 Final Student Projects (2022-08-15) [Syllabus to come]
+### Spring 2022 Final Student Projects (2022-08-15) [Syllabus to come]
 
 -   [Herodotus’ ‘Workshop’: A Core (Curriculum) Pathway into Ms. Fr. 640 and its Author-Practitioner]({{< ref "sp22_arocho_alejandra_herodotus-workshop" >}}) by Alejandra Quintana Arocho
 -   [Discarded Cartographies: Orienting Process Through Waste](/documents/student-projects/sp22_dzumala_maciej_discards.pdf) by Maciej Dzumala
 -   [Counterproofing: Reproduction and Theft in Early Modern Print Culture]({{< ref "sp22_lang_theodora_counterproofing" >}}) by Theodora Bocanegra Lang
 -   [Making and Knowing Pop-up Book]({{< ref "sp22_wei+yang_jianing+luxi_popup" >}}) by Luxi Yang and Jianing Wei
 
-### Making Colors!
+## Making Colors!
 
 -   [Dyeing with Onion Skins]({{< ref "su22_fld_cunningham_annika_onion-skin-dyeing" >}}) by Annika Cunningham (2022-07-18)
 -   [Making Pigment from Madder: a Trio of Recipes]({{< ref "sp22_fld_rosenkranz_naomi_madder-lake-trio" >}}) by Naomi Rosenkranz (2022-07-19) (WIP)

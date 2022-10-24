@@ -1,8 +1,14 @@
 {{ define "main" }}
     <h1 class="page-title">{{ .Title }}</h1>
-    <content>
-        {{ .Content }}
-    </content>
+    <div class="toc-content-container">
+        <div class="toc-bg"></div>
+        <aside class="toc">
+            {{ .TableOfContents }}
+        </aside>
+        <content>
+            {{ .Content }}
+        </content>
+    </div>
     <p>
         {{ range (.GetTerms "tags") }}
             <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>

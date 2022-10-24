@@ -8,15 +8,17 @@
 @import "components/nav";
 @import "components/page";
 @import "components/resources";
+@import "components/toc";
 
-html,
-body {
-    height: 100%;
+html {
+    scroll-behavior: smooth;
 }
 body {
+    min-height: 100vh;
     margin: 0;
     display: flex;
     flex-direction: column;
+    line-height: 1.15;
 }
 main {
     flex: 1 0 auto;
