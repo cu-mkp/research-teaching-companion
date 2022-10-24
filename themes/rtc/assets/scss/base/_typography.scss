@@ -44,14 +44,9 @@ h1.section-title {
     position: relative;
 }
 
-// top-level section title should not have left padding, because no table of contents!
-h1.section-title.top-level {
-    padding-left: 30px;
-}
-
-// content page inner headings
 content {
     font-family: "Martel", serif;
+    // Line spacing for paragraphs and lists
     p {
         line-height: 1.25;
         padding-bottom: 1em;
@@ -59,6 +54,7 @@ content {
     li {
         line-height: 1.5;
     }
+    // content page inner headings
     h1,
     h2,
     h3,

@@ -1,9 +1,8 @@
 ---
 title: "Introduction"
 draft: false
-menu: 
-  main:
-    weight: 10
+menu: "main"
+weight: 10
 ---
 
 ## Research and Teaching Companion

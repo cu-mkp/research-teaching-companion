@@ -1,9 +1,8 @@
 ---
 title: "Credits"
 draft: false
-menu:
-  main:
-    weight: 40
+menu: "main"
+weight: 40
 ---
 
 ## Introduction
