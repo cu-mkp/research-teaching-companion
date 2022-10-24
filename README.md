@@ -77,6 +77,10 @@ To achieve the RTC structure, there is a rule in place that these pages will onl
 
 In other words, only the "Resources" page currently matches that description. A developer may change this rule in the file `themes/rtc/layouts/_default/list.html`.
 
+## Publishing
+
+Every time changes are pushed to the `main` branch, a GitHub action will execute and publish content to the `gh-pages` branch. Make sure not to modify or remove this branch.
+
 ## Development
 
 ### Requirements
