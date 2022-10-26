@@ -1,0 +1,26 @@
+<nav class="nav">
+    <a class="home-link" href="{{ "/" | relURL }}">
+        <img alt="{{ .Site.Title }} project logo" src="/img/mk-banner-logo.png" />
+    </a>
+    <input id="mobile-nav-toggle" name="mobile-nav-toggle" tabindex="0" type="checkbox" />
+    <label for="mobile-nav-toggle">
+        <svg focusable="false" viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"></path>
+        </svg>
+    </label>
+    <ul>
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+            {{ $is := $currentPage.IsMenuCurrent "main" . }}
+            {{ $has := $currentPage.HasMenuCurrent "main" . }}
+            {{ if .Name }}
+                <li class="nav-item{{ if or $is $has }} active{{ end }}">
+                    <a href="{{ .URL }}">
+                        {{ .Pre }}
+                        <span>{{ .Name }}</span>
+                    </a>
+                </li>
+            {{ end }}
+        {{ end }}
+    </ul>
+</nav>

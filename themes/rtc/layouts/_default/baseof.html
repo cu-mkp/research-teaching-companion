@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{- block "title" . }}{{ with .Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{- end }}</title>
+
+    <meta name="referrer" content="no-referrer-when-downgrade" />
+    {{ $style := resources.Get "scss/main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
+
+    {{ with .OutputFormats.Get "rss" -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+    {{ end -}}
+</head>
+
+<body>
+    <header>
+        {{- partial "nav.html" . -}}
+    </header>
+    <main>
+        <div class="bg-maroon-gradient accent-bar"></div>
+        {{- block "main" . }}{{- end }}
+    </main>
+    <footer>
+        {{- partial "footer.html" . -}}
+    </footer>
+</body>
+
+</html>

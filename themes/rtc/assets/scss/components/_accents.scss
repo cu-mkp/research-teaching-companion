@@ -1,0 +1,15 @@
+// accent bar/gradient on top of each page
+.accent-bar {
+    height: 10px;
+    width: 100%;
+}
+.bg-maroon-gradient {
+    background-image: linear-gradient(
+        to right,
+        #792421,
+        #66211c,
+        #531d17,
+        #411912,
+        #30140d
+    );
+}

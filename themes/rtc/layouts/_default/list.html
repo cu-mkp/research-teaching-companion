@@ -1,0 +1,31 @@
+{{ define "main" }}
+    <h1 class="section-title">{{ .Title }}</h1>
+        <!-- Sub-section should have table of contents -->
+        {{ if .Parent.Section }}
+            <div class="toc-bg"></div>
+            <div class="toc-content-container">
+                <aside class="toc">
+                    {{ .TableOfContents }}
+                </aside>
+        {{ end }}
+                <content>
+                    <!-- Sub-section (e.g. Activity Sheets, Student Projects) should just show content of page -->
+                    {{ .Content }}
+                    <!-- Top-level section (e.g. Resources) should also show list of pages -->
+                    {{ if not .Parent.Section }}
+                        <ul class="pages {{ .Section }}">
+                            {{ range .Pages }}
+                                {{ if .Title }}
+                                    <li>
+                                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                                    </li>
+                                {{ end }}
+                            {{ end }}
+                        </ul>
+                    {{ end }}
+                </content>
+        {{ if .Parent.Section }}
+            </div>
+        {{ end }}
+    </div>
+{{ end }}

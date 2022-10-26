@@ -1,0 +1,55 @@
+
+@-webkit-keyframes slide-down {
+    0% {
+        height: 2px;
+        bottom: -5px;
+    }
+    100% {
+        height: 6px;
+        bottom: -9px;
+    }
+}
+
+@-moz-keyframes slide-down {
+    0% {
+        height: 2px;
+        bottom: -5px;
+    }
+    100% {
+        height: 6px;
+        bottom: -9px;
+    }
+}
+
+@-ms-keyframes slide-down {
+    0% {
+        height: 2px;
+        bottom: -5px;
+    }
+    100% {
+        height: 6px;
+        bottom: -9px;
+    }
+}
+
+@-o-keyframes slide-down {
+    0% {
+        height: 2px;
+        bottom: -5px;
+    }
+    100% {
+        height: 6px;
+        bottom: -9px;
+    }
+}
+
+@keyframes slide-down {
+    0% {
+        height: 2px;
+        bottom: -5px;
+    }
+    100% {
+        height: 6px;
+        bottom: -9px;
+    }
+}

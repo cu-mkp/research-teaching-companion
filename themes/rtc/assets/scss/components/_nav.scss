@@ -1,0 +1,122 @@
+// header / navigation styles
+
+// sticky header
+header {
+    position: sticky;
+    top: 0;
+    z-index: 3;
+}
+
+// top navigation
+header nav {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    background-color: white;
+    border-radius: 0;
+    box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2),
+        0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+
+    // mobile flex and padding differences
+    flex-flow: row wrap;
+    padding: 0px 20px;
+    @include for-tablet-up {
+        flex-flow: row nowrap;
+    }
+    @include for-desktop-up {
+        padding: 5px 50px;
+    }
+
+    a.home-link img {
+        width: 210px;
+        @include for-tablet-up {
+            width: 300px;
+        }
+    }
+
+    // list of nav items
+    & > ul {
+        // only display when checked on mobile
+        display: none;
+        padding: 20px 0;
+        @include for-tablet-up {
+            padding: 0;
+            display: flex;
+        }
+        flex-grow: 1;
+        list-style: none;
+        align-items: flex-end;
+        justify-content: space-around;
+        margin: 0;
+        // individual nav items
+        li.nav-item {
+            display: block;
+            height: 100%;
+            font-size: 16px;
+            margin: 0 5px 15px 0;
+            white-space: nowrap;
+            cursor: pointer;
+            a {
+                margin: 0 5px 15px 0;
+                color: black;
+                text-align: center;
+                width: fit-content;
+                text-decoration: none;
+                font-family: "Lato", sans-serif;
+                font-size: 16px;
+                font-weight: 700;
+                position: relative;
+                &::before {
+                    position: absolute;
+                    content: "";
+                    height: 2px;
+                    background-color: black;
+                    width: 50%;
+                    right: 25%;
+                    bottom: -5px;
+                    border-radius: 2px;
+                }
+            }
+            // line underneath active or hovered items
+            &:hover a::before,
+            &.active a::before {
+                background-color: #792421;
+                text-decoration: none;
+                height: 6px;
+                bottom: -9px;
+            }
+            // animate when hovering non-active item
+            &:not(.active):hover a::before {
+                -webkit-animation: slide-down 0.2s;
+                -moz-animation: slide-down 0.2s;
+                -ms-animation: slide-down 0.2s;
+                -o-animation: slide-down 0.2s;
+                animation: slide-down 0.2s;
+            }
+        }
+    }
+    label[for="mobile-nav-toggle"] {
+        cursor: pointer;
+        display: flex;
+        @include for-tablet-up {
+            display: none;
+        }
+        width: 54px;
+        height: 54px;
+        overflow: visible;
+        font-size: 1.5rem;
+        align-items: center;
+        justify-content: center;
+        svg {
+            width: 24px;
+            height: 24px;
+            fill: black;
+        }
+    }
+    input#mobile-nav-toggle {
+        display: none;
+        &:checked ~ ul {
+            display: flex;
+        }
+    }
+}

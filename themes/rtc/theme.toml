@@ -1,0 +1,8 @@
+name = "Research and Teaching Companion"
+description = "The theme for the Making and Knowing Project's Research and Teaching Companion"
+license = "MIT"
+licenselink = "https://github.com/cu-mkp/research-teaching-companion/blob/main/themes/rtc/LICENSE"
+homepage = "https://teaching640.makingandknowing.org/"
+tags = []
+features = []
+min_version = "0.41.0"

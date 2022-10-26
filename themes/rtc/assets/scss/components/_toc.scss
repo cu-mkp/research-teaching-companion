@@ -1,0 +1,70 @@
+// Styles for the table of contents aside
+
+// Flex container for the TOC + content
+div.toc-content-container {
+    display: flex;
+    scroll-behavior: smooth;
+}
+
+div.toc-bg {
+    display: none;
+    @include for-tablet-up {
+        display: block;
+    }
+    box-sizing: border-box;
+    position: fixed;
+    top: 0;
+    width: 300px;
+    z-index: -1;
+    height: 100%;
+    background: linear-gradient(to bottom, #f2e6d9, #e6e0c1, #e4d2a5);
+}
+aside.toc {
+    box-sizing: border-box;
+    z-index: 1;
+    position: sticky;
+    top: 88px;
+    display: none;
+    height: calc(100vh - 90px);
+    width: 300px;
+    min-width: 300px;
+    padding: 20px;
+    overflow: auto;
+    @include for-tablet-up {
+        display: block;
+    }
+    @include for-desktop-up {
+        height: calc(100vh - 147px);
+        top: 125px;
+    }
+    ul {
+        list-style: none;
+        font-family: "Lato", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        margin: 0;
+        padding: 0;
+        li {
+            margin-bottom: 20px;
+            a {
+                color: black;
+                text-decoration: none;
+                &:hover {
+                    color: #792421;
+                    cursor: pointer;
+                }
+            }
+            ul {
+                margin-top: 20px;
+                margin-left: 10px;
+                font-size: 1rem;
+                font-weight: 400;
+            }
+        }
+    }
+}
+aside.toc + content {
+    @include for-tablet-up {
+        width: calc(100% - 300px);
+    }
+}
