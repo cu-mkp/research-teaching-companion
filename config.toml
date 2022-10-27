@@ -1,6 +1,7 @@
 # Base URL used when generating links to your pages
 # Set to the URL for your site
 baseURL = "https://cu-mkp.github.io/research-teaching-companion/"
+canonifyURLs = true
 
 # Basic metadata configuration for your blog.
 theme = "rtc"
