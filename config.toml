@@ -1,6 +1,6 @@
 # Base URL used when generating links to your pages
 # Set to the URL for your site
-baseURL = "https://teaching640.makingandknowing.org/"
+baseURL = "https://cu-mkp.github.io/research-teaching-companion/"
 
 # Basic metadata configuration for your blog.
 theme = "rtc"
