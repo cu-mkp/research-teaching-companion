@@ -12,7 +12,7 @@ jobs:
       - name: Checkout latest code
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0 
+          fetch-depth: 0
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -20,8 +20,10 @@ jobs:
           hugo-version: "latest"
           extended: true
 
-      - name: Build and minify with Hugo
+      - name: Build and minify with Hugo, using GH Pages baseURL
         run: hugo --minify
+        env:
+          HUGO_BASEURL: "https://cu-mkp.github.io/research-teaching-companion/"
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
