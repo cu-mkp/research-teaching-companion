@@ -1,3 +1,13 @@
+// define header bg URL relative to base URL
+$header-bg: linear-gradient(
+        to bottom,
+        rgba(228, 210, 165, 0.9),
+        rgba(230, 224, 193, 0.9),
+        rgba(242, 230, 217, 0.9)
+    ),
+    url("{{ .Site.BaseURL }}/img/text-bg.png");
+
+// imports
 @import "base/animation";
 @import "base/breakpoints";
 @import "base/typography";
@@ -10,6 +20,7 @@
 @import "components/resources";
 @import "components/toc";
 
+// sitewide theme
 html {
     scroll-behavior: smooth;
 }

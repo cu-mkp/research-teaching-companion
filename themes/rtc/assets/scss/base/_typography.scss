@@ -21,13 +21,7 @@ h1.section-title {
     align-items: center;
     margin: 0;
     font-family: "Taviraj", serif;
-    background-image: linear-gradient(
-            to bottom,
-            rgba(228, 210, 165, 0.9),
-            rgba(230, 224, 193, 0.9),
-            rgba(242, 230, 217, 0.9)
-        ),
-        url("/img/text-bg.png");
+    background-image: $header-bg;
     background-size: cover;
     font-size: 20px;
     height: 83px;
