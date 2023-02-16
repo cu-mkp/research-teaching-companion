@@ -1,5 +1,7 @@
 # The Making and Knowing Project: Reasearch and Teaching Companion
 
+https://cu-mkp.github.io/research-teaching-companion/
+
 Webpage content and navigation for the [Making and Knowing Project](https://makingandknowing.org/)'s Research and Teaching Companion (RTC), built on the [Hugo](https://gohugo.io/) framework.
 
 - [Contributing](#contributing)
