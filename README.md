@@ -1,4 +1,4 @@
-# The Making and Knowing Project: Reasearch and Teaching Companion
+# The Making and Knowing Project: Research and Teaching Companion
 
 https://cu-mkp.github.io/research-teaching-companion/
 
