@@ -18,7 +18,7 @@ _For more general information about file naming conventions in computing, please
 - Do not use special characters such as: `! # $ % & ' @ ^ `` ~ + , . ; = ) ( "`
   - No periods, commas, question marks, etc.
 - The only characters allowable other than alphanumeric characters are: hyphen/minus sign `-`, underscores `_`, and plus signs `+`
-- For spaces between words
+- For spaces between words in phrases
   - Use the hyphen/minus sign `-`
   - Example: `painting-out-verdigris`
 - For spaces between elements (e.g. date, description, name, etc.) - _This is also known as an "element delimiter"_
