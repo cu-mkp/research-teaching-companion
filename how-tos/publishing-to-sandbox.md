@@ -88,3 +88,14 @@ For example:
 ```
 - [Animal Rationality in Ms. Fr. 640](sp22_nebolsin_victoria_final-project_animal-rationality.md) by Victoria Nebolsin
 ```
+
+
+# Images
+Images to be used in the website, should be uploaded to research-teaching-companion/static/images/. Note: Hugo will place this directory of the website, e.g., `teaching640.makingandknowing.org/images`
+
+Naming protocol:
+`[name of menu]-[short description of image].[file extension]'
+e.g., `howtouse-del.png`
+
+`[name of menu]-[menu item label]-[short description of image].[file extension]'
+e.g., `about-sponsors-NSF.png`
