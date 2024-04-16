@@ -23,10 +23,10 @@ To make a new key, you will need to:
 
 Once your key has been set up and linked, all you need to do is clone (which is like downloading) a copy of the repository to your local Githun directory you created in step 1 above. 
 
-You will need to copy the SSH address your repository - see [Cloning a Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) for a visual guide of where this is on the repo homepage. Make sure to grab the SSH one and not the HTTPS or GitHub CLI addresses. It should look something like `git@github.com:cu-mkp/editioncrafter-data.git`.
+You will need to copy the SSH address your repository - see [Cloning a Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) for a visual guide of where this is on the repo homepage. Make sure to grab the SSH one and not the HTTPS or GitHub CLI addresses. It should look something like `git@github.com:cu-mkp/research-teaching-companion.git`.
 
 In the command line, navigate to your Github directory, then do: `git clone [paste the SSH address here]`.
-For example, `git clone git@github.com:cu-mkp/editioncrafter-data.git`
+For example, `git clone git@github.com:cu-mkp/research-teaching-companion.git`
 
 ## Main workflow: setting up to work in a branch in a github project
 
