@@ -29,15 +29,21 @@ In sum:
 Images to be used in the website should be uploaded to `/static/images/`. Note: Hugo will place this directory at the root of the website, e.g., `teaching640.makingandknowing.org/images`.
 
 ## Naming protocol for images:
-`[name of menu]-[short description of image].[file extension]'
+Follow the basic protocols described in [Naming Protocols](naming-protocols.md#guidelines).
+
+
+`[name of menu]-[short description of image].[file extension]`
+
 e.g., `howtouse-del.png`
 
-`[name of menu]-[menu item label]-[short description of image].[file extension]'
+`[name of menu]-[menu item label]-[short description of image].[file extension]`
+
 e.g., `about-sponsors-NSF.png`
 
 ## Naming protocol for webpages:
+TBD. Follow the basic protocols described in [Naming Protocols](naming-protocols.md#guidelines).
 
 ## Naming protocol for static documents:
-
+Use the original name of the document, but sanitize it to meet the requirements described in [Naming Protocols](naming-protocols.md#guidelines).
 
 
