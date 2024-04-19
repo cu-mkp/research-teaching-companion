@@ -4,18 +4,25 @@
 The publicly-available [Research and Teaching Companion (RTC) Site](https://cu-mkp.github.io/research-teaching-companion/) is powered through Github Pages. Input for site content is in Github-flavored Markdown. Whenever possible and appropriate, resources and pages for the Sandbox site should be in Markdown.
 
 ## Structure of the repo
-The webpages o
-`content/` directory contains all the pages in the RTC website in `.md` format which is automatically converted to `.html` when the site is built by Hugo. To edit any of the landing pages / webpages of the site (e.g., "About" or "Resources"
+The `/content/` directory contains all the pages in the RTC website in `.md` format which is automatically converted to `.html` when the site is built by Hugo. To edit any of the webpages of the site (e.g., "(About)[https://cu-mkp.github.io/research-teaching-companion/about/]").
+
+The `/static/` directory contains files that are placed at the root of the website as is. These are principally files to be downloaded by visitors of the site (e.g., powerpoint presentations) and images to be embedded into the webpages.
+
+In sum:
+- Edit webpages: work in `/content/`
+- Include images to webpages: upload to `/static/images`
+- Provide downloadable content: upload to `/static/documents`
 
 ## File formats and location in Github repo
 
 | Original file format               | Target File Format (in Github)                            | Location in Github repo       |
 |------------------------------------|-----------------------------------------------------------|-------------------------------|
-| Googledoc, Word (`.docx`)          | `.md` (Markdown)                                          | usually `/static/docs/`              |
-| Googlesheets, Excel (`.xlsx`)      | `.csv` (if formatting is meaningful, ALSO upload `.xlsx`) | usually `/data/`              |
-| Googleslides, Powerpoint (`.pptx`) | `.pdf` (if original is wanted, ALSO upload `.pptx`)       | usually `/docs/`              |
-| `.pdf`                             | `.pdf`                                                    | usually `/docs/`              |
-| Images                             | `.jpg` or `.png`                                          | usually `/docs/` or `images/` |
+| New webpage                        | `.md` (Markdown)                                          | `/content/` or `/content/resources`               |
+| Googledoc, Word (`.docx`)          | `.docx` AND `.pdf`                                        | `/static/documents/`          |
+| Googlesheets, Excel (`.xlsx`)      | `.csv` (if formatting is meaningful, ALSO upload `.xlsx`) | `/static/documents/`          |
+| Googleslides, Powerpoint (`.pptx`) | `.pptx` AND `.pdf`                                        | `/static/documents/`          |
+| `.pdf`                             | `.pdf`                                                    | `/static/documents/`          |
+| Images                             | `.jpg` or `.png`                                          | `/static/images/`             |
 
 ## From Google Drive to the Sandbox
 To transfer a Googledoc to the Sandbox for publication, first the text in the Googledoc is formatted to aid the transformation, then the Googledoc is downloaded as a `.docx`. Using pandoc, the `.docx` is converted to `.md`, extracting any embedded images. Finally, the `.md` file and associated media files are uploaded to the Github repo and added to the indices. 
