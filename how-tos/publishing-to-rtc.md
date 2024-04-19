@@ -1,13 +1,17 @@
-> Last updated 2023-02-03 by NJR
+> Last updated 2024-04-14 by NJR & THC
 
-# Publishing to the Sandbox Site
-The publicly-available [M&K Sandbox Site](https://cu-mkp.github.io/sandbox/) is powered through Github Pages. Input for site content is in Github-flavored Markdown. Whenever possible and appropriate, resources and pages for the Sandbox site should be in Markdown.
+# Publishing to the Research and Teaching Companion Site
+The publicly-available [Research and Teaching Companion (RTC) Site](https://cu-mkp.github.io/research-teaching-companion/) is powered through Github Pages. Input for site content is in Github-flavored Markdown. Whenever possible and appropriate, resources and pages for the Sandbox site should be in Markdown.
+
+## Structure of the repo
+The webpages o
+`content/` directory contains all the pages in the RTC website in `.md` format which is automatically converted to `.html` when the site is built by Hugo. To edit any of the landing pages / webpages of the site (e.g., "About" or "Resources"
 
 ## File formats and location in Github repo
 
 | Original file format               | Target File Format (in Github)                            | Location in Github repo       |
 |------------------------------------|-----------------------------------------------------------|-------------------------------|
-| Googledoc, Word (`.docx`)          | `.md` (Markdown)                                          | usually `/docs/`              |
+| Googledoc, Word (`.docx`)          | `.md` (Markdown)                                          | usually `/static/docs/`              |
 | Googlesheets, Excel (`.xlsx`)      | `.csv` (if formatting is meaningful, ALSO upload `.xlsx`) | usually `/data/`              |
 | Googleslides, Powerpoint (`.pptx`) | `.pdf` (if original is wanted, ALSO upload `.pptx`)       | usually `/docs/`              |
 | `.pdf`                             | `.pdf`                                                    | usually `/docs/`              |
