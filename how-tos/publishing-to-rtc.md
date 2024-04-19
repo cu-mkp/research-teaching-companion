@@ -25,6 +25,22 @@ In sum:
 | Images                             | `.jpg` or `.png`                                          | `/static/images/`             |
 
 
+## Naming spec for files and pages
+
+`[type]_[semester+year]_[lastname]_[firstname]_[subject or title or short description]`
+delimited `-` within each field
+
+`[semester]` format:
+\["fa" | "sp" | "su" ] + [YY]
+e.g., "fa17" for fall 2017, or "sp16" for spring 2016, or "su21" for summer 2021
+
+`[type]` values:
+  1. `syllabus`
+  2. `casestudy`
+  3. `activitysheet`
+  4. `project`
+
+
 # Images
 Images to be used in the website should be uploaded to `/static/images/`. Note: Hugo will place this directory at the root of the website, e.g., `teaching640.makingandknowing.org/images`.
 
@@ -43,8 +59,16 @@ e.g., `about-sponsors-NSF.png`
 ## Naming protocol for webpages:
 TBD. Follow the basic protocols described in [Naming Protocols](naming-protocols.md#guidelines).
 
+`[type]_[date]_[name]_[brief title which can include course number and short name of course].md`
+
+e.g., `casestudy_sp22_nielson_arth-295-ingenious-making.md`
+
 ## Naming protocol for static documents:
-Use the original name of the document, but sanitize it to meet the requirements described in [Naming Protocols](naming-protocols.md#guidelines).
+`[type]_[date]_[name]_[brief title which can include course number and short name of course].md`
+
+e.g., `casestudy_sp22_nielson_arth-295-ingenious-making.docx`
+
+Use the original name of the document in the title segment, but sanitize it to meet the requirements described in [Naming Protocols](naming-protocols.md#guidelines) and pre-pend type and date and name information (if decipherable).
 
 ## Including external URLs
 Whenever we include links to external resources, we need to consider whether those URLs and resources meet our plans for digital sustainability.
