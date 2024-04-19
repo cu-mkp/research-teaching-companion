@@ -46,4 +46,11 @@ TBD. Follow the basic protocols described in [Naming Protocols](naming-protocols
 ## Naming protocol for static documents:
 Use the original name of the document, but sanitize it to meet the requirements described in [Naming Protocols](naming-protocols.md#guidelines).
 
+## Including external URLs
+Whenever we include links to external resources, we need to consider whether those URLs and resources meet our plans for digital sustainability.
+- If possible, use a persistent identifier such as a DOI or "permanent URL."
+- If possible, if the resource is also stored in a digital repository (e.g., Academic Commons, JSTOR, Internet Archive), cite that location for the resource.
+- If you are citing a webpage that is not a formal pulication (such as a blog), look for a version in Internet Archive and include that link in addition to the original (e.g., but adding "archived at [link]). If there is no version available there, use the service provided by Internet Archive and the Wayback Machine to create an archivable link: [Save Pages in the Wayback Machine](https://help.archive.org/help/save-pages-in-the-wayback-machine/).
+
+  
 
