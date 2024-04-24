@@ -1,36 +1,30 @@
----
-title: "Making Lake Pigment From Cochineal: A Historical Reconstruction"
-draft: false
-date: "2021-09-29"
----
+# MAKING LAKE PIGMENT FROM COCHINEAL: A HISTORICAL RECONSTRUCTION
 
-> _The Making and Knowing Project, Columbia University_
->
-> _Last updated 2021-09-29 by NJR_
+>_The Making and Knowing Project, Columbia University_<br>
+_Last updated 2021-09-29 by NJR_
 
-A downloadable version of this assignment: [[PDF](/documents/activity-sheets/pigment-cochineal-lake_assignment_downloadable_2021.pdf)]
+A downloadable version of this assignment: [[PDF](pigment-cochineal-lake_assignment_downloadable_2023.pdf?raw=true)]
 
-![pigment-cochineal_header](/images/pigment-cochineal_header.png)
+![pigment-cochineal_header](../images/pigment-cochineal_header.png?raw=true)
 
 ## Lake pigments and natural colorants
-If you are not already familiar with historical pigments and natural colorants, refer to [Presentation: Cochineal Lake: History, Chemistry, and Preparation](/documents/activity-sheets/rosenkranz_2021_lakes_cochineal-history-chem-prep.pdf) for more complete information and further explanation of natural colorants and lake pigments.
+If you are not already familiar with historical pigments and natural colorants, refer to [Presentation: Cochineal Lake: History, Chemistry, and Preparation](./rosenkranz_2023_lakes_cochineal-history-chem-prep.pdf) for more complete information and further explanation of natural colorants and lake pigments.
 
 
-See also [Presentation: Introduction to Pigments &amp; Paints](/documents/activity-sheets/introduction-paints-pigments_njr_2021.pdf).
+See also [Presentation: Introduction to Pigments &amp; Paints](./introduction-paints-pigments_njr_2021.pdf).
 
-[![Presentation: Cochineal Lake: History, Chemistry, and Preparation](/images/cochineal-presentation.png)](/documents/activity-sheets/rosenkranz_2021_lakes_cochineal-history-chem-prep.pdf)
+[![Presentation: Cochineal Lake: History, Chemistry, and Preparation](../images/cochineal-presentation.png?raw=true)](./rosenkranz_2021_lakes_cochineal-history-chem-prep.pdf)
 
 
-Lake pigments are a type of pigment prepared from organic natural colorants: plant and animal sources. As most organic natural colorants are soluble, they cannot be mixed
-directly with a binding medium and therefore cannot be used as a pigment. These colorants must therefore be extracted and then made insoluble in order to use them as pigments.
+Lake pigments are a type of pigment prepared from organic natural colorants: plant and animal sources. As most organic natural colorants are soluble, they cannot be mixed directly with a binding medium and therefore cannot be used as a pigment. These colorants must therefore be extracted and then made insoluble in order to use them as pigments.
 
 **Lake pigments:** in general, pigments prepared from soluble natural colorants, formed by precipitating (or adsorbing) the dye onto a colorless or white, insoluble, relatively inert substrate.
 
 > Jo Kirby et al, _Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources_ (Archetype, London, 2014).
 
 ## Cochineal
-![cochineal-plant](/images/cochineal-plant.jpg)
-Photo credit: MARK WILLIAMSON/SCIENCE PHOTO LIBRARY [https://www.bbc.com/news/business-43786055](https://www.bbc.com/news/business-43786055)
+![cochineal-plant](../images/2023-01-08_rosenkranz_cochineal-pad.jpg?raw=true)
+> Cochineal, covered in a white excretion that acts as a protective layer, on a nopal pad (Naomi Rosenkranz, Altadena, CA, 2023)
 
 Cochineal is a scale insect found on prickly pear or Barbary fig cactus (Opuntia ficusindica (L.)).
 
@@ -46,9 +40,9 @@ Region: Cultivated in Mexico and Peruvian Andes, before Spain brought to Europe 
 
 Cochineal insects have been used for centuries in the Americas as both a red dye and pigment. In the sixteenth century, when they were first brought to Europe, their use proliferated and even continues to this day all around the world. 
 
-![cochineal-dyes](/images/cochineal-dyes.png)
+![cochineal-dyes](../images/cochineal-dyes.png?raw=true)
 
-![cochineal-paintings](/images/cochineal-paintings.png)
+![cochineal-paintings](../images/cochineal-paintings.png?raw=true)
 
 ## Historical recipe for cochineal lake
 
@@ -63,7 +57,7 @@ Mary P. Merrifield, _Medieval and Renaissance Treatises on the Arts of Painting:
 ## Modernized recipes, adapted for the laboratory (or kitchen)
 The following recipes have been adapted from Chapter 5, "Recipes," of Jo Kirby et al, _**Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources**_ (Archetype, London, 2014).
 
-![pigment-lake-overview](/images/pigment-lake-overview.png) 
+![pigment-lake-overview](../images/pigment-lake-overview.png?raw=true) 
 
 There are two modernized versions of this recipe:
 
@@ -131,7 +125,7 @@ There are two modernized versions of this recipe:
 - Using a small utensil, add cochineal to the drawstring bag. Close the bag tightly
 - Add alum and bag of cochineal to 300ml water in the 1000ml beaker
 - Bring to a boil and boil for 15-20 min
-- Using heat, dissolve 10g potash in 50 ml water in the 100ml beaker
+- Using heat, dissolve 4g potash in 50 ml water in the 100ml beaker
 - Remove the drawstring bag containing the cochineal from the beaker. It can now be discarded
 - Add the potash solution very gradually, stirring constantly to the cochineal+alum solution
      - Do this slowly and incrementally, checking the pH of the solution after each addition until a pH of 6-7, there is no further effervescence, and precipitation of the lake pigment appears to be complete
