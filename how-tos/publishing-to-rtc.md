@@ -4,7 +4,7 @@
 The publicly-available [Research and Teaching Companion (RTC) Site](https://cu-mkp.github.io/research-teaching-companion/) is powered through Github Pages. Input for site content is in Github-flavored Markdown. Whenever possible and appropriate, resources and pages for the Sandbox site should be in Markdown.
 
 ## Structure of the repo
-The `/content/` directory contains all the pages in the RTC website in `.md` format which is automatically converted to `.html` when the site is built by Hugo. To edit any of the webpages of the site (e.g., "(About)[https://cu-mkp.github.io/research-teaching-companion/about/]").
+The `/content/` directory contains all the pages in the RTC website in `.md` format which is automatically converted to `.html` when the site is built by Hugo. To edit any of the webpages of the site (e.g., ("About")[https://cu-mkp.github.io/research-teaching-companion/about/]).
 
 The `/static/` directory contains files that are placed at the root of the website as is. These are principally files to be downloaded by visitors of the site (e.g., powerpoint presentations) and images to be embedded into the webpages.
 
