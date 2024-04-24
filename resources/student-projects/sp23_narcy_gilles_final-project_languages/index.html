@@ -1,0 +1,400 @@
+<!doctype html><html lang=en-US><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Research and Teaching Companion</title>
+<meta name=referrer content="no-referrer-when-downgrade"><link rel=stylesheet href=https://cu-mkp.github.io/research-teaching-companion/scss/main.min.e0f1dd65cd23dc813eec622067d93337f3a2ad97f3d95d0f9e6e8a0ff2982804.css></head><body><header><nav class=nav><a class=home-link href=https://cu-mkp.github.io/research-teaching-companion/><img alt="Research and Teaching Companion project logo" src=https://cu-mkp.github.io/research-teaching-companion//img/mk-banner-logo.png>
+</a><input id=mobile-nav-toggle name=mobile-nav-toggle tabindex=0 type=checkbox>
+<label for=mobile-nav-toggle><svg focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/></svg></label><ul><li class=nav-item><a href=https://cu-mkp.github.io/research-teaching-companion/introduction/><span>Introduction</span></a></li><li class="nav-item active"><a href=https://cu-mkp.github.io/research-teaching-companion/resources/><span>Resources</span></a></li><li class=nav-item><a href=https://cu-mkp.github.io/research-teaching-companion/about/><span>About</span></a></li><li class=nav-item><a href=https://cu-mkp.github.io/research-teaching-companion/credits/><span>Credits</span></a></li></ul></nav></header><main><div class="bg-maroon-gradient accent-bar"></div><h1 class=page-title></h1><div class=toc-content-container><div class=toc-bg></div><aside class=toc><nav id=TableOfContents><ul><li><a href=#introduction-languages-as-practical-knowledge>Introduction: Languages as practical knowledge</a></li><li><a href=#building-and-exploiting-a-dataset-on-languages-in-ms-fr-640>Building and exploiting a dataset on languages in Ms. Fr. 640</a></li><li><a href=#latin-and-greek-performing-high-knowledge>Latin and Greek: performing high knowledge</a></li><li><a href=#italian-and-german-the-geography-of-artisanal-practices-in-early-modern-europe>Italian and German: the geography of artisanal practices in early modern Europe</a></li><li><a href=#occitan-and-poitevin-linguistic-tools-of-experience>Occitan and Poitevin: linguistic tools of experience</a></li><li><a href=#conclusion-making-with-languages>Conclusion: Making with languages</a></li><li><a href=#bibliography>Bibliography</a></li></ul></nav></aside><content><h1 id=languages-and-linguistic-agency-in-ms-fr-640>Languages and Linguistic Agency in Ms. Fr. 640</h1><blockquote><p>Gilles Narcy
+Spring 2023
+HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History</p></blockquote><h2 id=introduction-languages-as-practical-knowledge>Introduction: Languages as practical knowledge</h2><p>This essay focuses on the role played by languages in Ms. Fr. 640.
+Although written in French, as its call number in the Bibliothèque
+nationale de France’s catalogue indicates, it contains several
+occurrences of other languages. Extensive scholarship has been dedicated
+to artisan authors and the rise of books of recipes in the early modern
+era, focusing on the difficulties and paradoxes of putting embodied,
+practical knowledge into writing.<sup id=fnref:1><a href=#fn:1 class=footnote-ref role=doc-noteref>1</a></sup> The perspective adopted in this
+essay is to approach writing, and more specifically the use of different
+languages in various contexts, as a skill and a practical process
+itself. My main contention, drawn from sociolinguistics, is that
+languages, rather than neutral and substitutable vehicles for
+communication, carry different meanings and implications in and of
+themselves. They coexist and define themselves in relation to each other
+inside a social space that can be described alternatively as an
+ecology<sup id=fnref:2><a href=#fn:2 class=footnote-ref role=doc-noteref>2</a></sup> or as a market<sup id=fnref:3><a href=#fn:3 class=footnote-ref role=doc-noteref>3</a></sup>. The use of each language produces
+precise textual effects in the manuscript, whether they are purposely
+intended by the author-practitioner or not.</p><p>In practical metaphors, languages can be understood as materials with
+different properties that influence the information they carry. They can
+also be conceived as tools, used by the author-practitioner to achieve
+textual goals. In this perspective, languages should be considered
+separately as well as in relation to each other. The historian Paul
+Cohen reminds us that plurilingualism was the rule for all in
+Renaissance France, at the same time, drawing attention to the fact that
+a sociolinguistic hierarchy separated and classified the existing
+languages. But while historians have extensively studied the relation of
+language to culture, politics,<sup id=fnref:4><a href=#fn:4 class=footnote-ref role=doc-noteref>4</a></sup> and even the sciences,<sup id=fnref:5><a href=#fn:5 class=footnote-ref role=doc-noteref>5</a></sup> its
+relationship in the crafts and sciences remains largely overlooked. Ms.
+Fr. 640 is a good case study to examine the use of language by early
+modern craftsmen.</p><p>The non-French languages in the manuscript belong to three different
+categories: ancient languages (Latin and Greek), foreign languages
+(Italian and German), and local languages (Occitan and Poitevin).<sup id=fnref:6><a href=#fn:6 class=footnote-ref role=doc-noteref>6</a></sup>
+This group of languages, as I will try to demonstrate, is not merely
+conventional or coincidental: ancient, foreign, and local are not only
+linguistic categories, but, rather, to some extent epistemological.
+Ancient languages are linked with learned knowledge, foreign languages
+with the circulation of artisanal practices, and local languages with
+experimental accounts. The boundaries between each of these groups,
+however, are far from sharp, and their realms often blur.</p><p>In what follows, I will first present a dataset for non-French
+occurrences in Ms. Fr. 640, built with Excel with the valuable help of
+Naomi Rosenkranz and Terry Catapano, to whom I am sincerely grateful. I
+will show how we can use this dataset in combination with other
+quantitative tools to offer a computational approach to linguistic tags
+in the manuscript, an approach that paves the way for qualitative
+analysis.</p><p>Each language can be approached individually or thematically. Thus, the
+question was whether to follow language groups or thematic sections
+which show intersections between various languages: the
+author-practitioner’s literacy, or the various names of materials,
+plants, and tools, for example. As the dataset is built upon occurrences
+per language, I chose to delve successively on each of my three groups
+of ancient, foreign, and local. Nonetheless, these themes will be
+tackled repeatedly throughout the essay in a comparative perspective
+between individual languages.</p><h2 id=building-and-exploiting-a-dataset-on-languages-in-ms-fr-640>Building and exploiting a dataset on languages in Ms. Fr. 640</h2><p>I started building the dataset of languages in Ms. Fr. 640 manually.
+Using the digital edition, I entered every recipe containing an
+occurrence of non-French language. For each, I entered the language, the
+folio number, the English title of the recipe, the semantic tag(s) of
+the recipe, and the number of linguistic tags (i.e., the number of
+occurrences of each language per recipe). Terry Catapano and Naomi
+Rosenkranz then very generously helped me to improve my dataset using
+the xml code of the edition: instead of having one line per recipe, I
+now have one line per occurrence. The dataset in its current version
+also provides the three closest parent tags for every occurrence, as
+well as the text itself on the same line. This first version was based
+on the English translation version of the manuscript. I exported the
+code of the French diplomatic version to Excel to produce a second one.
+There was no major difficulty, except for some special characters and
+recipe titles which were lost in the process and that I had to add again
+manually. The same can obviously be done for the French normalized
+version of the text.</p><p>Assembling the data by hand already gave me a good sense of the
+linguistic patterns for every language. The most instinctive use of the
+dataset was to plot a chart of the occurrences of every non-French
+language in the manuscript, which gives a clear visualization of the gap
+between three most frequent languages on one hand (Latin, Occitan, and
+Poitevin), and three rarest ones on the other (German, Italian, and
+Greek) (Fig. 1).</p><p><em>Fig. 1. Number of occurrences per language</em></p><p>However, a second chart (Fig. 2) reveals that Occitan and Poitevin occur
+only as single words, whereas Italian accounts for full sentences. It
+demonstrates that a close reading of the recipes remains necessary to
+interpret the data created.</p><p><em>Fig. 2. Total number of words per language</em></p><p>I further relied on the extensive computational research that has been
+done on the manuscript by Clément Godbarge, Roni Kaufman, and Dana
+Chaillard.<sup id=fnref:7><a href=#fn:7 class=footnote-ref role=doc-noteref>7</a></sup> I use their charts extensively throughout this essay. I
+tried to implement the correlations between languages and semantic tags
+with a focus on linguistic diversity: using Professor Alex Reuneker’s
+<a href=https://www.reuneker.nl/files/ld/>free calculator online</a>, I
+generated lexical diversity scores for each language. The score
+corresponds to a Type-Token ratio (TTR): the number of single-occurring
+words divided by the total number of words (Fig. 3). 1 represents a text
+in which every word occurs only once. TTR is one of the most basic
+indicators of linguistic diversity. Despite its lack of precision, it
+gives a sense of the lexical variety of the author-practitioner for each
+language. In the case of German, I uniformized the spelling of “Spat”
+into “Spalt” to produce a coherent result. I then proceeded to plot the
+scores into a single bar-chart.</p><p></p><p><em>Fig. 3. Lexical diversity per language (TTR)</em></p><p>The results show that there is no association between frequency of
+occurrences and diversity: Occitan is the second most frequent language
+but has the second lowest lexical diversity score, while Italian has the
+highest score of all languages. As expected, there is, on the contrary,
+a strong association between the number of words and lexical diversity,
+especially when leaving aside the very small samples of German and
+Greek.</p><p>Such quantitative analysis is not a terminal point, however, but rather
+helps reveal unexpected patterns and possible reading paths for Ms. Fr.
+640.</p><h2 id=latin-and-greek-performing-high-knowledge>Latin and Greek: performing high knowledge</h2><p>Ancient languages constitute the first group of non-French languages in
+the manuscript. In the sixteenth century, Latin and Greek were perceived
+as sharing several common features. First, they were the languages of
+classical knowledge from pagan as well as Christian Antiquity. Second,
+they were regarded, alongside Hebrew (a novelty of the sixteenth century
+for Christian scholars), as the most perfect languages, by far superior
+to any of the vernaculars. However, the relation between Latin and Greek
+was very much asymmetrical: while Latin was the language of religion,
+power, and science, widely spread among learned elites and taught in
+grammar schools, Greek was a scholarly knowledge that had been
+rediscovered in Western Europe during the fifteenth century only. Ms.
+Fr. 640 testifies to this asymmetry (Fig. 1).</p><p>Comparing Naomi Rosenkranz’s general chart on the frequency of each
+semantic tag in Ms. Fr. 640 (Fig. 4) with Roni Kaufman’s bar charts
+(Fig. 5) on the correlation between language tags and semantic tags, we
+can observe that casting, which already amounts to 34% of the total
+entries, is overrepresented in Latin, with more than half of the
+occurrences. Medicine also has a strong association with Latin (10.69%
+against an overall 4.55%). On the contrary, painting (0.76% against
+14.3%), cultivation (0.76% against 3.03%), and household and daily life
+(0% against 3.22%) are underrepresented. At first sight, Latin seems to
+be associated with high realms of knowledge: medicine was taught in the
+universities, and casting could have military applications<sup id=fnref:8><a href=#fn:8 class=footnote-ref role=doc-noteref>8</a></sup> or serve
+to create precious objects for a <em>Kunstkammer</em>. Common life, on the
+contrary, is poorly transcribed into the language of elites.</p><p></p><p><em>Fig. 4. How many entries are tagged with each category</em><sup id=fnref:9><a href=#fn:9 class=footnote-ref role=doc-noteref>9</a></sup></p><p></p><p><em>Fig. 5. Tag count: Latin in the manuscript</em><sup id=fnref:10><a href=#fn:10 class=footnote-ref role=doc-noteref>10</a></sup></p><p>Latin occurs in three different ways. First, in references or quotes,
+most of which have been identified by the digital editors of the
+manuscript. Even leaving aside the first folio, which contains a list of
+books to recover written by a different hand than the
+author-practitioner’s,<sup id=fnref:11><a href=#fn:11 class=footnote-ref role=doc-noteref>11</a></sup> Ms. Fr. 640 contains several titles of books
+and borrowed sentences in Latin, such as Henri Estienne’s translation of
+Herodotus, Flavius Josephus, Terence, and other classical authors. Some
+Latin quotes are also borrowed from modern authors, such as the Italian
+professor of medicine Girolamo Mercuriale in the “For preservation”
+entry (fol. 170r). Interestingly, these Latin references are to be found
+mainly in the programmatic entries “For the workshop” (fols. 162r and
+166r). In fol. 166r, the author-practitioner reflects on how he should
+respond to a “jealous person” (“<em>zélotype</em>”) who would blame him for
+having only compiled recipes and not provided for new knowledge. His
+answer is taken from Terence: “<em>nullum est jam dictum quod non dictum
+aut factum sit prius</em>,” (nothing is said now that has not been said or
+done before). This is followed by a list of Latin authors who borrowed
+from Greek predecessors and by comparisons with weavers and masons as
+well, who use the materials of others to create new objects. It reveals
+that the author-practitioner’s practical epistemology is rooted in the
+same conservative and imitative culture of the humanists.</p><p>The author-practitioner uses Latin not only to defend his theory of
+knowledge, but also to describe practical processes. In fact, most Latin
+occurrences are names of materials. Quantitatively speaking, casting
+dominates, as Figs. 4 and 5 show, with two main materials: <em>aes ustum</em>
+(burnt copper) and above all <em>crocum ferri</em> (an iron additive). However,
+there is more variety in the use of Latin names for plants and organic
+materials in general, with a total of 10: <em>pix Graeca</em>, <em>capillum
+Veneris</em>, <em>lapathum acutum</em>, <em>symphitum</em>, <em>consolida</em>, <em>semperviva</em>,
+<em>vermicularis</em>, <em>palma Christi</em>, <em>ranunculus</em>, <em>palta lupina</em>. We can
+add to those, <em>caput mortuum</em>,<sup id=fnref:12><a href=#fn:12 class=footnote-ref role=doc-noteref>12</a></sup> a haematite pigment. Many of these
+materials, such as <em>capillum Veneris</em> (maidenhair fern), were common in
+Languedoc and could have easily been designated using vernacular names
+in French or Occitan. In this context, the use of Latin on the
+author-practitioner’s part could be linked with the rise of herbals,
+such as that of Ulisse Aldrovandi or Conrad Gessner’s <em>Historia
+Plantarum</em> (although it remained unpublished until the eighteenth
+century), and of natural history in general. Latin, here, conveys the
+learned character of several of the author-practitioner’s recipes,
+illustrating its role as a vehicle for knowledge in early modern Europe.</p><p>Latin proves useful to the author-practitioner not only to designate
+various materials, but also to give instructions and annotations about
+the processes he describes. Several technical terms or abbreviations in
+Latin, in fact, are recurrent throughout the manuscript: <em>nota</em> (“note”)
+occurs 6 times; ℞, abbreviation for “recipe” (“take”), 5 times; <em>ana</em>
+(“equally”), 2 times. The recipe “To make silver run” (fol. 120v) also
+contains the marginal annotation “<em>Siscitatio</em> [<em>sic</em>.] <em>dubia</em>,”
+meaning “dubious question,” although spelled wrong (“<em>siscitatio</em>” for
+“<em>sciscitatio</em>”).</p><p>Overall, the use of Latin in the manuscript is pervasive, whether to
+imitate learned culture and prove the learning of the
+author-practitioner or to describe precise materials and plants. In the
+era of print, names and processes tended to be standardized at a
+transnational level, an opposite trend to the rise of political nation
+states. The variety of ways in which the author-practitioner uses Latin
+shows its relevance in practical knowledge as much as in high culture.
+It enlarges Françoise Waquet’s traditional interpretation of Latin in
+early modern Europe, according to whom Latin survived thanks to three
+conservative elite institutions: schools, the Church, and
+scholarship.<sup id=fnref:13><a href=#fn:13 class=footnote-ref role=doc-noteref>13</a></sup> Ms. Fr. 640, on the contrary, provides an example of a
+transnational circulation of knowledge in Latin among practitioners
+rather than scholars, and of social imitation of cultural elites by a
+lower member of the social hierarchy.</p><p>Greek occurrences, on the other hand, are limited to two recipes only:
+“Snakes” (fol. 13v) and “For the workshop” (162r). In the latter, the
+author-practitioner uses the name Clio, the Greek muse of history, to
+refer to Herodotus’ <em>Historia</em>. The former entry, which has been
+extensively researched by Victoria Nebolsin, is short and seemingly
+odd.<sup id=fnref:14><a href=#fn:14 class=footnote-ref role=doc-noteref>14</a></sup> It indicates that snakes, if called with their Greek name,
+όφι, will flee. On the contrary, pigs called with their Greek name <em>ïon</em>
+will come. As far as literacy is concerned, it is evident that the
+author-practitioner had barely any notion of Greek: his orthography of
+single words is not correct, and the first term only is spelled in Greek
+alphabet. Nonetheless, the recipe can still be regarded as a form of
+reenactment of ancient Greek knowledge. It is probably inspired by an
+episode of Plutarch’s <em>Moralia</em>, also mentioned in Giovanni Battista
+Gelli’s <em>La Circe</em> (1549). Gelli was himself an author-practitioner:
+trained as a shoemaker in Florence, he published books dealing with
+crafts as well as philosophical dialogues in the humanistic tradition.
+It is likely that Plutarch’s anecdote was borrowed from him, but it
+should also be noted that the Greek philosopher was a very popular
+author in Renaissance France. The passage from the <em>Moralia</em> is a parody
+of <em>Odyssey</em>, X: Odysseus engages in dialogue with a swine philosopher,
+Gryllus, who advocates for the superiority of animals over humans since
+they possess crafts by nature and do not need to acquire them through
+training. Nebolsin interprets this unacknowledged reference as an
+endorsement of Gryllus’ praise of natural skill on the
+author-practitioner’s part. However, it is also worthy to note that the
+“Snakes” entry on fol. 13v does not deal with crafts or skills as much
+as with language and literacy. Why should animals respond to Greek
+rather than to French, Latin, or any other language? My hypothesis is
+that the author-practitioner regards Greek as a language with a magical
+aura, associated with ancient, philosophical, and also occult knowledge.
+The ability to command animals through language is in fact a recurring
+magical skill in different cultures and societies.</p><p>The “Snakes” entry demonstrates that ancient languages carry
+supernatural implications. In Saussurian terms, they do not serve only
+as signifiers for a signified such as tools or materials; they are a
+<em>material</em> element of the recipe. This is also the case in the entry
+“Against burns, excellent” (103r), which contains a recipe for a healing
+salve that must be used while reciting the paternoster prayer in a
+precise order.<sup id=fnref:15><a href=#fn:15 class=footnote-ref role=doc-noteref>15</a></sup> The words “pater noster” have been encoded as French
+and not Latin in the manuscript, on the ground that it was indeed a
+common phrase. Nonetheless, the prayer still had to be said in Latin,
+especially in a Catholic context. The prayer must be said in a precise
+rhythm, making the recipe akin to a religious ritual such as the
+Catholic Eucharist, where the transubstantiation occurs through the
+combination of the priest’s gestures and the uttering of the “words of
+institution.” Both entries pertain to what linguist James L. Austin
+famously called “performativity”: the use of language to act rather than
+to state.<sup id=fnref:16><a href=#fn:16 class=footnote-ref role=doc-noteref>16</a></sup> But in the context of practical knowledge, as
+demonstrated by these uses in Ms. Fr 640, languages are not only
+performative, rather, they are put on the same level as other materials.
+It can thus be contended that under certain circumstances, such as the
+supernatural use of Latin and Greek, languages possess their own form of
+materiality, where Latin is used in the form of a prayer inspired by
+Church rituals that helps effect a material transformation, Greek is the
+language of performativity that compels the action of a physical being.</p><p>On an anthropological level, the Latin-Greek couple thus replicates to
+some extent the duality of religion and magic.<sup id=fnref:17><a href=#fn:17 class=footnote-ref role=doc-noteref>17</a></sup> This divide,
+however, should not be overemphasized. In fact, the recipe “For melting
+or transmuting a jewel put inside a box” (fol. 34v) uses Latin in a
+magical context<sup id=fnref:18><a href=#fn:18 class=footnote-ref role=doc-noteref>18</a></sup>: to perform the transmutation, one is supposed to
+say “<em>inhonorificabilitidinitatudinibus</em>” before performing the trick.
+Still, magic in this sense differs from the “Snakes” recipe: macaronic
+Latin is used in a sleight of hand to deceive the spectator into
+thinking that real magic is taking place. The fake and absurd Latin
+creates an effect of burlesque far from the sacredness of the
+paternoster prayer. Calling animals with their Greek names, on the
+contrary, implies supernatural powers, or rather ascribes to the
+animals’ nature what is usually regarded as the definition of humanity:
+language.</p><h2 id=italian-and-german-the-geography-of-artisanal-practices-in-early-modern-europe>Italian and German: the geography of artisanal practices in early modern Europe</h2><p>Italian and German are the only foreign languages in the manuscript.
+Their presence tells as much as the absence of others since it gives us
+a clue, in Carlo Ginzburg’s sense,<sup id=fnref:19><a href=#fn:19 class=footnote-ref role=doc-noteref>19</a></sup> of transnational circulation of
+artisanal knowledge at the time. Foreign languages were not taught at
+school in the sixteenth century and the author-practitioner, even if he
+had attended one, could only have been in contact with them through
+other craftspeople. While the absence of English should not be
+surprising, that of Flemish and Spanish must be questioned. Flanders was
+a major artistic and artisanal center in sixteenth-century Europe and
+several techniques described in the manuscript were also known in
+Flanders and the Netherlands. Spain, on the other hand, was at the
+height of its power under Philip II and had a growing influence on
+French domestic affairs during the final years of the Wars of Religion
+during the period the manuscript was written.<sup id=fnref:20><a href=#fn:20 class=footnote-ref role=doc-noteref>20</a></sup> It is even more
+curious since Toulouse is so close to Spain. While no general conclusion
+can be drawn from one single case, the fact that only Italian and German
+occur testifies to their primacy in crafts at the time.</p><p>The two languages differ widely in their variety and their uses in the
+manuscript. German occurs slightly more often than Italian: 7 vs. 5.
+However, German is only present in casting. In fact, out of 7
+occurrences, the word “Spalt” (sometimes spelled “Spat”) is responsible
+for 6. <em>Spalt</em> was a powdered earth used in casting. The other German
+occurrence is “<em>Stuf</em>” (fol. 118r), a limestone which the
+author-practitioner uses in a grotto recipe. Sofia Gans concludes from
+the frequency of the word “<em>Spalt</em>,” an earth sourced in Augsburg, that
+German was the center of European casting for the author-practitioner,
+rather than Italy, as is usually assumed for sixteenth-century Europe.</p><p>While there are fewer Italian occurrences in the manuscript and none
+related to casting, they are considerably longer in length and broader
+in scope, with the second largest number of words after Latin. The only
+recipe which has been directly retraced to another text also comes from
+an Italian background: “For making very beautiful color of gold & of
+little expense” (fol. 76v).<sup id=fnref:21><a href=#fn:21 class=footnote-ref role=doc-noteref>21</a></sup> It is borrowed from the French
+translation of Alessio Piemontese’s <em>Segreti</em>.</p><p>The first occurrence of Italian is simply a book title on the first
+folio. But one recipe, “Purpurine” (43r), is written entirely in
+Italian:</p><blockquote><p><em>℞ stagno dolce meza onca farlo fondere in un cochiaro depoi fonduto gectarly dentro una ℥ de ☿ mesedar insieme essendo freddo macinar supra il porfidio dapoi piglia una ℥ de sal armoniaco una ℥ de solfo del piu giallo que se possa troval macinar tutti duoi Et poi mesedar molto bene tutti gli matteriali sopradetti dapoi metter tutto insieme dentro un a pignatta sublimatorio di vetro tenerlo sopra picciol fuoco una hora & una hora un poco piu forte & una hora bonissimo fuoco Et sara fatto dapoi per adoper{ar}la datte il negro di resina con colla di pintori da pintar & per doi o tre volte fin a tanto che sia ben negro dapoi datte un poco di vernice Essendo secco datte a secco con ditto la purpurina dove vorrette tanto piu ne darette sara piu bello dapoi si volete datte vernice sopra</em>.</p></blockquote><p>The Italian is correct overall, although shaky at times and fraught with
+Hispanicisms: “meza” for “mezza,” “mesedar” for “mescolar” or
+“mischiar,” “que” for “che.”. The recipe was most probably copied or
+dictated to the author-practitioner, attesting to his acquaintance with
+Italian craftspeople whom he could have met in Toulouse or elsewhere.</p><p>The three remaining Italian occurrences can be grouped together as they
+share a common particularity: they are the only titles in the entire
+manuscript in a language other than French. As such, the Italian has
+been left intact in the English translation. These are “To fire a
+schioppo senza rumore” (fol. 55r), what we would call today a rifle
+silencer; and “Onenev elbirro hcihw sllik fi eno spets no a draob ro a
+ueirse purrits” (fol. 55r); and “A means di far correr lotnegra”
+(fol. 123r). The second and third of these only seem incomprehensible
+because their title must be read backwards, as follows: “Veneno orrible
+[another Hispanicism] which kills if one steps on a board or a
+stirrup” and “A means di far correr largento.” The use of backwards
+writing, although very easily readable as a code, nonetheless connotes
+the idea of secrecy: in the first case, because dealing with poison
+(“veneno,” or venom); in the second, because the technique is known by
+only a few goldsmiths and should remain such, or this is at least what
+the author-practitioner paradoxically writes while proceeding to reveal
+it (“This material should not be divulged, lest it be abused”). The
+author-practitioner here was probably interested in giving the
+impression of secrecy in order to appeal to his audience. It should not
+be taken too literally, since real secrets would not have been so easily
+divulged in print and would certainly have been encoded entirely,
+whereas here the title or parts of it only are written backwards. Why,
+then, choose to write in Italian to convey this idea? In late
+sixteenth-century France, Italy was associated with secret and artifice
+for many reasons. Italian influence on the arts and the royal court had
+been important for several generations, from the School of Fontainebleau
+during Francis I’s reign to the Italian courtesans surrounding the Queen
+Mother Catherine de’ Medici. Italophilia and Italophobia ran parallel
+and Italian influence became a political theme<sup id=fnref:22><a href=#fn:22 class=footnote-ref role=doc-noteref>22</a></sup>: Italians, and
+especially Florentines, were seen simultaneously as refined and
+mischievous (even evil), mostly due to Machiavelli’s notoriety, whose
+work, <em>The Prince</em>, was becoming a bestseller all around Europe at the
+end of the sixteenth century.<sup id=fnref:23><a href=#fn:23 class=footnote-ref role=doc-noteref>23</a></sup> While admired by some, most regarded
+him as the theorist of evil in politics, giving his name the aura it has
+retained today. Catholics put him on the Index of prohibited books, but
+Protestants nonetheless accused them of Machiavellism, which had become
+an insult, especially after the Saint Bartholomew Day Massacre in 1572.
+Italy was regarded as the country of artifice, secrecy, and conspiracy,
+and the author-practitioner played with this reputation in his
+manuscript.</p><h2 id=occitan-and-poitevin-linguistic-tools-of-experience>Occitan and Poitevin: linguistic tools of experience</h2><p>After Latin, Occitan and Poitevin are the most frequent non-French
+languages in Ms. Fr. 640. The literacy of the author-practitioner in
+these languages is harder to establish. On the one hand, they occur only
+in few words or expressions and present a low lexical diversity score
+(Fig. 3). However, all French people were at least bilingual in early
+modern France, even after the Villers-Cotterêts edict of 1539 which made
+French mandatory for every official, lay act. French became the dominant
+written language, but every region retained its own local idioms which
+were far more common in everyday life speech. As the identity and
+background of the author-practitioner remains obscure, we cannot know if
+he was a native speaker of Occitan, but the extent of Toulouse
+background he possesses allows us to make the hypothesis that he had at
+least solid notions of it. The choice of writing in French should thus
+be interpreted as an editorial choice as much as the consequence of his
+own literacy.</p><p>As far as the presence of Poitevin is concerned, we can assume that it
+came from the massive presence of Poitevin speakers in Toulouse.
+Poitevin was spoken roughly in a triangle area between Nantes in the
+North, Poitiers in the East, and Bordeaux in the South, not too far away
+from the Languedoc area of Toulouse. In French linguistics, it is
+considered a <em>langue d’oïl</em>, a Northern language, but takes some words
+from Occitan, which is a Southern <em>langue d’oc</em>.</p><p></p><p><em>Fig. 6. Tag count: Occitan in the manuscript</em><sup id=fnref:24><a href=#fn:24 class=footnote-ref role=doc-noteref>24</a></sup></p><p></p><p><em>Fig. 7. Tag count: Poitevin in the manuscript</em><sup id=fnref:25><a href=#fn:25 class=footnote-ref role=doc-noteref>25</a></sup></p><p>Fig. 6 shows that Occitan is strongly associated with casting (38.7%)
+and metal processes (18.37%), with high percentages as well of entries
+dealing with arms and armor (9.18%), household and daily life (7.14%),
+and cultivation (5.10%). Fig. 7 shows that Poitevin’s profile is
+similar, with strong connections to casting (41.1%), household and daily
+life (8.82%), and cultivation (5.88%). As regional idioms, they can be
+linked to a form of local, native knowledge. There are no book titles in
+these languages, rather, they serve mainly to indicate some common
+tools, animals, or materials with the names that probably sounded more
+natural to the author-practitioner and/or to his informants. Compared to
+Latin, these occurrences attest to the permanence of vernacular
+knowledge in vernacular languages against the process of Latinization
+that we observed earlier in this essay. In Occitan, the overwhelming
+term is “crusol,” (crucible), a tool involved in dozens of recipes in
+the manuscript and occurring 54 times. The same is true for Poitevin
+with the word “tourtelle” (“cake,” in a very broad sense), which occurs
+13 times. Here, the absence of complete sentences and the lack of
+linguistic diversity indicates that these terms come naturally to the
+author-practitioner. It allows him to give detailed, accurate accounts
+where the learned terms in Latin or French are missing or might be too
+vague and general.<sup id=fnref:26><a href=#fn:26 class=footnote-ref role=doc-noteref>26</a></sup></p><h2 id=conclusion-making-with-languages>Conclusion: Making with languages</h2><p>Although far from complete, this overview nonetheless reveals that the
+author-practitioner makes consistent and thoughtful use of the vast
+array of linguistic resources available to him in Renaissance France.
+Despite being a craftsman, he demonstrates a capacity to use various
+languages to achieve different goals. He exploits the possibilities of
+Latin as the language of knowledge and religion in his search for
+respectability, but also recurs to Greek as its occult and somehow
+mysterious pendant. The occurrences of German and Italian reveal his own
+involvement in transnational networks of crafts. To some extent, we can
+hypothesize that they are the traces left by wider circulations, which
+have been erased for the most part by translation and non-textual
+transmission. Occitan and Poitevin, finally, are very much associated
+with a handful of tools and materials: whether the author-practitioner
+himself originated from Toulouse or not, he needs the words of his
+professional environment to restitute his recipes and processes in the
+most accurate way.</p><p>This case study, as limited as it is, highlights two main aspects in the
+history of languages in sixteenth-century France. First, it confirms
+Paul Cohen’s thesis that France was a plurilingual country in which
+everybody made daily use of a surprising number of different languages.
+This does not mean that they were all equivalent; on the contrary, the
+hierarchy of languages and the struggle for linguistic respectability is
+essential in understanding linguistic practices, as Ms. Fr. 640 shows.
+Second, it widens the area of plurilingualism from cultural elites to
+other categories of society such as crafts practitioners, showing that
+Latin or foreign languages were not the exclusive domain of clerks and
+humanists. Even if they did not have the same linguistic training and
+capacities, practitioners such as the author of Ms. Fr. 640 were able to
+appropriate and use different languages according to their own strategic
+agendas.</p><h2 id=bibliography>Bibliography</h2><p>Austin, J. L. <em>How to Do Things with Words</em>. 2d ed. The William James Lectures 1955. Oxford: Clarendon Press, 1975.</p><p>Burke, Peter, and Roy Porter, eds. <em>The Social History of Language</em>. Cambridge Studies in Oral and Literate Culture 12. Cambridge; New York: Cambridge University Press, 1987.</p><p>Balsamo, Jean. <em>L’amorevolezza verso le cose Italiche: le livre italien à Paris au XVIe siècle</em>. De lingua et linguis, vol. 2. Genève: Librairie Droz, 2015.</p><p>Balsamo, Jean. <em>Les Rencontres Des Muses: Italianisme et Anti-Italianisme Dans Les Lettres Françaises de La Fin Du XVIe Siècle</em>. Bibliothèque Franco Simone 19. Genève: Editions Slatkine, 1992.</p><p>Balsamo, Jean, Vito Castiglione Minischetti, and Giovanni Dotoli. <em>Les traductions de l’italien en français au XVIe siècle</em>. Biblioteca della ricerca 2. Fasano (Italie) Paris: Schena Hermann, 2009.</p><p>Barwich, Ann-Sophie. “Sleight of Hand Tricks.” In <em>Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640</em>, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. <a href=https://edition640.makingandknowing.org/#/essays/ann_043_sp_16>https://edition640.makingandknowing.org/#/essays/ann_043_sp_16</a>. DOI: <a href=https://www.doi.org/10.7916/rfq6-0k88>https://www.doi.org/10.7916/rfq6-0k88</a></p><p>Bourdieu, Pierre. <em>Language and Symbolic Power</em>. Translated by John B. Thompson. Cambridge, Mass: Harvard University Press, 1991.</p><p>Brunet, Serge. “Philippe II et la Ligue parisienne (1588).” <em>Revue historique</em> 656, no. 4 (2010): 795–844.<a href=https://doi.org/10.3917/rhis.104.0795>https://doi.org/10.3917/rhis.104.0795</a>.</p><p>Chaillard, Dana. “My Work at the Making and Knowing Project,” 2020. <a href=https://cu-mkp.github.io/sandbox/docs/Chaillard_final-report.html>https://cu-mkp.github.io/sandbox/docs/Chaillard_final-report.html</a>.</p><p>Chartier, Roger, Pietro Corsi, and Centre Alexandre Koyré, eds.<em>Sciences et Langues En Europe</em>. Paris: Ecole des hautes études en sciences sociales, 1996.</p><p>Cohen, Paul. “Courtly French, Learned Latin, and Peasant Patois: The Making of a National Language in Early Modern France.” Ph.D., Princeton University, 2001. ProQuest Dissertations & Theses Global (230830091).</p><p>Ginzburg, Carlo. <em>Myths, Emblems, Clues</em>. London: Hutchinson Radius, 1990.</p><p>Godbarge, Clément. “The Manuscript Seen from Afar: A Computational Approach to Ms. Fr. 640.” In <em>Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640</em>, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. <a href=https://edition640.makingandknowing.org/#/essays/ann_301_ie_19>https://edition640.makingandknowing.org/#/essays/ann_301_ie_19</a>. DOI: <a href=https://www.doi.org/10.7916/nnyc-gd81>https://www.doi.org/10.7916/nnyc-gd81</a>.</p><p>Godbarge, Clément. “Visualizing Semantic Markup in BnF Ms. Fr. 640.” <em>Clément Godbarge</em> (blog), November 29, 2022. <a href=https://www.clementgodbarge.com/post/visualization/>https://www.clementgodbarge.com/post/visualization/</a>.</p><p>Kaufman, Roni. “My Work at the Making and Knowing Project,” 2020. <a href=https://cu-mkp.github.io/sandbox/docs/Kaufman_final-report.html>https://cu-mkp.github.io/sandbox/docs/Kaufman_final-report.html</a>.</p><p>Liu, Xiaomeng. “An Excellent Salve for Burns.” In <em>Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640</em>, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. <a href=https://edition640.makingandknowing.org/#/essays/ann_080_sp_17>https://edition640.makingandknowing.org/#/essays/ann_080_sp_17</a>. DOI: <a href=https://www.doi.org/10.7916/58dr-ns42>https://www.doi.org/10.7916/58dr-ns42</a>.</p><p>Mauss, Marcel. <em>A General Theory of Magic</em>. London, Boston: Routledge and K. Paul, 1972.</p><p>Nebolsin, Victoria. “Animal Rationality in Ms. Fr. 640.” <a href=https://cu-mkp.github.io/sandbox/docs/sp22_nebolsin_victoria_final-project_animal-rationality.html>https://cu-mkp.github.io/sandbox/docs/sp22_nebolsin_victoria_final-project_animal-rationality.html</a>.</p><p>Palframan, Jef and Emily Boyd. “For Making Very Beautiful Color of Gold.” In <em>Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640</em>, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. <a href=https://edition640.makingandknowing.org/#/essays/ann_507_ad_20>https://edition640.makingandknowing.org/#/essays/ann_507_ad_20</a>.</p><p>Picot, Emile. <em>Les Italiens En France Au XVIe Siècle</em>. Memoria Bibliografica 25. Manziana (Roma): Vecchiarelli editore, 1995.</p><p>Rosenkranz, Naomi. “Understanding and Analyzing the Categories of the Entries in BnF Ms. Fr. 640,” 2021. <a href=https://cu-mkp.github.io/sandbox/docs/categories.html>https://cu-mkp.github.io/sandbox/docs/categories.html</a>.</p><p>Smith, Marc. “Making Ms. Fr. 640.” In <em>Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640</em>, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. <a href=https://edition640.makingandknowing.org/#/essays/ann_326_ie_19_msmith_making-ms>https://edition640.makingandknowing.org/#/essays/ann_326_ie_19_msmith_making-ms</a>.</p><p>Smith, Pamela H. <em>From Lived Experience to the Written Word: Reconstructing Practical Knowledge in the Early Modern World</em>. Chicago: University of Chicago Press, 2022.</p><p>Soll, Jacob. “The Reception of The Prince 1513–1700, or Why We Understand Machiavelli the Way We Do.” <em>Social Research</em> 81, no. 1 (2014): 31–60.</p><p>Taape, Tillmann. “‘Experience Will Teach You’: Recording, Testing, Knowing, and the Language of Experience in Ms. Fr. 640,” In <em>Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640</em>, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. <a href=https://edition640.makingandknowing.org/#/essays/ann_303_ie_19>https://edition640.makingandknowing.org/#/essays/ann_303_ie_19</a>. DOI: <a href=https://www.doi.org/10.7916/njnq-6q58>https://www.doi.org/10.7916/njnq-6q58</a>.</p><p>Tavares, Jonathan. “Arms and Armor in Ms. Fr. 640.” In <em>Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640</em>, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. <a href=https://edition640.makingandknowing.org/#/essays/ann_308_ie_19>https://edition640.makingandknowing.org/#/essays/ann_308_ie_19</a>. DOI: <a href=https://www.doi.org/10.7916/9rye-d152>https://www.doi.org/10.7916/9rye-d152</a>.</p><p>Waquet, Françoise. <em>Latin, or, The Empire of the Sign: From the Sixteenth to the Twentieth Century</em>. London; New York: Verso, 2001.</p><div class=footnotes role=doc-endnotes><hr><ol><li id=fn:1><p>Pamela H. Smith, <em>From Lived Experience to the Written Word: Reconstructing Practical Knowledge in the Early Modern World</em> (Chicago: University of Chicago Press, 2022).&#160;<a href=#fnref:1 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:2><p>Paul Cohen, “Courtly French, Learned Latin, and Peasant Patois: The Making of a National Language in Early Modern France” (Ph.D., Princeton University, 2001), ProQuest Dissertations & Theses Global (230830091).&#160;<a href=#fnref:2 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:3><p>Pierre Bourdieu, <em>Language and Symbolic Power</em>, trans. John B. Thompson (Cambridge, Mass: Harvard University Press, 1991).&#160;<a href=#fnref:3 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:4><p>Peter Burke and Roy Porter, eds., <em>The Social History of Language</em>, Cambridge Studies in Oral and Literate Culture 12 (Cambridge [Cambridgeshire]; New York: Cambridge University Press, 1987).&#160;<a href=#fnref:4 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:5><p>Roger Chartier, Pietro Corsi, and Centre Alexandre Koyré, eds., <em>Sciences et Langues En Europe</em> (Paris: Ecole des hautes études en sciences sociales, 1996).&#160;<a href=#fnref:5 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:6><p>Marc Smith, “Making Ms. Fr. 640,” in <em>Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640</em>, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano (New York: Making and Knowing Project, 2020), <a href=https://edition640.makingandknowing.org/#/essays/ann_326_ie_19_msmith_making-ms>https://edition640.makingandknowing.org/#/essays/ann_326_ie_19_msmith_making-ms</a>.&#160;<a href=#fnref:6 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:7><p>Dana Chaillard, “My Work at the Making and Knowing Project,” 2020, <a href=https://cu-mkp.github.io/sandbox/docs/Chaillard_final-report.html>https://cu-mkp.github.io/sandbox/docs/Chaillard_final-report.html</a>; Clément Godbarge, “The Manuscript Seen from Afar: A Computational Approach to Ms. Fr. 640,” in <em>Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640</em>, edited by Making and Knowing Project et al., <a href=https://edition640.makingandknowing.org/#/essays/ann_301_ie_19>https://edition640.makingandknowing.org/#/essays/ann_301_ie_19</a>. DOI: <a href=https://www.doi.org/10.7916/nnyc-gd81>https://www.doi.org/10.7916/nnyc-gd81</a>; Clément Godbarge, “Visualizing Semantic Markup in BnF Ms. Fr. 640,” <em>Clément Godbarge</em> (blog), November 29, 2022, <a href=https://www.clementgodbarge.com/post/visualization/>https://www.clementgodbarge.com/post/visualization/</a>; Roni Kaufman, “My Work at the Making and Knowing Project,” 2020, <a href=https://cu-mkp.github.io/sandbox/docs/Kaufman_final-report.html>https://cu-mkp.github.io/sandbox/docs/Kaufman_final-report.html</a>.&#160;<a href=#fnref:7 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:8><p>Jonathan Tavares, “Arms and Armor in Ms. Fr. 640, in <em>Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640</em>, edited by Making and Knowing Project et al., <a href=https://edition640.makingandknowing.org/#/essays/ann_308_ie_19>https://edition640.makingandknowing.org/#/essays/ann_308_ie_19</a>. DOI: <a href=https://www.doi.org/10.7916/9rye-d152>https://www.doi.org/10.7916/9rye-d152</a>.&#160;<a href=#fnref:8 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:9><p>Naomi Rosenkranz, “Understanding and Analyzing the Categories of the Entries in BnF Ms. Fr. 640,” 2021, <a href=https://cu-mkp.github.io/sandbox/docs/categories.html>https://cu-mkp.github.io/sandbox/docs/categories.html</a>.&#160;<a href=#fnref:9 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:10><p>Kaufman, “My Work at the Making and Knowing Project, <a href=https://cu-mkp.github.io/sandbox/docs/Kaufman_final-report.html>https://cu-mkp.github.io/sandbox/docs/Kaufman_final-report.html</a>.&#160;<a href=#fnref:10 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:11><p>Smith, “Making Ms. Fr. 640,” <a href=https://edition640.makingandknowing.org/#/essays/ann_326_ie_19_msmith_making-ms>https://edition640.makingandknowing.org/#/essays/ann_326_ie_19_msmith_making-ms</a>.&#160;<a href=#fnref:11 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:12><p>The translation for most of these terms can be found in the Glossary of <em>Secrets of Craft and Nature</em>: <a href=https://edition640.makingandknowing.org/#/folios/1r/f/1r/glossary>https://edition640.makingandknowing.org/#/folios/1r/f/1r/glossary</a>.&#160;<a href=#fnref:12 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:13><p>Françoise Waquet, <em>Latin, or, The Empire of the Sign: From the Sixteenth to the Twentieth Century</em> (London;  New York: Verso, 2001).&#160;<a href=#fnref:13 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:14><p>Victoria Nebolsin, “Animal Rationality in Ms. Fr. 640,” <a href=https://cu-mkp.github.io/sandbox/docs/sp22_nebolsin_victoria_final-project_animal-rationality.html>https://cu-mkp.github.io/sandbox/docs/sp22_nebolsin_victoria_final-project_animal-rationality.html</a>.&#160;<a href=#fnref:14 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:15><p>Xiaomeng Liu, “An Excellent Salve for Burns,” in <em>Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640</em>, edited by Making and Knowing Project et al., <a href=https://edition640.makingandknowing.org/#/essays/ann_080_sp_17>https://edition640.makingandknowing.org/#/essays/ann_080_sp_17</a>. DOI: <a href=https://www.doi.org/10.7916/58dr-ns42>https://www.doi.org/10.7916/58dr-ns42</a>.&#160;<a href=#fnref:15 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:16><p>J. L. Austin, <em>How to Do Things with Words</em>, 2d ed., The William James Lectures 1955 (Oxford: Clarendon Press, 1975).&#160;<a href=#fnref:16 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:17><p>Marcel Mauss, <em>A General Theory of Magic</em> (London; Boston: Routledge and K. Paul, 1972).&#160;<a href=#fnref:17 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:18><p>On tricks in Ms. Fr. 640, see Ann-Sophie Barwich, “Sleight of Hand Tricks,” in <em>Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640</em>, edited by Making and Knowing Project et al., <a href=https://edition640.makingandknowing.org/#/essays/ann_043_sp_16>https://edition640.makingandknowing.org/#/essays/ann_043_sp_16</a>. DOI: <a href=https://www.doi.org/10.7916/rfq6-0k88>https://www.doi.org/10.7916/rfq6-0k88</a>.&#160;<a href=#fnref:18 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:19><p>Carlo Ginzburg, <em>Myths, Emblems, Clues</em> (London: Hutchinson Radius, 1990).&#160;<a href=#fnref:19 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:20><p>Serge Brunet, “Philippe II et la Ligue parisienne (1588),” <em>Revue historique</em> 656, no. 4 (2010): 795–844, <a href=https://doi.org/10.3917/rhis.104.0795>https://doi.org/10.3917/rhis.104.0795</a>.&#160;<a href=#fnref:20 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:21><p>Jef Palframan and Emily Boyd, “For Making Very Beautiful Color of Gold,” in <em>Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640</em>, edited by Making and Knowing Project et al., <a href=https://edition640.makingandknowing.org/#/essays/ann_507_ad_20>https://edition640.makingandknowing.org/#/essays/ann_507_ad_20</a>.&#160;<a href=#fnref:21 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:22><p>On this topic, see Jean Balsamo, <em>Les Rencontres Des Muses: Italianisme et Anti-Italianisme Dans Les Lettres Françaises de La Fin Du XVIe Siècle</em>, Bibliothèque Franco Simone 19 (Genève: Editions Slatkine, 1992); Jean Balsamo, <em>L’amorevolezza verso le cose Italiche: le livre italien à Paris au XVIe siècle</em>, De lingua et linguis, vol. 2 (Genève: Librairie Droz, 2015); Jean Balsamo, Vito Castiglione Minischetti, and Giovanni Dotoli, <em>Les traductions de l’italien en français au XVIe siècle</em>, Biblioteca della ricerca 2 (Fasano (Italie) Paris: Schena Hermann, 2009); Emile Picot, <em>Les Italiens En France Au XVIe Siècle</em>, Memoria Bibliografica 25 (Manziana [Roma]: Vecchiarelli editore, 1995).&#160;<a href=#fnref:22 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:23><p>Jacob Soll, “The Reception of The Prince 1513–1700, or Why We Understand Machiavelli the Way We Do,” <em>Social Research</em> 81, no. 1 (2014): 31–60. Shakespeare’s plays such as <em>Henry VI</em> or <em>The Merry Wives of Windsor</em> testify to a similar twist in Machiavelli’s reception in English culture at the end of the sixteenth century.&#160;<a href=#fnref:23 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:24><p>Kaufman, “My Work at the Making and Knowing Project,” <a href=https://cu-mkp.github.io/sandbox/docs/Kaufman_final-report.html>https://cu-mkp.github.io/sandbox/docs/Kaufman_final-report.html</a>.&#160;<a href=#fnref:24 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:25><p>Kaufman, “My Work at the Making and Knowing Project,” <a href=https://cu-mkp.github.io/sandbox/docs/Kaufman_final-report.html>https://cu-mkp.github.io/sandbox/docs/Kaufman_final-report.html</a>.&#160;<a href=#fnref:25 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:26><p>On writing down experience in Ms. Fr. 640, see Tillmann Taape,“&lsquo;Experience Will Teach You&rsquo;: Recording, Testing, Knowing, and the Language of Experience in Ms. Fr. 640.” In <em>Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640</em>, edited by Making and Knowing Project et al., <a href=https://edition640.makingandknowing.org/#/essays/ann_303_ie_19>https://edition640.makingandknowing.org/#/essays/ann_303_ie_19</a>. DOI: <a href=https://www.doi.org/10.7916/njnq-6q58>https://www.doi.org/10.7916/njnq-6q58</a>.&#160;<a href=#fnref:26 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li></ol></div></content></div><p></p></main><footer><div class=top><div class=copyright><p><a class=symbols target=_blank href=https://creativecommons.org/licenses/by-nc-sa/4.0/><svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="5.5 -3.5 64 64"><circle fill="transparent" cx="37.785" cy="28.501" r="28.836"/><path fill="#fff" d="M37.441-3.5c8.951.0 16.572 3.125 22.857 9.372 3.008 3.009 5.295 6.448 6.857 10.314 1.561 3.867 2.344 7.971 2.344 12.314.0 4.381-.773 8.486-2.314 12.313-1.543 3.828-3.82 7.21-6.828 10.143-3.123 3.085-6.666 5.448-10.629 7.086-3.961 1.638-8.057 2.457-12.285 2.457s-8.276-.808-12.143-2.429c-3.866-1.618-7.333-3.961-10.4-7.027-3.067-3.066-5.4-6.524-7-10.372S5.5 32.767 5.5 28.5c0-4.229.809-8.295 2.428-12.2 1.619-3.905 3.972-7.4 7.057-10.486C21.08-.394 28.565-3.5 37.441-3.5zm.116 5.772c-7.314.0-13.467 2.553-18.458 7.657-2.515 2.553-4.448 5.419-5.8 8.6a25.204 25.204.0 00-2.029 9.972c0 3.429.675 6.734 2.029 9.913 1.353 3.183 3.285 6.021 5.8 8.516 2.514 2.496 5.351 4.399 8.515 5.715a25.652 25.652.0 009.943 1.971c3.428.0 6.75-.665 9.973-1.999 3.219-1.335 6.121-3.257 8.713-5.771 4.99-4.876 7.484-10.99 7.484-18.344.0-3.543-.648-6.895-1.943-10.057-1.293-3.162-3.18-5.98-5.654-8.458-5.146-5.143-11.335-7.715-18.573-7.715zm-.401 20.915-4.287 2.229c-.458-.951-1.019-1.619-1.685-2-.667-.38-1.286-.571-1.858-.571-2.856.0-4.286 1.885-4.286 5.657.0 1.714.362 3.084 1.085 4.113.724 1.029 1.791 1.544 3.201 1.544 1.867.0 3.181-.915 3.944-2.743l3.942 2c-.838 1.563-2 2.791-3.486 3.686-1.484.896-3.123 1.343-4.914 1.343-2.857.0-5.163-.875-6.915-2.629-1.752-1.752-2.628-4.19-2.628-7.313.0-3.048.886-5.466 2.657-7.257 1.771-1.79 4.009-2.686 6.715-2.686 3.963-.002 6.8 1.541 8.515 4.627zm18.457.0-4.229 2.229c-.457-.951-1.02-1.619-1.686-2-.668-.38-1.307-.571-1.914-.571-2.857.0-4.287 1.885-4.287 5.657.0 1.714.363 3.084 1.086 4.113s1.789 1.544 3.201 1.544c1.865.0 3.18-.915 3.941-2.743l4 2c-.875 1.563-2.057 2.791-3.541 3.686a9.233 9.233.0 01-4.857 1.343c-2.896.0-5.209-.875-6.941-2.629-1.736-1.752-2.602-4.19-2.602-7.313.0-3.048.885-5.466 2.658-7.257 1.77-1.79 4.008-2.686 6.713-2.686 3.962-.002 6.783 1.541 8.458 4.627z"/></svg> <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="5.5 -3.5 64 64"><circle fill="transparent" cx="37.637" cy="28.806" r="28.276"/><path fill="#fff" d="M37.443-3.5c8.988.0 16.57 3.085 22.742 9.257C66.393 11.967 69.5 19.548 69.5 28.5c0 8.991-3.049 16.476-9.145 22.456-6.476 6.363-14.113 9.544-22.912 9.544-8.649.0-16.153-3.144-22.514-9.43C8.644 44.784 5.5 37.262 5.5 28.5c0-8.761 3.144-16.342 9.429-22.742C21.101-.415 28.604-3.5 37.443-3.5zm.114 5.772c-7.276.0-13.428 2.553-18.457 7.657-5.22 5.334-7.829 11.525-7.829 18.572.0 7.086 2.59 13.22 7.77 18.398 5.181 5.182 11.352 7.771 18.514 7.771 7.123.0 13.334-2.607 18.629-7.828 5.029-4.838 7.543-10.952 7.543-18.343.0-7.276-2.553-13.465-7.656-18.571-5.104-5.104-11.276-7.656-18.514-7.656zm8.572 18.285v13.085h-3.656v15.542h-9.944V33.643h-3.656V20.557c0-.572.2-1.057.599-1.457.401-.399.887-.6 1.457-.6h13.144c.533.0 1.01.2 1.428.6.417.4.628.886.628 1.457zm-13.087-8.228c0-3.008 1.485-4.514 4.458-4.514s4.457 1.504 4.457 4.514c0 2.971-1.486 4.457-4.457 4.457s-4.458-1.486-4.458-4.457z"/></svg> <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="5.5 -3.5 64 64"><circle fill="transparent" cx="37.47" cy="28.736" r="29.471"/><path fill="#fff" d="M37.442-3.5c8.99.0 16.571 3.085 22.743 9.256C66.393 11.928 69.5 19.509 69.5 28.5c0 8.992-3.048 16.476-9.145 22.458C53.88 57.32 46.241 60.5 37.442 60.5c-8.686.0-16.19-3.162-22.513-9.485C8.644 44.728 5.5 37.225 5.5 28.5c0-8.762 3.144-16.343 9.429-22.743C21.1-.414 28.604-3.5 37.442-3.5zM12.7 19.872c-.952 2.628-1.429 5.505-1.429 8.629.0 7.086 2.59 13.22 7.77 18.4 5.219 5.144 11.391 7.715 18.514 7.715 7.201.0 13.409-2.608 18.63-7.829 1.867-1.79 3.332-3.657 4.398-5.602l-12.056-5.371c-.421 2.02-1.439 3.667-3.057 4.942-1.622 1.276-3.535 2.011-5.744 2.2v4.915h-3.714v-4.915c-3.543-.036-6.782-1.312-9.714-3.827l4.4-4.457c2.094 1.942 4.476 2.913 7.143 2.913 1.104.0 2.048-.246 2.83-.743.78-.494 1.172-1.312 1.172-2.457.0-.801-.287-1.448-.858-1.943L37.9 31.127l-3.771-1.715-5.086-2.229L12.7 19.872zM37.557 2.214c-7.276.0-13.428 2.571-18.457 7.714a30.623 30.623.0 00-3.543 4.287L27.786 19.7c.533-1.676 1.542-3.019 3.029-4.028 1.484-1.009 3.218-1.571 5.2-1.686V9.071h3.715v4.915c2.934.153 5.6 1.143 8 2.971l-4.172 4.286c-1.793-1.257-3.619-1.885-5.486-1.885-.991.0-1.876.191-2.656.571-.781.381-1.172 1.029-1.172 1.943.0.267.095.533.285.8l4.057 1.83 2.8 1.257 5.144 2.285 16.397 7.314a29.51 29.51.0 00.801-6.857c0-7.353-2.552-13.543-7.656-18.573-5.067-5.143-11.241-7.714-18.515-7.714z"/></svg> <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="5.5 -3.5 64 64"><circle fill="transparent" cx="36.944" cy="28.631" r="29.105"/><path fill="#fff" d="M37.443-3.5c8.951.0 16.531 3.105 22.742 9.315C66.393 11.987 69.5 19.548 69.5 28.5c0 8.954-3.049 16.457-9.145 22.514-6.437 6.324-14.076 9.486-22.912 9.486-8.649.0-16.153-3.143-22.514-9.429C8.644 44.786 5.5 37.264 5.5 28.501c0-8.723 3.144-16.285 9.429-22.685C21.138-.395 28.643-3.5 37.443-3.5zm.114 5.772c-7.276.0-13.428 2.572-18.457 7.715-5.22 5.296-7.829 11.467-7.829 18.513.0 7.125 2.59 13.257 7.77 18.4 5.181 5.182 11.352 7.771 18.514 7.771 7.123.0 13.334-2.609 18.629-7.828 5.029-4.876 7.543-10.99 7.543-18.343.0-7.313-2.553-13.485-7.656-18.513-5.067-5.145-11.239-7.715-18.514-7.715zM23.271 23.985c.609-3.924 2.189-6.962 4.742-9.114 2.552-2.152 5.656-3.228 9.314-3.228 5.027.0 9.029 1.62 12 4.856 2.971 3.238 4.457 7.391 4.457 12.457.0 4.915-1.543 9-4.627 12.256-3.088 3.256-7.086 4.886-12.002 4.886-3.619.0-6.743-1.085-9.371-3.257-2.629-2.172-4.209-5.257-4.743-9.257H31.1c.19 3.886 2.533 5.829 7.029 5.829 2.246.0 4.057-.972 5.428-2.914 1.373-1.942 2.059-4.534 2.059-7.771.0-3.391-.629-5.971-1.885-7.743-1.258-1.771-3.066-2.657-5.43-2.657-4.268.0-6.667 1.885-7.2 5.656h2.343l-6.342 6.343-6.343-6.343 2.512.001z"/></svg>
+</a>Making and Knowing Project.</p></div><p>Licensed under <a target=_blank href=https://creativecommons.org/licenses/by-nc-sa/4.0/>CC BY-NC-SA
+4.0</a></p></div><div class=logos><img alt="Columbia Logo" src=https://cu-mkp.github.io/research-teaching-companion//img/logo_columbia.png style=margin-bottom:14px;margin-right:10px><img alt="Center Logo" src=https://cu-mkp.github.io/research-teaching-companion//img/logo_center_multi_line.png></div><div class=footer-links><a target=_blank rel="noopener noreferrer" href=https://cuit.columbia.edu/privacy-notice>Privacy Notice</a>
+<span>| </span><a target=_blank rel="noopener noreferrer" href=http://health.columbia.edu/disability-services>Disability Services</a>
+<span>| </span><a target=_blank rel="noopener noreferrer" href=http://eoaa.columbia.edu/columbia-university-non-discrimination-statement-and-policy>Non-Discrimination</a></div></footer></body></html>
