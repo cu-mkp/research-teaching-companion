@@ -9,13 +9,15 @@ weight: 30
 
 ## The Companion
 
-TEST TEST TEST
-
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+The syllabi, step-by-step lesson plans, and sample student projects included in this Companion to the digital edition *[Secrets of Craft and Nature in Renaissance France]* (https://edition640.makingandknowing.org/#/) result from our many years of teaching and learning during the Making and Knowing Project’s construction of *Secrets of Craft and Nature*, and since its publication in 2020, when we transitioned to courses that incorporated hands-on experiences and exploration of the digital edition. Where students in the course *Craft and Science: Making Objects in the Early Modern World*, taught 2014-18, conducted text-, object-, and laboratory-based research that resulted in essays included in the edition, our students in *Making and Knowing in Early Modern Europe: Hands-On History*, taught since 2021, have explored *Secrets of Craft and Nature* to create projects–involving all kinds of research–that extend the content of the edition in creative and sometimes surprising ways. Our syllabi for courses that integrated methods and tools of digital scholarship provide information about minimal computing and the open access technology that underlie the edition and our digital publication tool, *EditionCrafter*.
 
 ## The Edition
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+*[Secrets of Craft and Nature in Renaissance France]* (https://edition640.makingandknowing.org/#/) is a digital critical edition and English translation of the French manuscript Ms. Fr. 640 held by the Bibliothèque nationale de France. This edition presents a rich and unique sixteenth-century technical text in French transcription and English translation for the first time, and situates its contents in their material and historical context.
+
+The manuscript provides insights into the material, technical, and intellectual world of the late sixteenth century, and brings a better understanding of how and why nature was investigated, used in art, and collected and appreciated in early modern Europe.
+
+The Making and Knowing Project created *Secrets of Craft and Nature* through a series of collaborative workshops, courses, and conferences that involved students, craft practitioners, artists, scholars of the humanities and social sciences, natural and computer scientists, and scholar-practitioners from the emerging field of the digital humanities.
 
 ## The Making and Knowing Project
 
