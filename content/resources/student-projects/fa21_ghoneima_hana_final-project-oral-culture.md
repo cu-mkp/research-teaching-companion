@@ -78,7 +78,7 @@ word “said” was used 198 times, of which 8.6% (n=17) specifically
 reference something which another person said (*Fig. 2*). However, there
 were no instances of this with the words “hear” and “heard.”
 
-<img src="./media-ghoneima/image5.png" style="width:6.11351in;height:3.77in" alt="Chart" />
+![Fig 1](/images/media-ghoneima/image5.png)
 
 *Fig 1*. Percentage of entries using the word “say” which reference oral
 transmission (‘*yes’*) versus those which do not (‘*no’*).
