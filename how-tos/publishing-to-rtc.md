@@ -78,13 +78,13 @@ e.g., `casestudy_sp22_nielson_christina_arth-295-ingenious-making.md`
 
 Webpage: `activitysheet_[date]_[lastname]_[firstname]_[brief title or desription of activity].[file extension]`
 
-e.g., `project_sp22_azurite-preparation.md`
+e.g., `activitysheet_sp22_azurite-preparation.md`
 
 #### 4. Project
 
 Webpage: `project_[date]_[lastname]_[firstname]_[brief title or keywords].[file extension]`
 
-e.g., `activity_sp22_nebolsin_victoria_animal-rationality.md`
+e.g., `project_sp22_nebolsin_victoria_animal-rationality.md`
 
 #### 5. Reflection
 
