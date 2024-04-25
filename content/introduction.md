@@ -1,9 +1,11 @@
 ---
-title: "Introduction to Making and Knowing Project Research and Teaching Resources"
+title: "Introduction"
 draft: false
 menu: "main"
 weight: 10
 ---
+
+# Making and Knowing Project Research and Teaching Resources
 
 ## Research and Teaching Companion
 
