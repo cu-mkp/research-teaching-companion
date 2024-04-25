@@ -13,9 +13,10 @@ The Research and Teaching Companion to digital edition [*Secrets of Craft and Na
 [DESCRIBE EACH OF THE RESOURCES. Also include this description at the top of each Resource page
 ### Making and Knowing Syllabi [LINK],
 ### Lesson Plans for Hands-on [LINK]
-### Using M&K Resources [LINK]. Courses taught by collaborators using Making and Knowing Project teaching resources
+### Using M&K Resources [LINK]. 
+Courses taught by collaborators using Making and Knowing Project teaching resources
 ### Digital Fr. 640 [LINK]
-### Reflections or REFLECTING?? on Hands-On [LINK]
+### Reflections on Hands-On [LINK]
 
 ## The Edition
 
