@@ -83,7 +83,7 @@ were no instances of this with the words “hear” and “heard.”
 *Fig 1*. Percentage of entries using the word “say” which reference oral
 transmission (‘*yes’*) versus those which do not (‘*no’*).
 
-<img src="./media-ghoneima/image6.png" style="width:6.10332in;height:3.77in" alt="Chart" />
+![Fig 2](/images/media-ghoneima/image6.png) style="width:6.10332in;height:3.77in" alt="Chart"
 
 *Fig 2*. Percentage of entries using the word “said” which reference
 oral transmission (‘*yes’*) versus those which do not (‘*no’*).
