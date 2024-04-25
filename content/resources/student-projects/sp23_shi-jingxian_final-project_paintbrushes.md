@@ -18,7 +18,9 @@ There were many ways of making brushes in both Europe and China. In “Paintbrus
 
 A similar situation could be found in China. By the fifteenth century, artists and calligraphers were purchasing ready made brushes from esteemed brush-making artisans, such as Feng Yingke and Lu Wenbao from Huzhou, a city in Zhejiang province.[^13] Brands of ready made brushes emerged and were designated based on the locations where the brushes were made, such as “Hubi” (brushes made in Huzhou) and “Xuanbi” (brushes made in Xuanzhou from Anhui province). Besides directly purchasing ready made brushes, Chinese brush-users also made their own brushes. Calligrapher Wang Xizhi provided detailed descriptions about collecting and processing rabbit hairs in his work *Brush Classic*, showcasing his knowledge in brush-making materials. Toward the end of *Brush Classic*, he emphasized, “I once tried to make brushes on my own, and those are functional.”[^14] In addition to this quote which directly stated a case of self-made brushes, given the relative easy access to brush-making materials such as bamboos,[^15] rabbit and goat furs,[^16] it was feasible for individuals to craft their own brushes.[^17] Another instance of individually made brushes can be inferred from the “Ode to the brush” by Cai Yong, an official of the Eastern Han dynasty.[^18] This tradition of self-making could have originated as early as the second century in China.
 
-<img src="./static/images/media-shi/image1.png" style="width:2.80839in;height:4.67328in" /> <img src="./static/images/media-shi/image2.png" style="width:3.54972in;height:2.86739in" />
+![stucco-molded](/images/stucco-molded.jpg)
+
+<img src="./images/media-shi/image1.png" style="width:2.80839in;height:4.67328in" /> <img src="./images/media-shi/image2.png" style="width:3.54972in;height:2.86739in" />
 
 *Figure 1. “St. Luke drawing the Virgin,” attributed to Hugo van der Goes, fifteenth century. MNAA National Museum of Ancient Art, Lisbon, Portugal.*
 
