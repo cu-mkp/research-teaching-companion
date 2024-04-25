@@ -82,10 +82,11 @@ e.g., `activitysheet_sp22_azurite-preparation.md`
 
 #### 4. Project -- THESE ARE NAMED DIFFERENTLY TO ANYTHING ELSE
 
-Webpage: `[semester+year]_[last name]_[first name]_final-project_[short descriptive title].md
+Leave these with their current names
 
-example:
-sp22_nebolsin_victoria_final-project_animal-rationality.md
+Webpage: `[semester+year]_[last name]_[first name]_final-project_[short descriptive title].md`
+
+e.g,: sp22_nebolsin_victoria_final-project_animal-rationality.md
 
 #### 5. Reflection
 
