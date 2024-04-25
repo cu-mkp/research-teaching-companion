@@ -181,6 +181,43 @@ To achieve the RTC structure, there is a rule in place that these pages will onl
 
 In other words, only the "Resources" page currently matches that description. A developer may change this rule in the file `themes/rtc/layouts/_default/list.html`.
 
+# Markdown cheatsheet
+
+See also [M&K's introduction to Github and Markdown](/intro-to-github.md)
+Markdown is the language used throughout Github and, as its name suggests, is a simplified markup language that allows you to style and format text and media, which converts readily to html, but is much easier to pick up and write with. See [Basic writing and formatting syntax in Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for details about how to format text (e.g., bold, italics, lists, headers, etc). See also [Programming Historian's Markdown Guide](https://programminghistorian.org/en/lessons/getting-started-with-markdown).
+
+## Some often-used formatting
+
+**Bold** = `**Bold**`
+
+*Italics* = `*Italics*` or `_Italics_`
+
+`code` = \` code \` [add a back-tick before and after]
+
+> quotes or blockquotes
+
+= `> quotes or blockquotes`
+
+[Links](https://github.com/cu-mkp/research-teaching-companion) = `[Links](https://github.com/cu-mkp/research-teaching-companion)`
+
+![image](https://github.com/cu-mkp/research-teaching-companion/assets/14779727/ab652440-8023-4085-9f66-d54a2bedfa93) = `![image](https://github.com/cu-mkp/research-teaching-companion/assets/14779727/176047d7-8b58-4ca6-8b87-1ccbabd2de48)` Or you can use html styling, `<img src="./images/image7.png" alt="A black and white drawing of a person holding a vase" />`
+
+
+Headings:
+- `#` indicates a header. Add additional `#` to create nested headings
+- For example:
+
+# Heading 1
+## Heading 2
+### Heading 3
+
+This is styled as
+```
+# Heading 1
+## Heading 2
+### Heading 3
+```
+
 
 
 < -- WE NEED TO WORK ON THIS -- >
