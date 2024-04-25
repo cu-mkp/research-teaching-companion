@@ -129,20 +129,14 @@ After the front matter, the rest of the page must be formatted as Goldmark-flavo
 
 Headings of levels `## Two` and `### Three` will populate the table of contents on the left side of each document. Headings of level two will also have a thin horizontal rule beneath them.
 
-### Internal links
+### Links
 
-To link to other pages on the site, use the `ref` tag surrounded by double brackets; to link to external links, use typical Markdown link syntax.
-
-For an example using both internal and external links:
-
-```markdown
-Similar to M&K's [Fieldnotes](https://fieldnotes.makingandknowing.org/), these
-portfolios document the students' hands-on activities, which included
-[Stucco for Molding]({{<ref "stucco-assignment" >}}), "Keeping Dry Flowers
-in the Same State all Year" from the bottom of [folio 120v in BnF Ms. Fr. 640](https://edition640.makingandknowing.org/#/folios/120v/f/120v/tl),
-and making and painting [cochineal lake]({{<ref "pigment-cochineal-lake_assignment" >}})
-and [verdigris]({{<ref "verdigris-assignment" >}}) pigments.
-```
+- To link to other pages on the site, use the `ref` tag surrounded by double brackets
+     - `[`*Text you would like to link*`]({{<ref "`*name of file*`" >}})` 
+     - e.g., `[Stucco for Molding Assignment Sheet]({{<ref "activity_sp22_azurite-preparation" >}})`
+- To link to external links, use typical Markdown link syntax
+     - `[`*Text you would like to link*`](`*URL*)` 
+     - e.g., `[folio 120v in BnF Ms. Fr. 640](https://edition640.makingandknowing.org/#/folios/120v/f/120v/tl)`
 
 Note that you do not need to give the entire path for `ref` tags, unless there are multiple Markdown files with the same name. You also do not need to include the `.md`. All of the following will work, but the first is much simpler!
 
@@ -154,7 +148,7 @@ Note that you do not need to give the entire path for `ref` tags, unless there a
 
 For more information about internal links, see the Hugo documentation on [Links and Cross References](https://gohugo.io/content-management/cross-references/).
 
-### Including external URLs (from NJR & THC about sustainability)
+#### Including external URLs (from NJR & THC about sustainability)
 Whenever we include links to external resources, we need to consider whether those URLs and resources meet our plans for digital sustainability.
 - If possible, use a persistent identifier such as a DOI or "permanent URL."
 - If possible, if the resource is also stored in a digital repository (e.g., Academic Commons, JSTOR, Internet Archive), cite that location for the resource.
