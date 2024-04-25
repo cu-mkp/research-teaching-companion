@@ -80,11 +80,12 @@ Webpage: `activitysheet_[date]_[lastname]_[firstname]_[brief title or desription
 
 e.g., `activitysheet_sp22_azurite-preparation.md`
 
-#### 4. Project
+#### 4. Project -- THESE ARE NAMED DIFFERENTLY TO ANYTHING ELSE
 
-Webpage: `project_[date]_[lastname]_[firstname]_[brief title or keywords].[file extension]`
+Webpage: `[semester+year]_[last name]_[first name]_final-project_[short descriptive title].md
 
-e.g., `project_sp22_nebolsin_victoria_animal-rationality.md`
+example:
+sp22_nebolsin_victoria_final-project_animal-rationality.md
 
 #### 5. Reflection
 
