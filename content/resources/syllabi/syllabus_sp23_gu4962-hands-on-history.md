@@ -1,45 +1,19 @@
 ![IMAGE](/images/media-syllabus-sp23-mk/image1.png)
 
 **HIST GU4962**
-
-**Making and Knowing in Early Modern Europe:**
-
-**Hands-On History**
-
+**Making and Knowing in Early Modern Europe:** **Hands-On History**
 **Tuesdays 10:10am-12:00pm**
 
 **Instructor**:
-
 Prof. Pamela Smith
 
-**Email**: [<u>ps2270@columbia.edu</u>](mailto:ps2270@columbia.edu)
-**Office**: Fayerweather 605
-
-Office hours: Tuesdays, 3-5pm, and by appointment, Fayerweather 605
-
 **Assistant Director, Making and Knowing Project:**
-
 Naomi Rosenkranz
 
-**Email:** [<u>njr2128@columbia.edu</u>](mailto:njr2128@columbia.edu)
-**Office**: Fayerweather 511 / Chandler 260
-
-**Office hours:** Fridays, 1–3pm or by appointment, Chandler 260
-
 **Project and Communications Coordinator, Making and Knowing Project:**
-
 Caroline Surman
 
-**Email:** [<u>cms2274@columbia.edu</u>](mailto:cms2274@columbia.edu)
-**Office**: Fayerweather 511
-
-**Office hours:** Fridays, 1–3pm with Naomi (or by appointment)
-
-This course is associated with the [<u>Making and Knowing
-Project</u>](http://www.makingandknowing.org/) of the [<u>Center for
-Science and Society</u>](http://scienceandsociety.columbia.edu/) at
-Columbia University. Please sign up for announcements for both on the
-websites!
+This course is associated with the [<u>Making and Knowing Project</u>](http://www.makingandknowing.org/) of the [<u>Center for Science and Society</u>](http://scienceandsociety.columbia.edu/) at Columbia University. Please sign up for announcements for both on the websites!
 
 # DESCRIPTION
 
@@ -94,26 +68,15 @@ The following components account for the total grade in the course:
 
 > **15% Participation, Presence, and Discussion**
 
--   Any learning experience is about showing up, being present, and
-    > attending to your interlocutors and your own process of learning
-    > and integrating course materials. Students are expected to come
-    > prepared for the discussion sessions and to be truly present in
-    > class discussions and activities.  
-    > Please email Professor Smith, Naomi, and Caroline if you will need
-    > to be absent from class.
+-   Any learning experience is about showing up, being present, and attending to your interlocutors and your own process of learning and integrating course materials. Students are expected to come prepared for the discussion sessions and to be truly present in class discussions and activities. Please email Professor Smith, Naomi, and Caroline if you will need to be absent from class.
 
 > **10% Presentation on Historical Culinary Recipe Reconstruction**
 
--   Working in groups, prepare and present a powerpoint on your
-    > Historical Culinary Recipe Reconstruction in class on Jan. 31.
-    > Your powerpoint should be uploaded to Courseworks by Jan. 30,
-    > 11:59pm.
+-   Working in groups, prepare and present a powerpoint on your Historical Culinary Recipe Reconstruction in class on Jan. 31. Your powerpoint should be uploaded to Courseworks by Jan. 30, 11:59pm.
 
 > **25% Hands-on Assignments and Reflections**
 
--   Most weeks include a hands-on activity. Students should plan to
-    > spend about 5 hours/week outside of the class meetings on lab and
-    > homework, in addition to preparing for class discussion. Each
+-   Most weeks include a hands-on activity. Students should plan to spend about 5 hours/week outside of the class meetings on lab and homework, in addition to preparing for class discussion. Each
     > student will reflect on their hands-on activities and documents
     > with words and photos of their hands-on work, their reflections on
     > that work (including in the light of the readings and discussions)
@@ -339,9 +302,7 @@ ET</strong></p></th>
 
 10:10–10:50 Introduction to the Making and Knowing Project
 
--   Look at [*<u>Secrets of Craft and
-    > Nature</u>*](https://edition640.makingandknowing.org/#/) Digital
-    > Critical Edition
+-   Look at [*<u>Secrets of Craft and Nature</u>*](https://edition640.makingandknowing.org/#/) Digital Critical Edition
 
 -   Look at the [<u>M&K Sandbox</u>](https://cu-mkp.github.io/sandbox/)
 
