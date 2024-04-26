@@ -67,6 +67,8 @@ The Final Project in the undergraduate/graduate lab seminar _Making and Knowing 
 - [Puffball Mushrooms and Early Modern Race-Making: A Skin-Whitening Recipe in BnF Ms. Fr. 640]({{< ref "sp23_rao-sumant_final-project_puffball" >}}) by Sumant Rao
 - [Dyeing Textiles with Cochineal]({{< ref "sp23_brown-reece_final-project_dye-workshop" >}}) by Reece Brown
 - [Dyeing Textiles with Cochineal]({{< ref "sp23_brown_reece_final-project_dye-workshop-instructor-lab-guide" >}}) by Reece Brown
+- [Dyeing Textiles with Cochineal]({{< ref "sp23_brown_reece_final-project_dye-workshop-student-lab-guide" >}}) by Reece Brown
+- [“Flesh Color” and Race Making in Early Modern Painters’ Manuals]({{< ref "sp23_fan_ruilin_final-project_flesh-color" >}}) by Ruilin Fan
   
 ## Making Colors!
 
