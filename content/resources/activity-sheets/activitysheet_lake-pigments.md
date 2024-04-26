@@ -2,9 +2,10 @@
 
 ### Lake pigments and natural colorants
 
-Lake pigments are a type of pigment prepared from organic natural colorants: plant and animal sources. As most organic natural colorants are soluble, they cannot be mixed directly with a binding medium and therefore cannot be used as a pigment. These colorants must therefore be extracted and then made insoluble in order to use them as pigments.
+Lake pigments are a type of pigment prepared from organic natural colorants: plant and animal sources. As most organic natural colorants are soluble, they cannot be mixed directly with a binding medium and therefore cannot be used as a pigment. To be used as a pigment,
+these colorants must therefore be extracted as a solulble dye and then made insoluble by precipitating (or adsorbing) the dye onto a colorless or white, insoluble, relatively inert substrate. 
 
-**Lake pigments:** in general, pigments prepared from soluble natural colorants, formed by precipitating (or adsorbing) the dye onto a colorless or white, insoluble, relatively inert substrate.
+In short: lake pigments are made by extracting a dye from an organic material and then turning that dye into a powder.
 
 > Jo Kirby et al, _Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources_ (Archetype, London, 2014).
 
@@ -18,7 +19,7 @@ See also [Presentation: Introduction to Pigments &amp; Paints](./introduction-pa
 
 ### Pigments
 
-Pigments are colored, insoluble particles that, when combined with a binding medium, create paint that can then be applied to a substrate. Historically, most pigments were sourced from the natural environment, including from plants, insects, stones, and dirt. Since the eighteenth century, the synthesis of pigments in industrial settings has become very common, ensuring consistent quality and new formulations.
+Pigments are colored, insoluble particles that, when combined with a binding medium, create paint that can then be applied to a substrate. Historically, most pigments were sourced from the natural environment, including from plants, insects, stones, and dirt. Since the nineteenth century, the synthesis of pigments in industrial settings has become very common, ensuring consistent quality and new formulations.
 
 Pigments are most often encountered as a component of paint. In short: Pigment + Binding Media = Paint
 
@@ -34,6 +35,11 @@ In general, there are three broad categories of natural pigments:
 - mineral: from mineral ores, semi-precious stones, and even gemstones.
 - earth: from special types of colored dirt (**NJR FIX THIS!!!**). These are also, technically, a form of mineral pigment.
 - organic: from plants and animal sources. Lake pigments fall under this category.
+
+
+### Lake Pigments in Use
+
+Lake pigments are typically found in top layer of paintings because their particles are translucent and are thus conducive to being used as thin glazes. For instance, the layer of "blush" painted over the cheek of a portrait might be done in a red lake pigment. Even early modern textual sources attest to this practice. The entry "Glazing" on [fol. 66r](https://edition640.makingandknowing.org/#/folios/66r/f/66r/tl) of Ms. Fr. 640 notes that "one commonly glazes with colors that do not have body, such as lake & veridigris."
 
 
 ### Historical Recipes for Lake Pigments
@@ -64,7 +70,19 @@ These steps are illustrated in the picture below:
 ![pigment-lake-overview](/images/pigment-lake-overview.png?raw=true) 
 
 
-### To teach lake pigments using Ms. Fr. 640
+Lakes can be made from a variety of natural colorants. Natural colorants can be extracted from plants, such as madder roots, buckthorn berries, weld stems, logwood bark, and animals, such as cochineal insects and mollusk secretions. 
+
+#### Cochineal | Brazilwood | Weld | Green (Unripe) Buckthorn Berries
+![materials-cbwg-collection-5](../images/materials-cbwg-collection-5.png?raw=true)
+
+#### Ripe Buckthorn Berries | Sumac | Dyer's Broom | Turmeric
+![materials-rsdt-collection-2](../images/materials-rsdt-collection-2.png?raw=true)
+
+#### Walnut Hulls | Logwood | Madder | Oak Galls
+![materials-wlmg-collection-5](../images/materials-wlmg-collection-5.png?raw=true)
+
+
+### Teaching lake pigments using Ms. Fr. 640
 
 There are no recipes for making lake pigments in Ms. Fr. 640. There are, however, numerous references to lake pigments across the manuscript. 
 
