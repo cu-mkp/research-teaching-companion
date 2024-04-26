@@ -202,7 +202,7 @@ Markdown is the language used throughout Github and, as its name suggests, is a 
 
 [Links](https://github.com/cu-mkp/research-teaching-companion) = `[Links](https://github.com/cu-mkp/research-teaching-companion)`
 
-![image](https://github.com/cu-mkp/research-teaching-companion/assets/14779727/ab652440-8023-4085-9f66-d54a2bedfa93) = `![image](https://github.com/cu-mkp/research-teaching-companion/assets/14779727/176047d7-8b58-4ca6-8b87-1ccbabd2de48)` 
+![image](https://github.com/cu-mkp/research-teaching-companion/assets/14779727/ab652440-8023-4085-9f66-d54a2bedfa93) = `![alt text for the image](/images/stucco-molded.jpg)` 
 
 Or you can use html styling, `<img src="./images/image7.png" alt="A black and white drawing of a person holding a vase" />`
 
