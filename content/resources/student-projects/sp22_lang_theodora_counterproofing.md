@@ -82,7 +82,7 @@ forgery.
 {{< img src="/images/media-lang/image1.jpg" alt="IMAGE" width="500" height="300" >}}
 ![IMAGE](/images/media-lang/image2.jpg)
 
-Left: Albrecht Dürer, *Christ Taking Leave of His Mother, from The Life
+LEFT: Albrecht Dürer, *Christ Taking Leave of His Mother, from The Life
 of the Virgin,* ca. 1504. Woodcut, sheet: 11 3/4 x 8 1/4 in. (29.8 x 21
 cm). The Metropolitan Museum of Art, New York, Rogers Fund, 1918.
 18.65.12,
