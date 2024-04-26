@@ -64,13 +64,20 @@ The Final Project in the undergraduate/graduate lab seminar _Making and Knowing 
 
 ### Spring 2023 Final Student Projects (2024-01-08) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vS_I76a42zOm-GfGNZHl4s385XNFV4pkHqBq_x0op2S8LUlqN_-B5ebEPdNxqJ3-O1wWUiyemMA2zF9/pub)]
 
-- [Puffball Mushrooms and Early Modern Race-Making: A Skin-Whitening Recipe in BnF Ms. Fr. 640]({{< ref "sp23_rao-sumant_final-project_puffball" >}}) by Sumant Rao
-- [Dyeing Textiles with Cochineal - A Workshop]({{< ref "sp23_brown-reece_final-project_dye-workshop" >}}) by Reece Brown
-- [Dyeing Textiles with Cochineal]({{< ref "sp23_brown_reece_final-project_dye-workshop-instructor-lab-guide" >}}) by Reece Brown
-- [Dyeing Textiles with Cochineal]({{< ref "sp23_brown_reece_final-project_dye-workshop-student-lab-guide" >}}) by Reece Brown
+### Spring 2023 Final Student Projects (2024-01-08) 
+[[Syllabus](https://docs.google.com/document/d/e/2PACX-1vS_I76a42zOm-GfGNZHl4s385XNFV4pkHqBq_x0op2S8LUlqN_-B5ebEPdNxqJ3-O1wWUiyemMA2zF9/pub)]
 - [“Flesh Color” and Race Making in Early Modern Painters’ Manuals]({{< ref "sp23_fan_ruilin_final-project_flesh-color" >}}) by Ruilin Fan
+- [Languages and Linguistic Agency in Ms. Fr. 640]({{< ref "sp23_narcy_gilles_final-project_languages" >}}) by Gilles Narcy
+- [Medieval Spirituality and Materiality in Ms. Fr. 640]({{< ref "sp23_lambert-avery_final-project_medieval-spirituality" >}}) by Avery Lambert
+- [Kunstkamer: Women at Work]({{< ref "sp23_gorup_sophie_final-project_women-at-work.pdf" >}}) by Sophie Gorup [[PDF]({{< ref "sp23_gorup_sophie_final-project_women-at-work.pdf" >}})], [[PPTX]({{< ref "sp23_gorup_sophie_final-project_women-at-work.pptx" >}})]
+- [Candles: Making and Breaking Boundaries in Early Modern Jewish and Christian Ritual]({{< ref "sp23_nelkin-nesya_final-project_candles" >}}) by Nesya Nelkin
+- [Puffball Mushrooms and Early Modern Race-Making: A Skin-Whitening Recipe in BnF Ms. Fr. 640]({{< ref "sp23_rao-sumant_final-project_puffball" >}}) by Sumant Rao
+- [European Paintbrushes and Chinese Ink Brushes in the Early Modern World]({{< ref "sp23_shi-jingxian_final-project_paintbrushes" >}}) by Jingxian Shi
+- [Dyeing Textiles with Cochineal - A Workshop]({{< ref "sp23_brown-reece_final-project_dye-workshop" >}}) by Reece Brown
+- [Varnishing, a Craft of Closure]({{< ref "sp23_oberem-lukas_final-project_varnish" >}}) by Lukas Oberem
   
 ## Making Colors!
 
 -   [Dyeing with Onion Skins]({{< ref "su22_fld_cunningham_annika_onion-skin-dyeing" >}}) by Annika Cunningham (2022-07-18)
 -   [Making Pigment from Madder: a Trio of Recipes]({{< ref "sp22_fld_rosenkranz_naomi_madder-lake-trio" >}}) by Naomi Rosenkranz (2022-07-19) (WIP)
+- [Materials Used for Making Renaissance Dyes and Pigments]({{< ref "materials" >}}) by Naomi Rosenkranz and Megan Lennon (2023-02-28)
