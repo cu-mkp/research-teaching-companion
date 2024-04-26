@@ -56,10 +56,17 @@ The Final Project in the undergraduate/graduate lab seminar _Making and Knowing 
 -   [Discarded Cartographies: Orienting Process Through Waste](/documents/student-projects/sp22_dzumala_maciej_discards.pdf) by Maciej Dzumala
 -   [Counterproofing: Reproduction and Theft in Early Modern Print Culture]({{< ref "sp22_lang_theodora_counterproofing" >}}) by Theodora Bocanegra Lang
 -   [Making and Knowing Pop-up Book]({{< ref "sp22_wei+yang_jianing+luxi_popup" >}}) by Luxi Yang and Jianing Wei
+-   [Creating a “Modern” Reconstruction of a Miniature Grotto]({{< ref "content/resources/student-projects/sp22_bergen+sabet_jamie+sofia_final-project_grotto" >}}) by Jamie Bergen and Sofia Sabet
+-   [Cuttlefish in and around Ms. Fr. 640]({{< ref "sp22_donald_maia_final-project_cuttlebone" >}}) by Maia Donald
+-   [Sieves in Ms. Fr. 640]({{< ref "sp22_gardner_schuyler_final-project-sieves" >}}) by Schuyler Gardner
+-   [Animal Rationality in Ms. Fr. 640]({{< ref "content/resources/student-projects/sp22_nebolsin_victoria_final-project_animal-rationality" >}}) by Victoria Nebolsin
+
 
 ### Spring 2023 Final Student Projects (2024-01-08) [Syllabus to come]
 
 - [Puffball Mushrooms and Early Modern Race-Making: A Skin-Whitening Recipe in BnF Ms. Fr. 640]({{< ref "sp23_rao-sumant_final-project_puffball" >}}) by Sumant Rao
+- [Dyeing Textiles with Cochineal]({{< ref "content/resources/student-projects/sp23_brown-reece_final-project_dye-workshop" >}}) by Reece Brown
+- [
   
 ## Making Colors!
 
