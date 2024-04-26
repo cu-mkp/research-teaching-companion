@@ -17,7 +17,8 @@ Columbia University, History Department, graduate-level "Lab Seminar"
 
 This Lab Seminar course studies the materials, techniques, settings, and meanings of skilled craft and artistic practices in the early modern period (1350-1750), in order to reflect upon a series of issues, including craft knowledge and artisanal epistemology; the intersections between craft and science; and questions of historical methodology and evidence in the reconstruction of historical experience. The course was run as a “Laboratory Seminar,” with discussions of primary and secondary materials, as well as text- and object-based research and hands-on work in a laboratory. This course contributed to the collective production of the digital critical edition of a late sixteenth-century manuscript, BnF Ms. Fr. 640. Final essays in this course were workshopped and readied for publication as the [Research Essays of *Secrets of Craft and Nature in Renaissance France*](https://edition640.makingandknowing.org/#/essays). 
 
-The course was offered from 2014-18, guided by a different theme each year to help focus research on related techniques described in the manuscript:
+The course was offered from 2014-18, guided by a different theme each year to help focus research on related techniques described in the manuscript. The syllabi evolved alongside our competence and confidence in working with and thinking through materials, thus the first semesters were quite experimental and ad hoc:
+
 - Moldmaking and Metalworking (e.g., portrait medal casting, sand casting, and box molding)
      - [Fall 2014 HIST GR8906: Moldmaking and Metalworking Syllabus](https://docs.google.com/document/d/e/2PACX-1vT7See-Ba9a_RleKzJF65ucAyQBOHyanuXDYTtQ4CIVGQmCHaWpULYhvyOiFUUUyH6lDokCQOtwJ907/pub)
      - [Spring 2015 HIST GR8906: Moldmaking and Metalworking Syllabus](https://docs.google.com/document/d/e/2PACX-1vQBhcm7nzcjq-fnpeu2FNVSFvr7dye6jf1YE_ORgu6RLc-Suk-C36Qvvk2BAMo6BXXpO63OpG_ZYhLs/pub)
