@@ -50,23 +50,23 @@ The Final Project in the undergraduate/graduate lab seminar _Making and Knowing 
     -   Listen to [Soundscape 2: Casting the Metal](https://vimeo.com/672823504)
     -   Listen to [Soundscape 3: Recovering the Final Product](https://vimeo.com/672823543)
 
-### Spring 2022 Final Student Projects (2022-08-15) [Syllabus to come]
+### Spring 2022 Final Student Projects (2022-08-15) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vS_I76a42zOm-GfGNZHl4s385XNFV4pkHqBq_x0op2S8LUlqN_-B5ebEPdNxqJ3-O1wWUiyemMA2zF9/pub)]
 
 -   [Herodotus’ ‘Workshop’: A Core (Curriculum) Pathway into Ms. Fr. 640 and its Author-Practitioner]({{< ref "sp22_arocho_alejandra_herodotus-workshop" >}}) by Alejandra Quintana Arocho
 -   [Discarded Cartographies: Orienting Process Through Waste](/documents/student-projects/sp22_dzumala_maciej_discards.pdf) by Maciej Dzumala
 -   [Counterproofing: Reproduction and Theft in Early Modern Print Culture]({{< ref "sp22_lang_theodora_counterproofing" >}}) by Theodora Bocanegra Lang
 -   [Making and Knowing Pop-up Book]({{< ref "sp22_wei+yang_jianing+luxi_popup" >}}) by Luxi Yang and Jianing Wei
--   [Creating a “Modern” Reconstruction of a Miniature Grotto]({{< ref "content/resources/student-projects/sp22_bergen+sabet_jamie+sofia_final-project_grotto" >}}) by Jamie Bergen and Sofia Sabet
+-   [Creating a “Modern” Reconstruction of a Miniature Grotto]({{< ref "sp22_bergen+sabet_jamie+sofia_final-project_grotto" >}}) by Jamie Bergen and Sofia Sabet
 -   [Cuttlefish in and around Ms. Fr. 640]({{< ref "sp22_donald_maia_final-project_cuttlebone" >}}) by Maia Donald
 -   [Sieves in Ms. Fr. 640]({{< ref "sp22_gardner_schuyler_final-project-sieves" >}}) by Schuyler Gardner
--   [Animal Rationality in Ms. Fr. 640]({{< ref "content/resources/student-projects/sp22_nebolsin_victoria_final-project_animal-rationality" >}}) by Victoria Nebolsin
+-   [Animal Rationality in Ms. Fr. 640]({{< ref "sp22_nebolsin_victoria_final-project_animal-rationality" >}}) by Victoria Nebolsin
 
 
-### Spring 2023 Final Student Projects (2024-01-08) [Syllabus to come]
+### Spring 2023 Final Student Projects (2024-01-08) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vS_I76a42zOm-GfGNZHl4s385XNFV4pkHqBq_x0op2S8LUlqN_-B5ebEPdNxqJ3-O1wWUiyemMA2zF9/pub)]
 
 - [Puffball Mushrooms and Early Modern Race-Making: A Skin-Whitening Recipe in BnF Ms. Fr. 640]({{< ref "sp23_rao-sumant_final-project_puffball" >}}) by Sumant Rao
-- [Dyeing Textiles with Cochineal]({{< ref "content/resources/student-projects/sp23_brown-reece_final-project_dye-workshop" >}}) by Reece Brown
-- [
+- [Dyeing Textiles with Cochineal]({{< ref "sp23_brown-reece_final-project_dye-workshop" >}}) by Reece Brown
+- [Dyeing Textiles with Cochineal]({{< ref "sp23_brown_reece_final-project_dye-workshop-instructor-lab-guide" >}}) by Reece Brown
   
 ## Making Colors!
 
