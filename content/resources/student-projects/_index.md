@@ -57,9 +57,9 @@ The Final Project in the undergraduate/graduate lab seminar _Making and Knowing 
 -   [Counterproofing: Reproduction and Theft in Early Modern Print Culture]({{< ref "sp22_lang_theodora_counterproofing" >}}) by Theodora Bocanegra Lang
 -   [Making and Knowing Pop-up Book]({{< ref "sp22_wei+yang_jianing+luxi_popup" >}}) by Luxi Yang and Jianing Wei
 
-### Spring 2023 Final Student Projects (Spring 2023 Final Student Projects (2024-01-08) [Syllabus to come]
+### Spring 2023 Final Student Projects (2024-01-08) [Syllabus to come]
 
-- [Puffball Mushrooms and Early Modern Race-Making: A Skin-Whitening Recipe in BnF Ms. Fr. 640]({{< ref "sp23_rao-sumant_final-project_puffball" >}}) by Suman Rao
+- [Puffball Mushrooms and Early Modern Race-Making: A Skin-Whitening Recipe in BnF Ms. Fr. 640]({{< ref "sp23_rao-sumant_final-project_puffball" >}}) by Sumant Rao
   
 ## Making Colors!
 
