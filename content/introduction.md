@@ -17,7 +17,7 @@ With the edition complete, we transitioned in 2021 to a new mixed graduate and u
 
 During development of the edition, we taught digital humanities courses that integrated methods and tools of digital scholarship in which the students helped to prototype the edition. The syllabi for these courses provide information about minimal computing and the open access technology that underlie the edition and our digital publication tool, *EditionCrafter*. The student projects resulting from these courses are included in this Companion, under [Digital Fr. 640]({{<ref "digital" >}}), and on the Project's [Sandbox](https://cu-mkp.github.io/sandbox/), where digital projects using the data of the edition are collected.
 
-We have had much opportunity to reflect on the challenges and the joys of inserting hands-on work into the text-centered training of the university, and we hope the materials in [Reflections on How-To] ({{<ref "reflection" >}}) will provide food for thought and action and a guide of sorts for your own experiments.
+We have had much opportunity to reflect on the challenges and the joys of inserting hands-on work into the text-centered training of the university, and we hope the materials in [Reflections on How-To]({{<ref "reflection" >}}) will provide food for thought and action and a guide of sorts for your own experiments.
 
 ## The Edition
 
