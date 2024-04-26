@@ -4,7 +4,7 @@ https://cu-mkp.github.io/research-teaching-companion/
 
 Webpage content and navigation for the [Making and Knowing Project](https://makingandknowing.org/)'s Research and Teaching Companion (RTC), built on the [Hugo](https://gohugo.io/) framework.
 
-For Making and Knowing Editors, see also (Publishing to the RTC](https://github.com/cu-mkp/research-teaching-companion/blob/main/how-tos/publishing-to-rtc.md).
+For Making and Knowing Editors, see also [Publishing to the RTC](https://github.com/cu-mkp/research-teaching-companion/blob/main/how-tos/publishing-to-rtc.md).
 
 - [Contributing](#contributing)
   * [Front matter](#front-matter)
