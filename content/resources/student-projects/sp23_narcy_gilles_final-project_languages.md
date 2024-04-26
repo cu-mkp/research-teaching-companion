@@ -98,7 +98,7 @@ between three most frequent languages on one hand (Latin, Occitan, and
 Poitevin), and three rarest ones on the other (German, Italian, and
 Greek) (Fig. 1).
 
-<img src="./media-narcy/image3.png" style="width:5in;height:3in" />
+{{< figure src="./media-narcy/image3.png" width="width:5in;height:3in" >}}
 
 *Fig. 1. Number of occurrences per language*
 
@@ -107,7 +107,7 @@ only as single words, whereas Italian accounts for full sentences. It
 demonstrates that a close reading of the recipes remains necessary to
 interpret the data created.
 
-<img src="./media-narcy/image4.png" style="width:5in;height:3in" />
+{{< figure src="./media-narcy/image4.png" width="width:5in;height:3in" >}}
 
 *Fig. 2. Total number of words per language*
 
@@ -127,8 +127,7 @@ language. In the case of German, I uniformized the spelling of “Spat”
 into “Spalt” to produce a coherent result. I then proceeded to plot the
 scores into a single bar-chart.
 
-<img src="./media-narcy/image5.png"
-style="width:4.83333in;height:3.04167in" />
+{{< figure src="./media-narcy/image5.png" width="width:4.83333in;height:3.04167in" >}}
 
 *Fig. 3. Lexical diversity per language (TTR)*
 

@@ -7,7 +7,7 @@ Spring 2022, GU4962: Hands-on History
 Grottos imitate a spring, often located in a cave-like structure, and
 usually contain fountains, sculpture, and imitation flora and fauna.
 
-<img src="./media-bergen+sabet/image23.jpg" style="width:5.00362in;height:3.68123in" />
+{{< figure src="./media-bergen+sabet/image23.jpg" width="width:5.00362in;height:3.68123in" >}}
 
 > Engraving of a grotto in the gardens of Hortus Palatinus, Heidelberg, from Salomon de Caus’ Hortus Palatinus. Engraving done by Matthieu Marian’s (1620), [<u>https://digi.ub.uni-heidelberg.de/diglit/caus1620/0034/image,info,thumbs</u>](https://digi.ub.uni-heidelberg.de/diglit/caus1620/0034/image,info,thumbs)
 

@@ -43,11 +43,11 @@ Moreover, varnish seems to partake in creative processes. In painting as well as
 
 The recipes and recommendations mentioned here are only a few, considering the variety and plenitude of manuscripts that discuss varnish. But even based on this limited information, we may conclude two main aspects: on the one hand, varnish seems to be in use for many different functions. It can prepare certain steps in a process, it is used to imitate other materials, and it can influence the process of creation aesthetically. On the other hand, a recurring focus lies on preservation that can even accompany the other functions. But all recipes seem to uphold a certain tension between addition and preservation with the aim to close either a part or the entire work.
 
-<img src="./media-oberem/image2.png" style="width:4.0941in;height:1.89031in" />
+{{< figure src="./media-oberem/image2.png" width="width:4.0941in;height:1.89031in" >}}
 
 Fig. 1. Varnishes and their function mentioned in Ms Fr. 640
 
-<img src="./media-oberem/image1.png" style="width:4.33368in;height:2.04865in" />
+{{< figure src="./media-oberem/image1.png" width="width:4.33368in;height:2.04865in" >}}
 
 Fig. 2. Varnishes and their function found in Ms Fr. 640, Jehan LeBègue and De Mayerne
 
@@ -55,7 +55,7 @@ Fig. 2. Varnishes and their function found in Ms Fr. 640, Jehan LeBègue and De 
 
 Some entries in dictionaries show us what I already concluded above. A dictionary from 1771 (somewhat later than my cases) describes that varnish is used for various functions and various materials, among them iron, paintings, and carriages. The function can be *decoration* or *preservation*: “du fer, du bois, des tableaux, des carrosses, etc. foit pour les orner & les embellir, foit pour les conserver & faire qu'ils ne se gatent pas a l'air” (iron, wood, paintings, carriages, etc. to decorate and embellish them, to preserve them and prevent them from deteriorating in the air.)[^24] So again, reference is made to the wide use of varnish. The entry, moreover, clarifies the functions of varnish: “orner, embellir, conserver” (ornament, embellish, conserve). We find here the ambiguity of meaning in the word for such a broad variety of things and functions. The entry "vernisseur" in an earlier dictionary for Italian and French of 1677 raises questions about the profession that is connected to the procedure of varnishing. Apparently, the “vernisseur” is a person who makes and applies the varnish. “Artisan qui fait des vernis, ou qui les emploie. Quegli che fa o dà la vernice” (Craftsman who makes or uses varnish).[^25] This raises the question of what the role of the "vernisseur" was, and even whether he represented a distinct profession. However, in my research, I found no evidence to assume an independent profession based on guild regulation or other sources. In Hans Sachs and Jost Amman's series of engravings, for example, we do not encounter a vernisseur, despite the otherwise very detailed description of various crafts.[^26] In the case of the lute maker, explicit reference is made to the use of varnish (fig. 3).
 
-<img src="./media-oberem/image3.jpg" style="width:3.07326in;height:4.44663in" />
+{{< figure src="./media-oberem/image3.jpg" width="width:3.07326in;height:4.44663in" >}}
 
 Fig. 3. Hans Sachs and Jost Amman, Der Lautenmacher, 1568
 

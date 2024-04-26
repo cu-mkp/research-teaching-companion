@@ -131,7 +131,7 @@ privilege.
 
 ## Carnation, Liveliness, and Fairness
 
-<img src="./media-fan/image1.jpg" style="width:3.87077in;height:3.52604in" />
+{{< figure src="./media-fan/image1.jpg" width="width:3.87077in;height:3.52604in" >}}
 
 Fig. 1. Titian’s *Diana and Actaeon* (1556-1559). Oil on canvas, 184.5 x
 202.2 cm. The National Gallery, London. [<u>https://jstor.org/stable/community.15656006</u>](https://jstor.org/stable/community.15656006).
