@@ -1,4 +1,4 @@
-![](./media-syllabus-sp23-mk/image1.png)
+![IMAGE](/media-syllabus-sp23-mk/image1.png)
 
 **HIST GU4962**
 

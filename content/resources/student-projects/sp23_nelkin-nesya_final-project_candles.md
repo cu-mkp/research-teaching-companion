@@ -101,7 +101,7 @@ Campbell’s instructions for molded tallow candles were very brief: “they hav
 
 Campbell wrote that wax candles were made differently than tallow candles: “Wax candles are made after a different Manner, they are neither cast in Moulds nor dipped, but rolled and drawn.” Rolling meant applying wax to a wick by hand or with a ladle and then rolling it smooth; drawing meant using two wheels, turned by cranks, to pull long stretches of wick through a vat of melted wax (see Fig. 7).[^61] While only wax and not tallow could be used to make rolled candles (tallow would not harden if handled in this way), there does not seem to have been a complete divide between the ways that tallow and wax candles were produced. Molded wax candles were also used; BnF Ms. Fr. 640 includes a reference to them.[^62] I have not found any early modern references to dipped wax candles, although they may exist; perhaps this method was not popular with wax because dipped candles were generally of a low quality, and wax was an expensive material.
 
-![](./media-nelkin/image12.jpg)
+![IMAGE](/media-nelkin/image12.jpg)
 
 *Figure 7.* [<u>The Art and Mystery of Wax and Tallow Candles</u>](https://www.britishmuseum.org/collection/object/P_Y-4-420) © The Trustees of the British Museum, [<u>CC BY-NC-SA 4.0</u>](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 

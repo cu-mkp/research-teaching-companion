@@ -29,7 +29,7 @@ For more detail and a replication of these recipes, see Boyd, Palframan,
 and Smith, [<u>Molding with Cuttlefish
 Bone</u>](https://doi.org/10.7916/1dc2-rn58).[^2]
 
-| ![](./media-donald/image2.png)                                                                                                                                                                                                                                                                                            |
+| ![IMAGE](/media-donald/image2.png)                                                                                                                                                                                                                                                                                            |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Figure 1.** Casting of tin in the cuttlefish bone mold of a ring. Emily Boyd and Jef Palframan, 2014. Note the gate at the top through which the metal was poured and the vents. Also visible are the pegs that hold the two halves of the mold together. © Making and Knowing Project ([<u>CC BY-NC-SA</u>](https://creativecommons.org/licenses/by-nc-sa/4.0/)). |
 
@@ -41,7 +41,7 @@ cuttlefish is unique because of its cuttlebone, a lightweight, porous,
 bony material that cuttlefish use to regulate buoyancy, akin to an
 internal shell.
 
-| ![](./media-donald/image3.png)![](./media-donald/image4.png) |
+| ![IMAGE](/media-donald/image3.png)![IMAGE](/media-donald/image4.png) |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Figure 2**. Map of the distribution of the common cuttlefish, *Sepia officinalis*.[^3]                                                           |
 
@@ -76,11 +76,11 @@ pressed back together and filled with molten metal. Cuttlebone is able
 to withstand high temperatures, although the author-practitioner of Ms.
 Fr. 640 warns against overheating the metal alloy.
 
-| ![](./media-donald/image1.png)                                                                                                                                                                        |
+| ![IMAGE](/media-donald/image1.png)                                                                                                                                                                        |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Figure 3**. The author-practitioner’s sketch of cuttlefish bone patterning, Ms. Fr. 640, fol. [<u>145r</u>](https://edition640.makingandknowing.org/#/folios/145r/f/145r/tl). Bibliothèque nationale de France, Paris. Source: gallica.bnf.fr. |
 
-| ![](./media-donald/image5.jpg)                                                                                                     |
+| ![IMAGE](/media-donald/image5.jpg)                                                                                                     |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Figure 4**. Cuttlefish bone pattern (interior). Maia Donald, 2022. © Making and Knowing Project ([<u>CC BY-NC-SA</u>](https://creativecommons.org/licenses/by-nc-sa/4.0/)). |
 

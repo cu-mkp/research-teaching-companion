@@ -7,7 +7,7 @@ Spring 2022, GU4962: Hands-on History
 Grottos imitate a spring, often located in a cave-like structure, and
 usually contain fountains, sculpture, and imitation flora and fauna.
 
-![](./media-bergen+sabet/image23.jpg)
+![IMAGE](/media-bergen+sabet/image23.jpg)
 
 > Engraving of a grotto in the gardens of Hortus Palatinus, Heidelberg, from Salomon de Caus’ Hortus Palatinus. Engraving done by Matthieu Marian’s (1620), [<u>https://digi.ub.uni-heidelberg.de/diglit/caus1620/0034/image,info,thumbs</u>](https://digi.ub.uni-heidelberg.de/diglit/caus1620/0034/image,info,thumbs)
 
@@ -53,7 +53,7 @@ as laser engraving and 3D printing.
 The first step in creating the miniature grotto was prototyping and
 planning.
 
-![](./media-bergen+sabet/image33.png)
+![IMAGE](/media-bergen+sabet/image33.png)
 
 > Drawing/schematic of grotto design.
 
@@ -65,11 +65,11 @@ of Ms Fr. 640 (which also serves as the Making and Knowing Project’s
 logo) as a playful touch. Before cutting the acrylic, we tested out our
 measurements by cutting a chipboard model first.
 
-![](./media-bergen+sabet/image31.jpg)
+![IMAGE](/media-bergen+sabet/image31.jpg)
 
 > Designs for the cardboard model of the frame.
 
-![](./media-bergen+sabet/image12.jpg)
+![IMAGE](/media-bergen+sabet/image12.jpg)
 
 > Adding the lizard sketch to our design.
 
@@ -81,12 +81,12 @@ perfectly, so we cut another cardboard one to scale. We then taped the
 cardboard pieces together for the mini and full-sized model. We then
 used this model to draw on and plan the other components.
 
-![](./media-bergen+sabet/image38.jpg)
+![IMAGE](/media-bergen+sabet/image38.jpg)
 
 > Preparation of the cardboard model in advance of the laser-cut acrylic
 version of the frame.
 
-![](./media-bergen+sabet/image17.png)
+![IMAGE](/media-bergen+sabet/image17.png)
 
 > Planning the rest of the grotto elements on the assembled, full-size
 cardboard model.
@@ -111,24 +111,24 @@ others. Once crushed they were ready to be arranged. However it turned
 out that getting the shells to behave similarly to ceramic or tile in a
 mosaic would be a challenge.
 
-![](./media-bergen+sabet/image26.jpg)
+![IMAGE](/media-bergen+sabet/image26.jpg)
 
 > Collecting shells and rocks from the New Jersey shore.
 
-![](./media-bergen+sabet/image1.png)
+![IMAGE](/media-bergen+sabet/image1.png)
 
 > Shells and rocks collected from the New Jersey shore.
 
-![](./media-bergen+sabet/image37.jpg)
+![IMAGE](/media-bergen+sabet/image37.jpg)
 
 > Mussel shell in a mortar, ready to be pestled.
 
-![](./media-bergen+sabet/image11.jpg)
+![IMAGE](/media-bergen+sabet/image11.jpg)
 
 > Crushing the shells in a mortar and pestle, attempting to prevent the
 pieces from flying out of the mortar.
 
-![](./media-bergen+sabet/image36.jpg)
+![IMAGE](/media-bergen+sabet/image36.jpg)
 
 > Crushed mussel shells.
 
@@ -142,7 +142,7 @@ were then pressed into the clay, with the shiny side facing up.
 While the shells did manage to remain attached to the clay, the final
 product didn’t achieve the look we were going for.
 
-![](./media-bergen+sabet/image24.jpg)
+![IMAGE](/media-bergen+sabet/image24.jpg)
 
 > Trial 1: Shells pressed into white air-dry clay.
 
@@ -156,7 +156,7 @@ it was poured onto the inside of a shallow wooden box lid. The lid was
 eleven inches long and four inches high. The cement was then spread
 evenly with a spatula.
 
-![](./media-bergen+sabet/image30.jpg)
+![IMAGE](/media-bergen+sabet/image30.jpg)
 
 > Mosaic cement spread across shallow wooden box lid.
 
@@ -168,11 +168,11 @@ that were placed earliest had come loose. The shards of shell, being
 lighter than the cement, had floated to the top completely detaching
 themselves. It was as if they had never been placed into the cement.
 
-![](./media-bergen+sabet/image4.png)
+![IMAGE](/media-bergen+sabet/image4.png)
 
 > Trial 2: Shells with commercially popular mosaic cement.
 
-![](./media-bergen+sabet/image32.jpg)
+![IMAGE](/media-bergen+sabet/image32.jpg)
 
 > Closeup of the shell pieces lifting up out of the mosaic cement and
 falling off.
@@ -190,15 +190,15 @@ pipette to extract the liquid and carefully spread it over the shells.
 While there wasn’t enough glue to cover the entire piece, we were able
 to cover about 80% of it.
 
-![](./media-bergen+sabet/image18.jpg)
+![IMAGE](/media-bergen+sabet/image18.jpg)
 
 > The rabbit skin glue mixture.
 
-![](./media-bergen+sabet/image9.jpg)
+![IMAGE](/media-bergen+sabet/image9.jpg)
 
 > Rabbit skin glue heated inside a beaker of water on a hotplate.
 
-![](./media-bergen+sabet/image14.jpg)
+![IMAGE](/media-bergen+sabet/image14.jpg)
 
 > Rabbit skin glue, still hot and in liquid form, spread across the top of the shells detaching from the mosaic cement.
 
@@ -217,11 +217,11 @@ out that mixing the rabbit skin glue with the cement gave the best
 results as the resulting texture of the mixture before it dried was a
 bit tacky, and therefore held on to the shell bits as it dried.
 
-![](./media-bergen+sabet/image20.jpg)
+![IMAGE](/media-bergen+sabet/image20.jpg)
 
 > Testing the tackiness of the mosaic cement on a piece of acrylic. The test piece of acrylic was split into sections to test whether sanding it would help the cement mixture adhere and to test different applications of the cement with additions of rabbit skin glue.
 
-![](./media-bergen+sabet/image22.jpg)
+![IMAGE](/media-bergen+sabet/image22.jpg)
 
 > The test piece of acrylic with different combinations of cement and rabbit skin glue and varying degrees of sanding.
 
@@ -239,7 +239,7 @@ for durability. Then the walls and base of the grotto were glued
 together using acrylic cement in preparation for the addition of more
 components.
 
-![](./media-bergen+sabet/image8.png)
+![IMAGE](/media-bergen+sabet/image8.png)
 
 > The final design of the shells mosaic, adhered to the back of the grotto with mosaic cement and rabbit skin glue.
 
@@ -256,7 +256,7 @@ glues. The same arrangement of gluing shells was also done to create two
 miniature shell statues which were placed on either side of the center
 archway.
 
-![](./media-bergen+sabet/image15.jpg)
+![IMAGE](/media-bergen+sabet/image15.jpg)
 
 > Gluing together whole mussel shells to create feet for the frame as well as additional sculptures.
 
@@ -275,16 +275,16 @@ thoroughly inspected the final product. We liked how there was a
 cobblestone like texture on the bridge and appreciated the detailing on
 the base.
 
-![](./media-bergen+sabet/image29.jpg)
+![IMAGE](/media-bergen+sabet/image29.jpg)
 
 > 3D printer in the Barnard College Makerspace, printing the bridge in
 white plastic.
 
-![](./media-bergen+sabet/image35.jpg)
+![IMAGE](/media-bergen+sabet/image35.jpg)
 
 > Top view of 3D printer in the Barnard College Makerspace, printing the bridge in white plastic.
 
-![](./media-bergen+sabet/image28.jpg)
+![IMAGE](/media-bergen+sabet/image28.jpg)
 
 > The first, miniaturized version of the 3D-printed bridge.
 
@@ -293,7 +293,7 @@ inches. The estimated print time for the bridge was eight hours, so we
 let it print overnight. The next morning when we came to pick up the
 bridge, we were met with a jumble of plastic strands.
 
-![](./media-bergen+sabet/image27.jpg)
+![IMAGE](/media-bergen+sabet/image27.jpg)
 
 > The jumble of plastic strands from the failed 3D printing of the larger bridge.
 
@@ -308,7 +308,7 @@ member discovered that someone had turned off a key printer setting,
 which was why our bridge kept failing. We turned the setting back on and
 eight and a half hours later, we picked up a perfectly printed bridge.
 
-![](./media-bergen+sabet/image6.jpg)
+![IMAGE](/media-bergen+sabet/image6.jpg)
 
 > The 3D printer printing the bridge.
 
@@ -329,11 +329,11 @@ the bird model and placed them on the rat model to create a new, hybrid
 digital model. This was then 3D printed in the same fashion as the
 bridge.
 
-![](./media-bergen+sabet/image2.jpg)
+![IMAGE](/media-bergen+sabet/image2.jpg)
 
 > The hybrid digital model of a rat with wings.
 
-![](./media-bergen+sabet/image19.jpg)
+![IMAGE](/media-bergen+sabet/image19.jpg)
 
 > 3D printing the rat with wings in green plastic.
 
@@ -359,11 +359,11 @@ the face/limbs, yellow ochre for the underside of the shell, and
 Bavarian green earth for the top of the shell. Once dry the turtle was
 positioned on the bridge.
 
-![](./media-bergen+sabet/image13.jpg)
+![IMAGE](/media-bergen+sabet/image13.jpg)
 
 > Setup for mulling and painting objects for the grotto in linseed oil.
 
-![](./media-bergen+sabet/image15.jpg)
+![IMAGE](/media-bergen+sabet/image15.jpg)
 
 > The turtle carved from cuttlefish bone and painted.
 
@@ -375,7 +375,7 @@ combined tragacanth gum to water at a ratio of 1:14. Once combined, we
 stirred the liquid to ensure the gum gets fully incorporated. Then the
 mixture was put aside and we waited ten minutes for it to gel.
 
-![](./media-bergen+sabet/image34.jpg)
+![IMAGE](/media-bergen+sabet/image34.jpg)
 
 > Tragacanth gum in water, waiting for it to gel fully.
 
@@ -387,7 +387,7 @@ prevent sticking. The stucco was then pressed into the two seashell
 molds. When it was dry, the shells were painted with oil paint made by
 mulling linseed oil with lapis lazuli pigment.
 
-![](./media-bergen+sabet/image3.png)
+![IMAGE](/media-bergen+sabet/image3.png)
 
 > The stucco shells drying in the plastic mold.
 
@@ -401,7 +401,7 @@ base panel of the grotto and spread it with a palette knife. This did
 the job for keeping the sand mostly in place while maintaining the
 beach/garden effect we were going for.
 
-![](./media-bergen+sabet/image5.jpg)
+![IMAGE](/media-bergen+sabet/image5.jpg)
 
 > Sand applied to the bottom of the grotto frame.
 
@@ -411,7 +411,7 @@ One of the key features of a large scale grotto is a water feature.
 Thanks to modern technology a small one can be bought for 5 dollars at
 Five Below for our miniature grotto.
 
-![](./media-bergen+sabet/image16.jpg)
+![IMAGE](/media-bergen+sabet/image16.jpg)
 
 > Electric water fountain purchased at Five Below.
 
@@ -446,11 +446,11 @@ turtle directly on it. Finally, small stones, sourced from Sunny Isles
 beach, were placed to create a path from the bridge to the fountain and
 back.
 
-![](./media-bergen+sabet/image7.jpg)
+![IMAGE](/media-bergen+sabet/image7.jpg)
 
 > Arranging the elements of the grotto.
 
-![](./media-bergen+sabet/image10.jpg)
+![IMAGE](/media-bergen+sabet/image10.jpg)
 
 > Further arranging of the grotto elements.
 
@@ -472,39 +472,39 @@ carving experience.
 All in all this recreation was rewarding to create and we learned a lot
 along the way.
 
-![](./media-bergen+sabet/20230210_rosenkranz_finished-grotto_002.jpg)
+![IMAGE](/media-bergen+sabet/20230210_rosenkranz_finished-grotto_002.jpg)
 
 > The final grotto.
 
-![](./media-bergen+sabet/20230210_rosenkranz_finished-grotto_003.jpg)
+![IMAGE](/media-bergen+sabet/20230210_rosenkranz_finished-grotto_003.jpg)
 
 > Side view of the grotto.
 
-![](./media-bergen+sabet/20230210_rosenkranz_finished-grotto_008.jpg)
+![IMAGE](/media-bergen+sabet/20230210_rosenkranz_finished-grotto_008.jpg)
 
 > Side view of the grotto.
 
-![](./media-bergen+sabet/20230210_rosenkranz_finished-grotto_004.jpg)
+![IMAGE](/media-bergen+sabet/20230210_rosenkranz_finished-grotto_004.jpg)
 
 > Close-up of the bridge and rat with wings.
 
-![](./media-bergen+sabet/20230210_rosenkranz_finished-grotto_005.jpg)
+![IMAGE](/media-bergen+sabet/20230210_rosenkranz_finished-grotto_005.jpg)
 
 > Close-up of the bridge, rat with wings, and blue painted stucco shells.
 
-![](./media-bergen+sabet/20230210_rosenkranz_finished-grotto_006.jpg)
+![IMAGE](/media-bergen+sabet/20230210_rosenkranz_finished-grotto_006.jpg)
 
 > Close-up of water fountain, covered with "rocks" made of parchment.
 
-![](./media-bergen+sabet/20230210_rosenkranz_finished-grotto_007.jpg)
+![IMAGE](/media-bergen+sabet/20230210_rosenkranz_finished-grotto_007.jpg)
 
 > Turtle carved from cuttlefish.
 
-![](./media-bergen+sabet/20230210_rosenkranz_finished-grotto_009.jpg)
+![IMAGE](/media-bergen+sabet/20230210_rosenkranz_finished-grotto_009.jpg)
 
 > Side view of the grotto.
 
-![](./media-bergen+sabet/20230210_rosenkranz_finished-grotto_010.jpg)
+![IMAGE](/media-bergen+sabet/20230210_rosenkranz_finished-grotto_010.jpg)
 
 > Top view of the grotto.
 

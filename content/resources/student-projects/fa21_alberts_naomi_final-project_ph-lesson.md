@@ -31,7 +31,7 @@ terms\]
 
 -   “Transmuted”
 
-![](./media-alberts/image1.png)
+![IMAGE](/media-alberts/image1.png)
 
 > Photo Credit: ThoughtCo / Grace Kim,
 [<u>https://www.thoughtco.com/definition-of-ph-in-chemistry-604605</u>](https://www.thoughtco.com/definition-of-ph-in-chemistry-604605)
@@ -69,7 +69,7 @@ Medicine* 20 (2015): 562-588,
 
 # The Manuscript, BnF Ms. Fr. 640:
 
-# ![](./media-alberts/image2.png)
+# ![IMAGE](/media-alberts/image2.png)
 
 ## [<u>Folio 43v</u>](https://edition640.makingandknowing.org/#/folios/43v/f/43v/tl)
 
