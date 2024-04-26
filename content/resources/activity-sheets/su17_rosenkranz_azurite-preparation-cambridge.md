@@ -65,58 +65,58 @@ Process:
 
 -   Crush azurite ore with mortar and pestle
 
-<img src="./media-azurite/image24.jpg" style="width:2.56918in;height:4.58854in" />
+![](./media-azurite/image24.jpg)
 
 -   When small-ish, transfer to glass plate + muller
 
-<img src="./media-azurite/image14.jpg" style="width:1.75in;height:2.48958in" />
+![](./media-azurite/image14.jpg)
 
 -   Add some water and do rough mulling before moving to concentric mulling
 
     -   Observation: as it dried out, got tacky + difficult to mull smoothly/homogeneously
 
-<img src="./media-azurite/image28.jpg" style="width:1.54658in;height:2.75521in" /><img src="./media-azurite/image18.jpg" style="width:1.55729in;height:2.76852in" /><img src="./media-azurite/image21.jpg" style="width:3.24479in;height:1.81386in" />
+![](./media-azurite/image28.jpg)![](./media-azurite/image18.jpg)![](./media-azurite/image21.jpg)
 
-<img src="./media-azurite/image16.jpg" style="width:1.21995in;height:2.17188in" />
+![](./media-azurite/image16.jpg)
 
 -   Transfer small amount (about as much as could fit on one finger) to mussel shell
 
-<img src="./media-azurite/image7.jpg" style="width:2.33854in;height:1.31039in" /><img src="./media-azurite/image9.jpg" style="width:1.33541in;height:2.40104in" />
+![](./media-azurite/image7.jpg)![](./media-azurite/image9.jpg)
 
 -   Add water and swish with finger, then swirl
 
-<img src="./media-azurite/image22.jpg" style="width:2.39464in;height:1.33854in" /><img src="./media-azurite/image19.jpg" style="width:2.39063in;height:1.34473in" />
+![](./media-azurite/image22.jpg)![](./media-azurite/image19.jpg)
 
 -   Pour off into another shell the water at the top with smaller dispersed particles
 
-<img src="./media-azurite/image26.jpg" style="width:2.63889in;height:1.48438in" />
+![](./media-azurite/image26.jpg)
 
 -   What is left in the first mussel shell is larger particles
 
 -   Repeat adding water and pouring off until the azurite remaining is midnight blue
 
-<img src="./media-azurite/image1.jpg" style="width:1.11979in;height:1.99128in" /><img src="./media-azurite/image30.jpg" style="width:1.11979in;height:1.98509in" /><img src="./media-azurite/image29.jpg" style="width:1.98438in;height:1.11675in" /><img src="./media-azurite/image17.jpg" style="width:1.11458in;height:1.98438in" /><img src="./media-azurite/image5.jpg" style="width:1.11979in;height:1.99526in" /><img src="./media-azurite/image13.jpg" style="width:1.11979in;height:1.98296in" /><img src="./media-azurite/image4.jpg" style="width:1.95313in;height:1.09982in" /><img src="./media-azurite/image6.jpg" style="width:1.95313in;height:1.09982in" /><img src="./media-azurite/image27.jpg" style="width:1.98444in;height:1.11979in" /><img src="./media-azurite/image20.jpg" style="width:1.99074in;height:1.11979in" /><img src="./media-azurite/image10.jpg" style="width:1.98296in;height:1.11979in" /><img src="./media-azurite/image8.jpg" style="width:1.95121in;height:1.09896in" /><img src="./media-azurite/image12.jpg" style="width:1.10937in;height:1.97523in" />
+![](./media-azurite/image1.jpg)![](./media-azurite/image30.jpg)![](./media-azurite/image29.jpg)![](./media-azurite/image17.jpg)![](./media-azurite/image5.jpg)![](./media-azurite/image13.jpg)![](./media-azurite/image4.jpg)![](./media-azurite/image6.jpg)![](./media-azurite/image27.jpg)![](./media-azurite/image20.jpg)![](./media-azurite/image10.jpg)![](./media-azurite/image8.jpg)![](./media-azurite/image12.jpg)
 
 -   Because we are short on time:
 
     -   To paint out, add a small amount of gum arabic directly to azurite in shell that is still quite wet
 
-<img src="./media-azurite/image3.jpg" style="width:2.4537in;height:1.38021in" />
+![](./media-azurite/image3.jpg)
 
 -   Can add more water as needed
 
 -   NJR: added gum arabic, painted out once, then poured off again and painted out → better color and consistency
 
-<img src="./media-azurite/image25.jpg" style="width:1.39471in;height:2.47396in" />
+![](./media-azurite/image25.jpg)
 
 Wash water that was poured off successively:
 
-<img src="./media-azurite/image15.jpg" style="width:3.11979in;height:1.75337in" /><img src="./media-azurite/image11.jpg" style="width:1.77079in;height:3.16146in" />
+![](./media-azurite/image15.jpg)![](./media-azurite/image11.jpg)
 
 Color of the azurite and the wash water after each wash:
 
-<img src="./media-azurite/image23.jpg" style="width:6.5in;height:3.65278in" />
+![](./media-azurite/image23.jpg)
 
 Painted out with gum arabic:
 
-<img src="./media-azurite/image2.jpg" style="width:6.5in;height:3.65278in" />
+![](./media-azurite/image2.jpg)

@@ -79,7 +79,7 @@ mark of the publishing house (though keeping Dürer’s easily recognizable
 monogram, in the lower left corners of the figures below), it was not a
 forgery.
 
-<img src="./media-lang/image1.jpg" style="width:3.07813in;height:4.30298in" /><img src="./media-lang/image2.jpg" style="width:3.20313in;height:4.31679in" />
+![](./media-lang/image1.jpg)![](./media-lang/image2.jpg)
 
 Left: Albrecht Dürer, *Christ Taking Leave of His Mother, from The Life
 of the Virgin,* ca. 1504. Woodcut, sheet: 11 3/4 x 8 1/4 in. (29.8 x 21
@@ -131,7 +131,7 @@ as Michelangelo (1475–1564), were particularly valued as means of
 learning from great masters by copying them. Some such drawings could be
 successfully sold as forgeries.
 
-<img src="./media-lang/image3.jpg" style="width:3.08333in;height:3.94625in" />
+![](./media-lang/image3.jpg)
 
 Luca Ciamberlano, *Five Legs and Three Feet,* 17th century. Engraving,
 sheet: 6 1/16 x 4 11/16 in. (15.4 x 11.9 cm). The Metropolitan Museum of
@@ -189,17 +189,17 @@ searching for them. Whatever the author-practitioner may have done with
 his covert copies, it certainly seems he was capable of getting away
 with it.
 
-<img src="./media-lang/image6.jpg" style="width:4.32137in;height:4.20313in" />  
+![](./media-lang/image6.jpg)  
 
 Results of counterproofing test. On the left, the new print, and on the
 right, the original drawing used here.
 
-<img src="./media-lang/image4.jpg" style="width:5.10566in;height:3.67188in" />  
+![](./media-lang/image4.jpg)  
 
 A corner of the back of the original drawing after burnishing, with the
 round indentations of the muller I used visible.
 
-<img src="./media-lang/image5.jpg" style="width:5.01885in;height:3.82813in" />
+![](./media-lang/image5.jpg)
 
 The same corner after wetting it and letting it dry. As is clear, the
 indentations are no longer visible.
