@@ -6,7 +6,7 @@ _Last updated 2021-08-19 by NJR_<br>
 
 A downloadable version of this assignment: [[PDF](verdigris_assignment_downloadable_2021.pdf)]
 
-![verdigris-header](../images/verdigris-header.png?raw=true)
+![verdigris-header](/images/verdigris-header.png?raw=true)
 
 _**Safety Note: Nitrile/latex gloves must be worn when handling verdigris. Do not touch your mouth or bare skin. Do not scrape or grind the verdigris on food preparation surfaces.**_
 

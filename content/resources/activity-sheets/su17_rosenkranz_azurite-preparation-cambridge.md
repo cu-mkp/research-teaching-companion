@@ -32,7 +32,7 @@ People:
 
 Handouts:
 
--   [<u>CAMEO Characteristics of Common Blue> Pigments</u>](http://cameo.mfa.org/images/e/ea/Download_file_506.pdf)
+-   [<u>CAMEO Characteristics of Common Blue> Pigments</u>](http://cameo.mfa.o/images/e/ea/Download_file_506.pdf)
 
 -   Cennini on Azurite prep
 

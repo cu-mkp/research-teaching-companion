@@ -6,13 +6,13 @@ _Last updated 2023-03-30 by NJR_
 
 A downloadable version of this assignment: [[PDF](dyes-cochineal_assignment_downloadable_2023.pdf?raw=true)]
 
-![dyes-cochineal_header](../images/cochineal-dyed-textiles-mix.JPG?raw=true)
+![dyes-cochineal_header](/images/cochineal-dyed-textiles-mix.JPG?raw=true)
 
 ## Dyes and natural colorants
 If you are not already familiar with historical dyes and natural colorants, refer to [Presentation: Cochineal Dye: History, Chemistry, and Preparation](./2023_dyes_cochineal-history-chem-prep.pdf) for more complete information and further explanation of natural colorants and dyeing.
 
 
-[![Presentation: Cochineal Dye: History, Chemistry, and Preparation](../images/cochineal-dye-presentation-slide.JPG)](./2023_dyes_cochineal-history-chem-prep.pdf)
+[![Presentation: Cochineal Dye: History, Chemistry, and Preparation](/images/cochineal-dye-presentation-slide.JPG)](./2023_dyes_cochineal-history-chem-prep.pdf)
 
 
 A dye is "a compound that absorbs into and colors another material" and "is generally a complex organic material" ([Conservation and Art Materials Encyclopedia Online (CAMEO)](http://cameo.mfa.org/wiki/Dye)). Until the onset of synthetic dyes in the mid-nineteenth century, most dyes were sourced from natural colorants such as plants, insects, lichens, and shellfish. 
@@ -30,12 +30,12 @@ The largest class of natural dyes is mordant dyes. In this process, textiles mus
 
 The most common mordant is aluminum, typically in the form of alum (aluminum potassium sulfate). Other mordants include iron sulfate, copper sulfate, and tannins.
 
-![mordant-process](../images/mordant-process.JPG?raw=true)
+![mordant-process](/images/mordant-process.JPG?raw=true)
 
 > Jo Kirby et al, _Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources_ (Archetype, London, 2014).
 
 ## Cochineal
-![cochineal-plant](../images/2023-01-08_rosenkranz_cochineal-pad.jpg?raw=true)
+![cochineal-plant](/images/2023-01-08_rosenkranz_cochineal-pad.jpg?raw=true)
 > Cochineal, covered in a white excretion that acts as a protective layer, on a nopal pad (Naomi Rosenkranz, Altadena, CA, 2023)
 
 Cochineal is a scale insect found on prickly pear or Barbary fig cactus (Opuntia ficusindica (L.)).
@@ -46,7 +46,7 @@ Chemical class: carminic acid (anthraquinone)
 
 Region: Cultivated in Mexico and Peruvian Andes, before Spain brought to Europe in 1523 where it spread rapidly.
 
-![dried-cochineal](../images/dried-cochineal-2015.jpg?raw=true)
+![dried-cochineal](/images/dried-cochineal-2015.jpg?raw=true)
 > Dried cochineal, purchased from Kremer Pigments, NYC (Naomi Rosenkranz, New York, NY, 2015)
 
 > Phipps, Elena. _Cochineal Red: the Art History of a Color._ New York (N.Y.: The Metropolitan Museum of Art, 2010. Print.)
@@ -55,9 +55,9 @@ Region: Cultivated in Mexico and Peruvian Andes, before Spain brought to Europe 
 
 Cochineal insects have been used for centuries in the Americas as both a red dye and pigment. In the sixteenth century, when they were first brought to Europe, their use proliferated and even continues to this day all around the world. 
 
-![cochineal-dyes](../images/cochineal-dyes.png?raw=true)
+![cochineal-dyes](/images/cochineal-dyes.png?raw=true)
 
-![cochineal-paintings](../images/cochineal-paintings.png?raw=true)
+![cochineal-paintings](/images/cochineal-paintings.png?raw=true)
 
 ## Historical recipe example for cochineal dye
 
@@ -75,7 +75,7 @@ Refer also to:
 - Handout: [Dyeing Instructions: General Mordant and Dye Process](sp23_handout_dyeing-textiles_general-process.pdf)
 - [Presentation: Dyeing: Step-by-Step Instructions](rosenkranz_2018_dyes_cochineal-step-by-step.pdf)
 
-![dye-process-overview](../images/dye-process.JPG?raw=true) 
+![dye-process-overview](/images/dye-process.JPG?raw=true) 
 
 ### Recipe Measurements
 Recipes for dyeing textiles often list ratios rather than outright amounts. The weight of textile will determine how much of the other ingredients are needed. The ratios below are provided for 1g of textile. To know how much of the mordant, water, cochineal, and optional additive are needed, first weigh the textiles you plan to dye then multiply that amount by the ratios below. For example, if your textile weigh 10g, you will need 1.25g cochineal and 625ml water.
@@ -164,7 +164,7 @@ You can also use:
 - When the water runs clear over the textiles and no color comes off the textiles, wring out excess water
 - Lay out the textiles to dry
 
-![dye-samples](../images/dye-samples.JPG?raw=true)
+![dye-samples](/images/dye-samples.JPG?raw=true)
 
 ## An alternative method to using hotplates and beakers
 If you do not have access to hotplates and heat-safe glass beakers, there are other options.
@@ -172,7 +172,7 @@ If you do not have access to hotplates and heat-safe glass beakers, there are ot
 ### Dedicated pots
 One alternative method is to use dedicated stainless steel or ceramic pots. While most natural colorants are not actively harmful, it is still best practice to avoid consuming them. Some mordants can react with and degrade the surface of cookware, so it is especially important to use pots you will not also use to cook with. To avoid very serious reactions, use stainless steel or ceramic cookware.
 
-![dye-pots](../images/dye-pots.JPG?raw=true)
+![dye-pots](/images/dye-pots.JPG?raw=true)
 
 
 ### Bain-marie
@@ -196,7 +196,7 @@ Another method is to use a water bath or bain-marie (see this [cooking blog](htt
 - Because water boils and begins to evaporate at 100 °C, your solutions will never exceed 100 °C, the temperature at which the colorants can begin to degrade. This is an easy way to prepare solutions without a thermometer and ensure you are not reaching high temperature levels
 - If the water in the pot begins to boil or simmer violently, your jars will start to shake and move around the pot. If this happens, it is a sign to turn your heat down
 
-![dyes-bain-marie](../images/dyes-bain-marie.JPG?raw=true)
+![dyes-bain-marie](/images/dyes-bain-marie.JPG?raw=true)
 
 ## Sourcing materials
 

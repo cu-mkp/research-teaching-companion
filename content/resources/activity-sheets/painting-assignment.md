@@ -6,13 +6,13 @@ _Last updated 2021-05-13 by NJR_<br>
 
 A downloadable version of this assignment: [[PDF](painting_assignment_downloadable_2021.pdf)]
 
-![painting-header](../images/painting-header.png?raw=true)
+![painting-header](/images/painting-header.png?raw=true)
 
 ## Paint = Pigment + Binding Media
 
 Refer to [Presentation: Introduction to Pigments &amp; Paints](introduction-paints-pigments_njr_2021.pdf)
 
-![painting-pigment+binding-media](../images/painting-pigment+binding-media.png?raw=true)
+![painting-pigment+binding-media](/images/painting-pigment+binding-media.png?raw=true)
 
 ## Overview of Activity
 
@@ -141,7 +141,7 @@ You have been provided with mixed media paper and paint brushes. You will first 
 | Pigment 2 E.g., azurite, natural standard (Kremer #10200, 0 - 120 µ) |                                                   |                                                                 |                                          |
 | Pigment 3 E.g., yellow ochre (Earth Pigments, Colonial Yellow)       |                                                   |                                                                 |                                          |
 
-![pigment-card](../images/pigment-card.png?raw=true)
+![pigment-card](/images/pigment-card.png?raw=true)
 
 ## Questions for Consideration
 

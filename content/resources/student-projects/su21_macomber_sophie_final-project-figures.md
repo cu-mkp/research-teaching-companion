@@ -6,7 +6,7 @@ _Summer 2021_
 
 Have you ever tried following a new recipe that didn&#39;t have any pictures? Not even a picture of the end result? It&#39;s hard, right?! While pictures might seem to add clutter when you&#39;re just trying to figure out how much water to add to four cups of flour or exactly to what temperature the oven needs to be set, they can be meaningful tools for communicating other kinds of information, and their use in instruction manuals and notebooks dates back centuries (see also Leonardo Da Vinci&#39;s notebooks for a contemporaneous example of the use of figures), as can be seen in Ms. Fr. 640, a sixteenth-century collection of practical techniques.
 
-| ![su21-macomber-94r-sword-guard](../images/su21-macomber-94r-sword-guard.png?raw=true) | ![su21-macomber-112r-equipment-sand-molds](../images/su21-macomber-112r-equipment-sand-molds.png?raw=true)                                          |
+| ![su21-macomber-94r-sword-guard](/images/su21-macomber-94r-sword-guard.png?raw=true) | ![su21-macomber-112r-equipment-sand-molds](/images/su21-macomber-112r-equipment-sand-molds.png?raw=true)                                          |
 |----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Folio 94r: Furbisher** <br> Sword guard.                                               | **Folio 112r: For Tempering Sand** <br>Equipment for making sand molds, including bowls, spoon, brushes, clay bases and walls, a snake, and a lizard. |
 
@@ -18,7 +18,7 @@ So much of our daily lives, and particularly modern academia, is deeply rooted i
 
 When exploring texts on the making of products or commodities, this is frequently the case. Historical texts in particular rely on a wealth of common knowledge that is assumed to be known by the practitioner, which has since been lost to time; therefore, many of the instructions that we might expect to find within a recipe today are missing. For example, the recipe for making Bisket Bread in _The Good Housewives Jewel_, a 1587 culinary text by Thomas Dawson, contains no measurements of liquids used in the recipe, leaving us in our attempt at reconstructing the recipe to guess whether we had gotten it right.
 
-| ![su21-macomber-bisket-bread](../images/su21-macomber-bisket-bread.png?raw=true) | ![su21-macomber-partner-bisket-bread](../images/su21-macomber-partner-bisket-bread.png?raw=true) |
+| ![su21-macomber-bisket-bread](/images/su21-macomber-bisket-bread.png?raw=true) | ![su21-macomber-partner-bisket-bread](/images/su21-macomber-partner-bisket-bread.png?raw=true) |
 |----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | **My interpretation of Bisket Bread**                                            | **My Partner’s Interpretation of Bisket Bread**                                                  |
 
@@ -35,7 +35,7 @@ This sort of practical knowledge, the insights gleaned from hands-on recreations
 
 While these reconstructions can be useful in order to understand these texts in a laboratory setting, this approach can be limited in a practical sense. When performing our own reconstructions of recipes within Ms. Fr. 640, we must often make assumptions about the true meaning of the author-practitioner. For example, in reconstructing the process of molding from bread, which used the soft inner part of the bread known as the &quot;pith&quot; as our mold, we had to make decisions on whether to remove the pith from the crust or to simply leave it in. I personally had greater success not removing the pith; however, it is unclear whether this decision would have been supported by the author-practitioner.
 
-| ![su21-macomber-breadmolds-with-wax](../images/su21-macomber-breadmolds-with-wax.png?raw=true) | ![su21-macomber-breadmolds-casts-wax](../images/su21-macomber-breadmolds-casts-wax.png?raw=true) |
+| ![su21-macomber-breadmolds-with-wax](/images/su21-macomber-breadmolds-with-wax.png?raw=true) | ![su21-macomber-breadmolds-casts-wax](/images/su21-macomber-breadmolds-casts-wax.png?raw=true) |
 |------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | **Bread molding with pith remaining in crust and with pith removed from crust**                | **Resulting cast wax objects**                                                                   |
 
@@ -49,17 +49,17 @@ Images and figures offer a middle ground between the often insufficient text and
 
 Within Ms. Fr. 640, the author-practitioner provides 162 hand-drawn figures to aid his reader (or perhaps himself?). Entries with these figures make up a minority of the 928 entries in the manuscript. Most of these figures illustrate aspects of processes described within the recipes. Half of these figures, 82 in total, are associated with a casting process. Perhaps this suggests that this category of entries is more complicated than the others, necessitating more figures in order for the future practitioners to replicate the recipes. Alternatively, it could be a sign that the author-practitioner is more familiar with the casting process and is thus more comfortable with providing further detail in figures.
 
-| ![su21-macomber-117r-plant-wax-stem](../images/su21-macomber-117r-plant-wax-stem.png?raw=true)                           | ![su21-macomber-160r-press-large-molds](../images/su21-macomber-160r-press-large-molds.png?raw=true)                                                   |
+| ![su21-macomber-117r-plant-wax-stem](/images/su21-macomber-117r-plant-wax-stem.png?raw=true)                           | ![su21-macomber-160r-press-large-molds](/images/su21-macomber-160r-press-large-molds.png?raw=true)                                                   |
 |--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Folio 117r: A means of molding flowers and plants** <br> Plant with wax on its stem that will form a gate for casting. | **Folio 160r: Press for the large molds** <br> Press for large molds composed of two square sheets between four poles connected at the top by a screw. |
 
 With 34 entries (not quite a quarter of the total), those relating to arms and armor have the second most figures. Almost half of these figures (15 in total) are related to the measurements or weights of cannon balls. This is followed by painting and then sleight of hand tricks.
 
-| ![su21-macomber-27r-medium-cannonball](../images/su21-macomber-27r-medium-cannonball.png?raw=true)               | ![su21-macomber-33r-hands-relighting-a-candle](../images/su21-macomber-33r-hands-relighting-a-candle.png?raw=true)       |
+| ![su21-macomber-27r-medium-cannonball](/images/su21-macomber-27r-medium-cannonball.png?raw=true)               | ![su21-macomber-33r-hands-relighting-a-candle](/images/su21-macomber-33r-hands-relighting-a-candle.png?raw=true)       |
 |------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
 | **Folio 27r: Medium ball** <br> Circle that encloses its label representing the caliber of a medium cannon ball. | **Folio 33r: For relighting an extinguished candle between  your hands without blowing** <br> Hands relighting a candle. |
 
-![su21-macomber-distribution-of-figures](../images/su21-macomber-distribution-of-figures.png?raw=true)
+![su21-macomber-distribution-of-figures](/images/su21-macomber-distribution-of-figures.png?raw=true)
 
 _See [su21_macomber_figures.R](../code/su21_macomber_figures.R) for sourcecode of this chart._
 
@@ -69,13 +69,13 @@ While breaking down the figures by category allows us to gain information about 
 
 The figures within the manuscript vary in size. Most can be characterized as small (75 figures) or extra small (53 figures) rather than large (10 figures) or medium (24 figures). This suggests that the figures might be meant to enhance or supplement the text of the entries rather than being the main focus.
 
-| ![su21-macomber-113r-snake-arranged-for-lifecasting](../images/su21-macomber-113r-snake-arranged-for-lifecasting.png?raw=true)                                                 | ![su21-macomber-3v-distillation-vessel](../images/su21-macomber-3v-distillation-vessel.png?raw=true) |
+| ![su21-macomber-113r-snake-arranged-for-lifecasting](/images/su21-macomber-113r-snake-arranged-for-lifecasting.png?raw=true)                                                 | ![su21-macomber-3v-distillation-vessel](/images/su21-macomber-3v-distillation-vessel.png?raw=true) |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
 | **Fol. 113r: Making the arrangement and disposition of the animal** <br> A dead snake arranged for lifecasting on clay slab, held in place with pins <br> _Extra Small Figure_ | **Fol. 3v: Thick varnish for planks** <br> Distillation vessel <br> _Medium Figure_                  |
 
 The figures in the manuscript also vary in where they are physically located on the page. While most of the figures (97 figures) are drawn in the margins of the page, 65 of the figures are drawn within the entry itself. This can potentially shed valuable light on how the author-practitioner values the images: images that are directly integrated into the text of the manuscript might be deemed more vital for someone attempting to replicate the recipe, while the figures in the margins might be helpful but not entirely necessary. It&#39;s possible that the character of entries with the figures integrated into the main body of text would be fundamentally altered without the figure.
 
-| ![su21-macomber-61r-double-walled-funnel](../images/su21-macomber-61r-double-walled-funnel.png?raw=true)    | ![su21-macomber-33v-paintbrush-and-portrait-panel](../images/su21-macomber-33v-paintbrush-and-portrait-panel.png?raw=true)                                                   |
+| ![su21-macomber-61r-double-walled-funnel](/images/su21-macomber-61r-double-walled-funnel.png?raw=true)    | ![su21-macomber-33v-paintbrush-and-portrait-panel](/images/su21-macomber-33v-paintbrush-and-portrait-panel.png?raw=true)                                                   |
 |-------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Fol. 61r: Lights** <br> Double-walled iron funnel with labels 'a,' 'b,' and 'c.' <br> _Figure in Margins_ | **Folio 33v: For making blood or wine issue from someone's forehead or from a wall** <br> Paintbrush and its shadow with portrait on panel. <br> _Figure Integrated in Text_ |el with labels &#39;a,&#39; &#39;b,&#39; and &#39;c.&#39;_Figure in Margins_ |
 
@@ -85,7 +85,7 @@ On the other hand, the integration of the figures within the manuscript can tell
 
 Similarly the relation between the figures and text and the author-practitioner&#39;s composition process becomes clear in the entry on folio 64v, &quot;Apprenticeship of the Painter.&quot; The author-practitioner writes &quot;One also presents him with these strokes &amp; lines&quot; and provides a figure that illustrates the said strokes and lines (folio 64v); however, between that text and the figure, the author-practitioner inserts additional text that explains the figure in further detail. From this, it appears that the author-practitioner wrote the quoted passage and drew the figure before adding further elaboration later, perhaps because he assumed the figure was not sufficiently explanatory. For a more detailed evaluation of the image and text on fol. 64v, take a look at Wenrui Zhao&#39;s essay on the [Apprenticeship of the Painter](https://edition640.makingandknowing.org/#/essays/ann_035_sp_16).
 
-| ![su21-macomber-16r-furnace-blast-pipes-bellows](../images/su21-macomber-16r-furnace-blast-pipes-bellows.png?raw=true) | ![su21-macomber-64v-forms-for-painting-bodies](../images/su21-macomber-64v-forms-for-painting-bodies.png?raw=true) |
+| ![su21-macomber-16r-furnace-blast-pipes-bellows](/images/su21-macomber-16r-furnace-blast-pipes-bellows.png?raw=true) | ![su21-macomber-64v-forms-for-painting-bodies](/images/su21-macomber-64v-forms-for-painting-bodies.png?raw=true) |
 |------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | **Folio 16r: Founding of soft iron** <br> Furnace with blast pipe and bellows.                                         | **Fol. 64v: Apprenticeship of the painter** <br> Three forms for drawing figures with faint outlines of bodies.    |
 
@@ -93,7 +93,7 @@ Similarly the relation between the figures and text and the author-practitioner&
 
 How useful are these figures anyway? While further work is needed to fully explore the use of these images, such as which figures serve as illustrations or which serve as diagrams, it is clear that these figures were made with a practical purpose in mind. For example, the figure in &quot; A means to make the gate for small female lizards&quot; (folio 124v), which is a recipe for lifecasting a lizard, makes little sense to a reader unfamiliar with the art of lifecasting; however, as Professor Smith found in her work in reconstructing this recipe, it would have been almost impossible to replicate the recipe without the image. Thus, the images do serve a practical purpose, particularly for those with some familiarity with the content of the recipe.
 
-| ![su21-macomber-124v-lizard-mold-for-casting](../images/su21-macomber-124v-lizard-mold-for-casting.png?raw=true)   |
+| ![su21-macomber-124v-lizard-mold-for-casting](/images/su21-macomber-124v-lizard-mold-for-casting.png?raw=true)   |
 |--------------------------------------------------------------------------------------------------------------------|
 | **Folio 124v: A means to make the gate for small female lizards** <br> Mold of a lizard with channels for casting. |
 
