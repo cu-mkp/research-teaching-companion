@@ -1,8 +1,10 @@
 ---
-title: "Making &amp; Knowing Syllabi"
+title: "Making and Knowing Syllabi"
 draft: false
 weight: 10
 ---
+The Making and Knowing Project taught hands-on courses from 2014. Where students in the course Craft and Science: Making Objects in the Early Modern World, taught 2014-18, conducted text-, object-, and laboratory-based research that resulted in essays included in the edition, our students in Making and Knowing in Early Modern Europe: Hands-On History, taught since 2021, explored Secrets of Craft and Nature to create projects—involving all kinds of research—that extend the content of the edition in creative and sometimes surprising ways. Our syllabi for courses that integrate methods and tools of digital scholarship provide information about minimal computing and the open access technology that underlie the edition and our digital publication tool, EditionCrafter.
+All these syllabi are provided for inspiration, to suggest readings and model the integration of hands-on activities with substantive discussion of relevant texts. Student projects [LINK] from 2021-2023 for each semester can be consulted by instructors and students for inspiration and to consider the many ways to engage with Ms. Fr. 640 and its digital edition.
 
 ## HIST GR8906: Craft and Science: Making Objects in the Early Modern World
 
