@@ -80,15 +80,16 @@ monogram, in the lower left corners of the figures below), it was not a
 forgery.
 
 {{< img src="/images/media-lang/image1.jpg" alt="IMAGE" width="500" height="300" >}}
-![IMAGE](/images/media-lang/image2.jpg)
 
-LEFT: Albrecht Dürer, *Christ Taking Leave of His Mother, from The Life
+Albrecht Dürer, *Christ Taking Leave of His Mother, from The Life
 of the Virgin,* ca. 1504. Woodcut, sheet: 11 3/4 x 8 1/4 in. (29.8 x 21
 cm). The Metropolitan Museum of Art, New York, Rogers Fund, 1918.
 18.65.12,
 [<u>https://www.metmuseum.org/art/collection/search/387875</u>](https://www.metmuseum.org/art/collection/search/387875)
 
-Right: Marcantonio Raimondi, *Christ Taking Leave of His Mother, from The Life of the Virgin, after Albrecht Dürer,* c. 1506. Engraving. 292 x 211mm. Christchurch Art Gallery Te Puna o Waiwhetū, Christchurch, New Zealand. Sir Joseph Kinsey bequest. 69/279, [<u>https://christchurchartgallery.org.nz/collection/69279/item/christ-taking-leave-of-his-mother-from-the-life-of</u>](https://christchurchartgallery.org.nz/collection/69279/item/christ-taking-leave-of-his-mother-from-the-life-of).
+![IMAGE](/images/media-lang/image2.jpg)
+
+Marcantonio Raimondi, *Christ Taking Leave of His Mother, from The Life of the Virgin, after Albrecht Dürer,* c. 1506. Engraving. 292 x 211mm. Christchurch Art Gallery Te Puna o Waiwhetū, Christchurch, New Zealand. Sir Joseph Kinsey bequest. 69/279, [<u>https://christchurchartgallery.org.nz/collection/69279/item/christ-taking-leave-of-his-mother-from-the-life-of</u>](https://christchurchartgallery.org.nz/collection/69279/item/christ-taking-leave-of-his-mother-from-the-life-of).
 
 Though there is no evidence that Raimondi used counterproofing here (in
 fact, many sources applaud him for his painstaking detail in copying
