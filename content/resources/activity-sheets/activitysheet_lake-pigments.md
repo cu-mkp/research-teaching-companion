@@ -82,7 +82,13 @@ Lakes can be made from a variety of natural colorants. Natural colorants can be 
 ![materials-wlmg-collection-5](../images/materials-wlmg-collection-5.png?raw=true)
 
 
-### Teaching lake pigments using Ms. Fr. 640
+### Teaching Lake Pigments
+#### Lake-Making in the Classroom
+     - [Making Lake Pigment from Cochineal]({{<ref "pigment-cochineal-lake_assignment" >}}) - hands-on lesson plan and assignment for transforming natural colorants in cochineal insects into a pigment (2021-09-27)
+     - [Making Lake Pigment from Madder]({{<ref "pigment-madder-lake_assignment" >}}) - hands-on lesson plan and assignment for transforming natural colorants in madder roots into a pigment (2022-01-29)
+     - [Making Pigment from Madder: a Trio of Recipes]({{<ref "sp22_fld_rosenkranz_naomi_madder-lake-trio" >}}) - helpful step-by-step fieldnotes  (2022-07-19) (WIP)
+
+#### Lakes in Ms. Fr. 640
 
 There are no recipes for making lake pigments in Ms. Fr. 640. There are, however, numerous references to lake pigments across the manuscript. 
 
