@@ -12,7 +12,7 @@ Images appear throughout this lesson plan. These will be printed out in a full s
 In August 2023, I led the workshop in a high school environmental science class. We tie-dyed cotton bandanas, which led to a fun array of patterns. Students asked a lot of questions about the mordant process, and liked talking about this project from a sustainability perspective. 
 
 ## Teaching Materials
-- Presentation on Cochineal [[PDF]({{< ref "sp23_brown_reece_final-project_dye-workshop-presentation.pdf" >}})] [[PPTX](s{{< ref "p23_brown_reece_final-project_dye-workshop-presentation.pptx" >}})]
+- Presentation on Cochineal [[PDF]({{< ref "sp23_brown_reece_final-project_dye-workshop-presentation.pdf" >}}) [PPTX]({{< ref "p23_brown_reece_final-project_dye-workshop-presentation.pptx" >}})
 - [Student Lab Guide]({{< ref "sp23_brown_reece_final-project_dye-workshop-student-lab-guide" >}}) (also available as [PDF](sp23_brown_reece_final-project_dye-workshop-student-lab-guide.pdf))
-- [Instructor Lab Guide]({{< ref "sp23_brown_reece_final-project_dye-workshop-instructor-lab-guide" >}})) (also available as [PDF]({{< ref "sp23_brown_reece_final-project_dye-workshop-instructor-lab-guide.pdf" >}})))
+- [Instructor Lab Guide]({{< ref "sp23_brown_reece_final-project_dye-workshop-instructor-lab-guide" >}})) (also available as [PDF]({{< ref "sp23_brown_reece_final-project_dye-workshop-instructor-lab-guide.pdf" >}})
 - [Pictures from the workshop held in August 2023](https://photos.google.com/share/AF1QipPQ-ckzEr4N6hcVK2boj-QeGYtMzrFdKhrt0fgxMf7iBe-v1HOC3bSXoPVSoiF-IQ?key=akFJYk94VHdoRmxCeUphaGJzY3pxRnRWYW9NRVdn)
