@@ -1,4 +1,4 @@
-> Last updated 2024-04-14 by NJR & THC
+> Last updated 2024-04-26 by NJR & THC
 
 # Publishing to the Research and Teaching Companion Site
 The publicly-available [Research and Teaching Companion (RTC) Site](https://cu-mkp.github.io/research-teaching-companion/) is powered through Github Pages. Input for site content is in Github-flavored Markdown. Whenever possible and appropriate, resources and pages for the Sandbox site should be in Markdown.
