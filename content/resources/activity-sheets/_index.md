@@ -1,5 +1,5 @@
 ---
-title: "Activity Sheets"
+title: "Lesson Plans for Hands-on"
 draft: false
 weight: 20
 ---
