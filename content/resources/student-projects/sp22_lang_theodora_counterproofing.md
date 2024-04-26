@@ -79,7 +79,7 @@ mark of the publishing house (though keeping Dürer’s easily recognizable
 monogram, in the lower left corners of the figures below), it was not a
 forgery.
 
-![IMAGE](/images/media-lang/image1.jpg =500x300)![IMAGE](/images/media-lang/image2.jpg)
+![IMAGE](/images/media-lang/image1.jpg width=500px height=300px)![IMAGE](/images/media-lang/image2.jpg)
 
 Left: Albrecht Dürer, *Christ Taking Leave of His Mother, from The Life
 of the Virgin,* ca. 1504. Woodcut, sheet: 11 3/4 x 8 1/4 in. (29.8 x 21
