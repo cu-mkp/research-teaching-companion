@@ -1,5 +1,5 @@
 ---
-title: "Using M&K Resources"
+title: "Using M&amp;K Resources"
 draft: false
 weight: 30
 ---
