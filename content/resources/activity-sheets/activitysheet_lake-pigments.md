@@ -14,3 +14,20 @@ If you are not already familiar with historical pigments and natural colorants, 
 See also [Presentation: Introduction to Pigments &amp; Paints](./introduction-paints-pigments_njr_2021.pdf).
 
 [![Presentation: Cochineal Lake: History, Chemistry, and Preparation](../images/cochineal-presentation.png?raw=true)](./rosenkranz_2021_lakes_cochineal-history-chem-prep.pdf)
+
+### Pigments
+
+Pigments are colored, insoluble particles that, when combined with a binding medium, create paint that can then be applied to a substrate. Historically, most pigments were sourced from the natural environment, including from plants, insects, stones, and dirt. Since the eighteenth century, the synthesis of pigments in industrial settings has become very common, ensuring consistent quality and new formulations.
+
+In the context of Ms. Fr. 640, pigments are most often encountered as components of paint. In short:
+Pigment + Binding Media = Paint
+
+![pigment-particles-in-binding-media]({{<ref "pigment-particles-in-binding-media.jpg" >}})
+For more on paint making, refer to [Presentation: Introduction to Pigments &amp; Paints](introduction-paints-pigments_njr_2021.pdf)
+
+![painting-pigment+binding-media](/images/painting-pigment+binding-media.png?raw=true)
+
+
+### Natural Pigments
+
+In general, there are three broad types of natural pigments: mineral, earth, and organic. Mineral pigments typically come from mineral ores, semi-precious stones, and even gemstones. Their color is a function of their particular metal content
