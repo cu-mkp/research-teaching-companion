@@ -17,7 +17,7 @@ information as it occurred to him as he went about his life? Was Ms. Fr.
 date before publication or wider
 circulation?
 
-![IMAGE](/media-fox/su21_fox_mackenzie_final-project-disorganization_image5.png)
+![IMAGE](/images/media-fox/su21_fox_mackenzie_final-project-disorganization_image5.png)
 
 As these questions suggest, it is not clear how much importance — let
 alone what sort of importance — should be ascribed to the coverage and
@@ -90,7 +90,7 @@ but the workshop represents all things active,”[^7] suggesting that he
 rejected its placement of philosophy atop all other forms of knowledge,
 including the practical sort with which he was chiefly concerned.
 
-![IMAGE](/media-fox/su21_fox_mackenzie_final-project-disorganization_image1.jpg)
+![IMAGE](/images/media-fox/su21_fox_mackenzie_final-project-disorganization_image1.jpg)
 
 > Fig. 2. <em>Tabula Cebetis (The Tabula of Cebes or The Journey of Human Life)</em>, Netherlandish, 1573. Oil on panel, 119.5 x 177 cm. Rijksmuseum, Amsterdam, SK-A-2372.Permalink: <a href="http://hdl.handle.net/10934/RM0001.COLLECT.4688"><u>http://hdl.handle.net/10934/RM0001.COLLECT.4688</u></a> (<a href="https://creativecommons.org/publicdomain/zero/1.0/"><u>CC0 1.0</u></a>).<br>
 > 
@@ -147,7 +147,7 @@ past they had governed; they are: The Book of Changes 易經, The Book of
 Odes 詩經, The Book of Documents 書經, The Book of Rites 禮記, and The
 Spring and Autumn Annals 春秋.
 
-![IMAGE](/media-fox/su21_fox_mackenzie_final-project-disorganization_image3.jpg)
+![IMAGE](/images/media-fox/su21_fox_mackenzie_final-project-disorganization_image3.jpg)
 
 > Fig. 3. Du, Yu, 222-284, Yaosou Lin, Quan Yang, and Chinese Rare Book Collection. <em>Chun qiu Zuo zhuan: san shi juan.</em> Chengdu fu zhi fu: yang quan, ming jiajing, between 1523 and 1566, 1523. Image. [https://www.loc.gov/item/00510379/](https://www.loc.gov/item/00510379/).<br>
 >
@@ -198,7 +198,7 @@ of the evidence considered; this tentative tone, leaving open the
 possibility that further information could alter a preliminary judgment
 is also quite common. *Biji* often stop short of definitive judgments.
 
-![IMAGE](/media-fox/su21_fox_mackenzie_final-project-disorganization_image2.jpg)
+![IMAGE](/images/media-fox/su21_fox_mackenzie_final-project-disorganization_image2.jpg)
 
 > Fig. 4. A pufferfish in a tank at a restaurant in Nagoya, Japan. Wikimedia Commons contributors, "File:Fugu in Tank.jpg," <em>Wikimedia Commons, the free media repository,</em> <a href="https://commons.wikimedia.org/w/index.php?title=File:Fugu_in_Tank.jpg&amp;oldid=485810013"><u>https://commons.wikimedia.org/w/index.php?title=File:Fugu_in_Tank.jpg&amp;oldid=485810013</u></a> (accessed June 21, 2021).
 
@@ -220,7 +220,7 @@ that address philological problems, discussions of physiognomy, tales of
 the supernatural, musings on where the best wine in the country is to be
 found, etc.
 
-![IMAGE](/media-fox/su21_fox_mackenzie_final-project-disorganization_image4.jpg)
+![IMAGE](/images/media-fox/su21_fox_mackenzie_final-project-disorganization_image4.jpg)
 
 > Fig. 5. Two pages from a 17th-century <em>biji</em>; the entry-based structure typical of the genre is clearly visible here. Wang, Shizhen, Tinglun Zhi, and Chinese Rare Book Collection. Chi Bei Ou Tan: Er Shi Liu Juan. \[Fujian Tingzhou fu: Zhi Tinglun, Qing Kangxi 30 nian, i.e, 1691\] Image. [https://www.loc.gov/item/2012402038/](https://www.loc.gov/item/2012402038/).
 

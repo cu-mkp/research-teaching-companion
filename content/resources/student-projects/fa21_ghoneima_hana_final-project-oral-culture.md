@@ -78,12 +78,12 @@ word “said” was used 198 times, of which 8.6% (n=17) specifically
 reference something which another person said (*Fig. 2*). However, there
 were no instances of this with the words “hear” and “heard.”
 
-![Fig 1/images/media-ghoneima/image5.png)
+![Fig 1/images/images/media-ghoneima/image5.png)
 
 *Fig 1*. Percentage of entries using the word “say” which reference oral
 transmission (‘*yes’*) versus those which do not (‘*no’*).
 
-![Fig 2/images/media-ghoneima/image6.png) style="width:6.10332in;height:3.77in" alt="Chart"
+![Fig 2/images/images/media-ghoneima/image6.png) style="width:6.10332in;height:3.77in" alt="Chart"
 
 *Fig 2*. Percentage of entries using the word “said” which reference
 oral transmission (‘*yes’*) versus those which do not (‘*no’*).
@@ -140,13 +140,13 @@ another location, while 72.2% (n=192) do not. Entries labeled ‘no’ are
 usually general discussions of the profession/place or other
 miscellaneous uses (*Fig. 4*).
 
-![Chart](./media-ghoneima/image4.png)
+![Chart](./images/media-ghoneima/image4.png)
 
 *Fig 3*. Percentage of entries tagged with “pro” which show evidence of
 oral transmission of knowledge (‘*yes’*) versus those which do not
 (‘*no’*).
 
-![Chart](./media-ghoneima/image3.png)
+![Chart](./images/media-ghoneima/image3.png)
 
 *Fig 4*. Percentage of entries tagged with “pl” which show evidence of
 oral transmission of knowledge (‘*yes’*) versus those which do not
@@ -177,12 +177,12 @@ reference to how something is done in another place or profession, I
 broke down the categories according to the specific place/profession
 mentioned (*Fig. 5-6*).
 
-![Chart](./media-ghoneima/image1.png)
+![Chart](./images/media-ghoneima/image1.png)
 
 *Fig 5*. Breakdown of all places mentioned which included reference of
 oral transmission of knowledge.
 
-![Chart](./media-ghoneima/image2.png)
+![Chart](./images/media-ghoneima/image2.png)
 
 *Fig 6*. Breakdown of all professions mentioned which included reference
 of oral transmission of knowledge. For a description of all the

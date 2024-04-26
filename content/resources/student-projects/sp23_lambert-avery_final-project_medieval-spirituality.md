@@ -101,7 +101,7 @@ The Episcopalian rite differs slightly from the Catholic, but both
 blessings follow the same structure, recalling water’s baptismal
 association with rebirth and salvation.
 
-![IMAGE](/media-lambert/image2.jpg)
+![IMAGE](/images/media-lambert/image2.jpg)
 
 Fig. 1. The holy water, which I stored at my desk before use, brought a
 spiritual presence to my dorm room.
@@ -131,7 +131,7 @@ ended with a near-white, fluffy salve much like the final product Liu
 described. Below are two images comparing my congealing wax-oil mixture
 and my final salve.
 
-![IMAGE](/media-lambert/image1.jpg)![IMAGE](/media-lambert/image3.jpg)
+![IMAGE](/images/media-lambert/image1.jpg)![IMAGE](/images/media-lambert/image3.jpg)
 
 Fig. 2 and 3. The wax and oil transformed as I washed and mixed them, from a semi-solid, deep orange mixture to a voluminous, near-white salve.
 

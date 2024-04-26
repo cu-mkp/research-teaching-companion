@@ -56,7 +56,7 @@ its instructions on lifecasting.[^1]
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>![IMAGE](/media-christensen/image5.png)</p>
+<th><p>![IMAGE](/images/media-christensen/image5.png)</p>
 <p>Attributed to Bernard Palissy (French, about 1510 - 1590), <em>Oval Basin</em>, about 1550, Lead-glazed earthenware, 47.9 × 36.8 cm (18 7/8 × 14 1/2 in.), 88.DE.63, The J. Paul Getty Museum, Los Angeles.</p></th>
 </tr>
 </thead>
@@ -81,7 +81,7 @@ want to cast “female lizards entwined while biting each other” or
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>![IMAGE](/media-christensen/image3.png)</p>
+<th><p>![IMAGE](/images/media-christensen/image3.png)</p>
 <p>Illustration from Ms. Fr. 640, folio 122r, showing the arrangement of snakes for molding</p></th>
 </tr>
 </thead>
@@ -108,7 +108,7 @@ have been captured or killed.
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>![IMAGE](/media-christensen/image1.jpg)</p>
+<th><p>![IMAGE](/images/media-christensen/image1.jpg)</p>
 <p>Snake, lizard, frog and mouse, anonymous, c. 1550 - c. 1599 via Rijksmuseum database, <a href="http://hdl.handle.net/10934/RM0001.COLLECT.474284">http://hdl.handle.net/10934/RM0001.COLLECT.474284</a></p></th>
 </tr>
 </thead>
@@ -144,7 +144,7 @@ products of nature and man.”[^2]
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>![IMAGE](/media-christensen/image2.jpg)</p>
+<th><p>![IMAGE](/images/media-christensen/image2.jpg)</p>
 <p>Lifecast snake with plant in its mouth, Peter Kuster, Ewer and Basin, ca. 1550. Gilded silver, cast, chased, and partially painted. Cathedral Treasury, Dubrovnik, Croatia. Photo: Pamela H. Smith.</p></th>
 </tr>
 </thead>
@@ -179,7 +179,7 @@ Divya Anantharaman’s essay, "[Animals Dried in an Oven](https://edition640.mak
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>![IMAGE](/media-christensen/image4.png)</p>
+<th><p>![IMAGE](/images/media-christensen/image4.png)</p>
 <p>Taxidermied rats with wings, © Making and Knowing Project (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><u>CC BY-NC-SA</u></a>).</p></th>
 </tr>
 </thead>

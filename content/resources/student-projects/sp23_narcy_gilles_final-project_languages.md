@@ -98,7 +98,7 @@ between three most frequent languages on one hand (Latin, Occitan, and
 Poitevin), and three rarest ones on the other (German, Italian, and
 Greek) (Fig. 1).
 
-![IMAGE](/media-narcy/image3.png)
+![IMAGE](/images/media-narcy/image3.png)
 
 *Fig. 1. Number of occurrences per language*
 
@@ -107,7 +107,7 @@ only as single words, whereas Italian accounts for full sentences. It
 demonstrates that a close reading of the recipes remains necessary to
 interpret the data created.
 
-![IMAGE](/media-narcy/image4.png)
+![IMAGE](/images/media-narcy/image4.png)
 
 *Fig. 2. Total number of words per language*
 
@@ -127,7 +127,7 @@ language. In the case of German, I uniformized the spelling of “Spat”
 into “Spalt” to produce a coherent result. I then proceeded to plot the
 scores into a single bar-chart.
 
-![IMAGE](/media-narcy/image5.png)
+![IMAGE](/images/media-narcy/image5.png)
 
 *Fig. 3. Lexical diversity per language (TTR)*
 
@@ -172,11 +172,11 @@ universities, and casting could have military applications[^8] or serve
 to create precious objects for a *Kunstkammer*. Common life, on the
 contrary, is poorly transcribed into the language of elites.
 
-![categories-barplot](./media-narcy/image2.png)
+![categories-barplot](./images/media-narcy/image2.png)
 
 *Fig. 4. How many entries are tagged with each category*[^9]
 
-![Latin tag by category](./media-narcy/image1.png)
+![Latin tag by category](./images/media-narcy/image1.png)
 
 *Fig. 5. Tag count: Latin in the manuscript*[^10]
 
@@ -437,11 +437,11 @@ from the Languedoc area of Toulouse. In French linguistics, it is
 considered a *langue d’oïl*, a Northern language, but takes some words
 from Occitan, which is a Southern *langue d’oc*.
 
-![Occitan tag by category](./media-narcy/image6.png)
+![Occitan tag by category](./images/media-narcy/image6.png)
 
 *Fig. 6. Tag count: Occitan in the manuscript*[^24]
 
-![Poitevin tag by category](./media-narcy/image7.png)
+![Poitevin tag by category](./images/media-narcy/image7.png)
 
 *Fig. 7. Tag count: Poitevin in the manuscript*[^25]
 

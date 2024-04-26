@@ -6,7 +6,7 @@
 > Spring 2023<br>
 > HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History<br>
 
-![IMAGE](/media-brown/image4.png)
+![IMAGE](/images/media-brown/image4.png)
 
 ## Plant Based Dyes: The Chemistry of Cochineal
 
@@ -38,7 +38,7 @@ read in full to the classroom, but rather summarized in such a way that
 they are made accessible to high school aged audiences to introduce them
 to scholarly analysis of global commodities and their exchanges.
 
-![IMAGE](/media-brown/image14.png)
+![IMAGE](/images/media-brown/image14.png)
 
 ## Lesson Outline:
 
@@ -106,7 +106,7 @@ Textile : cochineal : water
 
 ### PROCEDURE 
 
-![IMAGE](/media-brown/image5.png)
+![IMAGE](/images/media-brown/image5.png)
 
 #### Mordant bath
 
@@ -126,7 +126,7 @@ Textile : cochineal : water
 
 -   Remove textiles, rinsing them thoroughly in cold water
 
-![IMAGE](/media-brown/image13.png)![IMAGE](/media-brown/image3.png)
+![IMAGE](/images/media-brown/image13.png)![IMAGE](/images/media-brown/image3.png)
 
 #### Extract Dye From Cochineal
 
@@ -144,7 +144,7 @@ Textile : cochineal : water
 
 -   After 30 minutes, remove dyestuffs in drawstring bag
 
-![IMAGE](/media-brown/image7.png)
+![IMAGE](/images/media-brown/image7.png)
 
 #### Dye Textiles
 
@@ -160,9 +160,9 @@ Textile : cochineal : water
 
 -   Lay out the textiles to dry
 
-![IMAGE](/media-brown/image6.png)
+![IMAGE](/images/media-brown/image6.png)
 
-![IMAGE](/media-brown/image11.png)
+![IMAGE](/images/media-brown/image11.png)
 
 ## NATURAL DYES 
 
@@ -254,7 +254,7 @@ plants where they become dispersed by the wind. Male crawlers tend to
 remain on the plant where they hatched. Males commonly disperse when
 they mature into winged adults.”[^4]
 
-![IMAGE](/media-brown/image2.png)
+![IMAGE](/images/media-brown/image2.png)
 
 Life cycle stages of Cochineal. Image created by Francisco Javier
 Roque-Rodríguez.[^5]
@@ -398,7 +398,7 @@ farmed, providing scientific drawings of the male and female bugs along
 with pictures illustrating the process: some of these can be seen below,
 sourced from Archivo General de la Nación de México.[^16]
 
-![IMAGE](/media-brown/image8.png)![IMAGE](/media-brown/image12.png)![IMAGE](/media-brown/image15.png)
+![IMAGE](/images/media-brown/image8.png)![IMAGE](/images/media-brown/image12.png)![IMAGE](/images/media-brown/image15.png)
 
 ### Discussion about images
 
@@ -494,17 +494,17 @@ situations?*
 COTTON BANDANA ([<u>Balec Solid 100% Cotton Unisex Bandana, white, 12
 pack</u>](https://www.amazon.com/Solid-100-Cotton-Unisex-Bandana/dp/B071VZV6CB/ref=asc_df_B071VZV6CB/?tag=hyprod-20&linkCode=df0&hvadid=312742504784&hvpos=&hvnetw=g&hvrand=4911526137365467502&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1019126&hvtargid=pla-569792806929&mcid=6504987c6c5e35fca84056f2626ca03d&gclid=CjwKCAiAsIGrBhAAEiwAEzMlC26o30d2pC7TIO0O8WOY5zfDxh9ciokzXev7eqrrDth_y9wi1SokqxoCGuEQAvD_BwE&th=1))
 
-![IMAGE](/media-brown/image1.png)
+![IMAGE](/images/media-brown/image1.png)
 
 ALUM POWDER ([<u>Hoosier Hill Farm Alum Granulated Pickle
 Powder</u>](https://www.amazon.com/Hoosier-Hill-Farm-Granulated-Pickle/dp/B00UVAG21A/ref=sr_1_4_sspa?keywords=alum&qid=1700821267&rdc=1&sr=8-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1))
 
-![IMAGE](/media-brown/image10.png)
+![IMAGE](/images/media-brown/image10.png)
 
 COCHINEAL([<u>Jacquard
 Cochineal</u>](https://www.amazon.com/Jacquard-Products-Cochineal-Natural-1-Ounce/dp/B00GJRSDMK/ref=sr_1_1?ie=UTF8&qid=1526217175&sr=8-1&keywords=cochineal))
 
-![IMAGE](/media-brown/image9.png)
+![IMAGE](/images/media-brown/image9.png)
 
 # Bibliography 
 

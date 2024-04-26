@@ -2,7 +2,7 @@
 
 Benjamin Weisgall
 
-![IMAGE](/media-weisgall/image1.png)
+![IMAGE](/images/media-weisgall/image1.png)
 
 *Screen capture from [<u>“How was it made? Plaster
 cast”</u>](https://www.youtube.com/watch?v=PHgEcPmCPUA&t=14s) by the V&A

@@ -7,7 +7,7 @@ Making and Knowing in Early Modern Europe: Hands-on History<br/>
 
 This project is directed toward Columbia College and General Studies students who have taken the course "Literature Humanities" ([Lit Hum](https://www.college.columbia.edu/core/lithum)) as part of [Columbia's Core Curriculum](https://www.college.columbia.edu/core/core) and want to see how an author/artisan from Renaissance Toulouse participates in their ongoing literary/scholarly conversations.
 
-![IMAGE](/media-arocho/image1.jpg)
+![IMAGE](/images/media-arocho/image1.jpg)
 
 > "Illuminated border in Herodotus: Historiae" by University of Glasgow Library is marked with CC BY-NC-SA 2.0.
 
@@ -107,7 +107,7 @@ text: experimentation.
 
 ## Folio 162r, “For the workshop”
 
-![IMAGE](/media-arocho/image2.png)
+![IMAGE](/images/media-arocho/image2.png)
 
 > 162r<br/>
 Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna
@@ -211,7 +211,7 @@ approach towards writing history, there are perhaps lessons to be
 shared, spread, and expanded upon in his work by readers or potential
 apprentices.
 
-![IMAGE](/media-arocho/image3.png)
+![IMAGE](/images/media-arocho/image3.png)
 
 > 166r<br/>
 > Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna
