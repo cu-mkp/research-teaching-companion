@@ -40,12 +40,12 @@ You can use the original name of the document in the title segment, but sanitize
 
 
 ### `[type]` values:
-  1. `syllabus`
-  2. `casestudy`
-  3. `activitysheet`
-  4. `project`
-  5. `reflection`
-  6. `digital`
+  1. `syllabus` = Making & Knowing Syllabi
+  2. `casestudy`= Using M&K Resources
+  3. `activitysheet`= Lesson Plans for Hands-On
+  4. `project` = Student Projects
+  6. `reflection` = Reflections on Hands-On
+  7. `digital` = Digital Fr. 640
 
 ### `[semester]` and `[year]` format:
 
@@ -80,13 +80,13 @@ Webpage: `activitysheet_[date]_[lastname]_[firstname]_[brief title or desription
 
 e.g., `activitysheet_sp22_azurite-preparation.md`
 
-#### 4. Project -- THESE ARE NAMED DIFFERENTLY TO ANYTHING ELSE
+#### 4. Project -- THESE ARE NAMED DIFFERENTLY TO THE OTHER TYPES
 
-Leave these with their current names
+Leave these with their current names which follow the protocols for naming in the [M&K Sandbox](https://github.com/cu-mkp/sandbox/blob/main/publishing-to-sandbox.md).
 
 Webpage: `[semester+year]_[last name]_[first name]_final-project_[short descriptive title].md`
 
-e.g,: sp22_nebolsin_victoria_final-project_animal-rationality.md
+e.g,: `sp22_nebolsin_victoria_final-project_animal-rationality.md`
 
 #### 5. Reflection
 
@@ -202,7 +202,9 @@ Markdown is the language used throughout Github and, as its name suggests, is a 
 
 [Links](https://github.com/cu-mkp/research-teaching-companion) = `[Links](https://github.com/cu-mkp/research-teaching-companion)`
 
-![image](https://github.com/cu-mkp/research-teaching-companion/assets/14779727/ab652440-8023-4085-9f66-d54a2bedfa93) = `![image](https://github.com/cu-mkp/research-teaching-companion/assets/14779727/176047d7-8b58-4ca6-8b87-1ccbabd2de48)` Or you can use html styling, `<img src="./images/image7.png" alt="A black and white drawing of a person holding a vase" />`
+![image](https://github.com/cu-mkp/research-teaching-companion/assets/14779727/ab652440-8023-4085-9f66-d54a2bedfa93) = `![image](https://github.com/cu-mkp/research-teaching-companion/assets/14779727/176047d7-8b58-4ca6-8b87-1ccbabd2de48)` 
+
+Or you can use html styling, `<img src="./images/image7.png" alt="A black and white drawing of a person holding a vase" />`
 
 
 Headings:
