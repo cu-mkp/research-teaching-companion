@@ -12,10 +12,9 @@ In short: lake pigments are made by extracting a dye from an organic material an
 
 If you are not already familiar with historical pigments and natural colorants, refer to [Presentation: Cochineal Lake: History, Chemistry, and Preparation](/documents/activity-sheets/rosenkranz_2023_lakes_cochineal-history-chem-prep.pdf) for more complete information and further explanation of natural colorants and lake pigments.
 
-See also [Presentation: Introduction to Pigments &amp; Paints](/documents/activity-sheets/introduction-paints-pigments_njr_2021.pdf).
-
 [![Presentation: Cochineal Lake: History, Chemistry, and Preparation](/images/cochineal-presentation.png)](/documents/activity-sheets/activity-sheets/presentation_sp23_rosenkranz_naomi_lakes_cochineal-history-chem-prep.pdf)
 
+See also [Presentation: Introduction to Pigments &amp; Paints](/documents/activity-sheets/introduction-paints-pigments_njr_2021.pdf).
 
 ### Pigments
 
