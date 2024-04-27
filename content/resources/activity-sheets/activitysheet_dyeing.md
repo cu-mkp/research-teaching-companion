@@ -24,3 +24,44 @@ The most common mordant is aluminum, typically in the form of alum (aluminum pot
 ![mordant-process](/images/mordant-process.JPG?raw=true)
 
 > Jo Kirby et al, _Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources_ (Archetype, London, 2014).
+
+### Historical Recipe and its Modernization
+
+The recipe below is for a mordant dye made from the scale insect cochineal. 
+
+_De' secreti del reverendo signore Alessio Piemontese_ (1558) as translated from the Dutch in Jo Kirby et al, _Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources_ (Archetype, London, 2014), 37–38.
+
+> _To dye silk carmine._ First, you will rasp or scratch hard soap very finely, and let them [the soap shavings] dissolve in plain water; after that put your silk in a small bag made of linen or fine canvas, and put it in a kettle with the aforesaid soap and water. Let this boil for half an hour, moving it around regularly so it does not burn, then take it from the fire, wash it in salt water, and after that in sour water. Take also to every pound of silk a pound or more of rock alum dissolved in cold water, and be sure there is enough water; wherein you will put your silk without any bag, and let it lay therein without fire for eight hours. Then take it out, wash it in fresh water, then in salt water, and then again in fresh water, and do not let it dry but put it all wet into a kettle with the carmine well pestled and sieved, that is, three ounces for each pound of silk… And when it starts boiling then put in the silk prepared as above, and let it boil for a quarter of an hour. At last you will take it from the fire, and let it dry in the shade, and you will have a very excellent dyeing.
+
+Below, you will find a standardized recipe has been adapted from Chapter 5, "Recipes," of Jo Kirby et al, _Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources_ (Archetype, London, 2014). **NJR: Is Jo's recipe based on Piemontese?** It includes potash (potassium carbonate) as an optional additive. Potash is not typically found in recipes for cochineal because it results in a paler color.
+
+Recipes for dyeing textiles often list ratios rather than outright amounts. The weight of textile will determine how much of the other ingredients are needed. The ratios below are provided for 1g of textile. To know how much of the mordant, water, cochineal, and optional additive are needed, first weigh the textiles you plan to dye then multiply that amount by the ratios below. For example, if your textile weigh 10g, you will need 1.25g cochineal and 625ml water.
+
+You can also use: 
+- [Activity Sheet: Calculating ratios and amount of material needed](rosenkranz_2019_dyes_handout_reconstruction-exchange_dyeing-with-natural-colorants.pdf) 
+
+**Mordant: Alum**
+
+| Material | Amount /1g (g) |
+| -------- | -------------- |
+|  textile |      1.00      |
+|   alum   |      0.20      |
+|   water  |      50.00     |
+
+
+**Cochineal**
+
+|      Material     | Amount /1g (g) |
+| ----------------- | -------------- |
+|      textile      |      1.00      |
+|     cochineal     |      0.125     |
+| potash (optional) |     0.0625     |
+|       water       |      62.50     |
+
+
+Refer also to: 
+- Handout: [Dyeing Instructions: General Mordant and Dye Process](sp23_handout_dyeing-textiles_general-process.pdf)
+- [Presentation: Dyeing: Step-by-Step Instructions](rosenkranz_2018_dyes_cochineal-step-by-step.pdf)
+
+![dye-process-overview](/images/dye-process.JPG?raw=true) 
+
