@@ -23,7 +23,7 @@ Pigments are colored, insoluble particles that, when combined with a binding med
 
 Pigments are most often encountered as a component of paint. In short: Pigment + Binding Media = Paint
 
-{{< figure src="./pigment-particles-in-binding-medium.jpg" alt="pigment-particles-in-binding-medium" >}}
+{{< figure src="/images/pigment-particles-in-binding-medium.jpg" alt="pigment-particles-in-binding-medium" >}}
 
 For more on paint making, refer to [Presentation: Introduction to Pigments &amp; Paints](introduction-paints-pigments_njr_2021.pdf)
 
