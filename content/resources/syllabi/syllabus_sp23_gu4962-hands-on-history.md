@@ -1,3 +1,5 @@
+## HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History
+
 ![IMAGE](/images/media-syllabus-sp23-mk/image1.png)
 
 **HIST GU4962**
