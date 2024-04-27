@@ -21,9 +21,9 @@ Mulling is a mechanical process used to thoroughly combine a pigment with a bind
 
 
 #### Making Paint in the Classroom: Activity Sheets
-- Classroom activity sheet for paint making [pdf]({{<ref "painting_assignment_downloadable_2021.pdf" >}})
+- Classroom activity sheet for paint making [pdf]({{<ref "/documents/activity-sheets/painting_assignment_downloadable_2021.pdf" >}})
 
 #### Making Paint in the Classroom: Reflection Assignment
-- Paint-Making Lab Reflection Assignment [docx]({{<ref "uchacz_2024_lab2_reflection-assignment.docx" >}}) [pdf]({{<ref "uchacz_2024_lab2_reflection-assignment.pdf" >}})
+- Paint-Making Lab Reflection Assignment [docx]({{<ref "/documents/activity-sheets/uchacz_2024_lab2_reflection-assignment.docx" >}}) [pdf]({{<ref "/documents/activity-sheets/uchacz_2024_lab2_reflection-assignment.pdf" >}})
 
 
