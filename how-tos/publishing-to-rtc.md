@@ -156,17 +156,18 @@ Whenever we include links to external resources, we need to consider whether tho
 - If possible, if the resource is also stored in a digital repository (e.g., Academic Commons, JSTOR, Internet Archive), cite that location for the resource.
 - If you are citing a webpage that is not a formal pulication (such as a blog), look for a version in Internet Archive and include that link in addition to the original (e.g., but adding "archived at [link]). If there is no version available there, use the service provided by Internet Archive and the Wayback Machine to create an archivable link: [Save Pages in the Wayback Machine](https://help.archive.org/help/save-pages-in-the-wayback-machine/).
 
-
 ### Images, documents, and other media
 
 All non-markdown media should be placed in the `static/` directory. For ease of use, it is currently structured as two folders: `img` for images, and `documents` for all other media (e.g. `docx`, `pptx`, `pdf`).
 
 These work differently from the other internal links. Instead of the `ref` tag, just use normal Markdown link or image syntax, treating `static/` as the base of the URL. It is important that each URL includes a leading slash. For example:
 
-```markdown
-![stucco-molded](/images/stucco-molded.jpg)
-[PDF (student handout)](/documents/activity-sheets/stucco_assignment_student-handout.pdf)
-```
+Images
+- **preferred** - [figure shortcode](https://gohugo.io/content-management/shortcodes/#figure): `{{< figure src="./media-ghoneima/image3.png" alt="Chart" width="6.09314in" height="3.77in" >}}`
+- markdown: ![stucco-molded](/images/stucco-molded.jpg)
+
+Documents
+`[PDF (student handout)](/documents/activity-sheets/stucco_assignment_student-handout.pdf)`
 
 ### `_index.md` pages
 
@@ -201,11 +202,6 @@ Markdown is the language used throughout Github and, as its name suggests, is a 
 = `> quotes or blockquotes`
 
 [Links](https://github.com/cu-mkp/research-teaching-companion) = `[Links](https://github.com/cu-mkp/research-teaching-companion)`
-
-![image](https://github.com/cu-mkp/research-teaching-companion/assets/14779727/ab652440-8023-4085-9f66-d54a2bedfa93) = `![alt text for the image](/images/stucco-molded.jpg)` 
-
-Or you can use html styling, `<img src="./images/image7.png" alt="A black and white drawing of a person holding a vase" />`
-
 
 Headings:
 - `#` indicates a header. Add additional `#` to create nested headings
