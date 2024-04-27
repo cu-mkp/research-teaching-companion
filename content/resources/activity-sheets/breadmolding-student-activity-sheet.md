@@ -47,15 +47,25 @@ that there is a hollow into which we can cast. You then bring this mold
 to class, so that we can pour wax (and/or sulfur) into it. Take notes of
 your choices and experiences.
 
-### Note on baking bread, then and now:
+### Notes on baking bread, then and now:
 
-While modern bread is typically made with dry yeast, a common historical
-rising agent was a sourdough starter. You may wish to explore creating
-your own sourdough starter at home (there are many online resources
-about how to do this safely). You can also follow one of the early
-modern recipes for bread that we are asking you to find (see below).
-After looking into these options, you may logistically only be able to
-bake bread with yeast (and that is ok). Start experimenting!
+- Before beginning a full reconstruction, you will see that the entry on fol. 140v assumes that you already have “bread pith coming from the oven,” which means you will need to bake bread.
+- Most modern recipes use “active dry” or “instant” yeast as the rising agent (and you can do this for this assignment), but another (and older) method uses another form of yeast: sourdough starter (see below). 
+- You will want to spend time gaining experience with the baking process: combining ingredients, kneading the dough, resting it, letting it rise, etc. Generally speaking, most of these stages of bread making will take more time than you expect. 
+- You will find a plethora of information on bread baking online. Feel free to find recipes and instructions you think will be helpful, but please know that bread is actually very forgiving and it is hard to have a bread making disaster - most of the time, you just have to wait a little longer (for it to rise, rest, etc.). Try to make many batches so you can get as much practice as possible. Try to have fun and not worry too much!
+- Try different recipes, especially historical ones mentioned in the resources below.
+When you feel ready, move forward in your process and decide what the next steps should be for creating a mold from your bread - pressing an object into the freshly-baked loaf, into which wax can be poured (see more info below).
+
+### Sourdough 
+
+Sourdough is a naturally-grown yeast culture. If you know someone who makes their own sourdough bread you can ask them to share their starter with you. You can also make your own sourdough starter at home (there are many online resources
+about how to do this safely).
+
+Sourdough is alive and hungry. It will keep best in the refrigerator between bread baking sessions. It may develop a strong fermentation smell or a watery, grey-black hooch, but this is normal - do some reading about it online.
+You will need to feed your starter before using it for baking, but you don’t need to feed it as often as most instructions dictate. Feed it (with water and flour) 24-48 hours before you want to bake with it. Once it has risen and become frothy (if it’s not yet risen and frothy, just wait!), save about a cup of it and put that saved portion back into the refrigerator. 
+
+After looking into these options, you may find that you are logistically only be able to
+bake bread with dry yeast (and that is ok). Start experimenting!
 
 ### Sources on making sixteenth-century bread
 
