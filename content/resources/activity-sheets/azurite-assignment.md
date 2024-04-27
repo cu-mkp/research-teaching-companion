@@ -3,7 +3,7 @@
 >_The Making and Knowing Project, Columbia University_<br>
 _Last updated 2022-11-30 by NJR_<br>
 
-A downloadable version of this assignment: [[PDF](documents/activity-sheets/azurite_assignment_downloadable_2022.pdf)]
+A downloadable version of this assignment: [[PDF](/documents/activity-sheets/azurite_assignment_downloadable_2022.pdf)]
 
 ![azurite in shells](/images/azurite-shells.jpg?raw=true)
 
