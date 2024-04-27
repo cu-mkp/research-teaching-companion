@@ -27,7 +27,7 @@ Pigments are most often encountered as a component of paint. In short: Pigment +
 
 For more on paint making, refer to [Presentation: Introduction to Pigments &amp; Paints](introduction-paints-pigments_njr_2021.pdf)
 
-{{< figure src="./painting-pigment+binding-media.png" alt="painting-pigment+binding-media" >}}
+{{< figure src="/images/painting-pigment+binding-media.png" alt="painting-pigment+binding-media" >}}
 
 
 
@@ -70,19 +70,19 @@ The basic steps involved in making lake pigments are:
    
 These steps are illustrated in the picture below:
 
-{{< figure src="./pigment-lake-overview.png" alt="pigment-lake-overview" >}}
+{{< figure src="/images/pigment-lake-overview.png" alt="pigment-lake-overview" >}}
 
 
 Lakes can be made from a variety of natural colorants. Natural colorants can be extracted from plants, such as madder roots, buckthorn berries, weld stems, logwood bark, and animals, such as cochineal insects and mollusk secretions. 
 
 #### Cochineal | Brazilwood | Weld | Green (Unripe) Buckthorn Berries
-{{< figure src="./materials-cbwg-collection-5.png" alt="materials-cbwg-collection-5" >}}
+{{< figure src="/images/materials-cbwg-collection-5.png" alt="materials-cbwg-collection-5" >}}
 
 #### Ripe Buckthorn Berries | Sumac | Dyer's Broom | Turmeric
-{{< figure src="./materials-rsdt-collection-2.png" alt="materials-rsdt-collection-2" >}}
+{{< figure src="/images/materials-rsdt-collection-2.png" alt="materials-rsdt-collection-2" >}}
 
 #### Walnut Hulls | Logwood | Madder | Oak Galls
-{{< figure src="./materials-wlmg-collection-5.png" alt="materials-wlmg-collection-5" >}}
+{{< figure src="/images/materials-wlmg-collection-5.png" alt="materials-wlmg-collection-5" >}}
 
 
 ### Teaching Lake Pigments
