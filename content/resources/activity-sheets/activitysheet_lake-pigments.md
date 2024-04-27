@@ -101,11 +101,19 @@ Lakes can be made from a variety of natural colorants. Natural colorants can be 
 - Madder (+ historical recipes)
 - Weld (needs checking — double recipe)
 - Logwood (needs fixing — double recipe)
+- Sappanwood (needs handout made)
+- Buckthorn (needs handout made)
 
 
 #### Lakes in Ms. Fr. 640
 
-There are no recipes for making lake pigments in Ms. Fr. 640. There are, however, numerous references to [lake](https://edition640.makingandknowing.org/#/search?q=lake) pigments across the manuscript, which can form the basis for a classroom activity investigating the range of their use, their formats, and associated materials.
+There are no recipes for making lake pigments in Ms. Fr. 640. There are, however, numerous references to [lake](https://edition640.makingandknowing.org/#/search?q=lake) pigments across the manuscript. 
+
+##### Pigments and Lakes in Ms. Fr. 640
+For an essay exploring pigments, including lake pigments, in the manuscript, see Jo Kirby and Marika Spring, [*Ms. Fr. 640 in the World of Pigments in Sixteenth-Century Europe*](https://edition640.makingandknowing.org/#/essays/ann_321_ie_19). 
+
+##### Lakes, Trade, and Labor in Ms. Fr. 640
+Materials for a classroom activity exploring lake pigments in Ms. Fr. 640 (range of use, formats, and associated materials) and their relevance to global trade and labor practices:
 - [Compiled references to "lake" pigments in Ms. Fr. 640]({{<ref "lakes-in-Fr-640_2021.pdf" >}})
 - [Classroom Activity: Lakes, Trade, and Labor in Ms. Fr. 640]({{<ref "lakes-trade-labor-in-Fr640.pdf" >}})
 
