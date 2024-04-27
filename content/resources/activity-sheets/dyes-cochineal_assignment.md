@@ -9,10 +9,10 @@ A downloadable version of this assignment: [[PDF](dyes-cochineal_assignment_down
 ![dyes-cochineal_header](/images/cochineal-dyed-textiles-mix.JPG?raw=true)
 
 ## Dyes and natural colorants
-If you are not already familiar with historical dyes and natural colorants, refer to [Presentation: Cochineal Dye: History, Chemistry, and Preparation](./2023_dyes_cochineal-history-chem-prep.pdf) for more complete information and further explanation of natural colorants and dyeing.
+If you are not already familiar with historical dyes and natural colorants, refer to [Presentation: Cochineal Dye: History, Chemistry, and Preparation](/documents/activity-sheets/2023_dyes_cochineal-history-chem-prep.pdf) for more complete information and further explanation of natural colorants and dyeing.
 
 
-[![Presentation: Cochineal Dye: History, Chemistry, and Preparation](/images/cochineal-dye-presentation-slide.JPG)](./2023_dyes_cochineal-history-chem-prep.pdf)
+[![Presentation: Cochineal Dye: History, Chemistry, and Preparation](/images/cochineal-dye-presentation-slide.JPG)](/documents/activity-sheets/2023_dyes_cochineal-history-chem-prep.pdf)
 
 
 A dye is "a compound that absorbs into and colors another material" and "is generally a complex organic material" ([Conservation and Art Materials Encyclopedia Online (CAMEO)](http://cameo.mfa.org/wiki/Dye)). Until the onset of synthetic dyes in the mid-nineteenth century, most dyes were sourced from natural colorants such as plants, insects, lichens, and shellfish. 

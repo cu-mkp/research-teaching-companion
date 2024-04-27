@@ -3,7 +3,7 @@
 >_The Making and Knowing Project, Columbia University_<br>
 _Last updated 2022-01-29 by NJR_
 
-Refer (insert something like "refer to the assignment sheet" instead of what's here, keep jo kirby info though) also to [<u>Presentation: Cochineal Lake: History, Chemistry, and Preparation</u>](./rosenkranz_2021_lakes_cochineal-history-chem-prep.pdf) - while this is for a different colorant (cochineal), the chemistry of lakes is the same.
+Refer (insert something like "refer to the assignment sheet" instead of what's here, keep jo kirby info though) also to [<u>Presentation: Cochineal Lake: History, Chemistry, and Preparation</u>](/documents/activity-sheets/rosenkranz_2021_lakes_cochineal-history-chem-prep.pdf) - while this is for a different colorant (cochineal), the chemistry of lakes is the same.
 (this was an experiment to try all three different recipes, each of which is listed below)
 
 > Jo Kirby et al, _Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources_ (Archetype, London, 2014).
