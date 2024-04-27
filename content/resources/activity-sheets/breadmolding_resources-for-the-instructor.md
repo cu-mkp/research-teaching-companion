@@ -80,8 +80,7 @@ course.
 
 The activity introduces students to hands-on historical reconstruction
 and performative interpretation of texts. It is a good exercise to
-jump-start discussions of tacit/embodied knowledge in arts and sciences.
-It also encourages students to think differently about historical
+jump-start discussions of tacit/embodied knowledge in arts and sciences. It is also an instructive introduction to the principles of molding. More generally, it encourages students to think differently about historical
 materials and processes, by de-familiarising something we take for
 granted as food, and exploring its varied uses in everyday life,
 medicine, artistic practice, and the workshop.
@@ -100,7 +99,9 @@ closely read the manuscript and develop their own experimental protocol. See the
 Embodied knowledge, everyday life, food, material culture, ephemeral
 art, art, sculpture, decorative arts, craft
 
-**NOT suitable K-12 (hotplates)**
+**Safety notice: uses hotplates**
+
+If working with younger participants, the step of pouring melted wax can be performed by the instructor.
 
 **Remote or in Class**
 
@@ -192,7 +193,7 @@ York: Making and Knowing Project, 2020.
 
     -   [Landsman/Rowen, “Uses of Sulfur for Casting.”](http://edition640.makingandknowing.org/#/essays/ann_007_fa_14)
 
-    -   Kang, “Black Sulfured Wax.”(http://edition640.makingandknowing.org/#/essays/ann_051_fa_16)
+    -   [Kang, “Black Sulfured Wax.”](http://edition640.makingandknowing.org/#/essays/ann_051_fa_16)
 
 Note: for additional help and resources, try following the field notes
 links in the essays above.
@@ -262,6 +263,11 @@ C. R. Dodwell (Oxford: Clarendon Press, 1986).
 -   Benvenuto Cellini, *Two Treatises*, trans. C. R. Ashbee (repr.
 2006).
 
+#### Molding & Casting
+- Difference between molding and casting from the Getty Art and Architecture Thesaurus:
+Giving form to something by use of a mold; usually refers to pressing a material into the mold, as distinct from pouring liquid material into the mold, for which prefer "casting."
+
+- WATCH: For an illustration of molding and casting, watch [VIDEO: Making a Medal Using the Sand Casting Process from the Frick Collection in collaboration with M&K.](https://www.youtube.com/embed/TL919mY28fk)
 
 #### On historical reconstruction as historical method
 
