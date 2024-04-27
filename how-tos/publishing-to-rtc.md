@@ -169,8 +169,8 @@ Images
 - markdown: `![stucco-molded](/images/stucco-molded.jpg)`
 
 Documents
-- **preferred:** `[Stucco for Molding]({{<ref "stucco-assignment" >}})`
-- markdown: `[PDF (student handout)](/documents/activity-sheets/stucco_assignment_student-handout.pdf)`
+- **preferred:** `[Stucco for Molding]({{<ref "/documents/activity-sheets/stucco-assignment.pdf" >}})`
+- markdown: `[Stucco for Molding](/documents/activity-sheets/stucco_assignment_student-handout.pdf)`
 
 ### `_index.md` pages
 
