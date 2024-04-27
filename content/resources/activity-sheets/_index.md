@@ -14,7 +14,7 @@ weight: 20
 - [Activity Sheet: Making Paints from Pigments and Painting Them Out]({{< ref "painting-assignment" >}}) - assignment sheet for making paints by combining historical pigments and binding media (2021-09-22)
 - [Activity Sheet: "Growing" Verdigris Pigment Reconstruction]({{< ref "verdigris-assignment" >}}) - assignment sheet for producing verdigris, a blue-green pigment, using historical techniques. See also Marie-France Lemay's [“Verdigris” in Traveling Scriptorium: A Teaching Kit by the Yale University Library](https://travelingscriptorium.com/2013/01/17/verdigris/) (2021-09-22)
 - Making Lake Pigments from Natural Colorants:
-     - [Making Lake Pigment from Cochineal]({{<ref "/documents/activity-sheets/pigment-cochineal-lake_assignment" >}}) - hands-on lesson plan and assignment for transforming natural colorants in cochineal insects into a pigment (2021-09-27)
+     - [Making Lake Pigment from Cochineal]({{<ref "/documents/activity-sheets/pigment-cochineal-lake_assignment.md" >}}) - hands-on lesson plan and assignment for transforming natural colorants in cochineal insects into a pigment (2021-09-27)
      - [Making Lake Pigment from Madder]({{<ref "/documents/activity-sheets/pigment-madder-lake_assignment" >}}) - hands-on lesson plan and assignment for transforming natural colorants in madder roots into a pigment (2022-01-29)
      - [Making Pigment from Madder: a Trio of Recipes]({{<ref "/documents/activity-sheets/sp22_fld_rosenkranz_naomi_madder-lake-trio" >}}) - helpful step-by-step fieldnotes  (2022-07-19) (WIP)
 - [Dyeing with Cochineal]({{<ref "dyes-cochineal_assignment" >}}) - hands-on lesson plan and assignment for dyeing textiles with cochineal insects (2023-04-03)
