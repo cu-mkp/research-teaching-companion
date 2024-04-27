@@ -10,11 +10,11 @@ In short: lake pigments are made by extracting a dye from an organic material an
 > Jo Kirby et al, _Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources_ (Archetype, London, 2014).
 
 
-If you are not already familiar with historical pigments and natural colorants, refer to [Presentation: Cochineal Lake: History, Chemistry, and Preparation](/documents/rosenkranz_2023_lakes_cochineal-history-chem-prep.pdf) for more complete information and further explanation of natural colorants and lake pigments.
+If you are not already familiar with historical pigments and natural colorants, refer to [Presentation: Cochineal Lake: History, Chemistry, and Preparation](documents/activity-sheets/rosenkranz_2023_lakes_cochineal-history-chem-prep.pdf) for more complete information and further explanation of natural colorants and lake pigments.
 
-See also [Presentation: Introduction to Pigments &amp; Paints](/documents/introduction-paints-pigments_njr_2021.pdf).
+See also [Presentation: Introduction to Pigments &amp; Paints](documents/activity-sheets/introduction-paints-pigments_njr_2021.pdf).
 
-[![Presentation: Cochineal Lake: History, Chemistry, and Preparation](/images/cochineal-presentation.png)](/documents/activity-sheets/presentation_sp23_rosenkranz_naomi_lakes_cochineal-history-chem-prep.pdf)
+[![Presentation: Cochineal Lake: History, Chemistry, and Preparation](/images/cochineal-presentation.png)](documents/activity-sheets/activity-sheets/presentation_sp23_rosenkranz_naomi_lakes_cochineal-history-chem-prep.pdf)
 
 
 ### Pigments
@@ -118,4 +118,4 @@ For an essay exploring pigments, including lake pigments, in the manuscript, see
 ##### Lakes, Trade, and Labor in Ms. Fr. 640
 Materials for a classroom activity exploring lake pigments in Ms. Fr. 640 (range of use, formats, and associated materials) and their relevance to global trade and labor practices:
 - [Compiled references to "lake" pigments in Ms. Fr. 640]({{<ref "lakes-in-Fr-640_2021.pdf" >}})
-- [Classroom Activity: Lakes, Trade, and Labor in Ms. Fr. 640]({{<ref "/documents/lakes-trade-labor-in-Fr640.pdf" >}})
+- [Classroom Activity: Lakes, Trade, and Labor in Ms. Fr. 640]({{<ref "documents/activity-sheets/lakes-trade-labor-in-Fr640.pdf" >}})
