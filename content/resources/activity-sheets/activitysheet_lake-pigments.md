@@ -14,7 +14,7 @@ If you are not already familiar with historical pigments and natural colorants, 
 
 See also [Presentation: Introduction to Pigments &amp; Paints](/documents/introduction-paints-pigments_njr_2021.pdf).
 
-[![Presentation: Cochineal Lake: History, Chemistry, and Preparation](/images/cochineal-presentation.png)](/documents/rosenkranz_2021_lakes_cochineal-history-chem-prep.pdf)
+[![Presentation: Cochineal Lake: History, Chemistry, and Preparation](/images/cochineal-presentation.png)](/documents/activity-sheets/presentation_sp23_rosenkranz_naomi_lakes_cochineal-history-chem-prep.pdf)
 
 
 ### Pigments
