@@ -65,58 +65,58 @@ Process:
 
 -   Crush azurite ore with mortar and pestle
 
-{{< figure src="./media-azurite/image24.jpg" width="width:2.56918in;height:4.58854in" >}}
+{{< figure src="/images/media-azurite/image24.jpg" width="width:2.56918in;height:4.58854in" >}}
 
 -   When small-ish, transfer to glass plate + muller
 
-{{< figure src="./media-azurite/image14.jpg" width="width:1.75in;height:2.48958in" >}}
+{{< figure src="/images/media-azurite/image14.jpg" width="width:1.75in;height:2.48958in" >}}
 
 -   Add some water and do rough mulling before moving to concentric mulling
 
     -   Observation: as it dried out, got tacky + difficult to mull smoothly/homogeneously
 
-{{< figure src="./media-azurite/image28.jpg" width="width:1.54658in;height:2.75521in" >}}{{< figure src="./media-azurite/image18.jpg" width="width:1.55729in;height:2.76852in" >}}{{< figure src="./media-azurite/image21.jpg" width="width:3.24479in;height:1.81386in" >}}
+{{< figure src="/images/media-azurite/image28.jpg" width="width:1.54658in;height:2.75521in" >}}{{< figure src="/images/media-azurite/image18.jpg" width="width:1.55729in;height:2.76852in" >}}{{< figure src="/images/media-azurite/image21.jpg" width="width:3.24479in;height:1.81386in" >}}
 
-{{< figure src="./media-azurite/image16.jpg" width="width:1.21995in;height:2.17188in" >}}
+{{< figure src="/images/media-azurite/image16.jpg" width="width:1.21995in;height:2.17188in" >}}
 
 -   Transfer small amount (about as much as could fit on one finger) to mussel shell
 
-{{< figure src="./media-azurite/image7.jpg" width="width:2.33854in;height:1.31039in" >}}{{< figure src="./media-azurite/image9.jpg" width="width:1.33541in;height:2.40104in" >}}
+{{< figure src="/images/media-azurite/image7.jpg" width="width:2.33854in;height:1.31039in" >}}{{< figure src="/images/media-azurite/image9.jpg" width="width:1.33541in;height:2.40104in" >}}
 
 -   Add water and swish with finger, then swirl
 
-{{< figure src="./media-azurite/image22.jpg" width="width:2.39464in;height:1.33854in" >}}{{< figure src="./media-azurite/image19.jpg" width="width:2.39063in;height:1.34473in" >}}
+{{< figure src="/images/media-azurite/image22.jpg" width="width:2.39464in;height:1.33854in" >}}{{< figure src="/images/media-azurite/image19.jpg" width="width:2.39063in;height:1.34473in" >}}
 
 -   Pour off into another shell the water at the top with smaller dispersed particles
 
-{{< figure src="./media-azurite/image26.jpg" width="width:2.63889in;height:1.48438in" >}}
+{{< figure src="/images/media-azurite/image26.jpg" width="width:2.63889in;height:1.48438in" >}}
 
 -   What is left in the first mussel shell is larger particles
 
 -   Repeat adding water and pouring off until the azurite remaining is midnight blue
 
-{{< figure src="./media-azurite/image1.jpg" width="width:1.11979in;height:1.99128in" >}}{{< figure src="./media-azurite/image30.jpg" width="width:1.11979in;height:1.98509in" >}}{{< figure src="./media-azurite/image29.jpg" width="width:1.98438in;height:1.11675in" >}}{{< figure src="./media-azurite/image17.jpg" width="width:1.11458in;height:1.98438in" >}}{{< figure src="./media-azurite/image5.jpg" width="width:1.11979in;height:1.99526in" >}}{{< figure src="./media-azurite/image13.jpg" width="width:1.11979in;height:1.98296in" >}}{{< figure src="./media-azurite/image4.jpg" width="width:1.95313in;height:1.09982in" >}}{{< figure src="./media-azurite/image6.jpg" width="width:1.95313in;height:1.09982in" >}}{{< figure src="./media-azurite/image27.jpg" width="width:1.98444in;height:1.11979in" >}}{{< figure src="./media-azurite/image20.jpg" width="width:1.99074in;height:1.11979in" >}}{{< figure src="./media-azurite/image10.jpg" width="width:1.98296in;height:1.11979in" >}}{{< figure src="./media-azurite/image8.jpg" width="width:1.95121in;height:1.09896in" >}}{{< figure src="./media-azurite/image12.jpg" width="width:1.10937in;height:1.97523in" >}}
+{{< figure src="/images/media-azurite/image1.jpg" width="width:1.11979in;height:1.99128in" >}}{{< figure src="/images/media-azurite/image30.jpg" width="width:1.11979in;height:1.98509in" >}}{{< figure src="/images/media-azurite/image29.jpg" width="width:1.98438in;height:1.11675in" >}}{{< figure src="/images/media-azurite/image17.jpg" width="width:1.11458in;height:1.98438in" >}}{{< figure src="/images/media-azurite/image5.jpg" width="width:1.11979in;height:1.99526in" >}}{{< figure src="/images/media-azurite/image13.jpg" width="width:1.11979in;height:1.98296in" >}}{{< figure src="/images/media-azurite/image4.jpg" width="width:1.95313in;height:1.09982in" >}}{{< figure src="/images/media-azurite/image6.jpg" width="width:1.95313in;height:1.09982in" >}}{{< figure src="/images/media-azurite/image27.jpg" width="width:1.98444in;height:1.11979in" >}}{{< figure src="/images/media-azurite/image20.jpg" width="width:1.99074in;height:1.11979in" >}}{{< figure src="/images/media-azurite/image10.jpg" width="width:1.98296in;height:1.11979in" >}}{{< figure src="/images/media-azurite/image8.jpg" width="width:1.95121in;height:1.09896in" >}}{{< figure src="/images/media-azurite/image12.jpg" width="width:1.10937in;height:1.97523in" >}}
 
 -   Because we are short on time:
 
     -   To paint out, add a small amount of gum arabic directly to azurite in shell that is still quite wet
 
-{{< figure src="./media-azurite/image3.jpg" width="width:2.4537in;height:1.38021in" >}}
+{{< figure src="/images/media-azurite/image3.jpg" width="width:2.4537in;height:1.38021in" >}}
 
 -   Can add more water as needed
 
 -   NJR: added gum arabic, painted out once, then poured off again and painted out → better color and consistency
 
-{{< figure src="./media-azurite/image25.jpg" width="width:1.39471in;height:2.47396in" >}}
+{{< figure src="/images/media-azurite/image25.jpg" width="width:1.39471in;height:2.47396in" >}}
 
 Wash water that was poured off successively:
 
-{{< figure src="./media-azurite/image15.jpg" width="width:3.11979in;height:1.75337in" >}}{{< figure src="./media-azurite/image11.jpg" width="width:1.77079in;height:3.16146in" >}}
+{{< figure src="/images/media-azurite/image15.jpg" width="width:3.11979in;height:1.75337in" >}}{{< figure src="/images/media-azurite/image11.jpg" width="width:1.77079in;height:3.16146in" >}}
 
 Color of the azurite and the wash water after each wash:
 
-{{< figure src="./media-azurite/image23.jpg" width="width:6.5in;height:3.65278in" >}}
+{{< figure src="/images/media-azurite/image23.jpg" width="width:6.5in;height:3.65278in" >}}
 
 Painted out with gum arabic:
 
-{{< figure src="./media-azurite/image2.jpg" width="width:6.5in;height:3.65278in" >}}
+{{< figure src="/images/media-azurite/image2.jpg" width="width:6.5in;height:3.65278in" >}}

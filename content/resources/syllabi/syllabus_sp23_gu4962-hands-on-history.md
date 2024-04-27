@@ -1,4 +1,4 @@
-{{< figure src="./media-syllabus-sp23-mk/image1.png" width="width:5in;height:2.8125in" >}}
+{{< figure src="/images/media-syllabus-sp23-mk/image1.png" width="width:5in;height:2.8125in" >}}
 
 **HIST GU4962**
 

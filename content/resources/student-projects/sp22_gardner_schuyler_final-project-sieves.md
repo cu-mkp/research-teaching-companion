@@ -224,11 +224,11 @@ quote from Pertrach’s *Trionfo d’amore*, “wearied rest and rested
 weariness,” while the globe reads, “I see everything but much is
 lacking.”[^17]
 
-{{< figure src="./media-gardner/image1.jpg" width="width:2.89743in;height:3.92188in" >}}
+{{< figure src="/images/media-gardner/image1.jpg" width="width:2.89743in;height:3.92188in" >}}
 
 > Fig. 1: George Gower, *Plimpton Sieve Portrait of Queen Elizabeth I*, 1579. Oil on wood, 104.4 cm × 76.2 cm. The Folger Shakespeare Library, Washington DC, [<u>https://catalog.folger.edu/record/128729</u>](https://catalog.folger.edu/record/128729).
 
-{{< figure src="./media-gardner/image2.jpg" width="width:2.91721in;height:3.93229in" >}}
+{{< figure src="/images/media-gardner/image2.jpg" width="width:2.91721in;height:3.93229in" >}}
 
 > Fig. 2: Quentin Mestys, *The Siena Sieve Portrait*, ca. 1583. © Portrait of Queen Elizabeth I (1533-1603) in Ceremonial Costume (oil on canvas), Zuccari, or Zuccaro, Federico (1540-1609) / Pinacoteca Nazionale, Siena, Italy / Bridgeman Images.
 
@@ -253,7 +253,7 @@ the particular association here of the female Prudence with a sieve
 solidifies both female associations with the tool and women's connection
 to these qualities.
 
-{{< figure src="./media-gardner/image4.png" width="width:2.76563in;height:4.07038in" >}}
+{{< figure src="/images/media-gardner/image4.png" width="width:2.76563in;height:4.07038in" >}}
 
 > Fig 3: *Livres des quatre vertus* (Book of the Four Virtues) illuminated by Sir John Fastolf, 1450, University of Oxford, [<u>http://www.bodley.ox.ac.uk</u>](http://www.bodley.ox.ac.uk) and [<u>https://library.artstor.org/asset/BODLEIAN_10310373019</u>](https://library.artstor.org/asset/BODLEIAN_10310373019).
 
@@ -278,7 +278,7 @@ year—harvesting and threshing—but alludes to the connection of the Virgo
 with virginity, especially considering this was a book of prayers
 specifically directed to the Virgin Mary.
 
-{{< figure src="./media-gardner/image3.png" width="width:2.92188in;height:4.54405in" >}}
+{{< figure src="/images/media-gardner/image3.png" width="width:2.92188in;height:4.54405in" >}}
 
 > Fig. 4: The Month of August, “Book of Hours” (1490–1500), Princeton University Library, Garrett Ms. 56, fol. 4v, by unidentified woman, [<u>https://library.artstor.org/asset/PRINCETON_MANUSCRIPTS_1031319958</u>](https://library.artstor.org/asset/PRINCETON_MANUSCRIPTS_1031319958).
 

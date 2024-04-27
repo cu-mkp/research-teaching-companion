@@ -140,13 +140,13 @@ another location, while 72.2% (n=192) do not. Entries labeled ‘no’ are
 usually general discussions of the profession/place or other
 miscellaneous uses (*Fig. 4*).
 
-{{< figure src="./media-ghoneima/image4.png" alt="Chart" width="6.08295in" height="3.77in" >}}
+{{< figure src="/images/media-ghoneima/image4.png" alt="Chart" width="6.08295in" height="3.77in" >}}
 
 *Fig 3*. Percentage of entries tagged with “pro” which show evidence of
 oral transmission of knowledge (‘*yes’*) versus those which do not
 (‘*no’*).
 
-{{< figure src="./media-ghoneima/image3.png" alt="Chart" width="6.09314in" height="3.77in" >}}
+{{< figure src="/images/media-ghoneima/image3.png" alt="Chart" width="6.09314in" height="3.77in" >}}
 
 *Fig 4*. Percentage of entries tagged with “pl” which show evidence of
 oral transmission of knowledge (‘*yes’*) versus those which do not
@@ -177,12 +177,12 @@ reference to how something is done in another place or profession, I
 broke down the categories according to the specific place/profession
 mentioned (*Fig. 5-6*).
 
-{{< figure src="./media-ghoneima/image1.png" alt="Chart" width="6.17824in" height="3.77229in" >}}
+{{< figure src="/images/media-ghoneima/image1.png" alt="Chart" width="6.17824in" height="3.77229in" >}}
 
 *Fig 5*. Breakdown of all places mentioned which included reference of
 oral transmission of knowledge.
 
-{{< figure src="./media-ghoneima/image2.png" alt="Chart" width="6.5in" height="4.01389in" >}}
+{{< figure src="/images/media-ghoneima/image2.png" alt="Chart" width="6.5in" height="4.01389in" >}}
 
 *Fig 6*. Breakdown of all professions mentioned which included reference
 of oral transmission of knowledge. For a description of all the

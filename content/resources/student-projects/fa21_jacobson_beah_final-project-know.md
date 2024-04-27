@@ -66,14 +66,14 @@ with my working data.)
 Here is the breakdown by frequency of my “types.” Descriptions and
 analysis of each category below.
 
-{{< figure src="./media-jacobson/image1.png" alt="Chart" width="6.5in" height="4.01389in" >}}
+{{< figure src="/images/media-jacobson/image1.png" alt="Chart" width="6.5in" height="4.01389in" >}}
 
 The Making & Knowing Project has already created a set of “category”
 tags that describe the content and interests of various recipes. I cross
 referenced these tags with my own breakdown of knowing types to see what
 categories of recipes make up each knowing type.
 
-{{< figure src="./media-jacobson/image4.png" alt="Chart" width="6.5in" height="4.23611in" >}}
+{{< figure src="/images/media-jacobson/image4.png" alt="Chart" width="6.5in" height="4.23611in" >}}
 
 For a full data chart, see Appendix 2.
 
@@ -431,11 +431,11 @@ discussion of the period more broadly.
 
 ## Appendix 2: Number of recipe tags within each type of “knowing”
 
-{{< figure src="./media-jacobson/image3.png" alt="Chart" width="6.5in" height="3.625in" >}}
+{{< figure src="/images/media-jacobson/image3.png" alt="Chart" width="6.5in" height="3.625in" >}}
 
 ## Appendix 3. Recipe tags as a percentage of total recipes within each type of “knowing”
 
-{{< figure src="./media-jacobson/image2.png" alt="Chart" width="6.5in" height="3.98611in" >}}
+{{< figure src="/images/media-jacobson/image2.png" alt="Chart" width="6.5in" height="3.98611in" >}}
 
 Note: This data is most meaningful for the *diagnostic* and
 *experienced* types because those have the most instances (29 and 27,

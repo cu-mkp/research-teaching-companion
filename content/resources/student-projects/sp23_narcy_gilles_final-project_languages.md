@@ -98,7 +98,7 @@ between three most frequent languages on one hand (Latin, Occitan, and
 Poitevin), and three rarest ones on the other (German, Italian, and
 Greek) (Fig. 1).
 
-{{< figure src="./media-narcy/image3.png" width="width:5in;height:3in" >}}
+{{< figure src="/images/media-narcy/image3.png" width="width:5in;height:3in" >}}
 
 *Fig. 1. Number of occurrences per language*
 
@@ -107,7 +107,7 @@ only as single words, whereas Italian accounts for full sentences. It
 demonstrates that a close reading of the recipes remains necessary to
 interpret the data created.
 
-{{< figure src="./media-narcy/image4.png" width="width:5in;height:3in" >}}
+{{< figure src="/images/media-narcy/image4.png" width="width:5in;height:3in" >}}
 
 *Fig. 2. Total number of words per language*
 
@@ -127,7 +127,7 @@ language. In the case of German, I uniformized the spelling of “Spat”
 into “Spalt” to produce a coherent result. I then proceeded to plot the
 scores into a single bar-chart.
 
-{{< figure src="./media-narcy/image5.png" width="width:4.83333in;height:3.04167in" >}}
+{{< figure src="/images/media-narcy/image5.png" width="width:4.83333in;height:3.04167in" >}}
 
 *Fig. 3. Lexical diversity per language (TTR)*
 
@@ -172,11 +172,11 @@ universities, and casting could have military applications[^8] or serve
 to create precious objects for a *Kunstkammer*. Common life, on the
 contrary, is poorly transcribed into the language of elites.
 
-{{< figure src="./media-narcy/image2.png" alt="categories-barplot" width="5.22224in" height="5.22224in" >}}
+{{< figure src="/images/media-narcy/image2.png" alt="categories-barplot" width="5.22224in" height="5.22224in" >}}
 
 *Fig. 4. How many entries are tagged with each category*[^9]
 
-{{< figure src="./media-narcy/image1.png" alt="Latin tag by category" width="4.91105in" height="4.91105in" >}}
+{{< figure src="/images/media-narcy/image1.png" alt="Latin tag by category" width="4.91105in" height="4.91105in" >}}
 
 *Fig. 5. Tag count: Latin in the manuscript*[^10]
 
@@ -437,11 +437,11 @@ from the Languedoc area of Toulouse. In French linguistics, it is
 considered a *langue d’oïl*, a Northern language, but takes some words
 from Occitan, which is a Southern *langue d’oc*.
 
-{{< figure src="./media-narcy/image6.png" alt="Occitan tag by category" width="3.78366in" height="3.78366in" >}}
+{{< figure src="/images/media-narcy/image6.png" alt="Occitan tag by category" width="3.78366in" height="3.78366in" >}}
 
 *Fig. 6. Tag count: Occitan in the manuscript*[^24]
 
-{{< figure src="./media-narcy/image7.png" alt="Poitevin tag by category" width="3.48174in" height="3.48174in" >}}
+{{< figure src="/images/media-narcy/image7.png" alt="Poitevin tag by category" width="3.48174in" height="3.48174in" >}}
 
 *Fig. 7. Tag count: Poitevin in the manuscript*[^25]
 

@@ -13,7 +13,7 @@ A downloadable version of this assignment: [[PDF](azurite_assignment_downloadabl
 - See also a [short version of this presentation](fa22_skillbuilding-azurite-presentation-short.pdf)
 - [Student Handout](azurite_assignment_handout_2022.pdf) (to have while doing the hands-on reconstruction) 
 
-<a href="(fa22_skillbuilding-azurite-presentation-full.pdf">{{< figure src="../images/preparing-painting-blue.png?raw=true" alt="Preparing and Painting Blue Pigment in the Renaissance" width="width:500px" >}}</a>
+<a href="(fa22_skillbuilding-azurite-presentation-full.pdf">{{< figure src="/images/preparing-painting-blue.png?raw=true" alt="Preparing and Painting Blue Pigment in the Renaissance" width="width:500px" >}}</a>
 
 ## Introduction
 
@@ -25,16 +25,16 @@ It is important to remember that there is a difference between pigments and pain
 - [Presentation: Introduction to Pigments &amp; Paints](./introduction-paints-pigments_njr_2021.pdf)
 - [Assignment: Making Paints from Pigments and Painting Them Out](painting-assignment.md)
 
- {{< figure src="../images/painting-pigment+binding-media.png?raw=true" alt="pigment and binding media equals paint" width="width:500px" >}}
+ {{< figure src="/images/painting-pigment+binding-media.png?raw=true" alt="pigment and binding media equals paint" width="width:500px" >}}
 
 ## Azurite
 
 Azurite is a basic copper carbonate pigment \[2CuCO3-Cu(OH)2\], a common blue colorant found in paintings, drawings, and illuminated manuscripts of the Renaissance. It is found as a natural ore, often co-occuring with the green mineral malachite which is also a copper carbonate pigment. To prepare the pigment, the mineral is ground to a powder, removing any malachite or other impurities. Larger particles of azurite are a deeper blue and as the particles are more finely ground, it becomes paler in color. The different hues can be separated into different "grades": larger particles (dark blue) are a higher grade of pigment than smaller particles (pale blue). These different grades can be obtained through a process known as levigation, where water is used to separate the smaller, duller particles from the larger ones which sink to the bottom. The smaller (and thus less heavy) particles float closer to the top of the water, which is poured off successively until only the heaviest, deepest blue particles remain.
 
- {{< figure src="../images/lippi-virgin-child-st-john.png?raw=true" alt="lippi-virgin-child-st-john" width="width:500px" >}}<br/>
+ {{< figure src="/images/lippi-virgin-child-st-john.png?raw=true" alt="lippi-virgin-child-st-john" width="width:500px" >}}<br/>
 > *The Virgin and Child with Saint John* (~1480), Filippino Lippi, The National Gallery. Azurite has been found in this painting. See Dunkerton, *The Materials of a Group of Late Fifteenth-century Florentine Panel Paintings*.
 
- {{< figure src="../images/tres-riches-heures-folio-2r-february.png?raw=true" alt="tres-riches-heures-folio-2r-february" width="width:500px" >}}<br/>
+ {{< figure src="/images/tres-riches-heures-folio-2r-february.png?raw=true" alt="tres-riches-heures-folio-2r-february" width="width:500px" >}}<br/>
  > *Très Riches Heures du duc de Berry* (1412-1416), Folio 2 verso: February.
  
 ### Other Blue Pigments
@@ -43,7 +43,7 @@ Azurite is only one of the most common blue pigments in the Renaissance palette.
 - [The Traveling Scriptorium Pigment Sampler](https://travelingscriptorium.com/2012/03/20/an-online-version-of-the-ink-pigment-sampler-set/)
 - [Presentation: Preparing and Painting Blue Pigment in the Renaissance](fa22_skillbuilding-azurite-presentation-full.pdf)
 
- {{< figure src="../images/blue-pigments.png?raw=true" alt="blue-pigments" width="width:500px" >}}
+ {{< figure src="/images/blue-pigments.png?raw=true" alt="blue-pigments" width="width:500px" >}}
  
 ## Blue Pigments in BnF Ms. Fr. 640
  

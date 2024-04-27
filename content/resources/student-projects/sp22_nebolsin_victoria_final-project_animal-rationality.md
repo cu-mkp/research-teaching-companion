@@ -117,7 +117,7 @@ cites James Serpell to highlight the dark undercurrent of this
 anthropomorphism, exposing how these highly negative terms served to
 justify the vermin’s extermination.[^9]
 
-[{{< figure src="./media-nebolsin/image1.jpg" width="width:2.83854in;height:4.86825in" >}}](https://shakespeareandbeyond.folger.edu/2020/01/21/rats-early-modern-life-shakespeare-plays-wild-things/)
+[{{< figure src="/images/media-nebolsin/image1.jpg" width="width:2.83854in;height:4.86825in" >}}](https://shakespeareandbeyond.folger.edu/2020/01/21/rats-early-modern-life-shakespeare-plays-wild-things/)
 
 *The Compleat English and French Vermin-Killer*, 1710, Folger 230–673q,
 [<u>https://shakespeareandbeyond.folger.edu/2020/01/21/rats-early-modern-life-shakespeare-plays-wild-things/</u>](https://shakespeareandbeyond.folger.edu/2020/01/21/rats-early-modern-life-shakespeare-plays-wild-things/).
