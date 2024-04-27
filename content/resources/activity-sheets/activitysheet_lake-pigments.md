@@ -96,8 +96,8 @@ Lakes can be made from a variety of natural colorants. Natural colorants can be 
 - [Presentation: Cochineal Lake: History, Chemistry, and Preparation]({{<ref "presentation_sp23_rosenkranz_naomi_lakes_cochineal-history-chem-prep" >}})
 - [Presentation: Madder Lake: History, Chemistry, and Preparation]({{<ref "presentation_sp23_rosenkranz_naomi_lakes_madder-history-chem-prep" >}})
 #### Lake-Making in the Classroom: Reflection Assignments 
-- [Pigment-Making Lab Reflection Assignment]({{<ref "uchacz_2024_lab1_reflection-assignment-background.docx" >}})
-- [Pigment-Making Lab Reflection Assignment Background Document]({{<ref "uchacz_2024_lab1_reflection-assignment.docx" >}})
+- Pigment-Making Lab Reflection Assignment [docx]({{<ref "uchacz_2024_lab1_reflection-assignment-background.docx" >}}) [pdf]({{<ref "uchacz_2024_lab1_reflection-assignment-background.pdf" >}})
+- Pigment-Making Lab Reflection Assignment Background Document [docx]({{<ref "uchacz_2024_lab1_reflection-assignment.docx" >}}) [pdf]({{<ref "uchacz_2024_lab1_reflection-assignment.pdf" >}})
 #### Lake-Making in the Classroom: Recipe Handouts
 - Cochineal Standard
 - Cochineal Reversed
