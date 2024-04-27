@@ -67,19 +67,20 @@ The basic steps involved in making lake pigments are:
 6)	let it dry and scrape it from the filter. This is your pigment.
    
 These steps are illustrated in the picture below:
-![pigment-lake-overview](/images/pigment-lake-overview.png?raw=true) 
+
+![pigment-lake-overview]{{< figure src="./pigment-lake-overview.png" alt="Chart" width="640" height="360" >}}
 
 
 Lakes can be made from a variety of natural colorants. Natural colorants can be extracted from plants, such as madder roots, buckthorn berries, weld stems, logwood bark, and animals, such as cochineal insects and mollusk secretions. 
 
 #### Cochineal | Brazilwood | Weld | Green (Unripe) Buckthorn Berries
-![materials-cbwg-collection-5](../images/materials-cbwg-collection-5.png?raw=true)
+![materials-cbwg-collection-5]{{< figure src="./materials-cbwg-collection-5.png" alt="Chart" width="640" height="360" >}}
 
 #### Ripe Buckthorn Berries | Sumac | Dyer's Broom | Turmeric
-![materials-rsdt-collection-2](../images/materials-rsdt-collection-2.png?raw=true)
+![materials-rsdt-collection-2]{{< figure src="./materials-rsdt-collection-2.png" alt="Chart" width="640" height="360" >}}
 
 #### Walnut Hulls | Logwood | Madder | Oak Galls
-![materials-wlmg-collection-5](../images/materials-wlmg-collection-5.png?raw=true)
+![materials-wlmg-collection-5]{{< figure src="./materials-wlmg-collection-5.png" alt="Chart" width="640" height="360" >}}
 
 
 ### Teaching Lake Pigments
