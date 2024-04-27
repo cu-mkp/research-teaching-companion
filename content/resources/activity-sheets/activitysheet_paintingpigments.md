@@ -20,6 +20,6 @@
 
 
 #### Making Paint in the Classroom: Reflection Assignment
-- Paint-Making Lab Reflection Assignment [docx]({{<ref "/documents/activity-sheets/chacz_2024_lab2_reflection-assignment.docx" >}}) [pdf]({{<ref "/documents/activity-sheets/chacz_2024_lab2_reflection-assignment.pdf" >}})
+- Paint-Making Lab Reflection Assignment [docx]({{<ref "/documents/activity-sheets/uchacz_2024_lab2_reflection-assignment.docx" >}}) [pdf]({{<ref "/documents/activity-sheets/uchacz_2024_lab2_reflection-assignment.pdf" >}})
 
 

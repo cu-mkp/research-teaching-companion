@@ -89,7 +89,7 @@ medicine, artistic practice, and the workshop.
 This activity is split into 2 parts, the first part can be done
 asynchronously in advance of the group/in class activity:
 
-1\) The students are asked to explore historical recipes for bread, bake their own bread, and impress a small object into the pith. They are also asked to develop a protocol for step 2 - the pour. See the [student activity sheet]({{<ref "/documents/activity-sheets/readmolding-student-activity-sheet" >}})
+1\) The students are asked to explore historical recipes for bread, bake their own bread, and impress a small object into the pith. They are also asked to develop a protocol for step 2 - the pour. See the [student activity sheet]({{<ref "/documents/activity-sheets/breadmolding-student-activity-sheet" >}})
 
 2\) Part 2 takes place together in class (or can be done online). There
 is no worksheet, because part of the assignment is for the students to
