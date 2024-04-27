@@ -163,7 +163,9 @@ All non-markdown media should be placed in the `static/` directory. For ease of 
 These work differently from the other internal links. Instead of the `ref` tag, just use normal Markdown link or image syntax, treating `static/` as the base of the URL. It is important that each URL includes a leading slash. For example:
 
 Images
-- **preferred** - [figure shortcode](https://gohugo.io/content-management/shortcodes/#figure): `{{< figure src="./media-ghoneima/image3.png" alt="Chart" width="640" height="360" >}}`
+- **preferred** - [figure shortcode](https://gohugo.io/content-management/shortcodes/#figure): `{{< figure src="./media-ghoneima/image3.png" alt="Chart">}}`
+- `{{< figure src="./`*name of image.extension*`" alt="`*alt text for your image*`" >}}`
+     - to adjust size: `{{< figure src="./media-ghoneima/image3.png" alt="Chart" width="640" height="360" >}}` - adjust width and height as you like
 - markdown: `![stucco-molded](/images/stucco-molded.jpg)`
 
 Documents
