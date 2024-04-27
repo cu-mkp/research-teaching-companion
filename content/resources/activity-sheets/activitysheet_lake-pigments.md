@@ -19,7 +19,12 @@ See also [Presentation: Introduction to Pigments &amp; Paints](documents/activit
 
 ### Pigments
 
-Pigments are colored, insoluble particles that, when combined with a binding medium, create paint that can then be applied to a substrate. Historically, most pigments were sourced from the natural environment, including from plants, insects, stones, and dirt. Since the nineteenth century, the synthesis of pigments in industrial settings has become very common, ensuring consistent quality and new formulations.
+Pigments are colored, insoluble particles that, when combined with a binding medium, create paint that can then be applied to a substrate. Pigments can either be natural or synthetic. Historically, most pigments were sourced from the natural environment. Since the nineteenth century, the synthesis of pigments in industrial settings has become very common, ensuring consistent quality and new formulations.
+
+Natural pigments generally come in three varieties:
+- mineral: from mineral ores, semi-precious stones, and even gemstones.
+- earth: from special types of colored dirt (**NJR FIX THIS!!!**). These are also, technically, a form of mineral pigment.
+- organic: from plants and animal sources. Lake pigments fall under this category.
 
 Pigments are most often encountered as a component of paint. In short: Pigment + Binding Media = Paint
 
@@ -30,18 +35,11 @@ For more on paint making, refer to [Presentation: Introduction to Pigments &amp;
 {{< figure src="/images/painting-pigment+binding-media.png" alt="painting-pigment+binding-media" >}}
 
 
-
-### Natural Pigments
-
-In general, there are three broad categories of natural pigments:
-- mineral: from mineral ores, semi-precious stones, and even gemstones.
-- earth: from special types of colored dirt (**NJR FIX THIS!!!**). These are also, technically, a form of mineral pigment.
-- organic: from plants and animal sources. Lake pigments fall under this category.
-
-
 ### Lake Pigments in Use
 
-Lake pigments are typically found in top layer of paintings because their particles are translucent and are thus conducive to being used as thin glazes. For instance, the layer of "blush" painted over the cheek of a portrait might be done in a red lake pigment. Even early modern textual sources attest to this practice. The entry "Glazing" on [fol. 66r](https://edition640.makingandknowing.org/#/folios/66r/f/66r/tl) of Ms. Fr. 640 notes that "one commonly glazes with colors that do not have body, such as lake & veridigris."
+Lake pigments are typically found in top layer of paintings because their particles are translucent and are thus conducive to being used as thin glazes. As the entry "Glazing" on [fol. 66r](https://edition640.makingandknowing.org/#/folios/66r/f/66r/tl) of Ms. Fr. 640 notes, "one commonly glazes with colors that do not have body, such as lake & veridigris." 
+
+In practice, lake glazes could be used to create various subtle effects in painting. For example, the layer of "blush" painted over the cheek of a portrait might be done in a red lake pigment. This might reflect the use of lake pigments in women's cosmetics. [Fol. 58r](https://edition640.makingandknowing.org/#/folios/58r/f/58r/tl) of Ms. Fr. 640, the entry "Painter" includes the following observatino: "And thus they pounce the lake on their cheeks & then, with another clean cotton, they soften it."
 
 
 ### Historical Recipes for Lake Pigments
