@@ -23,10 +23,12 @@ Pigments are colored, insoluble particles that, when combined with a binding med
 
 Pigments are most often encountered as a component of paint. In short: Pigment + Binding Media = Paint
 
-![pigment-particles-in-binding-media]({{<ref "pigment-particles-in-binding-media.jpg" >}})
+{{< figure src="./pigment-particles-in-binding-medium.jpg" alt="pigment-particles-in-binding-medium" >}}
+
 For more on paint making, refer to [Presentation: Introduction to Pigments &amp; Paints](introduction-paints-pigments_njr_2021.pdf)
 
-![painting-pigment+binding-media](/images/painting-pigment+binding-media.png?raw=true)
+{{< figure src="./painting-pigment+binding-media.png" alt="painting-pigment+binding-media" >}}
+
 
 
 ### Natural Pigments
@@ -68,19 +70,19 @@ The basic steps involved in making lake pigments are:
    
 These steps are illustrated in the picture below:
 
-![pigment-lake-overview]{{< figure src="./pigment-lake-overview.png" alt="Chart" width="640" height="360" >}}
+{{< figure src="./pigment-lake-overview.png" alt="pigment-lake-overview" >}}
 
 
 Lakes can be made from a variety of natural colorants. Natural colorants can be extracted from plants, such as madder roots, buckthorn berries, weld stems, logwood bark, and animals, such as cochineal insects and mollusk secretions. 
 
 #### Cochineal | Brazilwood | Weld | Green (Unripe) Buckthorn Berries
-![materials-cbwg-collection-5]{{< figure src="./materials-cbwg-collection-5.png" alt="Chart" width="640" height="360" >}}
+{{< figure src="./materials-cbwg-collection-5.png" alt="materials-cbwg-collection-5" >}}
 
 #### Ripe Buckthorn Berries | Sumac | Dyer's Broom | Turmeric
-![materials-rsdt-collection-2]{{< figure src="./materials-rsdt-collection-2.png" alt="Chart" width="640" height="360" >}}
+{{< figure src="./materials-rsdt-collection-2.png" alt="materials-rsdt-collection-2" >}}
 
 #### Walnut Hulls | Logwood | Madder | Oak Galls
-![materials-wlmg-collection-5]{{< figure src="./materials-wlmg-collection-5.png" alt="Chart" width="640" height="360" >}}
+{{< figure src="./materials-wlmg-collection-5.png" alt="materials-wlmg-collection-5" >}}
 
 
 ### Teaching Lake Pigments
