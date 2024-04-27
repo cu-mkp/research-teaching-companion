@@ -116,4 +116,4 @@ For an essay exploring pigments, including lake pigments, in the manuscript, see
 ##### Lakes, Trade, and Labor in Ms. Fr. 640
 Materials for a classroom activity exploring lake pigments in Ms. Fr. 640 (range of use, formats, and associated materials) and their relevance to global trade and labor practices:
 - [Compiled references to "lake" pigments in Ms. Fr. 640]({{< ref "/documents/activity-sheets/lakes-in-Fr-640_2021.pdf" >}})
-- [Classroom Activity: Lakes, Trade, and Labor in Ms. Fr. 640]({{< ref "documents/activity-sheets/lakes-trade-labor-in-Fr640.pdf" >}})
+- [Classroom Activity: Lakes, Trade, and Labor in Ms. Fr. 640]({{< ref "/documents/activity-sheets/lakes-trade-labor-in-Fr640.pdf" >}})
