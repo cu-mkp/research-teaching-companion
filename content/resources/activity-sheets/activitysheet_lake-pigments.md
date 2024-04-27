@@ -93,7 +93,8 @@ Lakes can be made from a variety of natural colorants. Natural colorants can be 
 - Powerpoints: Madder
 - Powerpoints: Cochineal
 #### Lake-Making in the Classroom: Reflection Assignments 
-- THU assignment
+- [Pigment-Making Lab Reflection Assignment]({{<ref "uchacz_2024_lab1_reflection-assignment-background.docx" >}})
+- [Pigment-Making Lab Reflection Assignment Background Document]({{<ref "uchacz_2024_lab1_reflection-assignment.docx" >}})
 #### Lake-Making in the Classroom: Recipe Handouts
 - Cochineal Standard
 - Cochineal Reversed
@@ -104,5 +105,7 @@ Lakes can be made from a variety of natural colorants. Natural colorants can be 
 
 #### Lakes in Ms. Fr. 640
 
-There are no recipes for making lake pigments in Ms. Fr. 640. There are, however, numerous references to lake pigments across the manuscript. 
+There are no recipes for making lake pigments in Ms. Fr. 640. There are, however, numerous references to [lake](https://edition640.makingandknowing.org/#/search?q=lake) pigments across the manuscript, which can form the basis for a classroom activity investigating the range of their use, their formats, and associated materials.
+- [Compiled references to "lake" pigments in Ms. Fr. 640]({{<ref "ADDFILENAME" >}})
+- [Classroom Activity: Lakes in Ms. Fr. 640]({{<ref "ADDFILENAME >}})
 
