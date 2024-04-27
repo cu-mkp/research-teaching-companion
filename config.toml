@@ -15,3 +15,9 @@ enableRobotsTXT = true
 
 # Set to "WARNING" so that broken links don't break the build process. Default is "ERROR".
 refLinksErrorLevel = "WARNING"
+
+# turn on unsafe handling to pass through raw html
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
