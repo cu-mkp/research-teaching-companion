@@ -106,6 +106,6 @@ Lakes can be made from a variety of natural colorants. Natural colorants can be 
 #### Lakes in Ms. Fr. 640
 
 There are no recipes for making lake pigments in Ms. Fr. 640. There are, however, numerous references to [lake](https://edition640.makingandknowing.org/#/search?q=lake) pigments across the manuscript, which can form the basis for a classroom activity investigating the range of their use, their formats, and associated materials.
-- [Compiled references to "lake" pigments in Ms. Fr. 640]({{<ref "ADDFILENAME" >}})
-- [Classroom Activity: Lakes in Ms. Fr. 640]({{<ref "ADDFILENAME >}})
+- [Compiled references to "lake" pigments in Ms. Fr. 640]({{<ref "lakes-in-Fr-640_2021.pdf" >}})
+- [Classroom Activity: Lakes, Trade, and Labor in Ms. Fr. 640]({{<ref "lakes-trade-labor-in-Fr640.pdf" >}})
 
