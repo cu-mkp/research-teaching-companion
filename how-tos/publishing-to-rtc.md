@@ -134,8 +134,8 @@ Headings of levels `## Two` and `### Three` will populate the table of contents 
 ### Links
 
 - To link to other pages on the site, use the `ref` tag surrounded by double brackets
-     - `[`*Text you would like to link*`]({{<ref "`*name of file*`" >}})` 
-     - e.g., `[Stucco for Molding Assignment Sheet]({{<ref "activity_sp22_azurite-preparation" >}})`
+     - `[`*Text you would like to link*`]({{< ref "`*name of file*`" >}})` 
+     - e.g., `[Stucco for Molding Assignment Sheet]({{< ref "activity_sp22_azurite-preparation" >}})`
 - To link to external links, use typical Markdown link syntax
      - `[`*Text you would like to link*`](`*URL*)` 
      - e.g., `[folio 120v in BnF Ms. Fr. 640](https://edition640.makingandknowing.org/#/folios/120v/f/120v/tl)`
@@ -143,9 +143,9 @@ Headings of levels `## Two` and `### Three` will populate the table of contents 
 Note that you do not need to give the entire path for `ref` tags, unless there are multiple Markdown files with the same name. You also do not need to include the `.md`. All of the following will work, but the first is much simpler!
 
 ```markdown
-[Stucco for Molding]({{<ref "stucco-assignment" >}})
-[Stucco for Molding]({{<ref "activity-sheets/stucco-assignment.md" >}})
-[Stucco for Molding]({{<ref "/resources/activity-sheets/stucco-assignment.md" >}})
+[Stucco for Molding]({{< ref "stucco-assignment" >}})
+[Stucco for Molding]({{< ref "activity-sheets/stucco-assignment.md" >}})
+[Stucco for Molding]({{< ref "/resources/activity-sheets/stucco-assignment.md" >}})
 ```
 
 For more information about internal links, see the Hugo documentation on [Links and Cross References](https://gohugo.io/content-management/cross-references/).
@@ -169,7 +169,7 @@ Images
 - markdown: `![stucco-molded](/images/stucco-molded.jpg)`
 
 Documents
-- **preferred:** `[Stucco for Molding]({{<ref "/documents/activity-sheets/stucco-assignment.pdf" >}})`
+- **preferred:** `[Stucco for Molding]({{< ref "/documents/activity-sheets/stucco-assignment.pdf" >}})`
 - markdown: `[Stucco for Molding](/documents/activity-sheets/stucco_assignment_student-handout.pdf)`
 
 ### `_index.md` pages
