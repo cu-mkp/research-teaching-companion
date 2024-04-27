@@ -134,13 +134,13 @@ another location, while 72.2% (n=192) do not. Entries labeled ‘no’ are
 usually general discussions of the profession/place or other
 miscellaneous uses (*Fig. 4*).
 
-![Chart](./images/media-ghoneima/image4.png)
+![Chart](/images/media-ghoneima/image4.png)
 
 *Fig 3*. Percentage of entries tagged with “pro” which show evidence of
 oral transmission of knowledge (‘*yes’*) versus those which do not
 (‘*no’*).
 
-![Chart](./images/media-ghoneima/image3.png)
+![Chart](/images/media-ghoneima/image3.png)
 
 *Fig 4*. Percentage of entries tagged with “pl” which show evidence of
 oral transmission of knowledge (‘*yes’*) versus those which do not
@@ -171,12 +171,12 @@ reference to how something is done in another place or profession, I
 broke down the categories according to the specific place/profession
 mentioned (*Fig. 5-6*).
 
-![Chart](./images/media-ghoneima/image1.png)
+![Chart](/images/media-ghoneima/image1.png)
 
 *Fig 5*. Breakdown of all places mentioned which included reference of
 oral transmission of knowledge.
 
-![Chart](./images/media-ghoneima/image2.png)
+![Chart](/images/media-ghoneima/image2.png)
 
 *Fig 6*. Breakdown of all professions mentioned which included reference
 of oral transmission of knowledge. For a description of all the
