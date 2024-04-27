@@ -1,5 +1,5 @@
 # Breadmolding
-{{< figure src="/images/media/breadmolding-kneading.jpg" alt="Kneading Bread">}}
+{{< figure src="/images/breadmolding-kneading.jpg" alt="Kneading Bread">}}
 ## Introduction
 
 The 16th-century artisanal/technical manual, BnF Ms. Fr. 640, contains
