@@ -78,29 +78,21 @@ word “said” was used 198 times, of which 8.6% (n=17) specifically
 reference something which another person said (*Fig. 2*). However, there
 were no instances of this with the words “hear” and “heard.”
 
-![Fig 1/images/images/media-ghoneima/image5.png)
+ {{< figure src="./media-ghoneima/image5.png" alt="Chart">}}
 
 *Fig 1*. Percentage of entries using the word “say” which reference oral
 transmission (‘*yes’*) versus those which do not (‘*no’*).
 
-![Fig 2/images/images/media-ghoneima/image6.png) style="width:6.10332in;height:3.77in" alt="Chart"
+ {{< figure src="./media-ghoneima/image6.png" alt="Chart">}}
 
 *Fig 2*. Percentage of entries using the word “said” which reference
 oral transmission (‘*yes’*) versus those which do not (‘*no’*).
 
--   For a look at all collected data involving the word “say,” please
-    > refer to the following
-    > [<u>spreadsheet</u>](../data/fa21_ghoneima_hana_final-project_tl_say.xlsx).
-    > For a list of all instances of oral transmission of knowledge
-    > using the word “say,” please refer to [<u>Appendix
+-   For a look at all collected data involving the word “say,” please refer to the following [<u>spreadsheet</u>](../data/fa21_ghoneima_hana_final-project_tl_say.xlsx).
+-   For a list of all instances of oral transmission of knowledge using the word “say,” please refer to [<u>Appendix
     > 1</u>](#appendix-1-instances-of-oral-transmission-of-knowledge-using-the-word-say).
-
--   For a look at all collected data involving the word “said,” please
-    > refer to the following
-    > [<u>spreadsheet</u>](../data/fa21_ghoneima_hana_final-project_tl_said.xlsx).
-    > For a list of all instances of oral transmission of knowledge
-    > using the word “say,” please refer to
-    > [<u>Appendix 2.</u>](#appendix-2-instances-of-oral-transmission-of-knowledge-using-the-word-said)
+-   For a look at all collected data involving the word “said,” please refer to the following [<u>spreadsheet</u>](../data/fa21_ghoneima_hana_final-project_tl_said.xlsx).
+-   For a list of all instances of oral transmission of knowledge using the word “say,” please refer to [<u>Appendix 2.</u>](#appendix-2-instances-of-oral-transmission-of-knowledge-using-the-word-said)
 
 ## Orally Transmitted Knowledge Across Professions and Places
 
@@ -189,22 +181,11 @@ of oral transmission of knowledge. For a description of all the
 profession categories, please refer to [<u>Appendix
 4.</u>](#appendix-4-descriptions-of-profession-categories)
 
--   For a look at all collected data involving the tag “pro” please
-    > refer to the following
-    > [<u>spreadsheet</u>](../data/fa21_ghoneima_hana_final-project_tl_pro.xlsx).
-    > For a list of all instances of oral transmission of knowledge
-    > using the tag “pro,” please refer to
-    > [<u>Appendix 3.</u>](#appendix-3-instances-of-oral-transmission-of-knowledge-using-the-profession-tag)
-    > For a description of all the profession categories, please refer
-    > to
-    > [<u>Appendix 4.</u>](#appendix-4-descriptions-of-profession-categories)
-
--   For a look at all collected data involving the tag “pl,” please
-    > refer to the following
-    > [<u>spreadsheet</u>](../data/fa21_ghoneima_hana_final-project_tl_pl.xlsx).
-    > For a list of all instances of oral transmission of knowledge
-    > using the tag “pl,” please refer to
-    > [<u>Appendix 5.</u>](#appendix-5-instances-of-oral-transmission-of-knowledge-using-the-place-tag)
+-   For a look at all collected data involving the tag “pro” please refer to the following [<u>spreadsheet</u>](../data/fa21_ghoneima_hana_final-project_tl_pro.xlsx).
+-   For a list of all instances of oral transmission of knowledge using the tag “pro,” please refer to [<u>Appendix 3.</u>](#appendix-3-instances-of-oral-transmission-of-knowledge-using-the-profession-tag)
+-   For a description of all the profession categories, please refer to [<u>Appendix 4.</u>](#appendix-4-descriptions-of-profession-categories)
+-   For a look at all collected data involving the tag “pl,” please refer to the following [<u>spreadsheet</u>](../data/fa21_ghoneima_hana_final-project_tl_pl.xlsx).
+-   For a list of all instances of oral transmission of knowledge using the tag “pl,” please refer to [<u>Appendix 5.</u>](#appendix-5-instances-of-oral-transmission-of-knowledge-using-the-place-tag)
 
 ## *Women and Peasants Within the Oral Culture of Ms. Fr. 640*
 
