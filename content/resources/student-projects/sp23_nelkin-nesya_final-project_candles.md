@@ -52,7 +52,7 @@ I found more thorough directions for tallow and wax candle making in a book titl
 
 Some logistical issues were evident even before I began actually making the candles. I knew that I could not render tallow or prepare candles from tallow in my own kitchen, because, as discussed above, it is not kosher; following the laws of *kashrut* as I understand them, cooking tallow on my stove would have contaminated both my stove and my cooking utensils. Working out ways to work around this issue raised the question of how early modern Jewish women could have prepared tallow lamps and candles in their homes without running into similar concerns. In some cases, it is possible that they purchased tallow candles that were made elsewhere, however, rabbinic writings from the thirteenth through sixteenth centuries suggest that they were preparing mixtures of tallow and other substances in their own homes, if not necessarily rendering the fat or making candles there.[^51]Another possible explanation is that they had dedicated utensils for candle production. 
 
-<img src="./media-nelkin/image7.gif" style="width:2.7281in;height:2.80742in" alt="A black and white drawing of a person holding a vase Description automatically generated with low confidence" />
+{{< figure src="./media-nelkin/image7.gif" alt="A black and white drawing of a person holding a vase Description automatically generated with low confidence" width="2.7281in" height="2.80742in" >}}
 
 *Figure 1. Woodcut depicting Shabbat candle lighting. This version comes from the Amsterdam Haggadah of 1695, but it is based on a woodcut printed by Giovanni di Gara in Venice in 1593, copies of which appeared in numerous printed books in a variety of Jewish languages in the seventeenth and eighteenth centuries.*
 
@@ -64,7 +64,7 @@ This prompted me to think more carefully about the specific arguments made in ra
 
 Because I could only work with tallow in the Making and Knowing lab and not at home, I purchased tallow, rather than rendering it from suet myself, which takes many hours. I purchased beef tallow from EPIC Provisions, because their tallow is not bleached or deodorized, and because they claimed that their tallow is suitable for candle making.[^54] While EPIC Provisions provides no information about how their tallow is rendered, the fact that it is marketed primarily for culinary and cosmetic use (and that customers seem satisfied with using the product for these purposes) suggest that it must be very thoroughly purified to minimize the unpleasant scent that is usually associated with tallow. For the wax candles, I used the Stakich-brand beeswax pellets from the Making and Knowing lab.
 
-<img src="./media-nelkin/image8.jpg" style="width:3.10939in;height:2.33205in" alt="A hand holding a spoon in a jar Description automatically generated with low confidence" />
+{{< figure src="./media-nelkin/image8.jpg" alt="A hand holding a spoon in a jar Description automatically generated with low confidence" width="3.10939in" height="2.33205in" >}}
 
 *Figure 2. Appearance of the tallow before melting.*
 
@@ -74,7 +74,7 @@ Campbell’s instructions explain that twisted cotton wicks were used for tallow
 
 Campbell provided instructions for making tallow candles in two ways: by dipping wicks into melted tallow and by pouring melted tallow into a mold. Both processes start by melting the tallow and ensuring that it will stay melted; Campbell explained that in order to keep the tallow “in constant Flow,” it was “put into a Fat of Boiling Water.” I began by placing a can of water on a hot plate and setting it to boil. As I waited for water to boil, I began to prepare wicks for dipping. Campbell wrote that “the Wicks are ranged five or six long upon a long small Stick, and placed upon Stands near the Fat.” Because I intended to produce many fewer candles than Campbell’s tradesmen, I tied only one or two wicks to each stick (for the sticks, I used chopsticks and bamboo from the Making and Knowing Lab). When the water was close to boiling, I placed the tallow on the hot plate; it melted almost immediately, and remained entirely liquid for the next few hours. Campbell’s instructions are ambiguous as to whether the melted tallow was placed directly into the boiling water (boiling suet with water was one way that it was rendered into tallow),[^57] or whether it was placed in a bain-marie. Because of the resemblance between the former option and tallow-rendering methods, I placed the tallow directly in the water; I thought it was possible that this was supposed to further purify the already-rendered tallow in order to allow it to harden better.[^58]
 
-<img src="./media-nelkin/image6.jpg" style="width:3.51383in;height:2.63538in" alt="A picture containing yellow, cup, outdoor Description automatically generated" />
+{{< figure src="./media-nelkin/image6.jpg" alt="A picture containing yellow, cup, outdoor Description automatically generated" width="3.51383in" height="2.63538in" >}}
 
 *Figure 3. Tallow in boiling water.*
  
@@ -89,11 +89,11 @@ Even once the tallow was separated from the water, its softness continued to pos
 
 At Naomi Rosenkranz’s suggestion, I consulted several craft journals and hobby blogs with recipes for tallow candles to see how they handled the issue of overly soft tallow. Though none of them mention this problem explicitly, some suggested plunging the wicks into cold water after dipping them into the tallow in order to cool them more rapidly.[^60] With Rosenkranz’s help, I alternated between dipping the candles into the tallow and into the cold water, which hardened the tallow enough for it to slowly accumulate on the wicks and form candles. Even the cooled tallow melted slightly as it was dipped into the hot tallow, making the dipped tallow candles lumpy and uneven. The knots at the bottom of the wicks caused them to curve less, but did not prevent the issue entirely.
 
-<img src="./media-nelkin/image10.jpg" style="width:3.73099in;height:2.79824in" alt="A picture containing person, clothing, technician, tool Description automatically generated" />
+{{< figure src="./media-nelkin/image10.jpg" alt="A picture containing person, clothing, technician, tool Description automatically generated" width="3.73099in" height="2.79824in" >}}
 
 *Figure 5. Dipping tallow candle in cold water.*
 
-<img src="./media-nelkin/image4.jpg" style="width:3.7546in;height:2.81595in" alt="A group of white objects on a blue surface Description automatically generated with low confidence" />
+{{< figure src="./media-nelkin/image4.jpg" alt="A group of white objects on a blue surface Description automatically generated with low confidence" width="3.7546in" height="2.81595in" >}}
 
 *Figure 6. Dipped Tallow candles (after refrigeration).*
 
@@ -107,11 +107,11 @@ Campbell wrote that wax candles were made differently than tallow candles: “Wa
 
 In any case, I decided to prepare the wax candles in the same ways that I had prepared the tallow candles, because I wanted to be able to directly compare the ways that these materials behaved when made into candles and when burned. I melted wax on the hot plate, then dipped wicks into it in the same manner as I had with the tallow, alternating between the wax and cold water. I then poured the remaining wax into a glass jar, and placed a wick in its center. Making dipped wax candles was far easier than making dipped tallow candles; the wax cooled quickly and hardened completely, and accumulated easily on the wicks without dripping. The lack of references to dipped wax candles in early modern sources therefore does not seem to result from the unsuitability of this material for dipped candle making. Since wax is solid at room temperature, I did not refrigerate the wax candles.
 
-<img src="./media-nelkin/image14.jpg" style="width:3.99622in;height:2.99716in" alt="A picture containing drink, soft drink, cup, ground Description automatically generated" />
+{{< figure src="./media-nelkin/image14.jpg" alt="A picture containing drink, soft drink, cup, ground Description automatically generated" width="3.99622in" height="2.99716in" >}}
 
 *Figure 8. Poured wax candle.*
 
-<img src="./media-nelkin/image5.jpg" style="width:3.83624in;height:2.87718in" alt="A picture containing electrical wiring, engineering, machine, tool Description automatically generated" />
+{{< figure src="./media-nelkin/image5.jpg" alt="A picture containing electrical wiring, engineering, machine, tool Description automatically generated" width="3.83624in" height="2.87718in" >}}
 
 *Figure 9. Dipped wax candle (in progress).*
 
@@ -121,35 +121,35 @@ When the candles had cooled entirely, I burned several of them in order to compa
 
 Prior to burning the candles, I trimmed their wicks to ¼ to ½ an inch each. Both the wax and the tallow dipped candles took several tries to catch flame and stay lit, which was due at least in part to the air current in the fume hood. Once lit, the wax candle burned consistently, maintaining a strong flame despite the air flow, whereas the tallow candle flickered wildly, constantly dimming and brightening, and blew out every few minutes. Both the tallow candle and the wax candle burned more brightly and more consistently the second time they were lit than the first time. This reminded me of a custom associated with women, in medieval and early modern rabbinic writings, to light the Shabbat candles or lamp a little early; then, immediately before the start of Shabbat, to put them out and light them again. Whether approving or disapproving, most rabbinic writings describe this as a symbolic practice; more unusually, Rabbi Benjamin Slonik, in his handbook for women, also acknowledged the practical function of this custom in ensuring that the candles would burn brightly on Shabbat.[^63]
 
-<img src="./media-nelkin/image15.png" style="width:5.88192in;height:3.30858in" alt="A picture containing candle, indoor, cookware and bakeware, ground Description automatically generated" />
+{{< figure src="./media-nelkin/image15.png" alt="A picture containing candle, indoor, cookware and bakeware, ground Description automatically generated" width="5.88192in" height="3.30858in" >}}
 
 *Figure 10. Tallow candle (left) flickers and goes out while wax candle remains comparatively steady ([<u>video</u>](https://vimeo.com/903376219)).*
 
 At home, I burned the tallow and wax mold candles for three hours. Both of these candles were cracked, and fissures were visible in the candles below the cracks; this issue, which seems to have resulted from the wax and tallow adhering to the sides of their molds as they cooled and shrunk, was far worse in the wax tallow than the tallow candle. Campbell’s instructions explain that once a molded candle “is perfectly congealed and cold… the candle is drawn out;” such candles were not burned in their molds. However, the cracks in my candles and the fact that they were firmly stuck to their molds made me worry that attempting to remove the candles would badly damage them, so I left them in the molds. Doing so may have allowed them to burn longer than they would have outside of their molds, as the tallow and wax remained on top of the candles as they melted, rather than dripping down their sides. 
 
-<img src="./media-nelkin/image3.jpg" style="width:4.10752in;height:3.08063in" alt="A candle in a jar Description automatically generated with low confidence" />
+{{< figure src="./media-nelkin/image3.jpg" alt="A candle in a jar Description automatically generated with low confidence" width="4.10752in" height="3.08063in" >}}
 
 *Figure 11. Crack in poured wax candle.*
 
-<img src="./media-nelkin/image1.jpg" style="width:3.96775in;height:2.97581in" alt="A picture containing dairy, milk, candle, indoor Description automatically generated" />
+{{< figure src="./media-nelkin/image1.jpg" alt="A picture containing dairy, milk, candle, indoor Description automatically generated" width="3.96775in" height="2.97581in" >}}
 
 *Figure 12. Crack in poured tallow candle.*
 
 Both poured candles burned far more brightly and consistently than the dipped candles had, though this was doubtlessly due at least in part to the fact that they were not being subjected to a strong air current, as in the fume hood. Initially the wax burned slightly brighter, allowing me to read by its light from a slightly greater distance than the tallow candle did. This slight advantage of the wax candle was quickly negated by the tunneling which occurred in the wax. The cracks in the tallow were quickly filled in, as the entire surface of the tallow rapidly melted, whereas the irregularities in the wax worsened over the first half hour or so of burning, as only the wax closest to the flame melted. The edges of the wax remained solid and blocked the light of the candle. As the wax candle continued to burn, the cracks were eventually filled in by the melted wax, but significant tunneling had already occurred, and recurred during subsequent burns of the candle. This issue could have been avoided if I had used a larger number of wicks, or a larger wick. Still, the fact that the tallow candle did not have this issue despite having a greater diameter than the wax candle suggests that tallow is less prone to tunneling than wax is.
 
-<img src="./media-nelkin/image13.jpg" style="width:3.42807in;height:2.57105in" alt="A picture containing darkness, fog, lighting, amber Description automatically generated" />
+{{< figure src="./media-nelkin/image13.jpg" alt="A picture containing darkness, fog, lighting, amber Description automatically generated" width="3.42807in" height="2.57105in" >}}
 
 *Figure 13. Brightness of wax candle.*
 
-<img src="./media-nelkin/image11.jpg" style="width:3.4737in;height:2.60528in" alt="A picture containing darkness, night, black, dark Description automatically generated" />
+{{< figure src="./media-nelkin/image11.jpg" alt="A picture containing darkness, night, black, dark Description automatically generated" width="3.4737in" height="2.60528in" >}}
 
 *Figure 14. Brightness of tallow candle.*
 
-<img src="./media-nelkin/image2.jpg" style="width:3.46931in;height:2.60198in" alt="A candle in a jar Description automatically generated with low confidence" />
+{{< figure src="./media-nelkin/image2.jpg" alt="A candle in a jar Description automatically generated with low confidence" width="3.46931in" height="2.60198in" >}}
 
 *Figure 15. Warping in poured wax candle.*
 
-<img src="./media-nelkin/image16.png" style="width:2.59436in;height:4.6122in" alt="A candle in a glass Description automatically generated with medium confidence" />
+{{< figure src="./media-nelkin/image16.png" alt="A candle in a glass Description automatically generated with medium confidence" width="2.59436in" height="4.6122in" >}}
 
 *Figure 16. Tallow candle sputters ([<u>video</u>](https://vimeo.com/903367588)).*
 

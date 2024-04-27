@@ -172,13 +172,11 @@ universities, and casting could have military applications[^8] or serve
 to create precious objects for a *Kunstkammer*. Common life, on the
 contrary, is poorly transcribed into the language of elites.
 
-<img src="./media-narcy/image2.png" style="width:5.22224in;height:5.22224in"
-alt="categories-barplot" />
+{{< figure src="./media-narcy/image2.png" alt="categories-barplot" width="5.22224in" height="5.22224in" >}}
 
 *Fig. 4. How many entries are tagged with each category*[^9]
 
-<img src="./media-narcy/image1.png" style="width:4.91105in;height:4.91105in"
-alt="Latin tag by category" />
+{{< figure src="./media-narcy/image1.png" alt="Latin tag by category" width="4.91105in" height="4.91105in" >}}
 
 *Fig. 5. Tag count: Latin in the manuscript*[^10]
 
@@ -439,13 +437,11 @@ from the Languedoc area of Toulouse. In French linguistics, it is
 considered a *langue d’oïl*, a Northern language, but takes some words
 from Occitan, which is a Southern *langue d’oc*.
 
-<img src="./media-narcy/image6.png" style="width:3.78366in;height:3.78366in"
-alt="Occitan tag by category" />
+{{< figure src="./media-narcy/image6.png" alt="Occitan tag by category" width="3.78366in" height="3.78366in" >}}
 
 *Fig. 6. Tag count: Occitan in the manuscript*[^24]
 
-<img src="./media-narcy/image7.png" style="width:3.48174in;height:3.48174in"
-alt="Poitevin tag by category" />
+{{< figure src="./media-narcy/image7.png" alt="Poitevin tag by category" width="3.48174in" height="3.48174in" >}}
 
 *Fig. 7. Tag count: Poitevin in the manuscript*[^25]
 

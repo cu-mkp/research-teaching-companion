@@ -7,7 +7,7 @@ As you know by now, the origin and purpose of [BnF Ms. Fr. 640](https://edition6
 
 First, let’s turn our focus to Ms. Fr. 640. There are 48 entries in the manuscript with an explicitly medical focus that are scattered throughout the text and have a wide variety of intended purposes and ingredients.[^3]
 
-<img src="./media/image2.png" style="width:6.5in;height:4.01389in" alt="Chart - Fr. 640 medicinal recipes" />
+{{< figure src="./media/image2.png" alt="Chart - Fr. 640 medicinal recipes" width="6.5in" height="4.01389in" >}}
 
 Seventeen of these recipes address bodily pain and discomfort with no specific cause – nosebleeds, swollen breasts, constipation, etc.[^4] Thirteen detail remedies or preventative measures for specific diseases such as the plague, gonorrhea, and even mange in dogs. There are eight recipes that deal with cosmetic concerns (whitening teeth and the face), seven that claim to produce a range of miscellaneous effects (induce sleep, poison, induce temporary paralysis), and four that seem specifically geared toward artisans. These last four (an antidote against metal fumes, a caution to glassworkers, a remedy for healing a burn from toad urine incurred while trying to cast such an animal, and a remedy against burns specifically said to have been tested by a gunpowder maker) constitute a small percentage of the total recipes, indicating that, overall, the medical recipes included in Ms. Fr. 640 are not specific to the artisan’s workshop. But just how common were the medical recipes included in Ms. Fr. 640? Were they similar to those detailed in other contexts? Would their construction have required special skills or ingredients?
 
@@ -18,7 +18,7 @@ To begin thinking about answers to these questions, let’s turn to a recipe boo
 The text we will use for our comparison was compiled by Englishwoman Mary Granville around 1640 – at least twenty years after the author-practitioner finished compiling Ms. Fr. 640, and likely closer to fifty.[^5] The Granville manuscript features a total of 212 recipes, 76 of which are medical in focus. Right away, we see that medical recipes
 constitute a much larger portion of this household recipe book than they do in Ms. Fr. 640.
 
-<img src="./media/image1.png" style="width:6.5in;height:4.01389in" alt="Chart - Granville medicinal recipes" />
+{{< figure src="./media/image1.png" alt="Chart - Granville medicinal recipes" width="6.5in" height="4.01389in" >}}
 
 The graph above sorts the recipes in the Granville manuscript into five very broad categories, allowing us to make a superficial comparison between this document and Ms. Fr. 640. Here we can see a relatively similar array and proportion of recipes included in this recipe book and Ms. Fr. 640 (see Appendix for more detailed breakdown of recipes in each manuscript). The Granville contributors compiled many more remedies for ailments that would have been quite common but make no appearance in Ms. Fr. 640: consumption, cough, sore throat, and agues (a general term for any illness involving a fever and chills). Both feature multiple remedies for the plague. Ms. Fr. 640 seems to tend more toward the unusual or idiosyncratic, as the author-practitioner includes two remedies for “falling sickness” (vertigo), three for curing mange in dogs, two mysterious entries with text written backward that seem to be instructions for making poison, and one entry, titled “Toadstone,” which relates a claim that a certain powder diffused in the air will make a person “neither able to move, nor speak, nor thwart thieves.”
 
@@ -58,9 +58,9 @@ Much of the detail in the Granville recipe involves how to employ the remedy onc
 
 These two recipes for aches and pains demonstrate another important difference between the two recipe texts. Overall, Ms. Fr. 640 calls for more ingredients that could be classified as minerals or chemicals, a category more likely to include ingredients that would not have been common household items.[^10] These make up 23% of the 91 different ingredients in the medical recipes, as opposed to only 12% in the Granville manuscript. On the other hand, of the nearly five hundred ingredients called for across the 75 medical recipes in the Granville collection, 70% are plant-based, 10% are animal products that would have been relatively easy to acquire (such as eggs, milk, honey, and even horse dung), and 4.5% are food or drink items.
 
-<img src="./media/image3.png" style="width:6.38021in;height:3.93651in" alt="Chart - Fr. 640 ingredients" />
+{{< figure src="./media/image3.png" alt="Chart - Fr. 640 ingredients" width="6.38021in" height="3.93651in" >}}
 
-<img src="./media/image4.png" style="width:6.36979in;height:3.93008in" alt="Chart - Granville ingredients" />
+{{< figure src="./media/image4.png" alt="Chart - Granville ingredients" width="6.36979in" height="3.93008in" >}}
 
 And yet, the Granville collection does not shy away from ingredients that might seem more fitting in an artisan’s workshop than a domestic kitchen. Only 12.5% of the ingredients called for can be categorized as chemical or mineral compounds, but this is the second largest category after plant matter, larger than animal products or food and drink. Some of these items are concentrated in specific recipes. One recipe for “A medicine for a burne or Scald” calls for lithridge of gold (a type of lead), gold oil, and oil of vitriol (sulfuric acid!) combined together. But different kinds of lead are common among different recipes, as are sulfur, turpentine, and alum, and often these ingredients are mixed with more homely ones - the recipe for burns mentioned above also calls for hog fat.
 
