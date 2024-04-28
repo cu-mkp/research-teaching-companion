@@ -1,5 +1,5 @@
 ## Making and Testing Paints Made by Hand from Pigments
-{{< figure src="/images/painting-title-image.img" alt="hand holding paintbrush in paint on mulling plate" >}}
+{{< figure src="/images/painting-title-image.png" alt="hand holding paintbrush in paint on mulling plate" >}}
 
 The Making and Knowing Project has used paint and test card making as a core skill-building exercise for its students. Paint making has often been a follow-up activity to [lake pigment making]({{< ref "activitysheet_lake-pigments" >}}) or [verdigris growing]({{<ref "verdigris-assignment" >}}), but paint making can also be undertaken using commercially produced pigments.
 
