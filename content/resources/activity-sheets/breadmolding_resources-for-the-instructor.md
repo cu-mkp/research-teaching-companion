@@ -166,6 +166,8 @@ Videos showing the process and result
 
 -   [<u>https://vimeo.com/419949231?share=copy</u>](https://vimeo.com/419949231?share=copy)
 
+[Video of Making and Knowing Director Pamela Smith introducing “skillbuilding” exercises, including culinary reconstructions.](https://vimeo.com/384070302)
+
 ### Suggested reading (to assign for class and/or further information)
 
 If you only assign one piece of reading, we suggest Le Pouésard, “Pain,
