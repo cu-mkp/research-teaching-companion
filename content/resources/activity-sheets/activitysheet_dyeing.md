@@ -1,6 +1,6 @@
 ## Dyeing
 
-The Making and Knowing Project has undertaken experiments in dyeing with natural colorants as a way to engage with various entries in Ms. Fr. 640 and as a preliminary step to [making lake pigments]({{<ref "activitysheet_lake-pigments" >}}). Additionally, M&K has led several community outreach activites on dyeing with natural colorants that can be ported directly into the classroom. These activities and their contexts are also described on the [Making and Knowing Resources in Use]({{ ref "casestudies.md" >}}) section of the Companion.
+The Making and Knowing Project has undertaken experiments in dyeing with natural colorants as a way to engage with various entries in Ms. Fr. 640 and as a preliminary step to [making lake pigments]({{<ref "activitysheet_lake-pigments" >}}). Additionally, M&K has led several community outreach activites on dyeing with natural colorants that can be ported directly into the classroom. These activities and their contexts are also described on the [Making and Knowing Resources in Use]({{ ref "../casestudies" >}}) section of the Companion.
 
 If you are already familiar with historical dyes and natural colorants, you might want to explore the presentation [Cochineal Dye: History, Chemistry, and Preparation]({{<ref "/documents/activity-sheets/2023_dyes_cochineal-history-chem-prep.pdf" >}}) which offers more extensive information than is offered in summary on this page.
 
@@ -31,7 +31,7 @@ The largest class of natural dyes is mordant dyes. In this process, textiles mus
 
 The most common mordant is aluminum, typically in the form of alum (aluminum potassium sulfate). Other mordants include iron sulfate, copper sulfate, and tannins.
 
-![mordant-process](/images/mordant-process.JPG?raw=true)
+{{< figure src="/images/mordant-process.JPG" alt="mordant process" >}}
 
 > Jo Kirby et al, _Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources_ (Archetype, London, 2014).
 
@@ -75,20 +75,21 @@ To know how much of the mordant, water, cochineal, and optional additive are nee
 
 ### Teaching Dyeing
 #### Presentations
-- [Presentation: Dyeing: Step-by-Step Instructions](rosenkranz_2018_dyes_cochineal-step-by-step.pdf)
+- [Cochineal Dye: History, Chemistry, and Preparation]({{<ref "/documents/activity-sheets/2023_dyes_cochineal-history-chem-prep.pdf" >}})
+- [Dyeing: Step-by-Step Instructions]({{< ref "/documents/activity-sheets/rosenkranz_2018_dyes_cochineal-step-by-step.pdf" >}})
+- [Pictures of Common Natural Dyestuffs]({{< ref "/documents/activity-sheets/2023_dyes-pigments_samples.pdf" >}})
+
 
 #### Resources
 - Sourcing Materials for Dyeing [docx]({{< ref "/documents/activity-sheets/activitysheet_dye-material-sourcing.docx" >}}) [PDF]({{< ref "/documents/activity-sheets/activitysheet_dye-material-sourcing.pdf" >}})
 - Advice for Dyeing in the Home Kitchen [docx]({{< ref "/documents/activity-sheets/activitysheet_dye-kitchen-dyeing.docx" >}}) [PDF]({{< ref "/documents/activity-sheets/activitysheet_dye-kitchen-dyeing.pdf" >}})
+- How to Calculate Mordant and Dyestuff Amounts [docx]({{< ref "/documents/activity-sheets/activitysheet_mordants-dyes-recipes-calculator.docx" >}}) [PDF]({{< ref "/documents/activity-sheets/activitysheet_mordants-dyes-recipes-calculator.pdf" >}})
 - Automatic Mordant and Dyestuff Calculator [xlsx]({{< ref "/documents/activity-sheets/activitysheet_mordants-dyes-recipes-automatic-calculator.xlsx" >}}) 
-- Manual Mordant and Dyestuff Calculator [docx]({{< ref "/documents/activity-sheets/activitysheet_mordants-dyes-recipes-calculator.docx" >}}) [PDF]({{< ref "/documents/activity-sheets/activitysheet_mordants-dyes-recipes-calculator.pdf" >}})
-
 
 
 #### Activity Sheet Handouts
-- Handout: [Dyeing Instructions: General Mordant and Dye Process](sp23_handout_dyeing-textiles_general-process.pdf)
-- SP23 piemontese double recipe
-- 
+- [Dyeing Instructions: General Mordant and Dye Process]({{< ref ""/documents/activity-sheets/sp23_handout_dyeing-textiles_general-process.pdf" >}})
+- [Piemontese Cochineal Dye Historical Recipe]({{< ref "/documents/activity-sheets/sp23_printout_recipe-example-piemontese.pdf" >}}) (2 copies per printed page)
 
 
 #### Dyeing in Ms. Fr. 640
