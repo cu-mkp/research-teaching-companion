@@ -72,7 +72,7 @@ However, examining these manuscripts side by side also highlights important diff
 
 ## Appendix
 
-All data and its original workup can be found in the [su21_branscum_final-project_recipe-data spreadsheet]({{< ref "/documents/student-projects/su21_branscum_final-project_recipe-data.pdf" >}}).
+All data and its original workup can be found in the [su21_branscum_final-project_recipe-data spreadsheet]({{< ref "/documents/student-projects/su21_branscum_final-project_recipe-data.xlsx" >}}).
 
 All data and analysis used to generate the charts are openly available:
 
