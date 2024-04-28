@@ -4,13 +4,13 @@
 _The Making and Knowing Project, Columbia University_<br>
 _Last updated 2021-05-13 by NJR_<br>
 
-A downloadable version of this assignment: [[PDF](painting_assignment_downloadable_2021.pdf)]
+A downloadable version of this assignment: [[PDF](/documents/activity-sheets/painting_assignment_downloadable_2021.pdf)]
 
 ![painting-header](/images/painting-header.png?raw=true)
 
 ## Paint = Pigment + Binding Media
 
-Refer to [Presentation: Introduction to Pigments &amp; Paints](introduction-paints-pigments_njr_2021.pdf)
+Refer to [Presentation: Introduction to Pigments &amp; Paints](/documents/activity-sheets/introduction-paints-pigments_njr_2021.pdf)
 
 ![painting-pigment+binding-media](/images/painting-pigment+binding-media.png?raw=true)
 
@@ -181,4 +181,4 @@ Remember to record your experiences in your field notes.
 
 Remember to record your experiences in your field notes.
 
-A downloadable version of this assignment: [[PDF](painting_assignment_downloadable_2021.pdf)]
+A downloadable version of this assignment: [[PDF](/documents/activity-sheets/painting_assignment_downloadable_2021.pdf)]
