@@ -81,13 +81,16 @@ To know how much of the mordant, water, cochineal, and optional additive are nee
 - [Presentation: Dyeing: Step-by-Step Instructions](rosenkranz_2018_dyes_cochineal-step-by-step.pdf)
 
 #### Resources
-- [Activity Sheet: Calculating ratios and amount of material needed](rosenkranz_2019_dyes_handout_reconstruction-exchange_dyeing-with-natural-colorants.pdf)
+- [Activity Sheet: How to Calculate Mordant and Dyestuff Amounts](rosenkranz_2019_dyes_handout_reconstruction-exchange_dyeing-with-natural-colorants.pdf)
+- [Mordant and Dyestuff Calculator]
 - [Advice for Dyeing in the Home Kitchen]
 - [Sourcing Materials for Dyeing]
 
 
 #### Activity Sheet Handouts
 - Handout: [Dyeing Instructions: General Mordant and Dye Process](sp23_handout_dyeing-textiles_general-process.pdf)
+- SP23 piemontese double recipe
+- 
 
 
 #### Dyeing in Ms. Fr. 640
