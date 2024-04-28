@@ -55,8 +55,7 @@ YouTube, Prezi, etc.
 -   Think carefully about the ingredients and processes. Check the OED
 (*Oxford English Dictionary*) for the early modern meanings of
 familiar and unfamiliar terms (for a familiar term that has a
-different meaning in an earlier period, see “biscuits”). The OED
-is available through Clio.
+different meaning in an earlier period, see “biscuits”). NB. The OED requires a subscription. Check if your institution or local library has one.
 
 -   Are these ingredients comparable to modern ingredients? How are they
 similar or different? What about their purity? Were they unusual
