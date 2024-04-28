@@ -12,6 +12,8 @@ lab, or classroom. It is also very suitable for at-home assignments, or
 in-class activities, as most processes can be conducted in a home or
 institutional kitchen.
 
+## Learning Objectives 
+
 The Historical Culinary Recipe activity was conceived as one session at
 the start of a semester-long course. This assignment works well as a way
 into the methodology, but could be expanded into a series of sessions on
@@ -50,7 +52,7 @@ buttered toast, and hold the said butter, or zedoary, or gold coins, in
 your mouth, and cover your face with a cloth from the eyes down” (fol.
 [<u>123v</u>](http://edition640.makingandknowing.org/#/folios/123v/f/123v/tl)).
 
-## Themes:
+## Themes
 
 Embodied knowledge, the body and the senses, historical reconstruction
 (especially questions of historical “authenticity”), everyday life,
