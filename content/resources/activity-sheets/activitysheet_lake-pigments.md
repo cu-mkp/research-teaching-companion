@@ -1,6 +1,6 @@
 ## Making Lake Pigments
 
-The Making and Knowing Project has used lake pigment making as a core skill-building exercise for its students. M&K has often assigned lake pigment making alongside [verdigris growing]({{<ref "verdigris-assignment" >}}), which were then followed up by a [paint making and testing] ({{< ref "activitysheet_paintingpigments" >}}) activity. Nevertheless, lake pigment making can be done on its own.
+The Making and Knowing Project has used lake pigment making as a core skill-building exercise for its students. M&K has often assigned lake pigment making alongside [verdigris growing]({{<ref "verdigris-assignment" >}}), which were then followed up by a [paint making and testing]({{< ref "activitysheet_paintingpigments" >}}) activity. Nevertheless, lake pigment making can be done on its own.
 
 
 ### Learning Objectives
