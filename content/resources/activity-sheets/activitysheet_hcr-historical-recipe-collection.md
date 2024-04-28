@@ -51,8 +51,7 @@ Corpus of culinary & dietetic texts of Europe from the Middle Ages to 1800 with 
 ## Other Databases
 
 -   You may also wish to search for period recipes on EEBO (English printed books), Gallica (for French sources), VD17 (for German sources), Europeana, Wellcome (mainly medical sources).
--  Also of possible interest are ECCO (eighteenth century), Google
-    > Books [Archive.org](http://archive.org), and Worldcat.
+-  Also of possible interest are ECCO (eighteenth century), Google Books [Archive.org](http://archive.org), and Worldcat.
 
 -   The digital database of the US National Library of Medicine (NLM). To find recipes in their online catalogue, see the [interview with NLM staff](http://recipes.hypotheses.org/category/food-and-drink)
 
