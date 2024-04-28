@@ -29,7 +29,8 @@ In this period, there also existed a third, intermediary category of “mixed”
 #### Spirit Varnish Making: Activity Sheets and Field Notes
 
 #### Varnishes in Ms. Fr. 640
-There are dozens of entries in Ms. Fr. 640 that address the making and use of varnishes. In fact, "varnishes" are one of the categories that M&K has used to classify the various entries in the manuscript, and entries on varnishes account for roughly 5% of the manuscript's contents.
+There are dozens of entries in Ms. Fr. 640 that address the making and use of varnishes. In fact, "varnish" is one of the categories that M&K has used to classify the various entries in the manuscript, and entries on varnishes account for roughly 5% of the manuscript's contents. These entries can be accessed through the "varnish" category filter in the [List of Entries](https://edition640.makingandknowing.org/#/entries) and by a wildcard search for "[varnish\*](https://edition640.makingandknowing.org/#/search?q=varnish*)" to catch all instances of the term in [_Secrets of Craft and Nature in Renaissance France_](https://edition640.makingandknowing.org/#/).
+
 
 There are also several essays in [_Secrets of Craft and Nature in Renaissance France_](https://edition640.makingandknowing.org/#/) that explore varnishes in detail, including:
 - Naomi Rosenkranz and Tianna Uchacz, "[Varnishes in the Rain](https://edition640.makingandknowing.org/#/essays/ann_517_ad_20)."
