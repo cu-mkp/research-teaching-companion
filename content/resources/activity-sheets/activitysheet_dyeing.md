@@ -35,10 +35,7 @@ _De' secreti del reverendo signore Alessio Piemontese_ (1558) as translated from
 
 The recipe above from Piemontese has informed the standardized recipe for cochineal dye in Jo Kirby et al, _Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources_ (Archetype, London, 2014),  Chapter 5. The standardized recipe includes potash (potassium carbonate) as an optional additive. Potash is not typically found in recipes for cochineal because it results in a paler color, but it is attested in some instances.
 
-The standardized recipe begins with a mordant bath and is followed by the dye bath. Recipes for dyeing textiles often list ratios rather than outright amounts. The weight of textile will determine how much of the other ingredients are needed. The ratios below are provided for 1g of textile. To know how much of the mordant, water, cochineal, and optional additive are needed, first weigh the textiles you plan to dye then multiply that amount by the ratios below. For example, if your textile weigh 10g, you will need 1.25g cochineal and 625ml water.
-
-You can also use: 
-- [Activity Sheet: Calculating ratios and amount of material needed](rosenkranz_2019_dyes_handout_reconstruction-exchange_dyeing-with-natural-colorants.pdf) 
+The standardized recipe begins with a mordant bath and is followed by a dye bath. Recipes for dyeing textiles often list ratios rather than outright amounts. The weight of textile will determine how much of the other ingredients are needed. The ratios below are provided for 1g of textile. 
 
 **Mordant: Alum**
 
@@ -57,6 +54,12 @@ You can also use:
 |     cochineal     |      0.125     |
 | potash (optional) |     0.0625     |
 |       water       |      62.50     |
+
+
+To know how much of the mordant, water, cochineal, and optional additive are needed, first weigh the textiles you plan to dye then multiply that amount by the ratios above. For example, if your textile weighs 10g, you will need 1.25g cochineal and 625ml water.
+
+You can also use: 
+- [Activity Sheet: Calculating ratios and amount of material needed](rosenkranz_2019_dyes_handout_reconstruction-exchange_dyeing-with-natural-colorants.pdf) 
 
 
 Refer also to: 
