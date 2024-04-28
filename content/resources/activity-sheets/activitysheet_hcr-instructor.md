@@ -62,9 +62,9 @@ food, material culture, craft, medicine.
 
 ## Teaching Materials
 
-Student activity sheet
+[Student activity sheet]({{<ref "activitysheet_hcr-student" >}})
 
-Guide to historical recipes and collections
+[Guide to historical recipes and collections]({{<ref "activitysheet_hcr-student" >}})
 
 ## Finding Recipes
 
