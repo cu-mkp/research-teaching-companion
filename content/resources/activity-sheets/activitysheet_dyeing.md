@@ -1,6 +1,8 @@
 ## Dyeing
 
-Making and Knowing Project researchers have undertaken experiments in dyeing with natural colorants as a way to engage with Ms. Fr. 640 and as a preliminary step to [making lake pigments]({{< ref "activitysheet_lake-pigments" >}}). M&K has organized several community outreach activites on dyeing with natural colorants that can be ported directly into the classroom.
+The Making and Knowing Project has undertaken experiments in dyeing with natural colorants as a way to engage with various entries in Ms. Fr. 640 and as a preliminary step to [making lake pigments]({{<ref "activitysheet_lake-pigments" >}}). Additionally, M&K has led several community outreach activites on dyeing with natural colorants that can be ported directly into the classroom. These activities and their contexts are also described on the [Making and Knowing Resources in Use]({{ ref "casestudies.md" >}}) section of the Companion.
+
+If you are already familiar with historical dyes and natural colorants, you might want to explore the presentation [Cochineal Dye: History, Chemistry, and Preparation]({{<ref "/documents/activity-sheets/2023_dyes_cochineal-history-chem-prep.pdf" >}}) which offers more extensive information than is offered in summary on this page.
 
 
 ### Learning Objectives
@@ -12,12 +14,7 @@ The activity of dyeing with natural colorants following modernized historical re
 - consider the relationship between dyes and pigments and thus between the textile trade and art production
 
 
-### Dyeing with natural colorants
-
-If you are not already familiar with historical dyes and natural colorants, refer to the [Presentation: Cochineal Dye: History, Chemistry, and Preparation](/documents/activity-sheets/2023_dyes_cochineal-history-chem-prep.pdf) for more complete information and further explanation of natural colorants and dyeing.
-
-
-[![Presentation: Cochineal Dye: History, Chemistry, and Preparation](/images/cochineal-dye-presentation-slide.JPG)](/documents/activity-sheets/2023_dyes_cochineal-history-chem-prep.pdf)
+### What is a dye?
 
 A dye is "a compound that absorbs into and colors another material" and "is generally a complex organic material" ([Conservation and Art Materials Encyclopedia Online (CAMEO)](http://cameo.mfa.org/wiki/Dye)). Until the onset of synthetic dyes in the mid-nineteenth century, most dyes were sourced from natural colorants such as plants, insects, lichens, and shellfish. 
 
@@ -39,7 +36,7 @@ The most common mordant is aluminum, typically in the form of alum (aluminum pot
 > Jo Kirby et al, _Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources_ (Archetype, London, 2014).
 
 
-### Example Historical Recipe and its Modernization
+### An Example Historical Recipe and its Modernization
 
 The recipe below is for a mordant dye made from the scale insect cochineal. 
 
@@ -81,10 +78,11 @@ To know how much of the mordant, water, cochineal, and optional additive are nee
 - [Presentation: Dyeing: Step-by-Step Instructions](rosenkranz_2018_dyes_cochineal-step-by-step.pdf)
 
 #### Resources
-- [Activity Sheet: How to Calculate Mordant and Dyestuff Amounts](rosenkranz_2019_dyes_handout_reconstruction-exchange_dyeing-with-natural-colorants.pdf)
-- [Mordant and Dyestuff Calculator]
-- [Advice for Dyeing in the Home Kitchen]
-- [Sourcing Materials for Dyeing]
+- Sourcing Materials for Dyeing [docx]({{< ref "/documents/activity-sheets/activitysheet_dye-material-sourcing.docx" >}}) [PDF]({{< ref "/documents/activity-sheets/activitysheet_dye-material-sourcing.pdf" >}})
+- Advice for Dyeing in the Home Kitchen [docx]({{< ref "/documents/activity-sheets/activitysheet_dye-kitchen-dyeing.docx" >}}) [PDF]({{< ref "/documents/activity-sheets/activitysheet_dye-kitchen-dyeing.pdf" >}})
+- Automatic Mordant and Dyestuff Calculator [xlsx]({{< ref "/documents/activity-sheets/activitysheet_mordants-dyes-recipes-automatic-calculator.xlsx" >}}) 
+- Manual Mordant and Dyestuff Calculator [docx]({{< ref "/documents/activity-sheets/activitysheet_mordants-dyes-recipes-calculator.docx" >}}) [PDF]({{< ref "/documents/activity-sheets/activitysheet_mordants-dyes-recipes-calculator.pdf" >}})
+
 
 
 #### Activity Sheet Handouts
