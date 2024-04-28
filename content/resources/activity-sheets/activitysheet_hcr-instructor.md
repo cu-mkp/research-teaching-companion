@@ -142,7 +142,7 @@ For a discussion about different approaches to historical reconstruction
 (a different point of view from Albala’s strict call for “authenticity”)
 
 Optional additional assignment: 
-Ask your students to collaboratively compile a Reconstruction Template document (i.e. a list of things to keep in mind when doing a reconstruction)
+Ask your students to collaboratively compile a [Reconstruction Template document]({{<ref "activitysheet_reconstruction-template-sample" >}}) (i.e. a list of things to keep in mind when doing a reconstruction)
 
 -   Fors, Hjalmar, Lawrence M. Principe, and H. Otto Sibum. ‘From the
     Library to the Laboratory and Back Again: Experiment as a Tool for
