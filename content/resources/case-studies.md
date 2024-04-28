@@ -1,5 +1,5 @@
 ---
-title: "Using Making and Knowing Resources"
+title: "Using M\&K Resources"
 draft: false
 weight: 30
 ---
