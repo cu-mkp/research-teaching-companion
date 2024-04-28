@@ -4,7 +4,7 @@
 _Last updated 2022-01-29 by NJR_
 
 Refer also to:
-- [<u>Presentation: Cochineal Lake: History, Chemistry, and Preparation</u>](/documents/activity-sheets/presentation_sp23_rosenkranz_naomi_lakes_madder-history-chem-prep.pdf) - while this is for a different colorant (cochineal), the chemistry of lakes is the same.
+- [<u>Presentation: Madder Lake: History, Chemistry, and Preparation</u>](/documents/activity-sheets/presentation_sp23_rosenkranz_naomi_lakes_madder-history-chem-prep.pdf) - while this is for a different colorant (cochineal), the chemistry of lakes is the same.
 -  [Making Pigment from Madder: a Trio of Recipes](../sp22_fld_rosenkranz_naomi_madder-lake-trio) - helpful step-by-step fieldnotes for all three recipes
 
 
