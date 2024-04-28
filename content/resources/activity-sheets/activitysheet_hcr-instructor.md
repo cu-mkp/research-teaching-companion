@@ -70,7 +70,25 @@ Guide to historical recipes and collections
 
 If you are working with advanced students, such as graduate students or specialist undergraduates, we recommend you invite your students to explore the resources suggested
 in the above “Guide to historical recipes and collections” and select a
-recipe themselves. However, if working with less experienced students, you may wish to offer them a few suggestions. 
+recipe themselves. However, if working with less experienced students, you may wish to offer them a few suggestions. Here are some examples that have worked well for us by dint of being interesting and somewhat obscure:
+
+Wellcome MS 213
+- "A Syrupe of Lycoresse good for the Lunges and Shortnesse of the Breath" (p. 258)
+- "A Syrupe of Vinegar good for to cool in any Fever" (p. 259)
+
+Harleian MS 279
+- "Ryschewys & Fryez" (p.45)
+- "Browne Fryes" (p. 83)
+- "Gely" (pp. 86–87)
+
+Mayerne, Archimagirus
+- "Pastry Cooks Varnishing" (p. 48)
+- "Quindiniacks of Ruby colour" (p. 99)
+
+Le Menagier de Paris
+- Beverages for invalids (p. 109)
+
+
 We encourage you to see whether your institution has
 any manuscript or printed recipe collections in the library; this could
 be an opportunity to take your students to work with primary sources
