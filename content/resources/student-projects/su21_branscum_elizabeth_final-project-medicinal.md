@@ -72,7 +72,7 @@ However, examining these manuscripts side by side also highlights important diff
 
 ## Appendix
 
-All data and its original workup can be found in the [su21_branscum_final-project_recipe-data spreadsheet]({{< ref "/documents/student-projects/su21_branscum_final-project_recipe-data.xlsx" >}}).
+All data and its original workup can be found in the [su21_branscum_final-project_recipe-data spreadsheet](/documents/student-projects/su21_branscum_final-project_recipe-data.xlsx).
 
 All data and analysis used to generate the charts are openly available:
 
@@ -88,8 +88,8 @@ All data and analysis used to generate the charts are openly available:
      - [su21_branscum_ingredients_granville.csv](/documents/student-projects/su21_branscum_ingredients_granville.csv)
 - The calculations based upon that data: [su21_branscum_ingredients_totals+percents.csv](/documents/student-projects/su21_branscum_ingredients_totals+percents.csv)
 - Additional classification of two other manuscripts was undertaken, though the treatment presented here does not discuss them. I provide this data for future comparison work:
-     - [su21_branscum_ingredients_pudsey.csv](su21_branscum_ingredients_pudsey.csv) for Ms. V.a.450: Cookery and Medical Receipt Book attributed to Lettice Pudsey, c. 1675-1700 (Folger Library)
-     -  [su21_branscum_ingredients_hall.csv](su21_branscum_ingredients_hall.csv) for Ms. V.a.20: Receipt Book attributed to Constance Hall, 1672 (Folger Library)
+     - [su21_branscum_ingredients_pudsey.csv](/documents/student-projects/su21_branscum_ingredients_pudsey.csv) for Ms. V.a.450: Cookery and Medical Receipt Book attributed to Lettice Pudsey, c. 1675-1700 (Folger Library)
+     - [su21_branscum_ingredients_hall.csv](/documents/student-projects/su21_branscum_ingredients_hall.csv) for Ms. V.a.20: Receipt Book attributed to Constance Hall, 1672 (Folger Library)
 
 Granville, Hall, and Pudsey manuscripts as printed in Kowalchuk, Kristine, ed. _Preserving on Paper: Seventeenth-Century Englishwomen’s Receipt Books_. Toronto: University of Toronto Press, 2017.
 
