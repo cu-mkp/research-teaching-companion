@@ -91,11 +91,11 @@ To prepare azurite from the mineral ore, one uses water to remove impurities and
 
 The process is open to your experimentation! To get started, however, here are some useful illustrations:
 - The dedicated slides towards the middle of [Presentation: Preparing and Painting Blue Pigment in the Renaissance](/documents/activity-sheets/fa22_skillbuilding-azurite-presentation-full.pdf)
-- [Fieldnotes (with step-by-step pictures) by Naomi Rosenkranz, SU17 Azurite](su17_rosenkranz_azurite-preparation-cambridge)
+- [Fieldnotes (with step-by-step pictures) by Naomi Rosenkranz, SU17 Azurite](../su17_rosenkranz_azurite-preparation-cambridge)
 - “Experiments with Azurite on the History of Design MA Course” by students of the V&A/RCA History of Design MA 
      - [Part 1](https://www.vam.ac.uk/blog/news/experiments-with-azurite-on-the-history-of-design-ma-course) 
      - [Part 2](https://www.vam.ac.uk/blog/projects/thinking-and-experiencing-techne-making-azurite-part-2)
-- For painting out, refer to [Assignment: Making Paints from Pigments and Painting Them Out](painting-assignment)
+- For painting out, refer to [Assignment: Making Paints from Pigments and Painting Them Out](../painting-assignment)
 
 ### Questions for Consideration
 - Observation:
