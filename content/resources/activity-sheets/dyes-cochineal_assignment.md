@@ -78,7 +78,9 @@ Refer also to:
 ![dye-process-overview](/images/dye-process.JPG?raw=true) 
 
 ### Recipe Measurements
-Recipes for dyeing textiles often list ratios rather than outright amounts. The weight of textile will determine how much of the other ingredients are needed. The ratios below are provided for 1g of textile. To know how much of the mordant, water, cochineal, and optional additive are needed, first weigh the textiles you plan to dye then multiply that amount by the ratios below. For example, if your textile weigh 10g, you will need 1.25g cochineal and 625ml water.
+Recipes for dyeing textiles often list ratios rather than outright amounts. Why might this be?
+
+Because of the ratios, the weight of textile will determine how much of the other ingredients are needed. The ratios below are provided for 1g of textile. To know how much of the mordant, water, cochineal, and optional additive are needed, first weigh the textiles you plan to dye then multiply that amount by the ratios below. For example, if your textile weigh 10g, you will need 1.25g cochineal and 625ml water.
 
 You can also use: 
 - [Activity Sheet: Calculating ratios and amount of material needed](rosenkranz_2019_dyes_handout_reconstruction-exchange_dyeing-with-natural-colorants.pdf) 
