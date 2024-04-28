@@ -131,26 +131,11 @@ After the front matter, the rest of the page must be formatted as Goldmark-flavo
 
 Headings of levels `## Two` and `### Three` will populate the table of contents on the left side of each document. Headings of level two will also have a thin horizontal rule beneath them.
 
-### Links
-
-- To link to other pages on the site, use the `ref` tag surrounded by double brackets
-     - `[`*Text you would like to link*`]({{< ref "`*name of file*`" >}})` 
-     - e.g., `[Stucco for Molding Assignment Sheet]({{< ref "activity_sp22_azurite-preparation" >}})`
+### Including external URLs (from NJR & THC about sustainability)
 - To link to external links, use typical Markdown link syntax
      - `[`*Text you would like to link*`](`*URL*)` 
      - e.g., `[folio 120v in BnF Ms. Fr. 640](https://edition640.makingandknowing.org/#/folios/120v/f/120v/tl)`
 
-Note that you do not need to give the entire path for `ref` tags, unless there are multiple Markdown files with the same name. You also do not need to include the `.md`. All of the following will work, but the first is much simpler!
-
-```markdown
-[Stucco for Molding]({{< ref "stucco-assignment" >}})
-[Stucco for Molding]({{< ref "activity-sheets/stucco-assignment.md" >}})
-[Stucco for Molding]({{< ref "/resources/activity-sheets/stucco-assignment.md" >}})
-```
-
-For more information about internal links, see the Hugo documentation on [Links and Cross References](https://gohugo.io/content-management/cross-references/).
-
-#### Including external URLs (from NJR & THC about sustainability)
 Whenever we include links to external resources, we need to consider whether those URLs and resources meet our plans for digital sustainability.
 - If possible, use a persistent identifier such as a DOI or "permanent URL."
 - If possible, if the resource is also stored in a digital repository (e.g., Academic Commons, JSTOR, Internet Archive), cite that location for the resource.
@@ -171,6 +156,8 @@ Images
 Documents
 - **preferred:** `[Stucco for Molding]({{< ref "/documents/activity-sheets/stucco-assignment.pdf" >}})`
 - markdown: `[Stucco for Molding](/documents/activity-sheets/stucco_assignment_student-handout.pdf)`
+
+For more information about internal links, see the Hugo documentation on [Links and Cross References](https://gohugo.io/content-management/cross-references/).
 
 ### `_index.md` pages
 
