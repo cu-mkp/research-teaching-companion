@@ -65,3 +65,37 @@ Refer also to:
 
 ![dye-process-overview](/images/dye-process.JPG?raw=true) 
 
+
+![dye-samples](/images/dye-samples.JPG?raw=true)
+
+### An alternative method to using hotplates and beakers
+If you do not have access to hotplates and heat-safe glass beakers, there are other options.
+
+#### Dedicated pots
+One alternative method is to use dedicated stainless steel or ceramic pots. While most natural colorants are not actively harmful, it is still best practice to avoid consuming them. Some mordants can react with and degrade the surface of cookware, so it is especially important to use pots you will not also use to cook with. To avoid very serious reactions, use stainless steel or ceramic cookware.
+
+![dye-pots](/images/dye-pots.JPG?raw=true)
+
+
+#### Bain-marie
+Another method is to use a water bath or bain-marie (see this [cooking blog](https://www.thekitchn.com/technique-how-to-make-and-use-70190) for more information about bain-maries).
+
+- On your stove at home, prepare your solutions in mason jars (or other glass jars that can withstand prolonged heating such as pickling or jam jars).
+- Place the jars in a large cooking pot (the pot's material doesn't matter – can use steel, ceramic, etc.)
+  - NOTE: be careful about using these pots to prepare foods after you have dyed with them if you are working with materials that are not food safe.
+  - NOTE: the natural colorants can stain light-colored surfaces, so be careful if using ceramic or glass pots.
+- Fill the pot with enough water to come up past the solutions in your mason jars, being careful not to contaminate the solutions inside your jars
+- Heat the pot on your stove and follow the procedure for preparing lake pigments
+
+**Advantages and notes**
+
+- This is one way to prepare pigments at home without beakers or other shock-resistant containers
+- Beakers, Pyrex, and other borosilicate glass is specially formulated to withstand direct high heat (like when placed directly on a hot plate) as well as shocks or sudden changes in temperature (like placing a hot glass vessel with your bath onto a cold surface like a counter)
+- Regular glass, including mason jars, are not formulated in this way, and so it can be very dangerous (and messy) if used in the same way as beakers – direct high heat or sudden change can cause the glass to shatter
+- This method also allows for easier preparation without a thermometer
+- The temperature of your baths is determined by the temperature of the water in the pot
+- You will know the baths have approximately reached the desired temperature range of 80-100 °C when the water in the pot is beginning to simmer
+- Because water boils and begins to evaporate at 100 °C, your solutions will never exceed 100 °C, the temperature at which the colorants can begin to degrade. This is an easy way to prepare solutions without a thermometer and ensure you are not reaching high temperature levels
+- If the water in the pot begins to boil or simmer violently, your jars will start to shake and move around the pot. If this happens, it is a sign to turn your heat down
+
+![dyes-bain-marie](/images/dyes-bain-marie.JPG?raw=true)
