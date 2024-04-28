@@ -110,7 +110,7 @@ If working with younger participants, the step of pouring melted wax can be perf
 
 Approx 1.5hrs in class
 
-Plus one week advance preparation in order for participants to learn to
+Plus 2-3 weeks advance preparation in order for participants to learn to
 bake bread (in own time)
 
 **Facilities:**
