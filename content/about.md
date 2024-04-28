@@ -9,14 +9,20 @@ weight: 30
 
 ## The Companion
 
-The Research and Teaching Companion to digital edition [*Secrets of Craft and Nature in Renaissance France*](https://edition640.makingandknowing.org/#/) contains resources for teachers and researchers who wish to integrate hands-on and digital components into their classes and projects.
-[DESCRIBE EACH OF THE RESOURCES. Also include this description at the top of each Resource page
-### Making and Knowing Syllabi [LINK],
-### Lesson Plans for Hands-on [LINK]
-### Using M&K Resources [LINK]. 
-Courses taught by collaborators using Making and Knowing Project teaching resources
-### Digital Fr. 640 [LINK]
-### Reflections on Hands-On [LINK]
+The Research and Teaching Companion to digital edition [*Secrets of Craft and Nature in Renaissance France*](https://edition640.makingandknowing.org/#/) contains resources, and we hope inspiration, for teachers, researchers, and makers who wish to integrate hands-on and digital components into their classes, research projects, and art practice. They are intended to be used flexibly, and we invite you to adapt and create your own resources to fit your needs.
+
+### [Making and Knowing Syllabi]({{<ref "Syllabus" >}})
+Syllabi from the Making and Knowing Project can suggest possible readings, discussion prompts, model the integration of hands-on activities with discussion of relevant concepts and texts, and link instructors to resources for hands-on activities. These syllabi contain links to Essays from the edition for use as course readings and describe possible lessons around hands-on activities, while Student Projects can be consulted by instructors and students for inspiration and to consider the many ways to engage with Ms. Fr. 640 and its digital edition.
+
+### [Lesson Plans for Hands-on]({{<ref "activitysheet" >}})
+
+### [Making and Knowing Resources in Use]({{<ref "casestudy" >}}) 
+The Making and Knowing Project has many collaborators, who have piloted collaborated with many institutions in different ways. The ways in which they used Making and Knowing Project lesson plans and methods in their projects, courses, and student projects.
+
+### [Reflections on Hands-On]({{<ref "reflection" >}})
+Why engage in hands-on activities in teaching and research? The Making and Knowing Project has had much opportunity to reflect on the challenges and the joys of inserting hands-on work into the text-centered training of the university, and we hope the materials in Reflections on Hands-On will provide food for thought and action and a guide of sorts for your own experiments. 
+
+### [Digital Making and Knowing]({{<ref "digital" >}})
 
 ## The Edition
 
