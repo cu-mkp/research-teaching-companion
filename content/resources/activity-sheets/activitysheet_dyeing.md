@@ -1,5 +1,17 @@
 ## Dyeing
 
+Making and Knowing Project researchers have undertaken experiments in dyeing with natural colorants as a way to engage with Ms. Fr. 640 and as preliminary step to [making lake pigments]({{< ref "activitysheet_lake-pigments" >}}). M&K has organized several community outreach activites on dyeing with natural colorants that can be ported directly into the classroom.
+
+
+### Learning Objectives
+The activity of dyeing with natural colorants following modernized historical recipes has several potential learning outcomes, which can include:
+
+- consider the relationship between historical and modern materials and tools
+- understand how units of measure were communicated before the age of standardization
+- interpret how the steps described in historical recipes might be modernized
+- consider the relationship between dyes and pigments and thus between the textile tradea and art production
+
+
 ### Dyeing with natural colorants
 
 If you are not already familiar with historical dyes and natural colorants, refer to the [Presentation: Cochineal Dye: History, Chemistry, and Preparation](/documents/activity-sheets/2023_dyes_cochineal-history-chem-prep.pdf) for more complete information and further explanation of natural colorants and dyeing.
@@ -16,6 +28,7 @@ Natural dyes can be categorized into one of three processes used to extracted th
 2. Mordant dyes
 3. Vat dyes
 
+
 ### Mordant dyes
 The largest class of natural dyes is mordant dyes. In this process, textiles must first be treated with a mordant (typically a metal salt or coordination metal) in order to bind the dye more permanently to the textile. The textile binds to the mordant which in turn binds to the colorant. The mordant thus acts as a bridge between the textile and colorant.
 
@@ -24,6 +37,7 @@ The most common mordant is aluminum, typically in the form of alum (aluminum pot
 ![mordant-process](/images/mordant-process.JPG?raw=true)
 
 > Jo Kirby et al, _Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources_ (Archetype, London, 2014).
+
 
 ### Historical Recipe and its Modernization
 
