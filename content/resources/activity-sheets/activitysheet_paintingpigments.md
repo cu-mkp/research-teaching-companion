@@ -55,3 +55,9 @@ Paint is applied to a variety of supports, including canvas, panel, plaster, pap
 #### Painting in Ms. Fr. 640
 There are dozens of entries in Ms. Fr. 640 that address elements of paint making and painting, including pigment behavior, mulling (grinding), binders, handling, and the practical uses of particular materials for various kinds of subject matter (e.g., flesh tones).
 These entries are best accessed by searching the manuscript for "[painter](https://edition640.makingandknowing.org/#/search?q=painter)" and "[painting](https://edition640.makingandknowing.org/#/search?q=painting)." 
+
+There are also several essays in [_Secrets of Craft and Nature in Renaissance France_](https://edition640.makingandknowing.org/#/) that explore paint making and painting in detail, including:
+- Jo Kirby and Marika Spring, “[Ms. Fr. 640 in the World of Pigments in Sixteenth-Century Europe](https://edition640.makingandknowing.org/#/essays/ann_321_ie_19).”
+- Cleo Nisse, “[Shadows Beneath the Skin: How to Paint Faces in Distemper](https://edition640.makingandknowing.org/#/essays/ann_042_sp_16).”
+- Sumeyye Yar, “[Painting in Oil on Taffeta II](https://edition640.makingandknowing.org/#/essays/ann_062_fa_17).”
+
