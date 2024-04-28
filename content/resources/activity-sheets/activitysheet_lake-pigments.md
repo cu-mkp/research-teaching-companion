@@ -1,6 +1,17 @@
-## Lake Pigments
+## Making Lake Pigments
 
-### Lake pigments and natural colorants
+The Making and Knowing Project has used lake pigment making as a core skill-building exercise for its students. M&K has often assigned lake pigment making alongside [verdigris growing]({{<ref "verdigris-assignment" >}}), which were then followed up by a [paint making and testing] ({{< ref "activitysheet_paintingpigments" >}}) activity. Nevertheless, lake pigment making can be done on its own.
+
+
+### Learning Objectives
+The activity of making lake pigments from modernized historical recipes has several potential learning outcomes, which can include:
+- consider the relationship between historical and modern materials and tools
+- understand how units of measure were communicated before the age of standardization
+- interpret how the steps described in historical recipes might be modernized
+- consider the labor involved in the production of historical art materials and artworks
+
+
+### What are Lake Pigments?
 
 Lake pigments are a type of pigment prepared from organic natural colorants: plant and animal sources. As most organic natural colorants are soluble, they cannot be mixed directly with a binding medium and therefore cannot be used as a pigment. To be used as a pigment,
 these colorants must therefore be extracted as a solulble dye and then made insoluble by precipitating (or adsorbing) the dye onto a colorless or white, insoluble, relatively inert substrate. 
@@ -9,14 +20,14 @@ In short: lake pigments are made by extracting a dye from an organic material an
 
 > Jo Kirby et al, _Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources_ (Archetype, London, 2014).
 
-
 If you are not already familiar with historical pigments and natural colorants, refer to [Presentation: Cochineal Lake: History, Chemistry, and Preparation](/documents/activity-sheets/rosenkranz_2023_lakes_cochineal-history-chem-prep.pdf) for more complete information and further explanation of natural colorants and lake pigments.
 
 [![Presentation: Cochineal Lake: History, Chemistry, and Preparation](/images/cochineal-presentation.png)](/documents/activity-sheets/activity-sheets/presentation_sp23_rosenkranz_naomi_lakes_cochineal-history-chem-prep.pdf)
 
 See also [Presentation: Introduction to Pigments &amp; Paints](/documents/activity-sheets/introduction-paints-pigments_njr_2021.pdf).
 
-### Pigments
+
+### What are Pigments More Generally?
 
 Pigments are colored, insoluble particles that, when combined with a binding medium, create paint that can then be applied to a substrate. Pigments can either be natural or synthetic. Historically, most pigments were sourced from the natural environment. Since the nineteenth century, the synthesis of pigments in industrial settings has become very common, ensuring consistent quality and new formulations.
 
