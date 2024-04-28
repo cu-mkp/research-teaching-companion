@@ -1,5 +1,12 @@
-## Painting Pigments
+## Making and Testing Paints Made by Hand from Pigments
+The Making and Knowing Project has used paint and test card making as a core skill-building exercise for its students. Paint making has often been a follow-up activity to [lake pigment making]({{< ref "activitysheet_lake-pigments" >}}) or [verdigris growing]({{<ref "verdigris-assignment" >}}), but paint making can also be undertaken using commercially produced pigments.
 
+### Learning Objectives
+The activity of making paint and testing out those paints on a sample card has several potential learning outcomes, which can include:
+- learn how paint is made
+- exprience how different binders behave during the mulling process
+- experience how the mulling of pigments, paint consistency, and specific combinations of pigment and binder affect the application and appearance of paint
+- understand material considerations that affect the appearance of artworks across history
 
 ### What is Paint?
 Paint = pigment + binder
@@ -20,8 +27,8 @@ Binders are materials that bring cohesion and unity to particulate matter. In th
 #### Mulling
 Mulling is a mechanical process used to thoroughly combine a pigment with a binder. It involves grinding the pigment and binder together on a hard surface, often a glass plate or marble slab, using a muller--a pestle-like, flat-bottomed tool, often made of glass. There are various techniques for manipulating the muller on the plate that can facilitate the process of paint-making, such as moving the muller in a figure-8 pattern or in a series of small circles moving around in a larger circle. In all cases, pressure must be applied to the muller in order to help grind the pigment particles into the binder. Most paints require that the pigments be mulled so that no further particles are visible or, put differently, so that the resultant paint is smooth.
 
-#### Support
-Paint is applied to a variety of supports, including canvas, panel, paper, and metal, just to name a few.
+#### Substrates and Supports
+Paint is applied to a variety of supports, including canvas, panel, plaster, paper, and metal, just to name a few. Some paints adhere better to particular supports than to others. 
 
 ### Teaching Paint Making
 #### Making Paint in the Classroom: Presentations
