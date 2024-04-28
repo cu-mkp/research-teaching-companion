@@ -23,7 +23,7 @@ This skillbuilding assignment will introduce you to one of the most common blue 
  
 It is important to remember that there is a difference between pigments and paints. A pigment is an insoluble colored particle; in other words, it is usually a dry powder of a certain color that will not dissolve when added to a desired medium or liquid. To create paint, one combines the pigment with a binding medium to create a paste that can be applied to a surface. A binding medium will help the pigment adhere to the surface on which it is applied. Common binding media include linseed and walnut oils (for oil painting), gum arabic (watercolor and ink), egg yolk (tempera), egg white (glair), and animal glues (distemper). For more information:
 - [Presentation: Introduction to Pigments &amp; Paints](/documents/activity-sheets/introduction-paints-pigments_njr_2021.pdf)
-- [Assignment: Making Paints from Pigments and Painting Them Out](../painting-assignment.md)
+- [Assignment: Making Paints from Pigments and Painting Them Out](../painting-assignment)
 
  ![pigment and binding media equals paint](/images/painting-pigment+binding-media.png?raw=true)
 
