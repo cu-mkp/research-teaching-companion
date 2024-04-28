@@ -71,5 +71,5 @@ sed libera nos a malo*
 ## Teaching Resources
 
 - The full process of reconstructing the burn salve recipe is captured in the [Reconstructing 16th-century Burn Salve Video](https://vimeo.com/465795692) prepared by the Making and Knowing Project team (special thank you to postdoctoral scholars Tianna Uchacz and Tillmann Taape).
-- The [Burn Salve Reconstruction Protocol](Burn-Salve-Reconstruction-Protocol.pdf) found above can be downloaded as a standalone Activity Sheet, prepared by postdoctoral scholar Tianna Uchacz. It provides the Making and Knowing Project's procedure for reconstructing the burn salve.
+- The [Burn Salve Reconstruction Protocol](/documents/activity-sheets/Burn-Salve-Reconstruction-Protocol.pdf) found above can be downloaded as a standalone Activity Sheet, prepared by postdoctoral scholar Tianna Uchacz. It provides the Making and Knowing Project's procedure for reconstructing the burn salve.
 - If you do not know how to recite the paternoster (or cannot do this at the same time as preparing the salve), the Making and Knowing Project provides the [paternoster audio recordings](https://drive.google.com/drive/folders/1jiDf7swYk3ohtDxp3WXEvEsLpbKA1vNH?usp=sharing), recited by Tillmann Taape, one of the Project's postdoctoral scholars, for each of the nine mixing steps.
