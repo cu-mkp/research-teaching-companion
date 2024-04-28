@@ -78,6 +78,7 @@ raises new questions. It can be done as a one-off activity in person or
 remotely, or works well as a skillbuilding exercise early in a longer
 course.
 
+## Learning Objectives
 The activity introduces students to hands-on historical reconstruction
 and performative interpretation of texts. It is a good exercise to
 jump-start discussions of tacit/embodied knowledge in arts and sciences. It is also an instructive introduction to the principles of molding. More generally, it encourages students to think differently about historical
@@ -120,39 +121,39 @@ If in ventilated space (lab/studio/outdoors) can use sulfur
 
 **Materials and Tools:**
 
-linseed (or vegetable) oil
+- linseed (or vegetable) oil
 
-wax
+- wax
 
-paintbrushes
+- paintbrushes
 
-hotplates
+- hotplates
 
-heatproof gloves
+- heatproof gloves
 
-heat resistant container for melting (eg. tin can / milk frothing
+- heat resistant container for melting (eg. tin can / milk frothing
 pitcher/ saucepan / beakers
 
-stirring stick (e.g. chopstick, glass rod, spoon)
+- stirring stick (e.g. chopstick, glass rod, spoon)
 
-plate / newspaper (something to contain mess)
+- plate / newspaper (something to contain mess)
 
-trivet or other heatproof surface
+- trivet or other heatproof surface
 
-paper towels
+- paper towels
 
-Optional: a way to repair flaws or leaks in your molds, such as masking
+- Optional: a way to repair flaws or leaks in your molds, such as masking
 tape or modeling clay like plasticine
 
-Standard fire safety equipment (e.g. fire extinguisher and/or blanker)
+- Standard fire safety equipment (e.g. fire extinguisher and/or blanker)
 
 **If using sulfur:**
 
-yellow sulfur powder
+- yellow sulfur powder
 
-nitrile gloves
+- nitrile gloves
 
-thermometer
+- thermometer
 
 ## Resources
 
@@ -210,6 +211,8 @@ including varieties of French bread
 transcription</u>](https://drive.google.com/open?id=1GNklzsgidrIGdf2Twf78eJy0fgy-S6Tuh3VKGdKNTJU)
 of Evelyn’s recipes by Reut Ullman, Columbia University)
 
+-  [<u>Culinary and medicinal recipe book of Beulah Hutson</u>](https://digitalcollections.folger.edu/bib354134-502408), c.1660-1685, which contains a recipe for French Bread (pp.22-23)
+
 -  The Food Timeline- Bread History (good bibliography):
 [<u>http://www.foodtimeline.org/foodbreads.html#breadhistory</u>](http://www.foodtimeline.org/foodbreads.html#breadhistory)
 
@@ -224,8 +227,7 @@ manuscripts. You can search the library here:
 [<u>http://wellcomelibrary.org/</u>](http://wellcomelibrary.org/)
 
 -  Monumenta Culinaria et Diaetetica Historica
-
--  Corpus of culinary & dietetic texts of Europe from the Middle Ages
+Corpus of culinary & dietetic texts of Europe from the Middle Ages
 to 1800:
 [<u>https://www.staff.uni-giessen.de/gloning/kobu.htm</u>](https://www.staff.uni-giessen.de/gloning/kobu.htm)
 
@@ -311,10 +313,10 @@ Giving form to something by use of a mold; usually refers to pressing a material
 
 #### About Teaching Breadmolding:
 
-Sophie Pitman, “Baking and Knowing: Iterative Processes and Iterative
+[Sophie Pitman, “Baking and Knowing: Iterative Processes and Iterative
 Teaching in a Historical Laboratory”. *Detours: Social Science Education
-Research Journal* 2 (1), 2021, 33-41.
-https://detoursjournal.org/index.php/detours/article/view/61.
+Research Journal* 2 (1), 2021, 33-41.](https://detoursjournal.org/index.php/detours/article/view/61.)
+
 
 ### Sample class plan
 
