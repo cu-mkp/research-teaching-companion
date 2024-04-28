@@ -39,7 +39,7 @@ The most common mordant is aluminum, typically in the form of alum (aluminum pot
 > Jo Kirby et al, _Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources_ (Archetype, London, 2014).
 
 
-### Historical Recipe and its Modernization
+### Example Historical Recipe and its Modernization
 
 The recipe below is for a mordant dye made from the scale insect cochineal. 
 
