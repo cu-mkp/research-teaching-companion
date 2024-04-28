@@ -1,5 +1,7 @@
 # **Historical Culinary Recipe Reconstruction**
 
+{{< figure src="/images/culinaryreconstruction.jpg" alt="Culinary Reconstruction">}}
+
 Cooking is an almost universal activity – it is an art, a craft, a
 science – and yet most people do it without categorizing it as such.
 Cooking can provide a way for instructors to introduce hands-on
