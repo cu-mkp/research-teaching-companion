@@ -72,6 +72,8 @@ will make your <em>noyau</em>.</p></th>
 
 ## Part 1 – making bread and molding (at home, in advance)
 
+**Start familiarsing yourself with baking bread well in advance of the class (we recommend at least two weeks) to give yourself enough time**
+
 ### Materials
 
 - flour
