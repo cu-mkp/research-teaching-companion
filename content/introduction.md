@@ -9,8 +9,6 @@ weight: 10
 
 ## Research and Teaching Companion
 
-The [Making and Knowing Syllabi]({{< ref "syllabi" >}}), step-by-step [Lesson Plans for Hands-On]({{< ref "activity-sheets" >}}), and sample [Student projects]({{< ref "student-projects" >}}) included in this Companion to the digital edition [*Secrets of Craft and Nature in Renaissance France*](https://edition640.makingandknowing.org/#/) result from our many years of research, teaching, and learning together during the [Making and Knowing Project’s](https://www.makingandknowing.org/) construction of the edition and since its publication in 2020.
-
 This Research and Teaching Companion is intended to support you in engaging with hands-on experimentation in your teaching, research, and/or artistic practice and making.
 
 The resources included in this Companion to the digital edition [*Secrets of Craft and Nature in Renaissance France*](https://edition640.makingandknowing.org/#/) result from many years of research, teaching, and learning together during the [Making and Knowing Project’s](https://www.makingandknowing.org/) construction of this edition (2014-2020) and since its publication in 2020. 
