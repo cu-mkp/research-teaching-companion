@@ -1,6 +1,6 @@
 ## Dyeing
 
-Making and Knowing Project researchers have undertaken experiments in dyeing with natural colorants as a way to engage with Ms. Fr. 640 and as preliminary step to [making lake pigments]({{< ref "activitysheet_lake-pigments" >}}). M&K has organized several community outreach activites on dyeing with natural colorants that can be ported directly into the classroom.
+Making and Knowing Project researchers have undertaken experiments in dyeing with natural colorants as a way to engage with Ms. Fr. 640 and as a preliminary step to [making lake pigments]({{< ref "activitysheet_lake-pigments" >}}). M&K has organized several community outreach activites on dyeing with natural colorants that can be ported directly into the classroom.
 
 
 ### Learning Objectives
@@ -8,8 +8,8 @@ The activity of dyeing with natural colorants following modernized historical re
 
 - consider the relationship between historical and modern materials and tools
 - understand how units of measure were communicated before the age of standardization
-- interpret how the steps described in historical recipes might be modernized
-- consider the relationship between dyes and pigments and thus between the textile tradea and art production
+- interpret how the steps described in historical recipes might be interpreted in a modern context
+- consider the relationship between dyes and pigments and thus between the textile trade and art production
 
 
 ### Dyeing with natural colorants
@@ -23,7 +23,7 @@ A dye is "a compound that absorbs into and colors another material" and "is gene
 
 In order to dye materials (typically textiles, but also wood, paper, and ivory, for example), the natural colorant must first be extracted from the dyestuffs (the plant, insect, etc.). This is most usually done by placing the dyestuffs in water and using either time (soaking) or heat (bringing to a simmer) to extract the soluble colorant into the water. The materials can then be placed into this dye bath to take on color.
 
-Natural dyes can be categorized into one of three processes used to extracted the colorant and dye materials : 
+Natural dyes can be categorized into one of three processes used to extracted the colorant and dye materials: 
 1. Direct dyes
 2. Mordant dyes
 3. Vat dyes
@@ -49,9 +49,9 @@ _De' secreti del reverendo signore Alessio Piemontese_ (1558) as translated from
 
 The recipe above from Piemontese has informed the standardized recipe for cochineal dye in Jo Kirby et al, _Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources_ (Archetype, London, 2014),  Chapter 5. The standardized recipe includes potash (potassium carbonate) as an optional additive. Potash is not typically found in recipes for cochineal because it results in a paler color, but it is attested in some instances.
 
-The standardized recipe begins with a mordant bath and is followed by a dye bath. Recipes for dyeing textiles often list ratios rather than outright amounts. The weight of textile will determine how much of the other ingredients are needed. The ratios below are provided for 1g of textile. 
+The standardized recipe begins with a mordant bath and is followed by a dye bath. Recipes for dyeing textiles often list ratios rather than outright amounts. The weight of textile will determine how much of the other ingredients are needed. The ratios in the example below are provided for 1g of textile. 
 
-**Mordant: Alum**
+**Mordant Example: Alum**
 
 | Material | Amount /1g (g) |
 | -------- | -------------- |
@@ -60,7 +60,7 @@ The standardized recipe begins with a mordant bath and is followed by a dye bath
 |   water  |      50.00     |
 
 
-**Cochineal**
+**Dye Example: Cochineal**
 
 |      Material     | Amount /1g (g) |
 | ----------------- | -------------- |
