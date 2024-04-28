@@ -64,7 +64,7 @@ food, material culture, craft, medicine.
 
 [Student activity sheet]({{<ref "activitysheet_hcr-student" >}})
 
-[Guide to historical recipes and collections]({{<ref "activitysheet_hcr-student" >}})
+[Guide to historical recipes and collections]({{<ref "activitysheet_hcr-historical-recipe-collection" >}})
 
 ## Finding Recipes
 
@@ -217,7 +217,7 @@ include:
 ### Optional additional assignments: 
 
 Encourage your students to write their reflections on the assignment in a [Historical Culinary Reconstruction
-Discussion Document] ({{<ref "activitysheet_sample-hcr-discussion-document" >}})
+Discussion Document]({{<ref "activitysheet_sample-hcr-discussion-document" >}})
 
 
 Ask your students to collaboratively compile a [Reconstruction Template document]({{<ref "activitysheet_reconstruction-template-sample" >}}) (i.e. a list of things to keep in mind when doing a reconstruction)
