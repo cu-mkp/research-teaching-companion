@@ -52,4 +52,6 @@ Paint is applied to a variety of supports, including canvas, panel, plaster, pap
 #### Making Paint in the Classroom: Reflection Assignment
 - Paint-Making Lab Reflection Assignment [docx]({{< ref "/documents/activity-sheets/uchacz_2024_lab2_reflection-assignment.docx" >}}) [pdf]({{< ref "/documents/activity-sheets/uchacz_2024_lab2_reflection-assignment.pdf" >}})
 
-
+#### Painting in Ms. Fr. 640
+There are dozens of entries in Ms. Fr. 640 that address elements of paint making and painting, including pigment behavior, mulling (grinding), binders, handling, and the practical uses of particular materials for various kinds of subject matter (e.g., flesh tones).
+These entries are best accessed by searching the manuscript for "[painter](https://edition640.makingandknowing.org/#/search?q=painter)" and "[painting](https://edition640.makingandknowing.org/#/search?q=painting)." 
