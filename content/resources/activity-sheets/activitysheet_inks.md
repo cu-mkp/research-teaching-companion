@@ -29,4 +29,5 @@ There are dozens of entries in Ms. Fr. 640 that address the making and use of va
 
 
 There are also several essays in [_Secrets of Craft and Nature in Renaissance France_](https://edition640.makingandknowing.org/#/) that explore inks in detail, including:
-- N
+- Raymond Carlson, Jordan Katz, and Baris Gokturk, “[Molding Paper with Raised Letters](https://edition640.makingandknowing.org/#/essays/ann_005_fa_14).”
+- Olivia Clemens, “[Sulfuric Acid for the Scribe](https://edition640.makingandknowing.org/#/essays/ann_044_sp_16).”
