@@ -141,9 +141,6 @@ material sourcing challenges, which prompts great in-class discussions.
 For a discussion about different approaches to historical reconstruction
 (a different point of view from Albala’s strict call for “authenticity”)
 
-Optional additional assignment: 
-Ask your students to collaboratively compile a [Reconstruction Template document]({{<ref "activitysheet_reconstruction-template-sample" >}}) (i.e. a list of things to keep in mind when doing a reconstruction)
-
 -   Fors, Hjalmar, Lawrence M. Principe, and H. Otto Sibum. ‘From the
     Library to the Laboratory and Back Again: Experiment as a Tool for
     Historians of Science.’ Ambix 63, no. 2 (2016): 85–97
@@ -215,4 +212,13 @@ include:
 -   Isabella Lores-Chavez and Caitlyn Sellar, ["Making Quindiniacks"](https://fieldnotes.makingandknowing.org/mainSpace/Sellar%20-%20Historical%20Culinary%20Reconstruction%20FA16.html)
 
 -   Michelle Lee, Diana Mellon and Yijun Wang, ["Excellent Mustard"](https://fieldnotes.makingandknowing.org/mainSpace/excellent%20mustard,%2048r.html)
+
+
+### Optional additional assignments: 
+
+Encourage your students to write their reflections on the assignment in a [Historical Culinary Reconstruction
+Discussion Document] ({{<ref "activitysheet_sample-hcr-discussion-document" <}})
+
+
+Ask your students to collaboratively compile a [Reconstruction Template document]({{<ref "activitysheet_reconstruction-template-sample" >}}) (i.e. a list of things to keep in mind when doing a reconstruction)
     
