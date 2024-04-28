@@ -14,6 +14,62 @@ This activity has two parts
 
 -   Part 2 (in class): pour wax (and/or sulfur) into your molds, unmold
 
+## Source text
+
+There are two entries on breadmolding on [<u>folio
+140v</u>.](https://edition640.makingandknowing.org/#/folios/140v/f/140v/tl)
+Another on [<u>fol.
+156r.</u>](https://edition640.makingandknowing.org/#/folios/156r/f/156r/tl)
+mentions breadmolding as an alternative process for “Molding promptly.”
+
+<table>
+<colgroup>
+<col style="width: 11%" />
+<col style="width: 88%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Folio</strong></th>
+<th><strong>Translation</strong></th>
+</tr>
+<tr class="odd">
+<th>140v</th>
+<th><p><strong>For casting in sulfur</strong></p>
+<p>To cast neatly in sulfur, arrange the bread pith under thebrazier, as
+you know. Mold in it what you want &amp; let dry, &amp; you will have
+very neat work.</p>
+<p><strong>Molding and shrinking a large figure</strong></p>
+<p>Mold it with bread pith coming from the oven, or as the aforesaid,
+&amp; in drying out, it will shrink &amp; consequently the medal that
+you will cast in it. You <del>it</del> can, by this means, by elongating
+and widening the imprinted bread pith, vary the figure &amp; with one
+image make many various ones. Breadcoming from the oven is better. And
+the one that is reheated twice retracts more. You can cast sulfur
+without leaving the imprint of the bread to dry, if you want to mold as
+big as it is. But if you want to let it shrink, make it dry, either more
+or less.</p></th>
+</tr>
+<tr class="header">
+<th>156r</th>
+<th><p><strong>Molding promptly and reducing a hollow form to a
+relief</strong></p>
+<p>You can imprint the relief of a medal in colored wax, &amp; you will
+have a hollow form, in which you can cast <em>en noyau</em> a relief
+<sup>of your sand</sup>, on which you will make a hollow form of lead or
+tin, in which you will cast a wax relief. And then on that wax you will
+make your mold <em>en noyau</em> hollow, to cast there the relief of
+gold &amp; silver or any other metal you like. But to hasten your work
+if you are in a hurry, make the first imprint &amp; hollow form in bread
+pith, prepared as you know, which will mold very neatly. And into that,
+cast in melted wax, which will give you a beautiful relief on which you
+will make your <em>noyau</em>.</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+
 ## Part 1 – making bread and molding (at home, in advance)
 
 ### Materials
