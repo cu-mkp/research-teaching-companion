@@ -1,13 +1,15 @@
 ## Making Varnishes
 
-The Making and Knowing Project has reconstructed varnish recipes several times, both to produce varnishes as ends in themselves and to produce them as ingredients in more complex making processes described in Ms. Fr. 640. The manuscript includes several recipes for spirit varnishes, which were a new category of varnish that emerged in the sixteenth century. It also includes several recipes for oil-based varnishes, which have a longer history and are quite dangerous to reconstruct. Accordingly, M&K has developed protocols for making spirit varnishes. Nevertheless, making spirit varnishes raises several safety concerns and may not be suitable for all pedagogical contexts.
+The Making and Knowing Project has reconstructed varnish recipes several times, both to produce varnishes as ends in themselves and to produce them as ingredients in more complex making processes described in Ms. Fr. 640. The manuscript includes several recipes for spirit varnishes, which were a new category of varnish that emerged in the sixteenth century. It also includes several recipes for oil-based varnishes, which have a longer history and are quite dangerous to reconstruct and often result in fires. Accordingly, M&K has developed protocols for making spirit varnishes. Nevertheless, making spirit varnishes raises several safety concerns and may not be suitable for all pedagogical contexts.
+
 
 ### Learning Objectives
-The activity of making paint and testing out those paints on a sample card has several potential learning outcomes, which can include:
-- learn how paint is made
-- exprience how different binders behave during the mulling process
-- experience how the mulling of pigments, paint consistency, and specific combinations of pigment and binder affect the application and appearance of paint
+The activity of making spirit varnishes has several potential learning outcomes, which can include:
+- learn what varnish is, what it is made of, and how it is made
+- exprience how various resins behave in different alcohol and volatile oil solvents
+- understand how qualities such as viscosity were communicated through historical artisanal shorthands such as the "knife test"
 - understand material considerations that affect the appearance of artworks across history
+
 
 ### What is Varnish?
 A varnish is a transparent, protective coating most often made from resins in solution that, once applied to a surface, dries into a hard film. When applied to a painting, a varnish can help seal water-soluble and fugitive pigments, bring uniformity to the outer surface of the artwork, and impart an overall gloss. 
@@ -21,3 +23,16 @@ Over the course of the sixteenth century, spirit-based or “lean” varnishes w
 #### Mixed Varnishes
 In this period, there also existed a third, intermediary category of “mixed” or “semi-fat” varnishes, produced from oleoresins dissolved in alcohol or volatile oil. 
 
+
+### Teaching Spirit Varnish Making
+
+#### Spirit Varnish Making: Activity Sheets and Field Notes
+
+#### Varnishes in Ms. Fr. 640
+There are dozens of entries in Ms. Fr. 640 that address the making and use of varnishes. 
+
+There are also several essays in [_Secrets of Craft and Nature in Renaissance France_](https://edition640.makingandknowing.org/#/) that explore varnishes in detail, including:
+- Naomi Rosenkranz and Tianna Uchacz, "[Varnishes in the Rain](https://edition640.makingandknowing.org/#/essays/ann_517_ad_20)."
+- Celine Camps, “[Black Varnish for Armor](https://edition640.makingandknowing.org/#/essays/ann_071_fa_18).”
+- Caroline Marris and Stephanie Pope, “[Varnish for Lutes](https://edition640.makingandknowing.org/#/essays/ann_019_sp_15).”
+- Teresa Soley, “[Imitation Marble](https://edition640.makingandknowing.org/#/essays/ann_040_sp_16).”
