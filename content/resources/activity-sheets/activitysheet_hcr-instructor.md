@@ -84,32 +84,32 @@ material sourcing challenges, which prompts great in-class discussions.
 ## Discussion Questions:
 
 -   How did you source ingredients? Did you have to make compromises?
-    > Did you have to research any words?
+    Did you have to research any words?
 
 -   What was missing from your recipe? Did it contain enough information
-    > for you to follow step-by-step, or did you need to make some
-    > interventions or fill in gaps?
+    for you to follow step-by-step, or did you need to make some
+    interventions or fill in gaps?
 
 -   What research questions did this process raise for you?
 
 -   What might this suggest about the intended reader of this book?
 
 -   What can this tell us about food / cooking / a specific material or
-    > process from the past?
+    process from the past?
 
 ## Materials suitable for graduates and undergraduates 
 
 -   Ken Albala, “Cooking as Research Methodology: Experiments in
-    > Renaissance Cuisine,” *Renaissance Food from Rabelais to
-    > Shakespeare: Culinary Readings and Culinary Histories*, ed. Joan
-    > Fitzpatrick (Aldershot, UK: Ashgate, 2010), pp. 73–88.
+    Renaissance Cuisine,” *Renaissance Food from Rabelais to
+    Shakespeare: Culinary Readings and Culinary Histories*, ed. Joan
+    Fitzpatrick (Aldershot, UK: Ashgate, 2010), pp. 73–88.
 
 -   [<u>Syrup of Violets and Science</u>](http://youtu.be/pdEbMBe0aa8)
-    > video (ca 8 mins).
+    video (ca 8 mins).
 
 -   “[<u>The Best
-    > Medicine,</u>](https://www.wnycstudios.org/podcasts/radiolab/articles/best-medicine)”
-    > RadioLab podcast (ca 30 mins).
+    Medicine,</u>](https://www.wnycstudios.org/podcasts/radiolab/articles/best-medicine)”
+    RadioLab podcast (ca 30 mins).
 
 ## Additional readings for more advanced students
 
@@ -117,72 +117,73 @@ For a discussion about different approaches to historical reconstruction
 (a different point of view from Albala’s strict call for “authenticity”)
 
 -   Fors, Hjalmar, Lawrence M. Principe, and H. Otto Sibum. ‘From the
-    > Library to the Laboratory and Back Again: Experiment as a Tool for
-    > Historians of Science.’ Ambix 63, no. 2 (2016): 85–97
+    Library to the Laboratory and Back Again: Experiment as a Tool for
+    Historians of Science.’ Ambix 63, no. 2 (2016): 85–97
 
 -   Lawrence Principe, “Chymical Exotica in the Seventeenth Century, or,
-    > How to Make the Bologna Stone” *Ambix* 63 (2016): 118-44.
+    How to Make the Bologna Stone” *Ambix* 63 (2016): 118-44.
 
 -   Ad Stijnman, “Style and technique are inseparable: art technological
-    > sources and reconstructions,” *Art of the Past. Sources and
-    > Reconstructions. The proceedings of the First Symposium of the Art
-    > Technological Source Research Study Group*, ed. by Mark Clarke,
-    > Joyce H. Townsend, and Ad Stijnman (Amsterdam: Archetype, 2005):
-    > 1–8.
+    sources and reconstructions,” *Art of the Past. Sources and
+    Reconstructions. The proceedings of the First Symposium of the Art
+    Technological Source Research Study Group*, ed. by Mark Clarke,
+    Joyce H. Townsend, and Ad Stijnman (Amsterdam: Archetype, 2005):
+    1–8.
 
 ### On recipes
 
 -   Explore the [<u>Recipes
-    > Project</u>](https://recipes.hypotheses.org/) Archive online
+    Project</u>](https://recipes.hypotheses.org/) Archive online
 
 -   Appelbaum, Robert. *Aguecheek's beef, belch's hiccup, and other
-    > gastronomic interjections: literature, culture, and food among the
-    > early moderns.* Chicago: University of Chicago Press, 2006.
+    gastronomic interjections: literature, culture, and food among the
+    early moderns.* Chicago: University of Chicago Press, 2006.
 
 -   Goldstein, David B. *Eating and Ethics in Shakespeare’s England*.
-    > Cambridge: Cambridge UP, 2013. (E-book but also available in
-    > print)
+    Cambridge: Cambridge UP, 2013. (E-book but also available in
+    print)
 
 -   Leong, Elaine. *Recipes and Everyday Knowledge: Medicine, Science
-    > and the Household in Early Modern England* (University of Chicago
-    > Press, 2018).
+    and the Household in Early Modern England* (University of Chicago
+    Press, 2018).
 
 -   Rabisha, William. *The whole body of cookery dissected, taught, and
-    > fully manifested, methodically, artificially, and according to the
-    > best tradition of the English, French, Italian, Dutch, &c., or, A
-    > sympathie of all varieties in naturall compounds in that mysterie:
-    > wherein is contained certain bills of fare for the seasons of the
-    > year, for feasts and common diets : whereunto is annexed a second
-    > part of rare receipts of cookery, with certain useful traditions :
-    > with a book of preserving, conserving and candying, after the most
-    > exquisite and newest manner …* 1661, 1673 and 1682 editions
-    > available in CLIO via EEBO:
+    fully manifested, methodically, artificially, and according to the
+    best tradition of the English, French, Italian, Dutch, &c., or, A
+    sympathie of all varieties in naturall compounds in that mysterie:
+    wherein is contained certain bills of fare for the seasons of the
+    year, for feasts and common diets : whereunto is annexed a second
+    part of rare receipts of cookery, with certain useful traditions :
+    with a book of preserving, conserving and candying, after the most
+    exquisite and newest manner …* 1661, 1673 and 1682 editions
+    available in CLIO via EEBO:
 
 -   Tomasik, Timothy J. *At the Table: Metaphorical and Material
-    > Cultures of Food in Medieval and Early Modern Europe*. Turnhout:
-    > Brepols, 2007. (E-book but also available in print)
+    Cultures of Food in Medieval and Early Modern Europe*. Turnhout:
+    Brepols, 2007. (E-book but also available in print)
 
 -   Willan, Anne. *The cookbook library : four centuries of the cooks,
-    > writers, and recipes that made the modern cookbook*. Berkeley:
-    > University of California Press, 2012.
+    writers, and recipes that made the modern cookbook*. Berkeley:
+    University of California Press, 2012.
 
 ## Additional materials
 
-Video of Making and Knowing Director Pamela Smith introducing
+[<u>Video</u>](https://vimeo.com/384070302) of Making and Knowing Director Pamela Smith introducing
 “skillbuilding” exercises, including culinary reconstructions.
-https://vimeo.com/384070302
+
+
+
 
 ### Sample student reconstructions
 
-Video: Amelia Wright, Caleb Mtichell, Magdalena Ramos Mullane (Vassar
+[Video](https://vimeo.com/421571358) Amelia Wright, Caleb Mitchell, Magdalena Ramos Mullane (Vassar
 College), “Ryschewys close & fryez”
-[<u>https://vimeo.com/421571358</u>](https://vimeo.com/421571358)
 
-Explore the \[Making and Knowing Fieldnotes\] site, some good examples
-include:
 
--   Isabella Lores-Chavez and Caitlyn Sellar, Making Quindiniacks
-    > [<u>https://fieldnotes.makingandknowing.org/mainSpace/Sellar%20-%20Historical%20Culinary%20Reconstruction%20FA16.html</u>](https://fieldnotes.makingandknowing.org/mainSpace/Sellar%20-%20Historical%20Culinary%20Reconstruction%20FA16.html)
+Explore the [<u>Making and Knowing Fieldnotes</u>](https://fieldnotes.makingandknowing.org/) site, some good examples
+include: 
 
--   Michelle Lee, Diana Mellon and Yijun Wang, Excellent Mustard
-    > [**<u>https://fieldnotes.makingandknowing.org/mainSpace/excellent%20mustard,%2048r.html</u>**](https://fieldnotes.makingandknowing.org/mainSpace/excellent%20mustard,%2048r.html)
+-   Isabella Lores-Chavez and Caitlyn Sellar, ["Making Quindiniacks"](https://fieldnotes.makingandknowing.org/mainSpace/Sellar%20-%20Historical%20Culinary%20Reconstruction%20FA16.html)
+
+-   Michelle Lee, Diana Mellon and Yijun Wang, ["Excellent Mustard"](https://fieldnotes.makingandknowing.org/mainSpace/excellent%20mustard,%2048r.html)
+    
