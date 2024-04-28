@@ -1,5 +1,5 @@
 ---
-title: "Making and Knowing Syllabi"
+title: "Making & Knowing Syllabi"
 draft: false
 weight: 10
 ---
