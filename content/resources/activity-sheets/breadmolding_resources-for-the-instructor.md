@@ -164,10 +164,9 @@ Student activity sheet breadmolding
 
 Videos showing the process and result
 
--   [<u>https://vimeo.com/419940044/da3f9a4451?share=copy</u>](https://vimeo.com/419940044/da3f9a4451?share=copy)
-
--   [<u>https://vimeo.com/419949231?share=copy</u>](https://vimeo.com/419949231?share=copy)
-
+-  - [Breadmolding vidwo by Vassar College students Eleanor McClure-Chute and Christian F]{{< vimeo 419940044 >}}
+- [Breadmolding video by Vassar College students Lisette Fischer, Sonia Santos, and Isabelle Wilson]{{< vimeo 419949231 >}}
+  
 [Video of Making and Knowing Director Pamela Smith introducing “skillbuilding” exercises, including culinary reconstructions.](https://vimeo.com/384070302)
 
 ### Suggested reading (to assign for class and/or further information)
