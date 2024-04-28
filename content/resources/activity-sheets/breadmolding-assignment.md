@@ -70,7 +70,7 @@ _Note: your experience with the Historical Recipe Reconstruction will be useful 
 
 ## Helpful sources on making sixteenth-century bread:
 
-- [John Evelyn&#39;s bread recipes](breadmolding_evelyn-john_bread-recipes.pdf), including varieties of French bread
+- [John Evelyn&#39;s bread recipes](/documents/activity-sheets/breadmolding_evelyn-john_bread-recipes.pdf), including varieties of French bread
 - The Food Timeline- Bread History (good bibliography): [http://www.foodtimeline.org/foodbreads.html#breadhistory](http://www.foodtimeline.org/foodbreads.html#breadhistory)
 - Early English Bread Project: [https://earlybread.wordpress.com/](https://earlybread.wordpress.com/)
 - The Recipes Project: [http://recipes.hypotheses.org/](http://recipes.hypotheses.org/)
@@ -87,7 +87,7 @@ _Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition a
 - Le Pouésard, Emma. &quot;Bread as Mediating Material: Tactile Memory and Touch in Ms. Fr. 640,&quot; [http://edition640.makingandknowing.org/#/essays/ann\_050\_fa\_16](http://edition640.makingandknowing.org/#/essays/ann_050_fa_16).
 - Landsman, Rozemarijn and Jonah Rowen. &quot;Uses of Sulfur in Casting.&quot; [http://edition640.makingandknowing.org/#/essays/ann\_007\_fa\_14](http://edition640.makingandknowing.org/#/essays/ann_007_fa_14).
 - Lim, Min. &quot;To Shrink an Object: Bread Molding in Ms. Fr. 640.&quot; [http://edition640.makingandknowing.org/#/essays/ann\_076\_fa\_18](http://edition640.makingandknowing.org/#/essays/ann_076_fa_18).
-- Fall 2018 student work - [Resource: Breadmolding and Casting Slideshow](breadmolding_resource-breadmolding-and-casting-slideshow.pdf) (Note: for additional help and resources, try following the Field Note links in the essays above and in the Slideshow)
+- Fall 2018 student work - [Resource: Breadmolding and Casting Slideshow](/documents/activity-sheets/breadmolding_resource-breadmolding-and-casting-slideshow.pdf) (Note: for additional help and resources, try following the Field Note links in the essays above and in the Slideshow)
 - Spring 2020 Vassar Seminar project videos on Breadmaking: [https://vimeo.com/419949231](https://vimeo.com/419949231) and Breadmolding: [https://vimeo.com/419940044](https://vimeo.com/419940044)
 
 ## Optional exploration: the uses of bread in the early modern workshop
@@ -106,4 +106,4 @@ If you have time, search in other sources for other uses are made of bread in th
 
 6. Benvenuto Cellini and C. R. Ashbee, _The Treatises of Benvenuto Cellini on Goldsmithing and Sculpture_ (Kessinger Publishing, 2006).
 
-A downloadable version of this assignment: [[PDF](breadmolding_assignment_downloadable_2021.pdf)]
+A downloadable version of this assignment: [[PDF](/documents/activity-sheets/breadmolding_assignment_downloadable_2021.pdf)]
