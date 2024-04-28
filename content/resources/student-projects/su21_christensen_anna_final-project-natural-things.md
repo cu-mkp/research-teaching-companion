@@ -56,7 +56,7 @@ its instructions on lifecasting.[^1]
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>![IMAGE](/images/media-christensen/image5.png)</p>
+![IMAGE](/images/media-christensen/image5.png)
 <p>Attributed to Bernard Palissy (French, about 1510 - 1590), <em>Oval Basin</em>, about 1550, Lead-glazed earthenware, 47.9 × 36.8 cm (18 7/8 × 14 1/2 in.), 88.DE.63, The J. Paul Getty Museum, Los Angeles.</p></th>
 </tr>
 </thead>
