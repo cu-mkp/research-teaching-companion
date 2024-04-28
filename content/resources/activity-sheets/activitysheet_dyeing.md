@@ -72,23 +72,22 @@ The standardized recipe begins with a mordant bath and is followed by a dye bath
 
 To know how much of the mordant, water, cochineal, and optional additive are needed, first weigh the textiles you plan to dye then multiply that amount by the ratios above. For example, if your textile weighs 10g, you will need 1.25g cochineal and 625ml water.
 
-You can also use: 
-- [Activity Sheet: Calculating ratios and amount of material needed](rosenkranz_2019_dyes_handout_reconstruction-exchange_dyeing-with-natural-colorants.pdf) 
+{{< figure src="/images/dye-process.jpg" alt="dye process overview" >}}
+{{< figure src="/images/dye-samples.jpg" alt="dye process sample outcomes" >}}
 
-
-Refer also to: 
-- Handout: [Dyeing Instructions: General Mordant and Dye Process](sp23_handout_dyeing-textiles_general-process.pdf)
-- [Presentation: Dyeing: Step-by-Step Instructions](rosenkranz_2018_dyes_cochineal-step-by-step.pdf)
-
-![dye-process-overview](/images/dye-process.JPG?raw=true) 
-
-
-![dye-samples](/images/dye-samples.JPG?raw=true)
-
-
-**THU: Add handout on kitchen dyeing**
 
 ### Teaching Dyeing
+#### Presentations
+- [Presentation: Dyeing: Step-by-Step Instructions](rosenkranz_2018_dyes_cochineal-step-by-step.pdf)
+
+#### Resources
+- [Activity Sheet: Calculating ratios and amount of material needed](rosenkranz_2019_dyes_handout_reconstruction-exchange_dyeing-with-natural-colorants.pdf)
+- [Advice for Dyeing in the Home Kitchen]
+- [Sourcing Materials for Dyeing]
+
+
+#### Activity Sheet Handouts
+- Handout: [Dyeing Instructions: General Mordant and Dye Process](sp23_handout_dyeing-textiles_general-process.pdf)
 
 
 #### Dyeing in Ms. Fr. 640
