@@ -72,8 +72,8 @@ Cochineal is a mordant dye. The following recipe has been adapted from Chapter 5
 It is necessary to prepare both a mordant bath and a dye bath.
 
 Refer also to: 
-- Handout: [Dyeing Instructions: General Mordant and Dye Process](sp23_handout_dyeing-textiles_general-process.pdf)
-- [Presentation: Dyeing: Step-by-Step Instructions](rosenkranz_2018_dyes_cochineal-step-by-step.pdf)
+- Handout: [Dyeing Instructions: General Mordant and Dye Process](/documents/activity-sheets/sp23_handout_dyeing-textiles_general-process.pdf)
+- [Presentation: Dyeing: Step-by-Step Instructions](/documents/activity-sheets/rosenkranz_2018_dyes_cochineal-step-by-step.pdf)
 
 ![dye-process-overview](/images/dye-process.JPG?raw=true) 
 
