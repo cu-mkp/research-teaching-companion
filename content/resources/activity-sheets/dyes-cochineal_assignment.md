@@ -4,7 +4,7 @@
 >_The Making and Knowing Project, Columbia University_<br>
 _Last updated 2023-03-30 by NJR_
 
-A downloadable version of this assignment: [[PDF](dyes-cochineal_assignment_downloadable_2023.pdf?raw=true)]
+A downloadable version of this assignment: [[PDF](/documents/activity-sheets/dyes-cochineal_assignment_downloadable_2023.pdf)]
 
 ![dyes-cochineal_header](/images/cochineal-dyed-textiles-mix.JPG?raw=true)
 
