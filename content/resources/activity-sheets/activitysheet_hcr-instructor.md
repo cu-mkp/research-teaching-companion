@@ -172,8 +172,9 @@ For a discussion about different approaches to historical reconstruction
 
 ## Additional materials
 
-[<u>Video</u>](https://vimeo.com/384070302) of Making and Knowing Director Pamela Smith introducing
-“skillbuilding” exercises, including culinary reconstructions.
+Video of Making and Knowing Director Pamela Smith introducing “skillbuilding” exercises, including culinary reconstructions.
+
+{{< vimeo 384070302 >}}
 
 
 
