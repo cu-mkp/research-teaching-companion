@@ -18,7 +18,7 @@ This medical remedy to treat burns appears in BnF Ms. Fr. 640, a late sixteenth-
 
 In a laboratory at Columbia University, the Making and Knowing Project reconstructed the burn salve by following the instructions provided on [fol. 103r](https://edition640.makingandknowing.org/#/folios/103r/tc/103r/tl). The result is a smooth and creamy ointment that would not seem out of place in your home's medicine cabinet!
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/465795692" width="640" height="360" frameborder="0" allowfullscreen></iframe><br/>
+{{< vimeo 465795692 >}}
 
 This recipe is fully explored in Xiaomeng Liu's essay, [An Excellent Salve for Burns](https://edition640.makingandknowing.org/#/essays/ann_080_sp_17), which notes the juxtaposition of the complex, transformative process with the relatively few ingredients needed. The essay also highlights the ways in which this recipe is unusual among the other medical recipes in Ms. Fr. 640 because it possesses explicit spiritual dimensions (pure ingredients, holy water, and the recitation of prayers) and it provides information about its source and trustworthiness. 
 
