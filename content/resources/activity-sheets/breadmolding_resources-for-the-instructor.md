@@ -159,7 +159,7 @@ tape or modeling clay like plasticine
 
 Student activity sheet breadmolding
 
-[Powerpoint presentation showing the process](/documents/activity-sheets/breadmoldingreconstruction_ visual presentation.pdf)
+[Powerpoint presentation showing the process](/documents/activity-sheets/breadmoldingreconstruction_visualpresentation.pdf)
 
 
 Videos showing the process and result
