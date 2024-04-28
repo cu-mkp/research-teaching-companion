@@ -9,11 +9,11 @@ A downloadable version of this assignment: [[PDF](/documents/activity-sheets/azu
 
 ## Presentations & Handouts
 
-- [Presentation: Preparing and Painting Blue Pigment in the Renaissance](fa22_skillbuilding-azurite-presentation-full.pdf)
-- See also a [short version of this presentation](fa22_skillbuilding-azurite-presentation-short.pdf)
-- [Student Handout](azurite_assignment_handout_2022.pdf) (to have while doing the hands-on reconstruction) 
+- [Presentation: Preparing and Painting Blue Pigment in the Renaissance](/documents/activity-sheets/fa22_skillbuilding-azurite-presentation-full.pdf)
+- See also a [short version of this presentation](/documents/activity-sheets/fa22_skillbuilding-azurite-presentation-short.pdf)
+- [Student Handout](/documents/activity-sheets/azurite_assignment_handout_2022.pdf (to have while doing the hands-on reconstruction) 
 
-<a href="(fa22_skillbuilding-azurite-presentation-full.pdf">![Preparing and Painting Blue Pigment in the Renaissance](/images/preparing-painting-blue.png?raw=true)</a>
+<a href="/documents/activity-sheets/fa22_skillbuilding-azurite-presentation-full.pdf"><img src="/images/preparing-painting-blue.png" alt="Preparing and Painting Blue Pigment in the Renaissance"/></a>
 
 ## Introduction
 
@@ -41,7 +41,7 @@ Azurite is a basic copper carbonate pigment \[2CuCO3-Cu(OH)2\], a common blue co
 
 Azurite is only one of the most common blue pigments in the Renaissance palette. Other pigments include the very costly lapis lazuli (also known as ultramarine), the cobalt blue glass smalt, and the organic indigo. A "synthetic" blue copper carbonate blue, known both as bice and verditer, has the same chemical makeup as azurite but is made by an artisan rather than sourced as a natural ore (for example, by combining copper nitrate and calcium carbonate). For more information:
 - [The Traveling Scriptorium Pigment Sampler](https://travelingscriptorium.com/2012/03/20/an-online-version-of-the-ink-pigment-sampler-set/)
-- [Presentation: Preparing and Painting Blue Pigment in the Renaissance](fa22_skillbuilding-azurite-presentation-full.pdf)
+- [Presentation: Preparing and Painting Blue Pigment in the Renaissance](/documents/activity-sheets/fa22_skillbuilding-azurite-presentation-full.pdf)
 
  ![blue-pigments](/images/blue-pigments.png?raw=true)
  
@@ -90,7 +90,7 @@ To prepare azurite from the mineral ore, one uses water to remove impurities and
 ### Process
 
 The process is open to your experimentation! To get started, however, here are some useful illustrations:
-- The dedicated slides towards the middle of [Presentation: Preparing and Painting Blue Pigment in the Renaissance](fa22_skillbuilding-azurite-presentation-full.pdf)
+- The dedicated slides towards the middle of [Presentation: Preparing and Painting Blue Pigment in the Renaissance](/documents/activity-sheets/fa22_skillbuilding-azurite-presentation-full.pdf)
 - [Fieldnotes (with step-by-step pictures) by Naomi Rosenkranz, SU17 Azurite](su17_rosenkranz_azurite-preparation-cambridge.md)
 - “Experiments with Azurite on the History of Design MA Course” by students of the V&A/RCA History of Design MA 
      - [Part 1](https://www.vam.ac.uk/blog/news/experiments-with-azurite-on-the-history-of-design-ma-course) 
