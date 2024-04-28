@@ -22,10 +22,10 @@ An ink is...
 - Inks: History, Chemistry, and Preparation [PDF]({{< ref "/documents/activity-sheets/presentation_iron-gall-inks-2023.pdf" >}})
 
 #### Ink Making: Activity Sheets, Field Notes, and Resources
-- Iron Gall Ink Making: Small Batch (~20 ml) [docx] [PDF]
-- Iron Gall Ink Making: Large Batch (~150 ml) [docx] [PDF]
-- Carbon Ink Making [docx] [PDF]
-- Iron Gall and Carbon Ink: A Comparison Making Activity [docx] [PDF]
+- Iron Gall Ink Making: Small Batch (~20 ml) [docx] [PDF] 2023_iron-gall-ink-worksheet_small-batch
+- Iron Gall Ink Making: Large Batch (~150 ml) [docx] [PDF] 2023_iron-gall-ink-worksheet_large-batch
+- Carbon Ink Making [docx] [PDF] carbon-ink-info-and-recipes
+- Iron Gall and Carbon Ink: A Comparison Making Activity [docx] [PDF] inks-recipes_iron-gall-and-carbon
 
 #### The Materiality of Text in Ms. Fr. 640
 - 
