@@ -87,7 +87,8 @@ To know how much of the mordant, water, cochineal, and optional additive are nee
 - Automatic Mordant and Dyestuff Calculator [xlsx]({{< ref "/documents/activity-sheets/activitysheet_mordants-dyes-recipes-automatic-calculator.xlsx" >}}) 
 
 
-#### Activity Sheet Handouts
+#### Activity Sheets and Handouts
+- [Dyeing Textiles with Cochineal: A Historical Reconstruction]("dyes-cochineal_assignment") (also available as a [PDF]({{< ref "dyes-cochineal_assignment_downloadable_2023.pdf" >}})
 - [Dyeing Instructions: General Mordant and Dye Process]({{< ref ""/documents/activity-sheets/sp23_handout_dyeing-textiles_general-process.pdf" >}})
 - [Piemontese Cochineal Dye Historical Recipe]({{< ref "/documents/activity-sheets/sp23_printout_recipe-example-piemontese.pdf" >}}) (2 copies per printed page)
 
