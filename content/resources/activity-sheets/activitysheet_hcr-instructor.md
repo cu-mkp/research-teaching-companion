@@ -22,7 +22,9 @@ and textual world of cookery. It raises questions about tacit knowledge,
 the historicity of materials and tools (and how to source them today),
 how to adapt protocols and make compromises, what counts as successful
 reconstruction, and how hands-on experimentation is a form of close
-reading. Encourage your students to work in groups, have them bring
+reading. If conducting the advanced optional assignment, it can be used to generate a reconstruction template for students to follow when conducting later experiments. 
+
+We recommend taht you encourage your students to work in groups, have them bring
 their results to class to eat (if safe!) together as they present their
 findings. This is also a wonderful community-building exercise.
 
