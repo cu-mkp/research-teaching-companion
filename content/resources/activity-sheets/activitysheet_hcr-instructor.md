@@ -15,7 +15,7 @@ institutional kitchen.
 ## Learning Objectives 
 
 The Historical Culinary Recipe activity was conceived as one session at
-the start of a semester-long course. This assignment works well as a way
+the start of a semester-long course. INSERT LINK HERE TO SYLLABUS ONCE IT IS IN THE RTC. This assignment works well as a way
 into the methodology, but could be expanded into a series of sessions on
 different kinds of food, cookbooks across time, or the material culture
 and textual world of cookery. It raises questions about tacit knowledge,
@@ -66,9 +66,10 @@ Guide to historical recipes and collections
 
 ## Finding Recipes
 
-We recommend you invite your students to explore the resources suggested
+If you are working with advanced students, such as graduate students or specialist undergraduates, we recommend you invite your students to explore the resources suggested
 in the above “Guide to historical recipes and collections” and select a
-recipe themselves. We encourage you to see whether your institution has
+recipe themselves. However, if working with less experienced students, you may wish to offer them a few suggestions. 
+We encourage you to see whether your institution has
 any manuscript or printed recipe collections in the library; this could
 be an opportunity to take your students to work with primary sources
 available on campus.
@@ -119,6 +120,9 @@ material sourcing challenges, which prompts great in-class discussions.
 
 For a discussion about different approaches to historical reconstruction
 (a different point of view from Albala’s strict call for “authenticity”)
+
+Optional additional assignment: 
+Ask your students to collaboratively compile a Reconstruction Template document (i.e. a list of things to keep in mind when doing a reconstruction)
 
 -   Fors, Hjalmar, Lawrence M. Principe, and H. Otto Sibum. ‘From the
     Library to the Laboratory and Back Again: Experiment as a Tool for
