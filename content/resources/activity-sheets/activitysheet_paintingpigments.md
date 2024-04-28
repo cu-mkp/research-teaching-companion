@@ -53,8 +53,7 @@ Paint is applied to a variety of supports, including canvas, panel, plaster, pap
 - Paint-Making Lab Reflection Assignment [docx]({{< ref "/documents/activity-sheets/uchacz_2024_lab2_reflection-assignment.docx" >}}) [pdf]({{< ref "/documents/activity-sheets/uchacz_2024_lab2_reflection-assignment.pdf" >}})
 
 #### Painting in Ms. Fr. 640
-There are dozens of entries in Ms. Fr. 640 that address elements of paint making and painting, including pigment behavior, mulling (grinding), binders, handling, and the practical uses of particular materials for various kinds of subject matter (e.g., flesh tones).
-These entries are best accessed by searching the manuscript for "[painter](https://edition640.makingandknowing.org/#/search?q=painter)" and "[painting](https://edition640.makingandknowing.org/#/search?q=painting)." 
+There are dozens of entries in Ms. Fr. 640 that address elements of paint making and painting, including pigment behavior, mulling (grinding), binders, handling, and the practical uses of particular materials for various kinds of subject matter (e.g., flesh tones). In fact, "painting" is one of the categories that M&K has used to classify the various entries in the manuscript, and entries on painting account for roughly 15% of the manuscript's contents. These entries are best accessed by searching the manuscript for "[painter](https://edition640.makingandknowing.org/#/search?q=painter)" and "[painting](https://edition640.makingandknowing.org/#/search?q=painting)." 
 
 There are also several essays in [_Secrets of Craft and Nature in Renaissance France_](https://edition640.makingandknowing.org/#/) that explore paint making and painting in detail, including:
 - Jo Kirby and Marika Spring, “[Ms. Fr. 640 in the World of Pigments in Sixteenth-Century Europe](https://edition640.makingandknowing.org/#/essays/ann_321_ie_19).”
