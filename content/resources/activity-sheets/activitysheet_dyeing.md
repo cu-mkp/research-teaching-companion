@@ -100,3 +100,13 @@ There are also several essays in [_Secrets of Craft and Nature in Renaissance Fr
 - Sophie Pitman, “[Black Color for Dyeing, and the Place of Textiles in Ms. Fr. 640](https://edition640.makingandknowing.org/#/essays/ann_036_sp_16).”
 - Yuan Yi, “[Damasked Cloth](https://edition640.makingandknowing.org/#/essays/ann_031_fa_15).”
 - David McClure, “[Making Colored Wood in Ms. Fr. 640](https://edition640.makingandknowing.org/#/essays/ann_515_ad_20).”
+
+
+#### References and Resources
+- Kirby, Jo, Maartin van Bommel, André Verhecken, and Marika Spring. *Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and Their Historical Sources*. London: Archetype Publications, 2014.
+- Merrifield, Mary P. *Original Treatises, Dating from the XIIth to XVIIIth Centuries, on the Arts of Painting in Oil, Miniature, Mosaic, and on Glass of Gilding, Dyeing, and the Preparation of Colours and Artificial Gems; Preceded by a General Introd., with Translations, Prefaces, and Notes. J. Murray*, 1849.
+- CAMEO: Conservation & Art Materials Encyclopedia Online: <http://cameo.mfa.org/wiki/Main_Page>. CAMEO is a searchable information resource developed by the Museum of Fine Arts, Boston. The MATERIALS database contains chemical, physical, visual, and analytical information on historic and contemporary materials used in the production and conservation of artistic, architectural, archaeological, and anthropological materials.
+- Cardon, Dominique. *Natural Dyes: Sources, Tradition, Technology and Science*. Archetype, 2007.
+- Gettens, Rutherford J., and George L. Stout. *Painting Materials: a Short Encyclopedia*. Dover Publications, 1966.
+- Vejar, Kristine. *The Modern Natural Dyer a Comprehensive Guide to Dyeing Silk, Wool, Linen, and Cotton at Home*. Abrams, 2015.
+- Dean, Jenny. *Wild Color: The Complete Guide to Making and Using Natural Dyes* Watson-Guptill, 2010.
