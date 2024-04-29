@@ -37,7 +37,14 @@ ARTS 150 Honors Section
 
 ### Bio Art Workshops, School of Performance, Visualization & Fine Arts, Texas A&M University
 Spring 2023
-Naomi Rosenkranz, Dr. Tianna Uchacz, Dr. Donna Janes
+Naomi Rosenkranz, Dr. Tianna Uchacz, Dr. Donna Janes, Dr. Sumeyye Yar
+
+[Presentation: Chemistry of dyeing and history of cochineal as a dyestuff]({{< ref "/documents/activity-sheets/2023_dyes_cochineal-history-chem-prep_TAMU-compressed.pdf" >}})
+[Handout: mordant and dyestuff amounts for 12 different dyeing stations]({{< ref "/documents/activity-sheets/sp23_printout_samples-amounts.pdf" >}})
+[Handout: mordanting and dyeing process protocol]({{< ref "/documents/activity-sheets/sp23_handout_dyeing-textiles_general-process.pdf" >}})
+[News Item: Bio Art Workshops at Texas A&M University](https://pvfa.tamu.edu/news/2023/03/20/bio-art-workshops-to-show-creative-process-using-cochineal-insects-bacteria/)
+[Poster: Bio Art Workshops at Texas A&M University]({{< ref "/documents/activity-sheets/sp23_poster_bioart.pdf" >}})
+
 
 ### Refashioning the Renaissance
 2019
