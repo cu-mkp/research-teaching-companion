@@ -72,6 +72,10 @@ Sponsored by the Center for Science and Society and Genspace
 (date)
 Naomi Rosenkranz
 
-### Collaborator Research Projects
+## Collaborator Research Projects
 Summer 2022
-Cunningham
+Annika Cunningham, High School Student
+
+**RESOURCES**
+- Template for Dyeing Onion Skins + notes 1 [xlsx]({{< ref "/documents/activity-sheets/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes.xlsx" >}}) [PDF]({{< ref "/documents/activity-sheets/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes.pdf" >}})
+- Template for Dyeing Onion Skins + notes 2 (greens) [xlsx]({{< ref "/documents/activity-sheets/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes-2-greens.xlsx" >}}) [PDF]({{< ref "/documents/activity-sheets/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes-2-greens.pdf" >}})
