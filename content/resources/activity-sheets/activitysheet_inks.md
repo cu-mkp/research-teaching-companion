@@ -1,6 +1,6 @@
 ## Making Inks
 
-The Making and Knowing Project has reconstructed inks several times, both as products and as ingredients in more complex making processes described in Ms. Fr. 640. While the manuscript is itself written in iron gall ink (the "common" black writing ink of the Renaissance), it does not include any writing ink recipes. Learning about and making writing inks can thus shed light on the history and materiality of texts. Because of their relatively simple ingredients and the speed and ease of their making, writing inks are an excellent hands-on activity for beginners and experts alike.  
+The Making and Knowing Project has reconstructed inks several times, both as products and as ingredients in more complex making processes described in Ms. Fr. 640. While the manuscript is itself written in iron gall ink (the "common" black writing ink of the Renaissance), it does not include any writing ink recipes. Learning about and making writing inks can thus shed light on the history and materiality of texts. Because of their relatively simple ingredients and the speed and ease of their making, writing inks are an excellent hands-on activity for beginners and experts alike. The activity can be done in small groups or as a demonstration for a larger audience. 
 
 ### Learning Objectives
 The activity of making inks has several potential learning outcomes, which can include:
