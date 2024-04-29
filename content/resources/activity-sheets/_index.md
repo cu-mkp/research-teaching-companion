@@ -5,7 +5,7 @@ weight: 20
 ---
 
 # Lesson Plans for Hands-On
-Making and Knowing Lesson Plans and associated teaching resources provide step-by-step guidance in planning and executing hand-on activities in the classroom or maker space. These Lesson Plans might be integrated into classes as skill building or as one-off sessions for class community building or to stimulate the students' historical imagination by exposure to past materials and processes. The hands-on activities offered here might also be used as stand-alone activities for public outreach.
+Making and Knowing Lesson Plans and associated teaching resources provide step-by-step guidance in planning and executing hand-on activities in the classroom, studio, laboratory, or maker space. These Lesson Plans might be integrated into classes for skill building, as one-off sessions for class community building, or to stimulate the students' historical imagination by exposure to past materials and processes. The hands-on activities offered here might also be used as stand-alone activities for public outreach. 
 
 ## Activity Sheets, Assignments, and Reconstruction Protocols
 - Introductions to *Secrets of Craft and Nature*
