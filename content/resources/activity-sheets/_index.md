@@ -4,6 +4,9 @@ draft: false
 weight: 20
 ---
 
+# Lesson Plans for Hands-On
+Making and Knowing Lesson Plans and associated teaching resources provide step-by-step guidance in planning and executing hand-on activities in the classroom or maker space. These Lesson Plans might be integrated into classes as skill building or as one-off sessions for class community building or to stimulate the students' historical imagination by exposure to past materials and processes. The hands-on activities offered here might also be used as stand-alone activities for public outreach.
+
 ## Activity Sheets, Assignments, and Reconstruction Protocols
 - Introductions to *Secrets of Craft and Nature*
      - [Scavenger Hunt: Get to Know *Secrets of Craft and Nature*]({{< ref "scavenger-hunt_secrets-of-craft" >}}) - a great way to get started! Get to know the digital critical edition of Ms. Fr. 640 and the manuscript itself by completing a scavenger hunt of its contents.
