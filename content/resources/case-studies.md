@@ -39,11 +39,13 @@ ARTS 150 Honors Section
 Spring 2023
 Naomi Rosenkranz, Dr. Tianna Uchacz, Dr. Donna Janes, Dr. Sumeyye Yar
 
-[Presentation: Chemistry of dyeing and history of cochineal as a dyestuff]({{< ref "/documents/activity-sheets/2023_dyes_cochineal-history-chem-prep_TAMU-compressed.pdf" >}})
-[Handout: mordant and dyestuff amounts for 12 different dyeing stations]({{< ref "/documents/activity-sheets/sp23_printout_samples-amounts.pdf" >}})
-[Handout: mordanting and dyeing process protocol]({{< ref "/documents/activity-sheets/sp23_handout_dyeing-textiles_general-process.pdf" >}})
-[News Item: Bio Art Workshops at Texas A&M University](https://pvfa.tamu.edu/news/2023/03/20/bio-art-workshops-to-show-creative-process-using-cochineal-insects-bacteria/)
-[Poster: Bio Art Workshops at Texas A&M University]({{< ref "/documents/activity-sheets/sp23_poster_bioart.pdf" >}})
+This 4-day workshop was held in March 2023 at Texas A&M University. It was organized by Tianna Uchacz as a series of guest labs for her graduate course "Art/Craft: Hands-on Global Histories of Materials, Techniques & Skilled Making." The labs were co-led by Naomi Rosenkranz (M&K) and Donna Janes (Microbiology, Texas A&M) in consultation with Sumeyye Yar. The activities, a 2-day dyeing workshop using cochineal insects, paired with a 2-day painting workshop using bioluminescent bacteria, built on workshops that Rosenkranz and Yar had developed and led at Genspace community lab, Brooklyn. 10 faculty and 26 students from the College of Arts and Sciences, the College of Engineering, and the School of Performance, Visualization & Fine Arts took part.
+
+- [Presentation: Chemistry of dyeing and history of cochineal as a dyestuff]({{< ref "/documents/activity-sheets/2023_dyes_cochineal-history-chem-prep_TAMU-compressed.pdf" >}})
+- [Handout: mordant and dyestuff amounts for 12 different dyeing stations]({{< ref "/documents/activity-sheets/sp23_printout_samples-amounts.pdf" >}})
+- [Handout: mordanting and dyeing process protocol]({{< ref "/documents/activity-sheets/sp23_handout_dyeing-textiles_general-process.pdf" >}})
+- [News Item: Bio Art Workshops at Texas A&M University](https://pvfa.tamu.edu/news/2023/03/20/bio-art-workshops-to-show-creative-process-using-cochineal-insects-bacteria/)
+- [Poster: Bio Art Workshops at Texas A&M University]({{< ref "/documents/activity-sheets/sp23_poster_bioart.pdf" >}})
 
 
 ### Refashioning the Renaissance
