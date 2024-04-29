@@ -88,7 +88,7 @@ transmission (‘*yes’*) versus those which do not (‘*no’*).
 *Fig 2*. Percentage of entries using the word “said” which reference
 oral transmission (‘*yes’*) versus those which do not (‘*no’*).
 
--   For a look at all collected data involving the word “say,” please refer to the following [<u>spreadsheet</u>](/documents/student-projects/fa21_ghoneima_hana_final-project_tl_say.pdf).
+-   For a look at all collected data involving the word “say,” please refer to the following [<u>spreadsheet</u>](static/documents/student-projects/fa21_ghoneima_hana_final-project_tl_say.xlsx).
   
 -   For a list of all instances of oral transmission of knowledge using the word “say,” please refer to [<u>Appendix 1 </u>](#appendix-1-instances-of-oral-transmission-of-knowledge-using-the-word-say).
   
