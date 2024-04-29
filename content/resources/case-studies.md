@@ -26,10 +26,18 @@ Similar to M&K's [Fieldnotes](https://fieldnotes.makingandknowing.org/), these p
 ### ARTS 150: Global Art History Survey II (Renaissance to Modern)
 Texas A&M University
 Dr. Tianna Uchacz, Assistant Professor of Art History
-#### Spring 2024
+- **Course description:** A large lecture survey of architecture, painting, sculpture and the minor arts around the world from the 14th century to the end of the 20th century. ARTS 150 counts toward a Core Curriculum Creative Arts requirement and toward Intercultural Diversity course requirements.
+#### Honors Section: Fall 2021, Spring 2022, Fall 2022, Spring 2024
+In these semesters, students enrolled in the Honors section of Uchacz's ARTS 150 (2–7 students per semester) were invited to complete hands-on activities in the history of artisanal making alongside the regular ARTS 150 coursework (lectures, textbook readings). The honors program encourages high-impact practices that deepen student engagement with course themes and material. Accordingly, Uchacz's students participated in at least three of the following activities, which built on several M&K skill-building activities:
+- [pigment making from natural materials]({{< ref "../activity-sheets/activitysheet_lake-pigments" >}})
+- [paint making and test-card painting with a variety of binders and hand-made natural pigments]({{< ref "../activity-sheets/activitysheet_paintingpigments" >}})
+- East Asian brush and ink calligraphy
+- paper marbling
+- [imitation stucco making]({{< ref "../activity-sheets/activitysheet_stucco" >}})
 
-#### Fall 2021, Spring 2022, Fall 2022
-ARTS 150 Honors Section
+#### Full Class Hands-on Art History: Spring 2024
+
+
 
 
 
