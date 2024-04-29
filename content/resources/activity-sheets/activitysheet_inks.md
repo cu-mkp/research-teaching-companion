@@ -25,7 +25,7 @@ Writing inks are a colored viscous fluid composed of a water-based liquid, a bin
 - Iron Gall and Carbon Ink: A Comparison Making Activity [docx] [PDF] inks-recipes_iron-gall-and-carbon
 
 #### The Materiality of Text in Ms. Fr. 640
-- Handout surveying the entries in Ms. Fr. 640 on the materiality of text and literary culture in Renaissance France [docx]({{< ref "/documents/activity-sheets/uchacz_2023_materialiality-of-text.docx" >}}) [PDF]({{< ref "/documents/activity-sheets/uchacz_2023_materialiality-of-text.pdf" >}})
+- Handout surveying the entries in Ms. Fr. 640 on the materiality of text and on literary culture in Renaissance France [docx]({{< ref "/documents/activity-sheets/uchacz_2023_materialiality-of-text.docx" >}}) [PDF]({{< ref "/documents/activity-sheets/uchacz_2023_materialiality-of-text.pdf" >}})
 
 #### Inks in Ms. Fr. 640
 There are dozens of entries in Ms. Fr. 640 that address the making and use of varnishes. In fact, "varnish" is one of the categories that M&K has used to classify the various entries in the manuscript, and entries on varnishes account for roughly 5% of the manuscript's contents. These entries can be accessed through the "varnish" category filter in the [List of Entries](https://edition640.makingandknowing.org/#/entries) and by a wildcard search for "[varnish\*](https://edition640.makingandknowing.org/#/search?q=varnish*)" to catch all instances of the term in [_Secrets of Craft and Nature in Renaissance France_](https://edition640.makingandknowing.org/#/).
