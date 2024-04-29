@@ -10,14 +10,14 @@ The Spring 2019 course _Transforming Texts: Textual Analysis, Literary Modeling,
 
 ### Spring 2019 Final Student Projects (2021-05-06) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vQPLMeJc5B32slPAKIv-4W29hj_G6WR7dVQ7TTbYA7oStHv-Ze7BP5BUkQhUvFgXGXGlylSL6BsL2jT/pub)]
 
--   [Ontologies of Ms. Fr. 640](/documents/activity-sheets/student-projects/SP19_Camps_Ontologies-of-Ms-Fr-640.pdf) by Celine Camps
--   [“A View Inside a Messy Workshop”: Unraveling the Possibilities of Textual Analysis with Optical Character Recognition](/documents/activity-sheets/student-projects//SP19_Bergen_Textual-Analysis-with-Optical-Character-Recognition.pdf) by Katherine Bergen
--   [Material Qualities of the Page: A New Interface for the Digital Critical Edition](/documents/activity-sheets/student-projects/SP19_Lehnert-Hand-Houser_Material-Qualities-of-the-Page.pdf) by Sandra Goldstein Lehnert, Laura Elizabeth Hand, and Greg Alton Houser
--   [Indexing Ingredients: Using Ingredients to Navigate Making](/documents/activity-sheets/student-projects/SP19_Kaplan_Indexing-Ingredients.pdf) by Jennifer Kaplan, Chris Klippenstein, Matthew Kumar, and Vera Senina
--   [Chromatic Index](/documents/activity-sheets/student-projects/SP19_Soto_Chromatic-Index.pdf) by Guillermo Soto, Clement Godbarge, and Yuhe Zheng. See also:
-    -   [PDF of PowerPoint presentation](/documents/activity-sheets/student-projects/SP19_Chromatic-Index-Presentation.pdf), video (TBD), code (TBD)
--   [Augmented Reality Group (ARGroup)](/documents/activity-sheets/student-projects/SP19_ARGroup.pdf) by Mahzabin Hasnath, Kathleen Lee, and Taewan Shim. See also:
-    -   PowerPoint presentation [[PDF](/documents/activity-sheets/student-projects/SP19_ARGroup-Presentation.pdf)] [[PPTX](/documents/activity-sheets/student-projects/SP19_ARGroup-Presentation.pptx)]
+-   [Ontologies of Ms. Fr. 640](/documents/student-projects/SP19_Camps_Ontologies-of-Ms-Fr-640.pdf) by Celine Camps
+-   [“A View Inside a Messy Workshop”: Unraveling the Possibilities of Textual Analysis with Optical Character Recognition](/documents/student-projects//SP19_Bergen_Textual-Analysis-with-Optical-Character-Recognition.pdf) by Katherine Bergen
+-   [Material Qualities of the Page: A New Interface for the Digital Critical Edition](/documents/student-projects/SP19_Lehnert-Hand-Houser_Material-Qualities-of-the-Page.pdf) by Sandra Goldstein Lehnert, Laura Elizabeth Hand, and Greg Alton Houser
+-   [Indexing Ingredients: Using Ingredients to Navigate Making](/documents/student-projects/SP19_Kaplan_Indexing-Ingredients.pdf) by Jennifer Kaplan, Chris Klippenstein, Matthew Kumar, and Vera Senina
+-   [Chromatic Index](/documents/student-projects/SP19_Soto_Chromatic-Index.pdf) by Guillermo Soto, Clement Godbarge, and Yuhe Zheng. See also:
+    -   [PDF of PowerPoint presentation](/documents/student-projects/SP19_Chromatic-Index-Presentation.pdf), video (TBD), code (TBD)
+-   [Augmented Reality Group (ARGroup)](/documents/student-projects/SP19_ARGroup.pdf) by Mahzabin Hasnath, Kathleen Lee, and Taewan Shim. See also:
+    -   PowerPoint presentation [[PDF](/documents/student-projects/SP19_ARGroup-Presentation.pdf)] [[PPTX](/documents/student-projects/SP19_ARGroup-Presentation.pptx)]
 
 ## GU4962: _Hands-on History_ (2021-)
 
@@ -40,12 +40,12 @@ The Final Project in the undergraduate/graduate lab seminar _Making and Knowing 
 -   [Textual Analysis of Instances of “To Know” in Ms. Fr. 640]({{< ref "fa21_jacobson_beah_final-project-know" >}}) by Beah Jacobson
 -   [Regimens, Recipes, and Remedies: Understanding the ‘Cosmetic’ in Early Modern Europe]({{< ref "fa21_lin+sundar_danli+anusha_final-project_regimens-remedies" >}}) by Danli Lin and Anusha Sundar
 -   [The Making and Meaning of Intermediates: Workshop and Syllabus for Students of Architecture]({{< ref "fa21_weisgall_benjamin_final-project-architecture-workshop" >}}) by Benjamin Weisgall
--   [The Natural History of Ms. Fr. 640: A Visual Exploration](/documents/activity-sheets/student-projects/fa21_davol_eleanor_final-project-nat-history.pdf) by Eleanor Davol
--   [Instructor Assignment Sheet: Ms. Fr. 640 fol. 43v, “Varied and Transmuted Wine”]({{< ref "fa21_alberts_naomi_final-project_ph-lesson" >}}) by Naomi Alberts
+-  [The Natural History of Ms. Fr. 640: A Visual Exploration](/documents/student-projects/fa21_davol_eleanor_final-project-nat-history.pdf) by Eleanor Davol
+-  [Instructor Assignment Sheet: Ms. Fr. 640 fol. 43v, “Varied and Transmuted Wine”]({{< ref "fa21_alberts_naomi_final-project_ph-lesson" >}}) by Naomi Alberts
 -   [Global Ingredients: The Diverse Origins of Natural Materials in Ms. Fr. 640](https://catapanoth.com/omandka/exhibits/show/global-ingredients--the-divers) (Omeka exhibit with gallery and map) by Elia Zhang and Helena Seo
--   [An Exploration of Humor in Ms. Fr. 640]({{< ref "fa21_atkins+joyce-farley_charlotte+siobhan_pranks" >}}) by Charlotte Atkins and Siobhan Joyce-Farley
+-  [An Exploration of Humor in Ms. Fr. 640]({{< ref "fa21_atkins+joyce-farley_charlotte+siobhan_pranks" >}}) by Charlotte Atkins and Siobhan Joyce-Farley
     -   See their [VIDEO: Funniest Pranks of the 16th Century](https://youtu.be/BFK71x0bvuE)
--   [The Soundscape of Process: An Audio Recreation of Lifecasting in the Workshop]({{< ref "fa21_zayas+waters_elliot+mac_final-project-soundscape" >}}) by Elliot Zayas and Mac Waters
+-  [The Soundscape of Process: An Audio Recreation of Lifecasting in the Workshop]({{< ref "fa21_zayas+waters_elliot+mac_final-project-soundscape" >}}) by Elliot Zayas and Mac Waters
     -   Listen to [Soundscape 1: Creating the Mold](https://vimeo.com/672477385)
     -   Listen to [Soundscape 2: Casting the Metal](https://vimeo.com/672823504)
     -   Listen to [Soundscape 3: Recovering the Final Product](https://vimeo.com/672823543)
@@ -53,7 +53,7 @@ The Final Project in the undergraduate/graduate lab seminar _Making and Knowing 
 ### Spring 2022 Final Student Projects (2022-08-15) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vS_I76a42zOm-GfGNZHl4s385XNFV4pkHqBq_x0op2S8LUlqN_-B5ebEPdNxqJ3-O1wWUiyemMA2zF9/pub)]
 
 -   [Herodotus’ ‘Workshop’: A Core (Curriculum) Pathway into Ms. Fr. 640 and its Author-Practitioner]({{< ref "sp22_arocho_alejandra_herodotus-workshop" >}}) by Alejandra Quintana Arocho
--   [Discarded Cartographies: Orienting Process Through Waste](/documents/activity-sheets/student-projects/sp22_dzumala_maciej_discards.pdf) by Maciej Dzumala
+-   [Discarded Cartographies: Orienting Process Through Waste](/documents/student-projects/sp22_dzumala_maciej_discards.pdf) by Maciej Dzumala
 -   [Counterproofing: Reproduction and Theft in Early Modern Print Culture]({{< ref "sp22_lang_theodora_counterproofing" >}}) by Theodora Bocanegra Lang
 -   [Making and Knowing Pop-up Book]({{< ref "sp22_wei+yang_jianing+luxi_popup" >}}) by Luxi Yang and Jianing Wei
 -   [Creating a “Modern” Reconstruction of a Miniature Grotto]({{< ref "sp22_bergen+sabet_jamie+sofia_final-project_grotto" >}}) by Jamie Bergen and Sofia Sabet
@@ -67,17 +67,17 @@ The Final Project in the undergraduate/graduate lab seminar _Making and Knowing 
 ### Spring 2023 Final Student Projects (2024-01-08) 
 [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vS_I76a42zOm-GfGNZHl4s385XNFV4pkHqBq_x0op2S8LUlqN_-B5ebEPdNxqJ3-O1wWUiyemMA2zF9/pub)]
 - [“Flesh Color” and Race Making in Early Modern Painters’ Manuals]({{< ref "sp23_fan_ruilin_final-project_flesh-color" >}}) by Ruilin Fan
-- [Languages and Linguistic Agency in Ms. Fr. 640]({{< ref "sp23_narcy_gilles_final-project_languages" >}}) by Gilles Narcy
-- [Medieval Spirituality and Materiality in Ms. Fr. 640]({{< ref "sp23_lambert-avery_final-project_medieval-spirituality" >}}) by Avery Lambert
-- [Kunstkamer: Women at Work]({{< ref "sp23_gorup_sophie_final-project_women-at-work.pdf" >}}) by Sophie Gorup [[PDF]({{< ref "sp23_gorup_sophie_final-project_women-at-work.pdf" >}})], [[PPTX]({{< ref "sp23_gorup_sophie_final-project_women-at-work.pptx" >}})]
-- [Candles: Making and Breaking Boundaries in Early Modern Jewish and Christian Ritual]({{< ref "sp23_nelkin-nesya_final-project_candles" >}}) by Nesya Nelkin
-- [Puffball Mushrooms and Early Modern Race-Making: A Skin-Whitening Recipe in BnF Ms. Fr. 640]({{< ref "sp23_rao-sumant_final-project_puffball" >}}) by Sumant Rao
-- [European Paintbrushes and Chinese Ink Brushes in the Early Modern World]({{< ref "sp23_shi-jingxian_final-project_paintbrushes" >}}) by Jingxian Shi
-- [Dyeing Textiles with Cochineal - A Workshop]({{< ref "sp23_brown-reece_final-project_dye-workshop" >}}) by Reece Brown
-- [Varnishing, a Craft of Closure]({{< ref "sp23_oberem-lukas_final-project_varnish" >}}) by Lukas Oberem
+-  [Languages and Linguistic Agency in Ms. Fr. 640]({{< ref "sp23_narcy_gilles_final-project_languages" >}}) by Gilles Narcy
+-  [Medieval Spirituality and Materiality in Ms. Fr. 640]({{< ref "sp23_lambert-avery_final-project_medieval-spirituality" >}}) by Avery Lambert
+-  [Kunstkamer: Women at Work]({{< ref "sp23_gorup_sophie_final-project_women-at-work.pdf" >}}) by Sophie Gorup [[PDF]({{< ref "sp23_gorup_sophie_final-project_women-at-work.pdf" >}})], [[PPTX]({{< ref "sp23_gorup_sophie_final-project_women-at-work.pptx" >}})]
+-  [Candles: Making and Breaking Boundaries in Early Modern Jewish and Christian Ritual]({{< ref "sp23_nelkin-nesya_final-project_candles" >}}) by Nesya Nelkin
+-  [Puffball Mushrooms and Early Modern Race-Making: A Skin-Whitening Recipe in BnF Ms. Fr. 640]({{< ref "sp23_rao-sumant_final-project_puffball" >}}) by Sumant Rao
+-  [European Paintbrushes and Chinese Ink Brushes in the Early Modern World]({{< ref "sp23_shi-jingxian_final-project_paintbrushes" >}}) by Jingxian Shi
+-  [Dyeing Textiles with Cochineal - A Workshop]({{< ref "sp23_brown-reece_final-project_dye-workshop" >}}) by Reece Brown
+-  [Varnishing, a Craft of Closure]({{< ref "sp23_oberem-lukas_final-project_varnish" >}}) by Lukas Oberem
   
 ## Making Colors!
 
--   [Dyeing with Onion Skins]({{< ref "su22_fld_cunningham_annika_onion-skin-dyeing" >}}) by Annika Cunningham (2022-07-18)
--   [Making Pigment from Madder: a Trio of Recipes]({{< ref "sp22_fld_rosenkranz_naomi_madder-lake-trio" >}}) by Naomi Rosenkranz (2022-07-19) (WIP)
-- [Materials Used for Making Renaissance Dyes and Pigments]({{< ref "materials" >}}) by Naomi Rosenkranz and Megan Lennon (2023-02-28)
+-  [Dyeing with Onion Skins]({{< ref "su22_fld_cunningham_annika_onion-skin-dyeing" >}}) by Annika Cunningham (2022-07-18)
+-  [Making Pigment from Madder: a Trio of Recipes]({{< ref "sp22_fld_rosenkranz_naomi_madder-lake-trio" >}}) by Naomi Rosenkranz (2022-07-19) (WIP)
+-  [Materials Used for Making Renaissance Dyes and Pigments]({{< ref "materials" >}}) by Naomi Rosenkranz and Megan Lennon (2023-02-28)
