@@ -5,7 +5,7 @@ weight: 40
 ---
 
 # Student Projects
-In the course *Making and Knowing in Early Modern Europe: Hands-On History*, students explore *Secrets of Craft and Nature*, carry out hands-on activities, and develop a project that engages with hands-on activities, materials, techniques, and any number of other themes. Their projects range from humorous to scholarly, pedagogical, and public facing, and we hope they will be consulted by instructors and students for inspiration and to consider the many pathways into and through Ms. Fr. 640 and its digital edition. 
+In the course *Making and Knowing in Early Modern Europe: Hands-On History*, students explore *Secrets of Craft and Nature*, carry out hands-on lessons, and develop a project that engages with hands-on activities, materials, techniques, and any number of other themes. Their projects range from humorous to scholarly, pedagogical, and public facing, and we hope they will be consulted by instructors and students for inspiration and to consider the many pathways into and through Ms. Fr. 640 and its digital edition. 
 
 ## ENGL84031 / HISTGU4031 / COMS4495: _Transforming Texts_ (Spring 2019)
 
