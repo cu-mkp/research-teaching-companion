@@ -1,19 +1,16 @@
 ## Making Inks
 
-The Making and Knowing Project has reconstructed varnish recipes several times, both as products and as ingredients in more complex making processes described in Ms. Fr. 640. The manuscript includes several recipes for spirit varnishes, which were a new category of varnish that emerged in the sixteenth century. It also includes several recipes for oil-based varnishes, which have a longer history and are quite dangerous to reconstruct and often result in fires. Accordingly, M&K is only sharing protocols for making spirit varnishes. Nevertheless, making spirit varnishes raises several safety concerns and may not be suitable for all pedagogical contexts.
-
+The Making and Knowing Project has reconstructed inks several times, both as products and as ingredients in more complex making processes described in Ms. Fr. 640. While the manuscript is itself written in iron gall ink (the "common" black writing ink of the Renaissance), it does not include any writing ink recipes. Learning about and making writing inks can thus shed light on the history and materiality of texts. Because of their relatively simple ingredients and the speed and ease of their making, writing inks are an excellent hands-on activity for beginners and experts alike.  
 
 ### Learning Objectives
 The activity of making inks has several potential learning outcomes, which can include:
-- learn what varnish is, what it is made of, and how it is made
-- exprience how various resins behave and appear in different alcohol and volatile oil solvents
-- understand how qualities such as viscosity were communicated through historical artisanal shorthands such as the "knife test"
-- explore the range of visual effects created by varnishes 
-- understand material considerations that affect the appearance of artworks across history
-
+- examine historical inks, focusing on the two most important black writing inks: carbon inks and iron gall inks
+- learn what inks are made of and how to make them
+- explore the ways that carbon and iron gall inks flow, bleed, and bead on various supports 
+- appreciate the material properties of historical writing materials affect their making and their afterlives
 
 ### What is an Ink?
-An ink is...
+Writing inks are a colored viscous fluid composed of a water-based liquid, a binding agent, and a colorant. Inks are often liquid, but can also come in the form of pastes, cakes, and sticks.
 
 
 ### Teaching Ink Making
