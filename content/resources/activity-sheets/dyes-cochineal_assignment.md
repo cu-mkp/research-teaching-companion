@@ -83,7 +83,7 @@ Recipes for dyeing textiles often list ratios rather than outright amounts. Why 
 Because of the ratios, the weight of textile will determine how much of the other ingredients are needed. The ratios below are provided for 1g of textile. To know how much of the mordant, water, cochineal, and optional additive are needed, first weigh the textiles you plan to dye then multiply that amount by the ratios below. For example, if your textile weigh 10g, you will need 1.25g cochineal and 625ml water.
 
 You can also use: 
-- [Activity Sheet: Calculating ratios and amount of material needed](rosenkranz_2019_dyes_handout_reconstruction-exchange_dyeing-with-natural-colorants.pdf) 
+- [Activity Sheet: Calculating ratios and amount of material needed](/documents/case-studies/rosenkranz_2019_dyes_handout_reconstruction-exchange_dyeing-with-natural-colorants.pdf) 
 
 **Mordant: Alum**
 
