@@ -31,7 +31,7 @@ In this period, there also existed a third, intermediary category of “mixed”
 - Protocol for Spike Lavender Oil Spirit-based Varnish [docx]({{< ref "/documents/activity-sheets/activitysheet_varnishes-protocol-slsv.docx" >}}) [PDF]({{< ref "/documents/activity-sheets/activitysheet_varnishes-protocol-slsv.pdf" >}})
 - Protocol for Turpentine Spirit-based Varnish [docx]({{< ref "/documents/activity-sheets/activitysheet_varnishes-protocol-ttv.docx" >}}) [PDF]({{< ref "/documents/activity-sheets/activitysheet_varnishes-protocol-ttv.pdf" >}})
 - [M&K field notes from the making of several varnishes for the reconstruction "Varnishes in the Rain."](https://fieldnotes.makingandknowing.org/pre-2018-Fall/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-in-the-rain/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-rain-2/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-rain-2-varnish-making-application.html)
-- Sourcing Materials for Dyeing [docx]({{< ref "/documents/activity-sheets/material-sourcing-varnishes-resins.docx" >}}) [PDF]({{< ref "/documents/activity-sheets/material-sourcing-varnishes-resins.pdf" >}})
+- Sourcing Materials for Varnish Making [docx]({{< ref "/documents/activity-sheets/material-sourcing-varnishes-resins.docx" >}}) [PDF]({{< ref "/documents/activity-sheets/material-sourcing-varnishes-resins.pdf" >}})
 - [Compiled Description of Common Varnish Materials]({{< ref "/documents/activity-sheets/glossary-turpentine-resins-balsams.pdf" >}})
 
 #### Varnishes in Ms. Fr. 640
