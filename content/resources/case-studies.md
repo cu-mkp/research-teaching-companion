@@ -41,6 +41,7 @@ Naomi Rosenkranz, Dr. Tianna Uchacz, Dr. Donna Janes, Dr. Sumeyye Yar
 
 This 4-day workshop was held in March 2023 at Texas A&M University. It was organized by Tianna Uchacz as a series of guest labs for her graduate course "Art/Craft: Hands-on Global Histories of Materials, Techniques & Skilled Making." The labs were co-led by Naomi Rosenkranz (M&K) and Donna Janes (Microbiology, Texas A&M) in consultation with Sumeyye Yar. The activities, a 2-day dyeing workshop using cochineal insects, paired with a 2-day painting workshop using bioluminescent bacteria, built on workshops that Rosenkranz and Yar had developed and led at Genspace community lab, Brooklyn. 10 faculty and 26 students from the College of Arts and Sciences, the College of Engineering, and the School of Performance, Visualization & Fine Arts took part.
 
+**RESOURCES**
 - [Presentation: Chemistry of dyeing and history of cochineal as a dyestuff]({{< ref "/documents/activity-sheets/2023_dyes_cochineal-history-chem-prep_TAMU-compressed.pdf" >}})
 - [Handout: mordant and dyestuff amounts for 12 different dyeing stations]({{< ref "/documents/activity-sheets/sp23_printout_samples-amounts.pdf" >}})
 - [Handout: mordanting and dyeing process protocol]({{< ref "/documents/activity-sheets/sp23_handout_dyeing-textiles_general-process.pdf" >}})
@@ -52,11 +53,20 @@ This 4-day workshop was held in March 2023 at Texas A&M University. It was organ
 2019
 Naomi Rosenkranz, Dr. Sophie Pitman, Professor Paula Hohti, 
 
+**RESOURCES**
+- **NOTE:** NJR: to upload and link 2 "exchnage" documents that were deleted from static/documents/activity-sheets
+
 ### Genspace Community Science Workshops
-#### Dyeing with Natural Colorants, Painting with Bioluminescent Bacteria 
+#### Coloring Textiles with Bugs: Old (Cochineal) and New (Bacteria)
 (SP18, SP19, ___, ____)
 Naomi Rosenkranz & Dr. Sumeyye Yar
 Sponsored by the Center for Science and Society and Genspace
+
+**RESOURCES**
+- [Presentation: Overview of the history and chemistry of dyeing]({{< ref "/documents/activity-sheets/rosenkranz_2018_dyes_cochineal-workshop_overview-of-dye-chemistry-history.pdf" >}})
+- [Presentation: Dyeing with Cochineal, Step by Step]({{< ref "/documents/activity-sheets/rosenkranz_2018_dyes_cochineal-step-by-step.pdf" >}})
+- [Handout: Mordanting and Dyeing Protocol]({{< ref "/documents/activity-sheets/rosenkranz_2018_dyes_handout_dyeing-with-cochineal.pdf" >}})
+
 
 #### Dyeing with Natural Colorants, 
 (date)
