@@ -4,7 +4,7 @@
 _The Making and Knowing Project, Columbia University_<br>
 _Last updated 2021-08-19 by NJR_<br>
 
-A downloadable version of this assignment: [[PDF](verdigris_assignment_downloadable_2021.pdf)]
+A downloadable version of this assignment: [[PDF](/documents/activity-sheets/verdigris_assignment_downloadable_2021.pdf)]
 
 ![verdigris-header](/images/verdigris-header.png?raw=true)
 
@@ -67,7 +67,7 @@ _**Make sure to keep the jar closed and do not let the liquid touch the copper.*
 
 ## Material Safety Information
 
-Verdigris is a basic copper acetate, a material which can pose some safety risks. To determine how to work with it safely and what precautions to take, we consult the [Material Safety Data Sheet (MSDS) for copper acetate](verdigris_msds-copper-acetate.pdf). Key points are summarized below.
+Verdigris is a basic copper acetate, a material which can pose some safety risks. To determine how to work with it safely and what precautions to take, we consult the [Material Safety Data Sheet (MSDS) for copper acetate](/documents/activity-sheets/verdigris_msds-copper-acetate.pdf). Key points are summarized below.
 
 **Formation of copper(ii) acetate from Cu(s) and acetic acid.**
 - Common Name: **Verdigris** 
@@ -179,4 +179,4 @@ _Soot black &amp; others would not dry in oil if one did not put verdigris with 
 >_**Colors for green leaves**_<br>
 … _For green, the verdigris has depth &amp; is too dark. If it is a yellowish green, you can mix with the verdigris a little yellow ocher &amp; stil de grain yellow. If the green is dark, put with it charcoal of peach tree pits, which makes a_ ~~_v_~~ _greenish black, in the same way that black of ox foot bone looks bluish. And thus, by judgment &amp; discretion, put the color on the natural flower or leaf to see whether it comes close. …_
 
-A downloadable version of this assignment: [[PDF](verdigris_assignment_downloadable_2021.pdf)]
+A downloadable version of this assignment: [[PDF](/documents/activity-sheets/verdigris_assignment_downloadable_2021.pdf)]
