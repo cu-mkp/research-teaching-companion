@@ -22,3 +22,37 @@ Similar to M&K's [Fieldnotes](https://fieldnotes.makingandknowing.org/), these p
      - [Audrey Libatique](https://oberlin.digication.com/audrey-libatique-ingenious-making/home)
      - [Ava Chessum](https://oberlin.digication.com/audrey-libatique-ingenious-making/home)
      - [Sien McFalls](https://oberlin.digication.com/sien-mcfalls-journal-arth295/home)
+
+### ARTS 150: Global Art History Survey II (Renaissance to Modern)
+Texas A&M University
+Dr. Tianna Uchacz, Assistant Professor of Art History
+#### Spring 2024
+
+#### Fall 2021, Spring 2022, Fall 2022
+ARTS 150 Honors Section
+
+
+
+## Collaborator Workshops
+
+### Bio Art Workshops, School of Performance, Visualization & Fine Arts, Texas A&M University
+Spring 2023
+Naomi Rosenkranz, Dr. Tianna Uchacz, Dr. Donna Janes
+
+### Refashioning the Renaissance
+2019
+Naomi Rosenkranz, Dr. Sophie Pitman, Professor Paula Hohti, 
+
+### Genspace Community Science Workshops
+#### Dyeing with Natural Colorants, Painting with Bioluminescent Bacteria 
+(SP18, SP19, ___, ____)
+Naomi Rosenkranz & Dr. Sumeyye Yar
+Sponsored by the Center for Science and Society and Genspace
+
+#### Dyeing with Natural Colorants, 
+(date)
+Naomi Rosenkranz
+
+### Collaborator Research Projects
+Summer 2022
+Cunningham
