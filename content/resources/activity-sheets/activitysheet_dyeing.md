@@ -1,6 +1,6 @@
 ## Dyeing
 
-The Making and Knowing Project has undertaken experiments in dyeing with natural colorants as a way to engage with various entries in Ms. Fr. 640 and as a preliminary step to [making lake pigments]({{<ref "activitysheet_lake-pigments" >}}). Additionally, M&K has led several community outreach activites on dyeing with natural colorants that can be ported directly into the classroom. These activities and their contexts are also described on the [Making and Knowing Resources in Use]({{ ref "../casestudies" >}}) section of the Companion.
+The Making and Knowing Project has undertaken experiments in dyeing with natural colorants as a way to engage with various entries in Ms. Fr. 640 and as a preliminary step to [making lake pigments]({{<ref "activitysheet_lake-pigments" >}}). Additionally, M&K has led several community outreach activites on dyeing with natural colorants that can be ported directly into the classroom. These activities and their contexts are also described on the [Making and Knowing Resources in Use]({{< ref "../casestudies" >}}) section of the Companion.
 
 If you are already familiar with historical dyes and natural colorants, you might want to explore the presentation [Cochineal Dye: History, Chemistry, and Preparation]({{<ref "/documents/activity-sheets/2023_dyes_cochineal-history-chem-prep.pdf" >}}) which offers more extensive information than is offered in summary on this page.
 
@@ -69,8 +69,8 @@ The standardized recipe begins with a mordant bath and is followed by a dye bath
 
 To know how much of the mordant, water, cochineal, and optional additive are needed, first weigh the textiles you plan to dye then multiply that amount by the ratios above. For example, if your textile weighs 10g, you will need 1.25g cochineal and 625ml water.
 
-{{< figure src="/images/dye-process.jpg" alt="dye process overview" >}}
-{{< figure src="/images/dye-samples.jpg" alt="dye process sample outcomes" >}}
+{{< figure src="/images/dye-process.JPG" alt="dye process overview" >}}
+{{< figure src="/images/dye-samples.JPG" alt="dye process sample outcomes" >}}
 
 
 ### Teaching Dyeing
