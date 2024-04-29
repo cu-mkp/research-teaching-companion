@@ -61,7 +61,7 @@ With 34 entries (not quite a quarter of the total), those relating to arms and a
 
 ![su21-macomber-distribution-of-figures](/images/su21-macomber-distribution-of-figures.png?raw=true)
 
-_See [su21_macomber_figures.R](../code/su21_macomber_figures.R) for sourcecode of this chart._
+_See [su21_macomber_figures.R](/documents/student-projects/su21_macomber_figures.R) for sourcecode of this chart._
 
 ### Text and Figure
 
