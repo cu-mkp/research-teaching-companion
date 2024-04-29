@@ -1,15 +1,14 @@
 ---
-title: "Using M&K Resources"
+title: "M&K Resources in Use"
 draft: false
 weight: 30
 ---
 
-The Making and Knowing Project has collaborated with many institutions, including University of Glasgow Technical Art History Group, Rhode Island School of Design Glass Department, Brown University History Department, Wake Forest University History and Chemistry Departments [LINK], University of Oregon, Eugene {LINK], Vassar College [LINK], Texas A&M University, and Oberlin Art History {LINK]. Further collaborations with Victoria & Albert Museum/Royal College of Art Postgraduate Program in the History of Design [, and University of Amsterdam Technical Art History and Conservation Training Programs saw our students working in parallel and sometimes by remote co-working on reconstructions and hands-on activities. During the construction of the digital edition, over 450 collaborators from universities, museums, and research centers worldwide interacted with the aims and techniques of the project and gained familiarity with the rich and multifaceted contents of the manuscript. These collaborators and others began to request assistance and resources from the Project for teaching and research, which helped impell the Project to develop the Research and Teaching Companion
-
-The Project has also experimented with Companion resources in broader outreach activities, adapting the Project’s use of historical reconstruction in pedagogy for K-12 (Princeton International School of Mathematics and Science; École Secondaire Notre-Dame, Woodstock, and The Pierrepont School[LINK TO GANS VIDEO]) and non-traditional academic settings (Nunavut Arctic College [link to Bilak lesson plan with article etc.]; Genspace Community Biology Lab [link to lesson plan). A former student-participant in the Project Text Workshops, Heather Wacha (see [essay](https://edition-staging.makingandknowing.org/#/essays/ann_318_ie_19)), held small-scale text workshops using Project methods and protocols, based on [Principles of Transcription, Translation, and Encoding](https://edition640.makingandknowing.org/#/content/resources) developed during the Project's Text Workshops. 
+# Making and Knowing Resources in Use
+The Making and Knowing Project has many collaborators from K-12 to university, to non-traditional schools and public outreach institutions, who have piloted the Making and Knowing Project's methods, course elements, and lesson plans in their research projects, courses, and student activities. The fruits of their experience, their syllabi, student projects, and making activities are valuable for those seeking to integrate Making and Knowing resources into their teaching and research.
 
 ## Collaborator Pilot Courses
-Materials from courses taught by Project collaborators, some using resources from this Sandbox or developed in consultation with M&K.
+Materials from courses taught by Project collaborators, some using resources from this Sandbox or developed in consultation with the Making and Knowing Project.
 
 ### Spring 2022: ARTH 295 (OC): Ingenious Making in the Early Modern World \[[Syllabus](https://docs.google.com/document/d/e/2PACX-1vQbugAa655DEXQrOFr0M29BK_MCLZEDPdQm8QlQl1M4qkU1Igx9FcP1NkHONbiveQ/pub)\]
 
