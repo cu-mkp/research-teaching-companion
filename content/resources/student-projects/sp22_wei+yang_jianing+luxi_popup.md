@@ -7,7 +7,7 @@ HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History<br/>
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/710444936?h=b9508dad89" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
 <br/><br/>
-[A Visual Presentation of the Pop-up Book \[PDF\]](sp22_wei+yang_jianing+luxi_popup-presentation.pdf)
+[A Visual Presentation of the Pop-up Book \[PDF\]](/documents/student-projects/sp22_wei+yang_jianing+luxi_popup-presentation.pdf)
 
 ![IMAGE](/images/media-wei+yang/image1.png)
 
@@ -64,7 +64,7 @@ Below is the table of contents for the pop-up book with links to the
 folios represented from the Edition of BnF Ms. Fr. 640. Because of the
 form of our final project, the way these contents are displayed will be
 different from the “step-by-step” instructions found in Fr. 640. Also,
-since our book is 3D and the [Visual Presentation of the Pop-up Book \[PDF\]](sp22_wei+yang_jianing+luxi_popup-presentation.pdf) is “flat,” we spend more than one page in the Presentation
+since our book is 3D and the [Visual Presentation of the Pop-up Book \[PDF\]](/documents/student-projects/sp22_wei+yang_jianing+luxi_popup-presentation.pdf) is “flat,” we spend more than one page in the Presentation
 showing the pages “before and after” they have “popped up” or been interacted
 with.
 
