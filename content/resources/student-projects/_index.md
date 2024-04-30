@@ -32,7 +32,7 @@ The Final Project in the undergraduate/graduate lab seminar _Making and Knowing 
 -   [Was Ms. Fr. 640 Intentionally Disorganized?]({{< ref "su21_fox_mackenzie_final-project-disorganization" >}}) by Mackenzie Fox
 -   [Pictures Worth 1,000 Words: Figures and their Uses in Ms. Fr. 640]({{< ref "su21_macomber_sophie_final-project-figures" >}}) by Sophie Macomber
 -   [Understanding Natural Things in the World and the Workshop]({{< ref "su21_christensen_anna_final-project-natural-things" >}}) by Anna Christensen
--   [Foraging for Pigments: A Making and Knowing Project](/documents/student-projects/su21_snyder_mellon_final-project-pigments.pdf) by Mellon Snyder ([PDF](/documents/student-projects/su21_snyder_mellon_final-project-pigments.pdf)), ([PPTX](/documents/student-projects/su21_snyder_mellon_final-project-pigments.pptx)])
+-   [Foraging for Pigments: A Making and Knowing Project](/documents/student-projects/su21_snyder_mellon_final-project-pigments.pdf) by Mellon Snyder ([PDF](/documents/student-projects/su21_snyder_mellon_final-project-pigments.pdf)), ([PPTX](/documents/student-projects/su21_snyder_mellon_final-project-pigments.pptx))
 
 ### Fall 2021 Final Student Projects (2022-01-27) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vSwHOvl3vKELpALapOMMPWTRYaTkVxSn6n9243mOpekLYzlzpIbpmjzZjaRcFnj_RCi3iwNKSm5qBHS/pub)]
 
@@ -63,9 +63,6 @@ The Final Project in the undergraduate/graduate lab seminar _Making and Knowing 
 -   [Cuttlefish in and around Ms. Fr. 640]({{< ref "sp22_donald_maia_final-project_cuttlebone" >}}) by Maia Donald
 -   [Sieves in Ms. Fr. 640]({{< ref "sp22_gardner_schuyler_final-project-sieves" >}}) by Schuyler Gardner
 -   [Animal Rationality in Ms. Fr. 640]({{< ref "sp22_nebolsin_victoria_final-project_animal-rationality" >}}) by Victoria Nebolsin
-
-
-### Spring 2023 Final Student Projects (2024-01-08) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vS_I76a42zOm-GfGNZHl4s385XNFV4pkHqBq_x0op2S8LUlqN_-B5ebEPdNxqJ3-O1wWUiyemMA2zF9/pub)]
 
 ### Spring 2023 Final Student Projects (2024-01-08) 
 [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vS_I76a42zOm-GfGNZHl4s385XNFV4pkHqBq_x0op2S8LUlqN_-B5ebEPdNxqJ3-O1wWUiyemMA2zF9/pub)]
