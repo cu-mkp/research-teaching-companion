@@ -72,7 +72,7 @@ The Final Project in the undergraduate/graduate lab seminar _Making and Knowing 
 - [“Flesh Color” and Race Making in Early Modern Painters’ Manuals]({{< ref "sp23_fan_ruilin_final-project_flesh-color" >}}) by Ruilin Fan
 -  [Languages and Linguistic Agency in Ms. Fr. 640]({{< ref "sp23_narcy_gilles_final-project_languages" >}}) by Gilles Narcy
 -  [Medieval Spirituality and Materiality in Ms. Fr. 640]({{< ref "sp23_lambert-avery_final-project_medieval-spirituality" >}}) by Avery Lambert
--  [Kunstkamer: Women at Work]({{< ref "sp23_gorup_sophie_final-project_women-at-work.pdf" >}}) by Sophie Gorup [[PDF]({{< ref "sp23_gorup_sophie_final-project_women-at-work.pdf" >}})], [[PPTX]({{< ref "sp23_gorup_sophie_final-project_women-at-work.pptx" >}})]
+-  [Kunstkamer: Women at Work](/documents/student-projects/sp23_gorup_sophie_final-project_women-at-work.pdf) by Sophie Gorup ([PDF](/documents/student-projects/sp23_gorup_sophie_final-project_women-at-work.pdf)), ([PPTX](/documents/student-projects/sp23_gorup_sophie_final-project_women-at-work.pptx))
 -  [Candles: Making and Breaking Boundaries in Early Modern Jewish and Christian Ritual]({{< ref "sp23_nelkin-nesya_final-project_candles" >}}) by Nesya Nelkin
 -  [Puffball Mushrooms and Early Modern Race-Making: A Skin-Whitening Recipe in BnF Ms. Fr. 640]({{< ref "sp23_rao-sumant_final-project_puffball" >}}) by Sumant Rao
 -  [European Paintbrushes and Chinese Ink Brushes in the Early Modern World]({{< ref "sp23_shi-jingxian_final-project_paintbrushes" >}}) by Jingxian Shi
