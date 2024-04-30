@@ -23,17 +23,17 @@ For more about the creation of the Companion, see [About page LINK].
 
 ## The Companion's Resources
 
-### [Making and Knowing Syllabi]({{<ref "syllabus" >}})
+### [Making & Knowing Syllabi]({{<ref "syllabus" >}})
 Syllabi from the Making and Knowing Project can suggest possible readings, discussion prompts, model the integration of hands-on activities with discussion of relevant concepts and texts, and link instructors to resources for hands-on activities. These syllabi contain links to essays from the edition for use as course readings and describe possible lessons around hands-on activities, while Student Projects resulting from these courses can be consulted by instructors and students for inspiration and to consider the many ways to engage with Ms. Fr. 640 and its digital edition.
 
 ### [Lesson Plans for Hands-on]({{<ref "activitysheet" >}})
-Making and Knowing Lesson Plans and valuable associated teaching resources provide step-by-step guidance in planning, tools, ingredients, sourcing, and the processes of the hands-on work. These Lesson Plans could be integrated as skill building or as a way to expose students to hands-on work and materials. 
+Making and Knowing Lesson Plans and the associated teaching resources included in the Companion provide step-by-step guidance in planning, tools, ingredients, sourcing, and the processes of the hands-on work. These Lesson Plans can be integrated into courses or research projects as skill building, to spark the historical imagination, or as a as a stand alone activity that immerses students or event audiences in hands-on work with materials. 
 
 ### [Student Projects]({{<ref "project" >}})
-Numerous Student Projects were developed in the course *Making and Knowing in Early Modern Europe: Hands-On History*, in which students explore *Secrets of Craft and Nature* and undertake all kinds of activities around it, ranging from humorous to scholarly, pedagogical, and public facing. These projects extend the content of *Secrets of Craft and Nature* in creative ways.  
+Numerous Student Projects were developed in the course *Making and Knowing in Early Modern Europe: Hands-On History*, in which students explore *Secrets of Craft and Nature* and undertake a variety of hands-on activities and research around it, ranging from humorous to scholarly, pedagogical, and public facing. These projects provide models for the variety of paths by which to enter into _Secrets of Craft and Nature_, extending its content in creative ways and demonstrating how hands-on experience can be integrated into student learning.
 
-### [Making and Knowing Resources in Use]({{<ref "casestudy" >}}) 
-The Making and Knowing Project has many collaborators from K-12 to university, to non-traditional schools and public outreach institutions, who have piloted the Making and Knowing Project's methods, course elements, and lesson plans in their research projects, courses, and student activities. The fruits of their experience, their syllabi, student projects, and making activities are valuable for those seeking to integrate Making and Knowing resources from this Companion.
+### [M&K Resources in Use]({{<ref "casestudy" >}}) 
+The Making and Knowing Project has many collaborators from K-12 to university, to non-traditional schools and public outreach institutions, who have piloted the Making and Knowing Project's methods, course elements, and lesson plans in their research projects, courses, and student activities. The fruits of their experience, their syllabi, student projects, and making activities are valuable for those seeking to integrate the Making and Knowing resources available from this Companion.
 
 ### [Reflections on Hands-On]({{<ref "reflection" >}})
 Why engage in hands-on activities in teaching and research? The Making and Knowing Project has had much opportunity to reflect on the challenges and the joys of inserting hands-on work into the text-centered training of the university, and we hope the lectures, videos, and reflections on hands-on pedagogy will provide food for thought and action.
