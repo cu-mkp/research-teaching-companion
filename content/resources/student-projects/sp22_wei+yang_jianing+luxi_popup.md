@@ -98,4 +98,4 @@ with.
 
 ### Chapter 4. Against Nature
 
--   [Alchemy](https://edition640.makingandknowing.org/#/folios/80r/f/80r/tl)
+-   [Alchemy](https://edition640.makingandknowing.org/#/essays/ann_059_sp_17)
