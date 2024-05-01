@@ -8,7 +8,10 @@ The activity of making stucco for molding has several potential learning outcome
 - learn w
 
 ### What is Stucco?
-A v
+"Stucco" is a term that refers to hard plasters that are used as protective coverings for exterior walls and decorative coverings for interior walls. Interior stucco can be spread, sculpted, or molded, and it can be polished when hard and dry. Depending on the purpose and destination of the stucco, its composition can vary, but in general, it includes three components:
+- a variety of calcium (lime, gypsum)
+- a variety of fine mineral powder (sand, marble dust)
+- an adhesive (cement, gum)
 
 ### Teaching Stucco Making
 
