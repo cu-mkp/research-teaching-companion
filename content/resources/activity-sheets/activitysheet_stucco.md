@@ -13,12 +13,13 @@ A v
 ### Teaching Stucco Making
 
 #### Stucco Making: Activity Sheets, Field Notes, and Resources
-- Protocol for Spike Lavender Oil Spirit-based Varnish [docx]({{< ref "/documents/activity-sheets/activitysheet_varnishes-protocol-slsv.docx" >}}) [PDF]({{< ref "/documents/activity-sheets/activitysheet_varnishes-protocol-slsv.pdf" >}})
-- Prot
+- [Stucco Making Assignment]({{< ref "/documents/activity-sheets/stucco_assignment_downloadable_2021.pdf" >}})
+- [Stucco Making Assignment: Student Handout]({{< ref "/documents/activity-sheets/stucco_assignment_downloadable_2021.pdf" >}})
+- Stucco Making Assignment: Pre-Lab Reflection and Research Assignment [docx]({{< ref "/documents/activity-sheets/uchacz_2024_stucco_reflection-assignment.docx" >}}) [PDF]({{< ref "/documents/activity-sheets/uchacz_2024_stucco_reflection-assignment.pdf" >}})
+
 
 #### Stucco in Ms. Fr. 640
-There are dozens of entries in Ms. Fr. 640 that address the making and use of varnishes. In fact, "varnish" is one of the categories that M&K has used to classify the various entries in the manuscript, and entries on varnishes account for roughly 5% of the manuscript's contents. These entries can be accessed through the "varnish" category filter in the [List of Entries](https://edition640.makingandknowing.org/#/entries) and by a wildcard search for "[varnish\*](https://edition640.makingandknowing.org/#/search?q=varnish*)" to catch all instances of the term in [_Secrets of Craft and Nature in Renaissance France_](https://edition640.makingandknowing.org/#/).
-
+There are a handful of entries in Ms. Fr. 640 that refer to stucco, both compositions for varieties of stucco for molding and instructions for constructing a mold appropriate to use with stucco. These entries can be accessed through a search for the term "[stucco]([https://edition640.makingandknowing.org/#/search?q=varnish*](https://edition640.makingandknowing.org/#/search?q=stucco))" in [_Secrets of Craft and Nature in Renaissance France_](https://edition640.makingandknowing.org/#/).
 
 There is also an excellent essay in [_Secrets of Craft and Nature in Renaissance France_](https://edition640.makingandknowing.org/#/) that explores stucco in detail:
 - Nina Elizondo-Garza, “[Stucco for Molding](https://edition640.makingandknowing.org/#/essays/ann_064_fa_17).”
