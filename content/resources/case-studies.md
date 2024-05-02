@@ -57,7 +57,7 @@ In these semesters, students enrolled in the Honors section of Uchacz's ARTS 150
 
 #### Full Class Hands-on Art History: Spring 2024
 With support from a [Montage-Center for Teaching Excellence Award](https://pvfa.tamu.edu/news/2023/10/19/uchacz-honored-with-montague-cte-scholars-award-for-development-of-teaching-excellence/), I tested the scalability of M&K's skill-building activities in [making lake pigments]({{< ref "../activity-sheets/activitysheet_lake-pigments" >}}) and [making and testing paints]({{< ref "../activity-sheets/activitysheet_paintingpigments" >}}) with a class of 60 students in the Renaissance-to-Modern art history survey (75 min class time, Tue & Thu). I divided the class into 2 groups of 30 students, sending half to visit an on-campus art exhibition for an analysis assignment and the other half to the lab.
-- Lab 1: Making Lake Pigments [Canvas page for the day's activities]({{< ref "/documents/case-studies/sp24_uchacz_tianna_canvas-lab1-arts-150_global-art-history-survey.pdf" >}})
+- Lab 1: Making Lake Pigments [Canvas page for the day's activities](/documents/case-studies/sp24_uchacz_tianna_canvas-lab1-arts-150_global-art-history-survey.pdf)
 - - 15 stations of students working in pairs across 5 different pigment recipes (cochineal, cochineal reversed, madder, weld, logwood)
   - limiting factor: need for 15 hot plates as well as table space and electrical capacity
   - limiting factor: 75 min can only cover the pigment making, not its rinsing and eventual removal of the filters for drying. Understand that this activity involves additional work for instructors
