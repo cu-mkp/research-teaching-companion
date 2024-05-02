@@ -62,7 +62,7 @@ With support from a [Montague-Center for Teaching Excellence Award](https://pvfa
   - limiting factor: need for 15 hot plates as well as table space and electrical capacity
   - limiting factor: 75 min can only cover the pigment making, not its rinsing and eventual removal of the filters for drying. Understand that this activity involves additional work for instructors
   - tip: assign students to pairs ahead of class and try to pair a sciences student with an arts student so that at least one person per pair is familiar with lab equipment, lab safety, etc.
-  - tip: I used a kettle and two 1.75 L caraffes to pre-boil water in order to reduce time in the lab waiting for water to heat
+  - tip: I used a kettle and two 1.75 L caraffes to pre-boil water in order to reduce activity time spent waiting for water to heat
   - tip: I used stackable cooling racks for baking to help the pigments dry
 - Lab 2: Making and Testing Paint [Canvas page for the day's activities]({{< ref "/documents/case-studies/sp24_uchacz_tianna_canvas-lab2-arts-150_global-art-history-survey.pdf" >}})
 - - 5 stations (tables) of 6 students, where each student has their own glass plate and muller. Each station works with *one* of five pigments made in the previous lab (cochineal, cochineal reversed, madder, weld, logwood), first mulling it in either egg white or egg yolk, and second in either walnut oil or linseed oil. I laid out each station-table according to these templates: first [egg media]({{< ref "/documents/case-studies/sp24_uchacz_tianna_egg-media-arts-150_global-art-history-survey.png" >}}), and then [oil media]({{< ref "/documents/case-studies/sp24_uchacz_tianna_oil-media-arts-150_global-art-history-survey.png" >}}).
