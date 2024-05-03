@@ -6,10 +6,9 @@ weight: 30
 ---
 
 
-# The Making and Knowing Project, the Edition and its Companion
+# The Making and Knowing Project and its Research and Teaching Resources
 
 ## The Making and Knowing Project
-
 The [Making and Knowing Project](https://www.makingandknowing.org/), founded in 2014 by Pamela H. Smith, and involving hundreds of collaborators, is a research and pedagogical initiative in the [Center for Science and Society](https://scienceandsociety.columbia.edu) at Columbia University. See [Credits]({{< ref "credits" >}}) and, on the Project's website, [Collaborations](https://www.makingandknowing.org/collaborators/).
 
 The Project explores the intersections between historical craft making and scientific knowing. Drawing on techniques from both laboratory and archival research as well as studio practice and the digital humanities, the Making and Knowing Project aims to cross the science/humanities divide.
@@ -25,15 +24,13 @@ Indeed, the overarching theme of the Project and its work on _Secrets of Craft a
 For more about the Project, please explore the Project’s website (www.makingandknowing.org) and [Making the Edition](https://edition640.makingandknowing.org/#/essays/ann_329_ie_19).
 
 ## The Edition
-
 [*Secrets of Craft and Nature in Renaissance France*](https://edition640.makingandknowing.org/#/) is a digital critical edition and English translation of the French manuscript Ms. Fr. 640 held by the Bibliothèque nationale de France. This edition presents a rich and unique sixteenth-century technical text in French transcription and English translation for the first time, and situates its contents in their material and historical context.
 
 The manuscript provides a view into the material, technical, and intellectual world of the late sixteenth century, and gives rare insight into techniques and processes for making art and daily life objects, as well as into how nature was used in art, collected, and appreciated in early modern Europe.
 
 The Making and Knowing Project created *Secrets of Craft and Nature* through a series of collaborative courses, workshops, and conferences that involved students, craft practitioners, artists, scholars of the humanities and social sciences, natural and computer scientists, and scholar-practitioners from the digital humanities.
 
-## How and Why this Companion was Created
-
+## Why and How the Research and Teaching Companion was Created
 The Research and Teaching Companion to the digital edition [*Secrets of Craft and Nature in Renaissance France*](https://edition640.makingandknowing.org/#/) contains resources&mdash;and we hope inspiration&mdash;for teachers, researchers, and makers who wish to integrate hands-on and digital components into their classes, research projects, and art practice. Its resources are intended to be used flexibly, and we invite you to freely adapt from it and create your own resources to fit your particular needs.
 
 ### Graduate Lab Seminar
@@ -49,14 +46,12 @@ With the edition complete, we transitioned in 2021 to a new course, *Making and 
 During development of the edition, we also taught digital humanities courses that integrated methods and tools of digital scholarship so that the students could help to build, test, and use the prototype of the edition. The syllabi for these courses provide information about minimal computing and the open access technology that underlie the edition and our digital publication tool, [EditionCrafter](LINK). Student projects resulting from these courses are included in this Companion [Digital Making and Knowing]({{<ref "digital" >}}), and can also be found on the Project's [Sandbox](https://cu-mkp.github.io/sandbox/), along with many additional digital projects using the data of the edition.
 
 ## The Sandbox
-
 The [Making and Knowing Sandbox](https://cu-mkp.github.io/sandbox/) makes available a number of resources that utilize and explore the data underlying *Secrets of Craft and Nature*. The Sandbox presents experimental, provisional, and in-progress work that engages and analyzes the data, topics, and content of *Secrets of Craft and Nature*, the manuscript, BnF Ms. Fr. 640, and the larger themes explored by the Making and Knowing Project.
 
 The Making and Knowing Project is an online environment for students, scholars, and others to explore and experiment with the Project’s data using a variety of digital tools, where others can add and create their own tools, case studies, and resources presented here. This is also a space for sharing teaching resources, exploring methods and processes across disciplines and levels of expertise, and engaging in knowledge exchange wherever possible.
 
 ## EditionCrafter
-
-An open source and customizable publishing tool, [EditionCrafter](https://editioncrafter.org) allows users to easily publish digital critical editions as feature-rich and sustainable static sites, based on the feature set of *Secrets of Craft and Nature*.
+The Making and Knowing Project created an open source and customizable publishing tool, [EditionCrafter](https://editioncrafter.org) that allows users to easily publish digital critical editions as feature-rich and sustainable static sites, based on the feature set of *Secrets of Craft and Nature*.
  
 EditionCrafter was developed as a collaboration between the Making and Knowing Project and Performant Software Solutions to address the need for a scholarly publication tool that integrates primary sources, commentary, and textual analysis. As a publication tool, EditionCrafter facilitates the dissemination of original research through the creation of digital editions of texts. Researchers, students, and institutions such as libraries, historical societies, archives, and community groups can use the tool to grant public access to valuable textual sources across disciplines.
 
@@ -67,18 +62,9 @@ Editions are published through well-established technologies and workflows and c
 ![about-mk-collab-lab](/images/about-mk-collab-lab.png)
 
 ## Digital Development
-
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
-## People and Credits
-
-Hundreds of collaborators contributed to the Edition and the Companion in different ways, from scholars to students to craft practitioners to scientists.
-<br>
-[View People and Credits >>]({{< ref "credits" >}}) 
-
-
 ## How to Cite
-
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 ## Sponsors
@@ -91,8 +77,7 @@ Hundreds of collaborators contributed to the Edition and the Companion in differ
 
 ## Contact
 
-The Making and Knowing Project is a research cluster of the Center for
-Science and Society at Columbia University in the City of New York.
+The Making and Knowing Project is a research cluster of the Center for Science and Society at Columbia University in the City of New York.
 
 For more information, please visit: <https://www.makingandknowing.org/> and <https://scienceandsociety.columbia.edu/>
 
