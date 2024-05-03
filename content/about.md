@@ -50,15 +50,15 @@ During development of the edition, we also taught digital humanities courses tha
 
 ## The Sandbox
 
-The [Making and Knowing Sandbox](https://cu-mkp.github.io/sandbox/) makes available a number of resources that utilize and explore the data underlying *Secrets of Craft and Nature*. The Sandbox presents experimental, provisional, and in-progress work that expands upon the engagement and analyses with the data, topics, and content of *Secrets of Craft and Nature*, with the manuscript, BnF Ms. Fr. 640, and the larger themes explored by the Making and Knowing Project.
+The [Making and Knowing Sandbox](https://cu-mkp.github.io/sandbox/) makes available a number of resources that utilize and explore the data underlying *Secrets of Craft and Nature*. The Sandbox presents experimental, provisional, and in-progress work that engages and analyzes the data, topics, and content of *Secrets of Craft and Nature*, the manuscript, BnF Ms. Fr. 640, and the larger themes explored by the Making and Knowing Project.
 
-The Making and Knowing Project aims to create an online environment for students, scholars, and others to explore and experiment with the Project’s data using a variety of digital tools, where others can add and create their own tools, case studies, and resources presented here. This is also a space for sharing teaching resources, exploring methods and processes across disciplines and levels of expertise, and engaging in knowledge exchange wherever possible.
+The Making and Knowing Project is an online environment for students, scholars, and others to explore and experiment with the Project’s data using a variety of digital tools, where others can add and create their own tools, case studies, and resources presented here. This is also a space for sharing teaching resources, exploring methods and processes across disciplines and levels of expertise, and engaging in knowledge exchange wherever possible.
 
 ## EditionCrafter
 
 An open source and customizable publishing tool, [EditionCrafter](https://editioncrafter.org) allows users to easily publish digital critical editions as feature-rich and sustainable static sites, based on the feature set of *Secrets of Craft and Nature*.
  
-EditionCrafter was developed as a collaboration between the Making and Knowing Project and Performant Software Solutions to address the need for a scholarly publication tool that integrates primary sources, commentary, and textual analysis. As a publication tool, EditionCrafter facilitates the dissemination of original research through the creation of a digital critical edition of a text. Researchers, students, and institutions such as libraries, historical societies, archives, and community groups can grant public access to valuable textual sources across disciplines.
+EditionCrafter was developed as a collaboration between the Making and Knowing Project and Performant Software Solutions to address the need for a scholarly publication tool that integrates primary sources, commentary, and textual analysis. As a publication tool, EditionCrafter facilitates the dissemination of original research through the creation of digital editions of texts. Researchers, students, and institutions such as libraries, historical societies, archives, and community groups can use the tool to grant public access to valuable textual sources across disciplines.
 
 A platform for collaborative research and for pedagogy, EditionCrafter provides space for critical engagement with texts. Scholars and students alike can use digital tools to share not only data and finished products, but also documentation of the process of textual engagement and analysis.
 
