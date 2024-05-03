@@ -7,6 +7,8 @@ weight: 40
 # Digital Making and Knowing
 The Making and Knowing Project has developed open access digital resources, including a publication tool for making your own edition, model projects for using the data of *Secrets of Craft and Nature*, digital literacy tools, syllabi, and ideas for student activities.
 
+Read a reflection on using the data of *Secrets of Craft and Nature*: [A Computational Approach to Ms. Fr. 640](https://edition640.makingandknowing.org/#/essays/ann_301_ie_19) by Clément Godbarge.
+
 ## The Making and Knowing Project Sandbox
 The “Sandbox” makes available a number of [projects](https://cu-mkp.github.io/sandbox/docs/index-digital-projects.html) that utilize and explore the data underlying [*Secrets of Craft and Nature*](https://edition640.makingandknowing.org/). The Sandbox presents experimental, provisional, and in-progress work that engages with and analyzes the data, topics, and content of _Secrets of Craft and Nature_, as well as the larger themes explored by the Making and Knowing Project. The Sandbox includes syllabi for Digital Humanities courses taught by the Making and Knowing Project and Student Projects carried out in those courses.
 
