@@ -116,9 +116,12 @@ Sponsored by the Center for Science and Society and Genspace
 - [Handout: Mordanting and Dyeing Protocol]({{< ref "/documents/activity-sheets/rosenkranz_2018_dyes_handout_dyeing-with-cochineal.pdf" >}})
 
 
-#### Dyeing with Natural Colorants, 
+#### Dyeing with Natural Colorants 
 (date)
 Naomi Rosenkranz
+
+### Dyeing with Cochineal - A Short High-School Workshop
+- [Dyeing Textiles with Cochineal](/resources/student-projects/sp23_brown-reece_final-project_dye-workshop.md) by Reece Brown (an undergraduate student in a Making and Knowing class).
 
 ## Collaborator Research Projects
 Summer 2022
