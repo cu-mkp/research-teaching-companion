@@ -121,7 +121,7 @@ Sponsored by the Center for Science and Society and Genspace
 Naomi Rosenkranz
 
 ### Dyeing with Cochineal - A Short High-School Workshop
-- [Dyeing Textiles with Cochineal](/resources/student-projects/sp23_brown-reece_final-project_dye-workshop.md) by Reece Brown (an undergraduate student in a Making and Knowing class).
+- [Dyeing Textiles with Cochineal - A Short High-School Workshop]({{< ref "sp23_brown-reece_final-project_dye-workshop" >}}) by Reece Brown (an undergraduate student in a Making and Knowing course).
 
 ## Collaborator Research Projects
 Summer 2022
