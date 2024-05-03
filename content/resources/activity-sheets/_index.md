@@ -10,7 +10,7 @@ Making and Knowing Lesson Plans and associated teaching resources provide step-b
 ## Activity Sheets, Assignments, and Reconstruction Protocols
 - Introductions to *Secrets of Craft and Nature*
      - [Scavenger Hunt: Get to Know *Secrets of Craft and Nature*]({{< ref "scavenger-hunt_secrets-of-craft" >}}) - a great way to get started! Get to know the digital critical edition of Ms. Fr. 640 and the manuscript itself by completing a scavenger hunt of its contents.
-     - [*Secrets of Craft and Nature* Reconnaissance (Directed Scavenger Hunt)]({{< ref "scavenger-hunt-2" >}}) - another way to get started in familiarizing yourself with the digital critical edition. 
+     - [*Secrets of Craft and Nature* Reconnaissance (Directed Scavenger Hunt)](/documents//resources/activity-sheets/scavenger-hunt_secrets-of-craft.md) - another way to get started in familiarizing yourself with the digital critical edition. 
 - [Activity Sheet: Reconstruction of a 16th-century Burn Salve Recipe]({{< ref "burnsalve" >}}) - teaching tools and resources for reconstructing a historical recipe (2021-07-08)
 - [Activity Sheet: Breadmolding Reconstruction]({{< ref "breadmolding-assignment" >}}) - assignment sheet for reconstructing a casting technique that uses bread as the mold (2021-09-21)
 - [Activity Sheet: Stucco for Molding]({{< ref "stucco-assignment" >}}) - assignment sheet for creating molded stucco object from rye flour or chalk (2021-09-24)
