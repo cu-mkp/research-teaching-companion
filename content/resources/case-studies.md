@@ -8,7 +8,7 @@ weight: 30
 The Making and Knowing Project has many collaborators from K-12 to university, to non-traditional schools and public outreach institutions, who have piloted the Making and Knowing Project's methods, course elements, and lesson plans in their research projects, courses, and student activities. The fruits of their experience, their syllabi, student projects, and making activities are valuable for those seeking to integrate Making and Knowing resources into their teaching and research.
 
 ## Collaborator Pilot Courses
-Materials from courses taught by Project collaborators, some using resources from this Sandbox or developed in consultation with the Making and Knowing Project.
+Materials from courses taught by Project collaborators, some using resources from this Companion or developed in consultation with the Making and Knowing Project.
 
 ### Spring 2018: Experiment [[Syllabus]](https://www.makingandknowing.org/wp-content/uploads/2018/05/Keller_Experiment-2018.pdf).
 Spring 2018, 
@@ -123,7 +123,6 @@ Sponsored by the Center for Science and Society and Genspace
 - [Presentation: Overview of the history and chemistry of dyeing]({{< ref "/documents/activity-sheets/rosenkranz_2018_dyes_cochineal-workshop_overview-of-dye-chemistry-history.pdf" >}})
 - [Presentation: Dyeing with Cochineal, Step by Step]({{< ref "/documents/activity-sheets/rosenkranz_2018_dyes_cochineal-step-by-step.pdf" >}})
 - [Handout: Mordanting and Dyeing Protocol]({{< ref "/documents/activity-sheets/rosenkranz_2018_dyes_handout_dyeing-with-cochineal.pdf" >}})
-
 
 #### Dyeing with Natural Colorants 
 (date)
