@@ -1,4 +1,4 @@
-# Bread Baking, Molding, and Casting
+# Bread Making, Molding, and Casting (for the Instructor)
 {{< figure src="/images/breadmolding-kneading.jpg" alt="Kneading Bread">}}
 ## Introduction
 
