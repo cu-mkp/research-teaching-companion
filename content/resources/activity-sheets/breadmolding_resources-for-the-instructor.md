@@ -1,4 +1,4 @@
-# Breadmolding
+# Bread Baking, Molding, and Casting
 {{< figure src="/images/breadmolding-kneading.jpg" alt="Kneading Bread">}}
 ## Introduction
 
@@ -89,16 +89,13 @@ medicine, artistic practice, and the workshop.
 This activity is split into 2 parts, the first part can be done
 asynchronously in advance of the group/in class activity:
 
-1\) The students are asked to explore historical recipes for bread, bake their own bread, and impress a small object into the pith. They are also asked to develop a protocol for step 2 - the pour. See the [student activity sheet]({{< ref "/documents/activity-sheets/breadmolding-student-activity-sheet" >}})
+1\) The students are asked to explore historical recipes for bread, bake their own bread, and impress a small object into the pith. They are also asked to develop a protocol for step 2 - the pour. See the [Bread Making student activity sheet]({{< ref "/documents/activity-sheets/breadmolding-student-activity-sheet" >}})
 
-2\) Part 2 takes place together in class (or can be done online). There
-is no worksheet, because part of the assignment is for the students to
-closely read the manuscript and develop their own experimental protocol. See the sample class plan below.
+2\) Part 2 takes place together in class (or can be done online). There is no worksheet, because part of the assignment is for the students to closely read the manuscript and develop their own experimental protocol. See the sample class plan below.
 
 **Themes:**
 
-Embodied knowledge, everyday life, food, material culture, ephemeral
-art, art, sculpture, decorative arts, craft
+Embodied knowledge, everyday life, food, material culture, ephemeral art, art, sculpture, decorative arts, craft
 
 **Safety notice: uses hotplates**
 
@@ -108,10 +105,9 @@ If working with younger participants, the step of pouring melted wax can be perf
 
 **Duration:**
 
-Approx 1.5hrs in class
+Approx 1.5 house in class
 
-Plus 2-3 weeks advance preparation in order for participants to learn to
-bake bread (in own time)
+Plus 2-3 weeks advance preparation in order for participants to learn to bake bread (in own time)
 
 **Facilities:**
 
@@ -172,9 +168,17 @@ Video of Making and Knowing Director Pamela Smith introducing “skillbuilding�
 {{< vimeo 384070302 >}}
 
 ### Suggested reading (to assign for class and/or further information)
-
-If you only assign one piece of reading, we suggest Le Pouésard, “Pain,
-Ostie, Rostie” (see below).
+If you only assign one piece of reading, we suggest Le Pouésard, “Pain, Ostie, Rostie” (see below).
+#### Suggested readings on Embodied Knowledge
+- Tillmann Taape, [“The Body and the Senses in Ms. Fr. 640: Towards a ‘Material Sensorium’.”](https://edition640.makingandknowing.org/#/essays/ann_302_ie_19)
+- Emma Le Pouésard, [“Bread as Mediating Material: Tactile Memory and Touch in Ms. Fr. 640.”](https://edition640.makingandknowing.org/#/essays/ann_050_fa_16)
+- Ann-Sophie Lehmann, “Wedging, Throwing, Dipping and Dragging – How Motions, Tools and Materials Make Art,” *Folded Stones*, eds. Barbara Baert and Trees de Mits (Institute for Practice-based Research in the Arts: Ghent 2009), pp. 41-60.
+- Raymond Tallis, “Grasping the Hand,” in *The Hand: A Philosophical Inquiry into Human Being* (Edinburgh: Edinburgh University Press, 2003), 21–43
+  
+**Optional further reading (perhaps for more advanced students)**
+- Erin O’Connor, “Embodied knowledge in glassblowing: the experience of meaning and the struggle towards proficiency,” *Sociological Review* (2007): 126-141.
+- Julian Thomas, “Phenomenology and Material Culture,” in *Handbook of Material Culture*, ed. Christopher Tilley et al. (Sage 2006), 43-59.
+- Tim Ingold, *The Perception of the Environment: Essays in Livelihood, Dwelling and Skill* (London and New York: Routledge, 2000), chs. 18-19 (pp. 339-361).
 
 #### Helpful resources in *Secrets of Craft and Nature*
 
@@ -185,20 +189,19 @@ Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny
 Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New
 York: Making and Knowing Project, 2020.
 
--   [Le Pouésard, Emma. "Pain, Ostie, Rostie: Bread in Early Modern Europe."](https://edition640.makingandknowing.org/#/essays/ann_046_fa_16).
+-   Le Pouésard, Emma. ["Pain, Ostie, Rostie: Bread in Early Modern Europe."](https://edition640.makingandknowing.org/#/essays/ann_046_fa_16)
 
--   [Le Pouésard, Emma. “Bread as Mediating Material: Tactile Memory and
-  Touch in Ms. Fr. 640.”](https://edition640.makingandknowing.org/#/essays/ann_050_fa_16)
+-   Le Pouésard, Emma. [“Bread as Mediating Material: Tactile Memory and Touch in Ms. Fr. 640.”](https://edition640.makingandknowing.org/#/essays/ann_050_fa_16)
 
--   [Landsman, Rozemarjin and Jonah Rowen. "Uses of Sulfur in Casting."](https://edition640.makingandknowing.org/#/essays/ann_007_fa_14).
+-   Landsman, Rozemarjin and Jonah Rowen. ["Uses of Sulfur in Casting."](https://edition640.makingandknowing.org/#/essays/ann_007_fa_14)
 
--   [Lim, Min. "To Shrink an Object: Bread Molding in Ms. Fr. 640."](https://edition640.makingandknowing.org/#/essays/ann_076_fa_18).
+-   Lim, Min. ["To Shrink an Object: Bread Molding in Ms. Fr. 640."](https://edition640.makingandknowing.org/#/essays/ann_076_fa_18)
 
 -   Sulfur-Passed Wax
 
-    -   [Landsman/Rowen, “Uses of Sulfur for Casting.”](http://edition640.makingandknowing.org/#/essays/ann_007_fa_14)
+    -   Landsman/Rowen, [“Uses of Sulfur for Casting.”](http://edition640.makingandknowing.org/#/essays/ann_007_fa_14)
 
-    -   [Kang, “Black Sulfured Wax.”](http://edition640.makingandknowing.org/#/essays/ann_051_fa_16)
+    -   Kang, [“Black Sulfured Wax.”](http://edition640.makingandknowing.org/#/essays/ann_051_fa_16)
 
 Note: for additional help and resources, try following the field notes
 links in the essays above.
@@ -315,10 +318,8 @@ Giving form to something by use of a mold; usually refers to pressing a material
 
 #### About Teaching Breadmolding:
 
-[Sophie Pitman, “Baking and Knowing: Iterative Processes and Iterative
-Teaching in a Historical Laboratory”. *Detours: Social Science Education
-Research Journal* 2 (1), 2021, 33-41.](https://detoursjournal.org/index.php/detours/article/view/61.)
-
+Sophie Pitman, [“Baking and Knowing: Iterative Processes and Iterative
+Teaching in a Historical Laboratory,”](https://detoursjournal.org/index.php/detours/article/view/61) *Detours: Social Science Education Research Journal* 2 (1), 2021, 33-41.
 
 ### Sample class plan
 
