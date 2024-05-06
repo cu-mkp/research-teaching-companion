@@ -51,18 +51,18 @@ For an example using both internal and external links:
 ```markdown
 Similar to M&K's [Fieldnotes](https://fieldnotes.makingandknowing.org/), these
 portfolios document the students' hands-on activities, which included
-[Stucco for Molding]({{< ref "stucco-assignment" >}}), "Keeping Dry Flowers
+[Stucco for Molding]({{< ref "/resources/activity-sheets/stucco-assignment" >}}), "Keeping Dry Flowers
 in the Same State all Year" from the bottom of [folio 120v in BnF Ms. Fr. 640](https://edition640.makingandknowing.org/#/folios/120v/f/120v/tl),
-and making and painting [cochineal lake]({{< ref "pigment-cochineal-lake_assignment" >}})
-and [verdigris]({{<ref " verdigris-assignment" >}}) pigments.
+and making and painting [cochineal lake]({{< ref "/resources/activity-sheets/pigment-cochineal-lake_assignment" >}})
+and [verdigris]({{< ref " /resources/activity-sheets/verdigris-assignment" >}}) pigments.
 ```
 
 <del>Note that you do not need to give the entire path for `ref` tags, unless there are multiple Markdown files with the same name. You also do not need to include the `.md`. All of the following will work, but the first is much simpler!</del>
 
+Use "absolute" paths in ref links; that is starting with `/resources/` followed with the path to the file, excluding file extension
+
 ```markdown
-[Stucco for Molding]({{< ref "stucco-assignment" >}})
-[Stucco for Molding]({{< ref "activity-sheets/stucco-assignment.md" >}})
-[Stucco for Molding]({{< ref "/resources/activity-sheets/stucco-assignment.md" >}})
+[Stucco for Molding]({{< ref "/resources/activity-sheets/stucco-assignment" >}})
 ```
 
 For more information about internal links, see the Hugo documentation on [Links and Cross References](https://gohugo.io/content-management/cross-references/).
