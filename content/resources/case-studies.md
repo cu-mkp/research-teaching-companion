@@ -81,7 +81,7 @@ With support from a [Montague-Center for Teaching Excellence Award](https://pvfa
 
 After each lab, I assigned reflection assignments that asked them to consider contextual information, their experiences in the lab, and the relevance of their experiences for their understanding of art history:
 - Pigment-Making Lab Reflection Assignment [docx](/documents/activity-sheets/uchacz_2024_lab1_reflection-assignment-background.docx) [pdf](/documents/activity-sheets/uchacz_2024_lab1_reflection-assignment-background.pdf)
-- Pigment-Making Lab Reflection Assignment Background Document [docx](/documents/activity-sheets/uchacz_2024_lab1_reflection-assignment.docx") [pdf]({{< ref "/documents/activity-sheets/uchacz_2024_lab1_reflection-assignment.pdf" >}})
+- Pigment-Making Lab Reflection Assignment Background Document [docx](/documents/activity-sheets/uchacz_2024_lab1_reflection-assignment.docx) [pdf](/documents/activity-sheets/uchacz_2024_lab1_reflection-assignment.pdf)
 - Paint-Making Lab Reflection Assignment [docx](/documents/activity-sheets/uchacz_2024_lab2_reflection-assignment.docx) [pdf](/documents/activity-sheets/uchacz_2024_lab2_reflection-assignment.pdf)
 
 The results of the reflection assignments were encouraging: the students came to appreciate the material qualities, appearances, and behaviors of various paint media. They gained a better sense of the skill and labor involved in painting, and they had excellent and insightful follow-up questions after the assignemnt. Moreover, their course evaluations routinely mentioned how much they enjoyed the activity, not only for what they learned but for the opportunity it gave them to get to know their classmates in what is otherwise a sizeable lecture course.
