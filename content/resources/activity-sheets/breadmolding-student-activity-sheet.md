@@ -1,4 +1,4 @@
-# Class Activity: Making Bread
+# Class Activity: Making and Molding Bread
 
 ## Objectives
 
@@ -67,28 +67,23 @@ will make your <em>noyau</em>.</p></th>
 </table>
 
 
-## Part 1 – Making bread and molding (at home, in advance)
+## Part 1 – Making Bread and Molding (at home, in advance)
 
-**Start familiarizng yourself and your students with baking bread well in advance of the class (we recommend at least two weeks) to give yourself enough time**
+**Start familiarizng yourself with making bread well in advance of the class (we recommend at least two weeks) to give yourself enough time**
 
 ### Materials
 
 - flour
 - water
 - salt
-
 - yeast (optional)
-
 - any other ingredients called for in your recipe of choice (see below)
 
 ### Tools 
 
 - mixing bowl
-
 - surface for kneading
-
 - baking sheet
-
 - oven
 
 ### Objective
@@ -189,20 +184,20 @@ to 1800:
 
 ### Read in preparation for class
 
--   Le Pouésard, Emma. "Pain, Ostie, Rostie: Bread in Early Modern Europe."     [<u>http://edition640.makingandknowing.org/#/essays/ann_046_fa_16</u>](http://edition640.makingandknowing.org/#/essays/ann_046_fa_16).
+-   Le Pouésard, Emma. ["Pain, Ostie, Rostie: Bread in Early Modern Europe."](http://edition640.makingandknowing.org/#/essays/ann_046_fa_16).
 
 ### Other helpful resources in *Secrets of Craft and Nature*
 
--   Le Pouésard, Emma. “Bread as Mediating Material: Tactile Memory and Touch in Ms. Fr. 640,”  [<u>http://edition640.makingandknowing.org/#/essays/ann_050_fa_16</u>](http://edition640.makingandknowing.org/#/essays/ann_050_fa_16).
+-   Le Pouésard, Emma. [“Bread as Mediating Material: Tactile Memory and Touch in Ms. Fr. 640.”](http://edition640.makingandknowing.org/#/essays/ann_050_fa_16).
 
--   Landsman, Rozemarijn and Jonah Rowen. "Uses of Sulfur in Casting."     [<u>http://edition640.makingandknowing.org/#/essays/ann_007_fa_14</u>](http://edition640.makingandknowing.org/#/essays/ann_007_fa_14).
+-   Landsman, Rozemarijn and Jonah Rowen. ["Uses of Sulfur in Casting."](http://edition640.makingandknowing.org/#/essays/ann_007_fa_14).
 
--   Lim, Min. "To Shrink an Object: Bread Molding in Ms. Fr. 640."    [<u>http://edition640.makingandknowing.org/#/essays/ann_076_fa_18</u>](http://edition640.makingandknowing.org/#/essays/ann_076_fa_18).
+-   Lim, Min. ["To Shrink an Object: Bread Molding in Ms. Fr. 640."](http://edition640.makingandknowing.org/#/essays/ann_076_fa_18).
 
 
 ### Additional sources to explore on the uses of bread in the early modern workshop
 
-If you have time, search in other sources for other uses are made of bread in the workshop:
+If you have time, search in other sources for other uses made of bread in the workshop:
 
 -   Alessio Piemontese, *Book of Secrets* (1555); various English versions on EEBO; French versions on Gallica; Italian versions...
 
@@ -218,7 +213,7 @@ If you have time, search in other sources for other uses are made of bread in th
 
 -   Benvenuto Cellini, *Two Treatises*, trans. C. R. Ashbee (repr. 2006).
 
-##  Part 2 – Wax casting (in class)
+##  Part 2 – Wax Casting (in class)
 
 Review your experimental protocol with your instructor. What steps are described in Fr. 640? What other steps might be needed? (For example, how might you make it easier to release the cast object from the mold?)
 
@@ -226,9 +221,9 @@ Review your experimental protocol with your instructor. What steps are described
 
 -   heat the wax slowly
 
--   make sure no wax gets on the hotplate – this would produce smoke
+-   make sure no wax gets on the hotplate – this will produce smoke
 
--   if your melting receptacle does not have an insulated handle, make sure to wear heat protection glove to handle it
+-   if your melting receptacle does not have an insulated handle, make sure to wear heat protective gloves to handle it
 
 -   do not put down the hot receptacle on a non-fire-resistant surface
 
