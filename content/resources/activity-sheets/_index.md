@@ -37,8 +37,7 @@ Cuttlefish bone is an ancient material that is still used today by goldsmiths to
 
 Several entries in Ms. Fr. 640 mention cuttlefish bone as a material by which to rapidly produce molds, including fols. 91r–v and 145r–v. These entries provide a wealth of information on preparing the bones for molding, impressing models into them, and, finally, casting metals into them. They also contain descriptions of techniques by which an artisan can test the temperature of molten metal before casting. These entries particularly highlight the sensory and bodily knowledge needed by an artisan. In carrying out cuttlefish bone molding and casting, students will learn through experience the value of this sensory knowledge.
 
-See also, student project [Cuttlefish in and around Ms. Fr. 640]({{<ref "/resources/student-projects
-/sp22_donald_maia_final-project_cuttlebone.md" >}}) by Maia Donald.
+See also, student project [Cuttlefish in and around Ms. Fr. 640]({{< ref "/resources/student-projects/sp22_donald_maia_final-project_cuttlebone.md" >}}) by Maia Donald.
 
 ### Molding Fruits and Animals in Sugar
 **[Molding Fruits and Animals in Sugar](https://edition640.makingandknowing.org/#/essays/ann_017_sp_15) by Celia Durkin and Pamela H. Smith**
