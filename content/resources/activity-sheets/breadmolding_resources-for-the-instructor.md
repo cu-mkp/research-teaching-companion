@@ -27,14 +27,13 @@ mentions breadmolding as an alternative process for “Molding promptly.”
 <col style="width: 11%" />
 <col style="width: 88%" />
 </colgroup>
-<thead>
 <tr class="header">
 <th><strong>Folio</strong></th>
 <th><strong>Translation</strong></th>
 </tr>
 <tr class="odd">
-<th>140v</th>
-<th><p><strong>For casting in sulfur</strong></p>
+<td>140v</td>
+<td align="left"><p><strong>For casting in sulfur</strong></p>
 <p>To cast neatly in sulfur, arrange the bread pith under thebrazier, as
 you know. Mold in it what you want &amp; let dry, &amp; you will have
 very neat work.</p>
@@ -47,11 +46,11 @@ image make many various ones. Breadcoming from the oven is better. And
 the one that is reheated twice retracts more. You can cast sulfur
 without leaving the imprint of the bread to dry, if you want to mold as
 big as it is. But if you want to let it shrink, make it dry, either more
-or less.</p></th>
+or less.</p></td>
 </tr>
 <tr class="header">
-<th>156r</th>
-<th><p><strong>Molding promptly and reducing a hollow form to a
+<td>156r</td>
+<td align="left"><p><strong>Molding promptly and reducing a hollow form to a
 relief</strong></p>
 <p>You can imprint the relief of a medal in colored wax, &amp; you will
 have a hollow form, in which you can cast <em>en noyau</em> a relief
@@ -62,9 +61,8 @@ gold &amp; silver or any other metal you like. But to hasten your work
 if you are in a hurry, make the first imprint &amp; hollow form in bread
 pith, prepared as you know, which will mold very neatly. And into that,
 cast in melted wax, which will give you a beautiful relief on which you
-will make your <em>noyau</em>.</p></th>
+will make your <em>noyau</em>.</p></td>
 </tr>
-</thead>
 <tbody>
 </tbody>
 </table>
