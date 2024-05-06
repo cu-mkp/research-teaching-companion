@@ -1,7 +1,7 @@
 ---
 title: "Digital Making and Knowing"
 draft: false
-weight: 40
+weight: 50
 ---
 
 # Digital Making and Knowing
