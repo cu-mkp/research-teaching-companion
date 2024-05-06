@@ -1,7 +1,7 @@
 ---
 title: "Reflections on Hands-On"
 draft: false
-weight: 40
+weight: 50
 ---
 
 # Reflections on Hands-on Teaching and Learning 
