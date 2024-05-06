@@ -1,5 +1,5 @@
 ---
-title: "Digital Making and Knowing"
+title: "Digital Making & Knowing"
 draft: false
 weight: 60
 ---
