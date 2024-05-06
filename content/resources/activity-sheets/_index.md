@@ -10,26 +10,25 @@ Making and Knowing Lesson Plans and associated teaching resources provide step-b
 ## Lesson Plans, Assignments, and Hands-On Activity Sheets
 
 ### Introductions to *Secrets of Craft and Nature*
-A great way to get started in a class or workshop in familiarizing students with the digital critical edition of Ms. Fr. 640 and the manuscript itself by completing a scavenger hunt of its contents.
-     - [Scavenger Hunt: Get to Know *Secrets of Craft and Nature*]({{< ref "scavenger-hunt_secrets-of-craft" >}}) 
-     
-     - [*Secrets of Craft and Nature* Reconnaissance (Directed Scavenger Hunt)]({{< ref "scavenger-hunt-2" >}}) 
+A great way to get started in a class or workshop by familiarizing students with the digital critical edition of Ms. Fr. 640 and the manuscript itself by completing a scavenger hunt of its contents.
+- [Scavenger Hunt: Get to Know *Secrets of Craft and Nature*]({{< ref "scavenger-hunt_secrets-of-craft" >}})
+- [*Secrets of Craft and Nature* Reconnaissance (Directed Scavenger Hunt)]({{< ref "scavenger-hunt-2" >}}) 
      
 ### Historical Culinary Recipe Reconstruction
 Reconstructing an obscure culinary recipe is especially effective as a first hands-on activity to familiarize students with the textual and material challenges of following past recipes. It is also a wonderful community-building exercise.
 - [Historical Culinary Recipe Reconstruction](/resources/activity-sheets/activitysheet_hcr-instructor)
 ### Bread Making, Molding, and Casting
-- [Activity Sheet: Breadmolding Reconstruction](/resources/activity-sheets/breadmolding_resources-for-the-instructor)
+- [Breadmolding Reconstruction](/resources/activity-sheets/breadmolding_resources-for-the-instructor)
 ### Making Stucco for Molding and Casting
-- [Activity Sheet: Stucco for Molding](/resources/activity-sheets/activitysheet_stucco)
+- [Stucco for Molding](/resources/activity-sheets/activitysheet_stucco)
 ### Dyeing with Natural Colorants
 - [Dyeing with Natural Colorants](/resources/activity-sheets/activitysheet_dyeing)
 ### Making Paints from Pigments and Painting Them Out
 #### Transforming Natural Plant and Insect Colorants into Pigments (Lake Pigments)
 - [Making Lake Pigments from Natural Colorants](/resources/activity-sheets/activitysheet_lake-pigments)
-- [Activity Sheet: Making Paints from Pigments and Binding Media and Painting Them Out](/resources/activity-sheets/activitysheet_paintingpigments) 
+- [Making Paints from Pigments and Binding Media and Painting Them Out](/resources/activity-sheets/activitysheet_paintingpigments) 
 #### Mineral Pigments
-- [Activity Sheet: "Growing" Verdigris Pigment Reconstruction]({{< ref "verdigris-assignment" >}}). See also Marie-France Lemay's [“Verdigris” in Traveling Scriptorium: A Teaching Kit by the Yale University Library](https://travelingscriptorium.com/2013/01/17/verdigris/)
+- ["Growing" Verdigris Pigment Reconstruction]({{< ref "verdigris-assignment" >}}). See also Marie-France Lemay's [“Verdigris” in Traveling Scriptorium: A Teaching Kit by the Yale University Library](https://travelingscriptorium.com/2013/01/17/verdigris/)
 - [Grinding, Levigating, and Painting with Azurite]({{< ref "azurite-assignment" >}})
 ### Making Inks
 - [Inks](/resources/activity-sheets/activitysheet_inks)
@@ -38,7 +37,8 @@ Reconstructing an obscure culinary recipe is especially effective as a first han
 ### Making Imitation Jasper
 - [Imitation Jasper](/resources/activity-sheets/activitysheet_jasper)
 ### Materializing Spiritual Practice: Reconstructing Burn Salve 
-- [Activity Sheet: Reconstruction of a 16th-century Burn Salve Recipe]({{< ref "burnsalve" >}}) - teaching tools and resources for reconstructing a historical recipe
+- [Reconstruction of a 16th-century Burn Salve Recipe]({{< ref "burnsalve" >}})
+
 - [Suggestions for additional lesson plans](/resources/activity-sheets/activitysheet_suggestions)
 
 ## Hands-on Lesson Plans from Research Essays in *Secrets of Craft and Nature*
