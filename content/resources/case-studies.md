@@ -10,11 +10,18 @@ The Making and Knowing Project has many collaborators from K-12 to university, t
 ## Collaborator Pilot Courses
 Materials from courses taught by Project collaborators, some using resources from this Sandbox or developed in consultation with the Making and Knowing Project.
 
+### Spring 2018: Experiment [[Syllabus]](https://www.makingandknowing.org/wp-content/uploads/2018/05/Keller_Experiment-2018.pdf).
+Spring 2018, 
+University of Oregon, Clark Honors College, 
+Vera Keller, Professor of History
+
+- **Course description:** The course *Experiment* explores the origins of experimental science in early modern Europe (15th-18th centuries), and incorporates hands-on activities. In 2018, students researched Ms. Fr. 640 then read essays in *Secrets of Craft and Nature*. The class had the chance to Skype with current and former Making and Knowing students, who were able to answer questions and respond to critiques. The course included a number of experimental reconstructions, including a “Boyle’s Law” demonstration and growing of Seignette Salts. Students described the course of this experiment in a period voice (voice of Boyle or voice of the author-practitioner), and discussed what is at stake in the various literary technologies employed. For more on the various literary technologies, see Vera Keller, [Four Manuscripts between the Recipe and the Experimental Essay](https://edition640.makingandknowing.org/#/essays/ann_320_ie_19).
+
 ### Spring 2022: ARTH 295 (OC): Ingenious Making in the Early Modern World \[[Syllabus](https://docs.google.com/document/d/e/2PACX-1vQbugAa655DEXQrOFr0M29BK_MCLZEDPdQm8QlQl1M4qkU1Igx9FcP1NkHONbiveQ/pub)\]
 
-Spring 2022
-Oberlin College
-Professor Christina Neilson, Associate Professor of Art History
+Spring 2022, 
+Oberlin College, 
+Christina Neilson, Associate Professor of Art History
 
 - **Course description:** This course investigates what it meant to make things and work with materials, including featherwork, imitation gems, color making, and metal casting, in Europe and colonial Latin America between around 1350 and 1650. We will follow historical descriptions and recipes to reconstruct methods of making, and learn from expert practitioners who are holders of traditional techniques and meanings, including indigenous makers. We will consider how a wide range of practitioners developed hands-on knowledge in workshops, laboratories, marketplaces, gardens, etc. and we will explore how making was and is a form of knowledge, how there are different systems of knowledge, and the intersections between art making and science.
   
@@ -24,12 +31,11 @@ Similar to M&K's [Fieldnotes](https://fieldnotes.makingandknowing.org/), these p
      - [Ava Chessum](https://oberlin.digication.com/audrey-libatique-ingenious-making/home)
      - [Sien McFalls](https://oberlin.digication.com/sien-mcfalls-journal-arth295/home)
 
-       
 ### Spring 2023: VIZA 689: Art/Craft: Hands-on Global Histories of Materials, Techniques, and Skilled Making [Syllabus]({{< ref "/documents/case-studies/sp23_uchacz_tianna_syllabus-viza-689_art-craft.pdf" >}})
 
-Spring 2023
-Graduate Special Topics Seminar, School of Performance, Visualization & Fine Arts
-Texas A&M University
+Spring 2023, 
+Graduate Special Topics Seminar, School of Performance, Visualization & Fine Arts, 
+Texas A&M University, 
 Dr. Tianna Helena Uchacz, Assistant Professor of Art History
 
 - **Course description:** This course investigates the materials, techniques, and meanings of craft through hands-on engagement with historical making practices. Classes combine seminar-style discussion of primary sources and contemporary scholarship with site visits and laboratory exercises in making skills, research skills, and writing skills. The course encourages students to consider relationships between making and thinking, nature and artifice, and art/craft and science by exploring issues related to textual, oral, and tacit knowledge, the significance of skill, and global histories of materials, tools, and practice. **In Spring 2023, the Art/Craft seminar will focus on fibers and textiles as case-study materials.**
@@ -42,7 +48,7 @@ I then tapped into a variety of A&M's on-campus resources, arranging visits to t
 **In sum:** A hands-on seminar such as this takes an extraordinary amount of time and effort to coordinate finding funds, expert sourcing, materials sourcing, logistics, and communication. Although I led the discussion of the readings and oversaw the students' work and evaluation, the lab work was led almost entirely by collaborators. I had limited knowledge of fibers and textiles beforehand, but in organizing and leading this course, I learned as much if not more than the students did. It was an efficient way to deep-dive into materials-based hands-on learning for instructors and students. I have every intention to run future versions of this course that focus on other case-study materials, such as metal, wood, and earth.
 
 ### ARTS 150: Global Art History Survey II (Renaissance to Modern)
-Texas A&M University
+Texas A&M University, 
 Dr. Tianna Helena Uchacz, Assistant Professor of Art History
 
 - **Course description:** A large lecture survey of architecture, painting, sculpture and the minor arts around the world from the 14th century to the end of the 20th century. ARTS 150 counts toward a Core Curriculum Creative Arts requirement and toward Intercultural Diversity course requirements.
@@ -80,6 +86,8 @@ After each lab, I assigned reflection assignments that asked them to consider co
 
 The results of the reflection assignments were encouraging: the students came to appreciate the material qualities, appearances, and behaviors of various paint media. They gained a better sense of the skill and labor involved in painting, and they had excellent and insightful follow-up questions after the assignemnt. Moreover, their course evaluations routinely mentioned how much they enjoyed the activity, not only for what they learned but for the opportunity it gave them to get to know their classmates in what is otherwise a sizeable lecture course.
 
+### Histories of Science and Technology in East Asia
+Lan Li, a 2016-2019 Presidential Scholar in Society and Neuroscience at Columbia Universty, designed and taught an undergraduate and graduate seminar course on histories of science and technology in East Asia. Students explored what it means for historians to engage in experimentation and the pedagogical value of burning, breaking, and substituting materials. Beyond reading texts, the course also involved a practical component as students engaged with knowledge production by actually making things. This practical assignment, in lieu of a written research paper, was modeled after the Making and Knowing Project. Reconstructions included armillary spheres, techniques for repairing ceramic, and a “simple and convenient x-ray.” The second practical component of the course involved translating broader research questions into a podcast. Podcasts include essays on plastic surgery, mapping mountains, and ritualized cremation. View the projects and podcasts on the [course website](https://edblogs.columbia.edu/hseaw4110-001-2018-1/).
 
 ## Collaborator Workshops
 
@@ -103,6 +111,7 @@ Naomi Rosenkranz, Dr. Sophie Pitman, Professor Paula Hohti,
 
 **RESOURCES**
 - **NOTE:** NJR: to upload and link 2 "exchnage" documents that were deleted from static/documents/activity-sheets
+- Also this video: https://youtu.be/Q_O6ahh2LjU from M&K Website
 
 ### Genspace Community Science Workshops
 #### Coloring Textiles with Bugs: Old (Cochineal) and New (Bacteria)
@@ -130,3 +139,6 @@ Annika Cunningham, High School Student
 **RESOURCES**
 - Template for Dyeing Onion Skins + notes 1 [xlsx]({{< ref "/documents/activity-sheets/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes.xlsx" >}}) [PDF]({{< ref "/documents/activity-sheets/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes.pdf" >}})
 - Template for Dyeing Onion Skins + notes 2 (greens) [xlsx]({{< ref "/documents/activity-sheets/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes-2-greens.xlsx" >}}) [PDF]({{< ref "/documents/activity-sheets/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes-2-greens.pdf" >}})
+
+## Making and Knowing Project Collaborations
+For additional collaborations, see [Making and Knowing Collaborators](https://www.makingandknowing.org/collaborators/).
