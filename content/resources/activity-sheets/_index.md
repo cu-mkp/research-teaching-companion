@@ -18,8 +18,9 @@ A great way to get started in a class or workshop by familiarizing students with
 Reconstructing an obscure culinary recipe is especially effective as a first hands-on activity to familiarize students with the textual and material challenges of following past recipes. It is also a wonderful community-building exercise.
 - [Historical Culinary Recipe Reconstruction](/resources/activity-sheets/activitysheet_hcr-instructor)
 ### Bread Making, Molding, and Casting
-- [Breadmolding Reconstruction](/resources/activity-sheets/breadmolding_resources-for-the-instructor)
-### Making Stucco for Molding and Casting
+An intriguing recipe in Ms. Fr. 640 for making molds from bread is the basis for this lesson plan, which begins from the Ms. Fr. 640 recipe and expands to a multi-week series of activities, including learning to make bread, experimenting with different techniques of molding, and, finally, casting wax into bread. The lesson is an effective way to introduce students to embodied experience and knowledge.  
+- [Bread Making, Molding, and Casting](/resources/activity-sheets/breadmolding_resources-for-the-instructor)
+### Making Stucco for Molding
 - [Stucco for Molding](/resources/activity-sheets/activitysheet_stucco)
 ### Dyeing with Natural Colorants
 - [Dyeing with Natural Colorants](/resources/activity-sheets/activitysheet_dyeing)
@@ -28,7 +29,7 @@ Reconstructing an obscure culinary recipe is especially effective as a first han
 - [Making Lake Pigments from Natural Colorants](/resources/activity-sheets/activitysheet_lake-pigments)
 - [Making Paints from Pigments and Binding Media and Painting Them Out](/resources/activity-sheets/activitysheet_paintingpigments) 
 #### Mineral Pigments
-- ["Growing" Verdigris Pigment Reconstruction]({{< ref "verdigris-assignment" >}}). See also Marie-France Lemay's [“Verdigris” in Traveling Scriptorium: A Teaching Kit by the Yale University Library](https://travelingscriptorium.com/2013/01/17/verdigris/)
+- ["Growing" Verdigris Pigment]({{< ref "verdigris-assignment" >}}). See also Marie-France Lemay's [“Verdigris” in Traveling Scriptorium: A Teaching Kit by the Yale University Library](https://travelingscriptorium.com/2013/01/17/verdigris/)
 - [Grinding, Levigating, and Painting with Azurite]({{< ref "azurite-assignment" >}})
 ### Making Inks
 - [Inks](/resources/activity-sheets/activitysheet_inks)
