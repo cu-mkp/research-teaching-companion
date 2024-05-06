@@ -7,32 +7,45 @@ weight: 20
 # Lesson Plans for Hands-On
 Making and Knowing Lesson Plans and associated teaching resources provide step-by-step guidance in planning and executing hand-on activities in the classroom, studio, laboratory, or maker space. These Lesson Plans could be integrated into classes for skill building, as one-off sessions for class community building, or to stimulate the students' historical imagination by exposure to past materials and processes. The hands-on activities offered here can also be used as stand-alone activities for public outreach. 
 
-## Activity Sheets, Assignments, and Reconstruction Protocols
-- Introductions to *Secrets of Craft and Nature*
-     - [Scavenger Hunt: Get to Know *Secrets of Craft and Nature*]({{< ref "scavenger-hunt_secrets-of-craft" >}}) - a great way to get started! Get to know the digital critical edition of Ms. Fr. 640 and the manuscript itself by completing a scavenger hunt of its contents.
-     - [*Secrets of Craft and Nature* Reconnaissance (Directed Scavenger Hunt)]({{< ref "scavenger-hunt-2" >}}) - another way to get started in familiarizing yourself with the digital critical edition.
+## Lesson Plans, Assignments, and Hands-On Activity Sheets
+
+### Introductions to *Secrets of Craft and Nature*
+A great way to get started in a class or workshop in familiarizing students with the digital critical edition of Ms. Fr. 640 and the manuscript itself by completing a scavenger hunt of its contents.
+     - [Scavenger Hunt: Get to Know *Secrets of Craft and Nature*]({{< ref "scavenger-hunt_secrets-of-craft" >}}) 
+     
+     - [*Secrets of Craft and Nature* Reconnaissance (Directed Scavenger Hunt)]({{< ref "scavenger-hunt-2" >}}) 
+     
+### Historical Culinary Recipe Reconstruction
+Reconstructing an obscure culinary recipe is especially effective as a first hands-on activity to familiarize students with the textual and material challenges of following past recipes. It is also a wonderful community-building exercise.
 - [Historical Culinary Recipe Reconstruction](/resources/activity-sheets/activitysheet_hcr-instructor)
-- [Activity Sheet: Reconstruction of a 16th-century Burn Salve Recipe]({{< ref "burnsalve" >}}) - teaching tools and resources for reconstructing a historical recipe
-- [Activity Sheet: Breadmolding Reconstruction](/resources/activity-sheets/breadmolding_resources-for-the-instructor) - assignment sheet for reconstructing a casting technique that uses bread as the mold
-- [Activity Sheet: Stucco for Molding](/resources/activity-sheets/activitysheet_stucco) - assignment sheet for creating molded stucco object from rye flour or chalk
-- [Activity Sheet: Making Paints from Pigments and Painting Them Out](/resources/activity-sheets/activitysheet_paintingpigments) - assignment sheet for making paints by combining historical pigments and binding media
-- [Activity Sheet: "Growing" Verdigris Pigment Reconstruction]({{< ref "verdigris-assignment" >}}) - assignment sheet for producing verdigris, a blue-green pigment, using historical techniques. See also Marie-France Lemay's [“Verdigris” in Traveling Scriptorium: A Teaching Kit by the Yale University Library](https://travelingscriptorium.com/2013/01/17/verdigris/)
-- [Making Lake Pigments from Natural Colorants](/resources/activity-sheets/activitysheet_lake-pigments) - hands-on lesson plan and assignment for transforming natural colorants in plants and insects into pigments
-- [Dyeing with Natural Colorants](/resources/activity-sheets/activitysheet_dyeing) - hands-on lesson plan and assignment for dyeing textiles with natural colorants in plants and insects
+### Bread Making, Molding, and Casting
+- [Activity Sheet: Breadmolding Reconstruction](/resources/activity-sheets/breadmolding_resources-for-the-instructor)
+### Making Stucco for Molding and Casting
+- [Activity Sheet: Stucco for Molding](/resources/activity-sheets/activitysheet_stucco)
+### Dyeing with Natural Colorants
+- [Dyeing with Natural Colorants](/resources/activity-sheets/activitysheet_dyeing)
+### Making Paints from Pigments and Painting Them Out
+#### Transforming Natural Plant and Insect Colorants into Pigments (Lake Pigments)
+- [Making Lake Pigments from Natural Colorants](/resources/activity-sheets/activitysheet_lake-pigments)
+- [Activity Sheet: Making Paints from Pigments and Binding Media and Painting Them Out](/resources/activity-sheets/activitysheet_paintingpigments) 
+#### Mineral Pigments
+- [Activity Sheet: "Growing" Verdigris Pigment Reconstruction]({{< ref "verdigris-assignment" >}}). See also Marie-France Lemay's [“Verdigris” in Traveling Scriptorium: A Teaching Kit by the Yale University Library](https://travelingscriptorium.com/2013/01/17/verdigris/)
+- [Grinding, Levigating, and Painting with Azurite]({{< ref "azurite-assignment" >}})
+### Making Inks
 - [Inks](/resources/activity-sheets/activitysheet_inks)
+### Varnishes and Their Many Uses
 - [Varnishes](/resources/activity-sheets/activitysheet_varnishes)
-- [Preparing and Painting with Azurite]({{< ref "azurite-assignment" >}}) - resources for grinding, levigating, and painting the blue copper pigment, azurite.
+### Making Imitation Jasper
 - [Imitation Jasper](/resources/activity-sheets/activitysheet_jasper)
+### Materializing Spiritual Practice: Reconstructing Burn Salve 
+- [Activity Sheet: Reconstruction of a 16th-century Burn Salve Recipe]({{< ref "burnsalve" >}}) - teaching tools and resources for reconstructing a historical recipe
 - [Suggestions for additional lesson plans](/resources/activity-sheets/activitysheet_suggestions)
 
 ## Hands-on Lesson Plans from Research Essays in *Secrets of Craft and Nature*
-
 Many essays in *Secrets of Craft and Nature* describe the reconstruction of a technique in sufficient detail to use the essay itself to formulate a lesson plan that includes hands-on activities. These essays often include lab/field notes that contain even more information for carrying out the process. Each essay discusses themes and includes bibliography that can be integrated into course objectives and class discussion. Suggested essays are listed below, however many more could be explored and adapted for classroom, studio, or lab activities.
 
 ### Molding with Cuttlefish Bone
-
 **[Molding with Cuttlefish Bone ](https://edition640.makingandknowing.org/#/essays/ann_506_ad_20)by Emily Boyd, Jef Palframan, and Pamela H. Smith**
-
 Cuttlefish bone is an ancient material that is still used today by goldsmiths to create small cast objects. Objects can be impressed into the soft core of the cuttlefish’s float bone, after which metal or wax can be cast into the mold. Casting could be done with tin or pewter which have low melting points and liquefy easily in a pan on a stovetop or a hot plate. 
 
 Several entries in Ms. Fr. 640 mention cuttlefish bone as a material by which to rapidly produce molds, including fols. 91r–v and 145r–v. These entries provide a wealth of information on preparing the bones for molding, impressing models into them, and, finally, casting metals into them. They also contain descriptions of techniques by which an artisan can test the temperature of molten metal before casting. These entries particularly highlight the sensory and bodily knowledge needed by an artisan. In carrying out cuttlefish bone molding and casting, students will learn through experience the value of this sensory knowledge.
@@ -60,9 +73,11 @@ A reconstruction of the rather confusingly titled entry “Varnish for distemper
 The recipe “Keeping dry flowers in the same state all year” (fol. 120v–121r) reflects the author-practitioner’s wider preoccupation with the preservation of flora and fauna for display. In this recipe, he provides instructions for drying flowers in sand. A reconstruction of the recipe demonstrates that extensive knowledge of the materials is important not only to the outcome but to their handling. 
 
 ### Sleight of Hand Tricks
-Ms. Fr. 640 contains an entry on fol. 43v for “Varied and Transmuted Wine.” This recipe contains no wine, but transmutes red “wine” into white. Is this entry a test for detecting adulteration in wines? Or is it a party trick?
+Ms. Fr. 640 contains an entry on fol. 43v for “Varied and Transmuted Wine.” This recipe contains no wine, but transmutes red “wine” into white. This activity is very simple and easy to integrate into any classroom setting. It also raises interesting questions about deception in art making. What is this recipe doing in a compilation of practical techniques?
 
 See [Sleight of Hand Tricks](https://edition640.makingandknowing.org/#/essays/ann_043_sp_16) by Ann-Sophie Barwich and [Varied and Transmuted Wine](https://edition640.makingandknowing.org/#/essays/ann_512_ad_20) by Sayantani Mukherjee.
 
 ### Making and Using Fish Glue
+The making of an essential material for any workshop.
+
 [Making and Using Fish Glue](https://edition640.makingandknowing.org/#/essays/ann_056_sp_17) by Xinguo (Casa) Wang
