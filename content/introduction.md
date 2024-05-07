@@ -26,6 +26,6 @@ Numerous Student Projects were developed in the course *Making and Knowing in Ea
 ### [M&K Resources in Use]({{<ref "casestudy" >}}) 
 The Making and Knowing Project has many collaborators from K-12 to university and in non-traditional schools and public outreach institutions who have piloted the Making and Knowing Project's methods, course elements, and lesson plans in their research projects, courses, and student activities. The fruits of their experience, their syllabi, student projects, and making activities are valuable for those seeking to integrate the Making and Knowing resources available in this Companion.
 ### [Reflections on Hands-On]({{<ref "reflection" >}})
-Why engage in hands-on activities in teaching and research? In this section, the Making and Knowing Project team members and collaborators reflect in lectures, videos, and testimonials on their reasons for and experience of engaging in hands-on teaching and researh.
+Why engage in hands-on activities in teaching and research? In this section, the Making and Knowing Project team members and collaborators reflect in lectures, videos, and testimonials on their reasons for and experience of engaging in hands-on teaching and research.
 ### [Digital Making and Knowing]({{<ref "digital" >}})
 The Making and Knowing Project has developed open access digital resources, including a publication tool for making your own edition, model projects for using the data of _Secrets of Craft and Nature_, digital literacy tools, syllabi, and ideas for student activities.
