@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About M&K"
 draft: false
 menu: "main"
 weight: 30
