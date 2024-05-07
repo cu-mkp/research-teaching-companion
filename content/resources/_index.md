@@ -1,5 +1,5 @@
 ---
-title: "Resources in the Research and Teaching Companion"
+title: "Research and Teaching Companion Resources"
 draft: false
 menu: "main"
 weight: 20
