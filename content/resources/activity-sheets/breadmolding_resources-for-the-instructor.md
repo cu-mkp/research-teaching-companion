@@ -87,71 +87,41 @@ medicine, artistic practice, and the workshop.
 This activity is split into 2 parts, the first part can be done
 asynchronously in advance of the group/in class activity:
 
-1\) The students are asked to explore historical recipes for bread, bake their own bread, and impress a small object into the pith. They are also asked to develop a protocol for step 2 - the pour. See the [Bread Making student activity sheet]({{< ref "/documents/activity-sheets/breadmolding-student-activity-sheet" >}})
+1\) The students are asked to explore historical recipes for bread, bake their own bread, and impress a small object into the pith. They are also asked to develop a protocol for step 2 - the pour. See the [Bread Making student activity sheet](/documents/activity-sheets/breadmolding-student-activity-sheet).
 
 2\) Part 2 takes place together in class (or can be done online). There is no worksheet, because part of the assignment is for the students to closely read the manuscript and develop their own experimental protocol. See the sample class plan below.
 
-**Themes:**
+**Themes:** Embodied knowledge, everyday life, food, material culture, ephemeral art, art, sculpture, decorative arts, craft
 
-Embodied knowledge, everyday life, food, material culture, ephemeral art, art, sculpture, decorative arts, craft
+**Safety Notice: use of hotplates:** If working with younger participants, the step of pouring melted wax can be performed by the instructor.
 
-**Safety Notice: use of hotplates**
+**Duration:** Approx 1.5 hours in class. Plus 2-3 weeks advance preparation in order for participants to learn to bake bread (in their own time)
 
-If working with younger participants, the step of pouring melted wax can be performed by the instructor.
-
-**Remote or in Class**
-
-**Duration:**
-
-Approx 1.5 hours in class
-
-Plus 2-3 weeks advance preparation in order for participants to learn to bake bread (in own time)
-
-**Facilities:**
-
-Can be done almost anywhere (if only using wax for pour)
-
-If in ventilated space (lab/studio/outdoors) can use sulfur
+**Facilities:** Can be done almost anywhere (if only using wax for pour), including remotely. If in a ventilated space (or in a fume hood), sulfur can be used
 
 **Materials and Tools:**
-
 - linseed (or vegetable) oil
-
 - wax
-
 - paintbrushes
-
 - hotplates
-
 - heatproof gloves
-
-- heat resistant container for melting (eg. tin can / milk frothing
-pitcher/ saucepan / beakers
-
+- heat resistant container for melting (eg. tin can / milk frothing pitcher/ saucepan / beakers
 - stirring stick (e.g. chopstick, glass rod, spoon)
-
 - plate / newspaper (something to contain mess)
-
 - trivet or other heatproof surface
-
 - paper towels
-
 - Optional: a way to repair flaws or leaks in your molds, such as masking
 tape or modeling clay like plasticine
-
 - Standard fire safety equipment (e.g. fire extinguisher and/or blanker)
 
 **If using sulfur:**
-
 - yellow sulfur powder
-
 - nitrile gloves
-
 - thermometer
 
 ## Resources
 
-[Bread Making student activity sheet]({{< ref "/documents/activity-sheets/breadmolding-student-activity-sheet" >}})
+[Bread Making student activity sheet](/documents/activity-sheets/breadmolding-student-activity-sheet)
 
 [Powerpoint presentation showing the process](/documents/activity-sheets/breadmoldingreconstruction_visualpresentation.pdf)
 
@@ -166,7 +136,7 @@ Video of Making and Knowing Director Pamela Smith introducing “skillbuilding�
 {{< vimeo 384070302 >}}
 
 ### Suggested reading on Historical Breads (to assign for class and/or further information)
-If you only assign one piece of reading, we suggest Le Pouésard, “Pain, Ostie, Rostie” (see below).
+- If you only assign one piece of reading, we suggest Le Pouésard, “Pain, Ostie, Rostie” (see below).
 ### Suggested reading on Embodied Knowledge
 - Tillmann Taape, [“The Body and the Senses in Ms. Fr. 640: Towards a ‘Material Sensorium’.”](https://edition640.makingandknowing.org/#/essays/ann_302_ie_19)
 - Emma Le Pouésard, [“Bread as Mediating Material: Tactile Memory and Touch in Ms. Fr. 640.”](https://edition640.makingandknowing.org/#/essays/ann_050_fa_16)
@@ -186,17 +156,11 @@ Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New
 York: Making and Knowing Project, 2020.
 
 -   Le Pouésard, Emma. ["Pain, Ostie, Rostie: Bread in Early Modern Europe."](https://edition640.makingandknowing.org/#/essays/ann_046_fa_16)
-
 -   Le Pouésard, Emma. [“Bread as Mediating Material: Tactile Memory and Touch in Ms. Fr. 640.”](https://edition640.makingandknowing.org/#/essays/ann_050_fa_16)
-
 -   Landsman, Rozemarjin and Jonah Rowen. ["Uses of Sulfur in Casting."](https://edition640.makingandknowing.org/#/essays/ann_007_fa_14)
-
 -   Lim, Min. ["To Shrink an Object: Bread Molding in Ms. Fr. 640."](https://edition640.makingandknowing.org/#/essays/ann_076_fa_18)
-
 -   Sulfur-Passed Wax
-
     -   Landsman/Rowen, [“Uses of Sulfur for Casting.”](http://edition640.makingandknowing.org/#/essays/ann_007_fa_14)
-
     -   Kang, [“Black Sulfured Wax.”](http://edition640.makingandknowing.org/#/essays/ann_051_fa_16)
 
 Note: for additional help and resources, try following the field notes
@@ -207,64 +171,47 @@ links in the essays above.
 -  [<u>John Evelyn’s bread
 recipes</u>](https://drive.google.com/file/d/1DEwyDoUtKeA0MgbW_Fk6mS5WzcJbZDor/view?usp=sharing),
 including varieties of French bread
-
 -  ([<u>working
 transcription</u>](https://drive.google.com/open?id=1GNklzsgidrIGdf2Twf78eJy0fgy-S6Tuh3VKGdKNTJU)
 of Evelyn’s recipes by Reut Ullman, Columbia University)
-
 -  [<u>Culinary and medicinal recipe book of Beulah Hutson</u>](https://digitalcollections.folger.edu/bib354134-502408), c.1660-1685, which contains a recipe for French Bread (pp.22-23)
-
 -  The Food Timeline- Bread History (good bibliography):
 [<u>http://www.foodtimeline.org/foodbreads.html#breadhistory</u>](http://www.foodtimeline.org/foodbreads.html#breadhistory)
-
 -  Early English Bread Project:
  [<u>https://earlybread.wordpress.com/</u>](https://earlybread.wordpress.com/)
-
 -  The Recipes Project:
 [<u>http://recipes.hypotheses.org/</u>](http://recipes.hypotheses.org/)
-
 -  The Wellcome Library has digitized nearly all its recipe
 manuscripts. You can search the library here:
 [<u>http://wellcomelibrary.org/</u>](http://wellcomelibrary.org/)
-
 -  Monumenta Culinaria et Diaetetica Historica
 Corpus of culinary & dietetic texts of Europe from the Middle Ages
 to 1800:
 [<u>https://www.staff.uni-giessen.de/gloning/kobu.htm</u>](https://www.staff.uni-giessen.de/gloning/kobu.htm)
-
 -  Dutch Cooking History (with some English content):
 [<u>http://www.kookhistorie.nl/index.htm</u>](http://www.kookhistorie.nl/index.htm)
 
-
 ### Primary sources on the uses of bread in the early modern workshop
-
 If you have time, search in other sources for other uses are made of
 bread in the workshop:
-
 -   Alessio Piemontese, *Book of Secrets* (1555); various English
 versions on EEBO; French versions on Gallica; Italian versions...
-
 -   (For English: Search for Ruscelli, Girolamo, *The secretes of the
 reuerende Maister Alexis of Piemount Containyng excellent remedies
 against diuers diseases, woundes, and other accidents, with the manner
 to make distillations, parfumes, confitures, diynges, colours, fusions
 and meltynges. ... Translated out of Frenche into Englishe, by Wyllyam
 Warde* (1558).
-
 -   Hugh Platt, *The Jewell House of Art and Nature: Containing divers
 rare and profitable Inventions, together with sundry new experimentes
 in the Art of Husbandry, Distillation, and Molding* (London, 1594).
 EEBO
-
 -   Cennino Cennini, *Il libro dell’Arte (The Craftsman’s Handbook)*,
 trans. Daniel V. Thompson, Jr. (New York: Dover, 1960).
-
 -   Vannoccio Biringuccio, *Pirotechnia* (1540), trans. Cyril Stanley
 Smith and Martha Teach Gnudi (repr., Cambridge, MA, 1966).
-
 -   Theophilus, *The Various Arts: De Diversis Artibus*, ed. and trans.
 C. R. Dodwell (Oxford: Clarendon Press, 1986).
-
 -   Benvenuto Cellini, *Two Treatises*, trans. C. R. Ashbee (repr.
 2006).
 
@@ -273,63 +220,48 @@ C. R. Dodwell (Oxford: Clarendon Press, 1986).
 - For an illustration of molding and casting, watch [VIDEO: Making a Medal Using the Sand Casting Process from the Frick Collection in collaboration with M&K.](https://www.youtube.com/embed/TL919mY28fk)
 
 ### On Historical Reconstruction as Historical Method
-
 -   Ken Albala, “Cooking as Research Methodology: Experiments in
     Renaissance Cuisine,” *Renaissance Food from Rabelais to
     Shakespeare: Culinary Readings and Culinary Histories*, ed. Joan
     Fitzpatrick (Aldershot, UK: Ashgate, 2010), pp. 73–88.
-
 -   Hjalmar Fors, Lawrence M. Principe, and H. Otto Sibum. ‘From the
   Library to the Laboratory and Back Again: Experiment as a Tool for
   Historians of Science.’ *Ambix* 63, no. 2 (2016): 85–97.
-
 -   Lawrence Principe, “Chymical Exotica in the Seventeenth Century, or,
   How to Make the Bologna Stone” *Ambix* 63 (2016): 118-44.
-
 -   Ad Stijnman, “Style and technique are inseparable: art technological
     sources and reconstructions,” *Art of the Past. Sources and
     Reconstructions. The proceedings of the First Symposium of the Art
     Technological Source Research Study Group*, ed. by Mark Clarke,
     Joyce H. Townsend, and Ad Stijnman (Amsterdam: Archetype, 2005):
     1-8.
-
 -   For an example of an exemplary reconstruction experiment by a
     conservator, see Maartje Stols-Witlox, “Sizing layers for oil
     painting in western European sources (1500-1900): historical
     recipes and reconstructions,” *Proceedings of the Second ATSR
     Symposium* (2008), pp. 148-163.
-
 -   Pamela H. Smith “Historians in the Laboratory: Reconstruction of
     Renaissance Art and Technology in the Making and Knowing Project.”
     *Art History* 39, no. 2 (2016): 210–33.
-
 -   Tillmann Taape, Pamela H. Smith, and Tianna Helena Uchacz.
     “Schooling the Eye and Hand: Performative Methods of Research and
     Pedagogy in the Making and Knowing Project.” *Berichte Zur
     Wissenschaftsgeschichte* 43, no. 3 (2020): 323–40.
 
 ### About Teaching Bread Making and Molding
-
-Sophie Pitman, [“Baking and Knowing: Iterative Processes and Iterative Teaching in a Historical Laboratory,”](https://detoursjournal.org/index.php/detours/article/view/61) *Detours: Social Science Education Research Journal* 2 (1), 2021, 33-41.
+- Sophie Pitman, [“Baking and Knowing: Iterative Processes and Iterative Teaching in a Historical Laboratory,”](https://detoursjournal.org/index.php/detours/article/view/61) *Detours: Social Science Education Research Journal* 2 (1), 2021, 33-41.
 
 ## Sample class plan
 
 ### Discussion: Recipe Research and Making Bread
 
 We recommend starting class with a group discussion about each student’s experience baking bread and exploring recipes for bread.
-
 Suggested questions:
-
 - Why do you think there are so few recipes for bread in early modern sources?
-
 - What is bread as a material in the workshop?
-
 - What was it used for in the sixteenth century?
-
 - What properties does it have that make it useful?
-
 - Does it fit into some sort of informal taxonomy of materials and properties?
-
 - Today we take bread for granted as a food, but how might its uses in the workshop re-orient that understanding?
 
 ### Activity: Wax Casting
@@ -341,31 +273,21 @@ However, for a successful and safe activity, we recommend that any
 protocol should include these essential steps:
 
 -   melt wax on low heat on a hotplate
-
 -   (optional) brush the hollow of the breadmold with vegetable oil to
     make the unmolding easier. If students omit this step, they may
     have to soak the breadmold in order to remove all the pith from
     the cast object.
-
 -   place the mold on a surface covered with newsprint, paper plates, or similar to catch any spillages
-
 -   the molds can be fixed in place with masking tape
-
 -   carefully pour melted wax into the mold
-
 -   let the wax cool completely before attempting to remove the object
 
 ### Discussion: Breadmolding, and bread as a material in the workshop
-
 Suggested questions:
-
-- Who might benefit from this process? i.e. Why would you need to make a temporary mold of a small object?
-
+- Who might benefit from this process? I.e., why would you need to make a temporary mold of a small object?
 - What do you learn by doing it yourself that you would not consider
 when just reading through the instructions?
-
 - Does this raise further research questions you might like to pursue?
-
 - Based on your experience of breadmolding, what can we (as historians
 of art/science/material culture / etc.) learn from historical
 reconstruction?
