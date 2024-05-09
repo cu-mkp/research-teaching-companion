@@ -27,6 +27,17 @@ Editions are published through well-established technologies and workflows and c
 
 ## Assessment and Evaluation Tools
 Tools for assessing digital literacy, developed in collaboration with Columbia University’s Center for Teaching and Learning.
-- [The Digital Literacy Competency Calculator (DLCC)](https://ccnmtl.github.io/digital-literacy/), a web-based tool for representing the connection between digital literacy competencies and the teaching and learning practices that produce them. This tool was developed in collaboration with Columbia's Center for Teaching and Learning as part of the course offering, [Spring 2017: What is a Book?](https://www.makingandknowing.org/wp-content/uploads/2019/10/Website-Syllabus_Digital_course.pdf) described above.
+- [The Digital Literacy Competency Calculator (DLCC)](https://ccnmtl.github.io/digital-literacy/), a web-based tool for representing the connection between digital literacy competencies and the teaching and learning practices that produce them. This tool was developed in collaboration with Columbia's Center for Teaching and Learning as part of the course offering, [Spring 2017: What is a Book?](https://www.makingandknowing.org/wp-content/uploads/2019/10/Website-Syllabus_Digital_course.pdf).
      - See also the [“White Paper: Digital Literacy Competency Calculator: Rationale and Process”](https://docs.google.com/document/d/11Em2vX-jJw_4QoP62STwVo1i5cNi81ARft9j7gOQsoA/edit?usp=sharing).
      - The [DLCC for Spring 2017: What is a Book?](https://cu-mkp.github.io/diglit-gr8975/)
+ 
+## Making and Knowing Digital Courses and Collaborations
+### Ms. Fr. 640 in Virtual and Augmented Reality
+The Columbia University Computer Graphics and User Interfaces Lab (CGUI), led by Professor Steven Feiner, has developed an augmented reality (AR) toolset to complement the digital critical edition. These interactive tools help communicate the practice-based experiential knowledge generated in the Making and Knowing lab, allowing readers to experience the process of historical techniques through cutting-edge visualization technologies, including Microsoft HoloLens and Google Tango devices.
+
+CGUI Research Assistant Samantha Siu developed a mobile app that allows users to add impromptu notes, take video, and capture photos while viewing items or undertaking an experiment in the Project laboratory. For their final project in GU4031: Transforming Texts, a student group collaborated with Samantha to test her application and develop a test database in which the entire process of following a recipe and the corresponding user’s annotation at each step is readily available.
+
+Explore the AR tools as they develop
+- [Hovering swatches](https://www.youtube.com/watch?v=0TfqfMXt7i4&ab_channel=NoahZweben)
+- [Contents in drawers](https://www.youtube.com/watch?v=u5uFyBOmg_U&ab_channel=XinXu)
+- [Prototyping Spatiotemporal Documentation for Digital History](https://www.youtube.com/watch?v=VRPLB_knc-k&ab_channel=ColumbiaEngineering)
