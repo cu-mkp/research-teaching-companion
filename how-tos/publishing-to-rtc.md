@@ -147,17 +147,35 @@ All non-markdown media should be placed in the `static/` directory. For ease of 
 
 These work differently from the other internal links. Instead of the `ref` tag, just use normal Markdown link or image syntax, treating `static/` as the base of the URL. It is important that each URL includes a leading slash. For example:
 
+To link to other pages on the site, use the `ref` tag surrounded by double brackets; to link to external links, use typical Markdown link syntax.
+
+For an example using both internal and external links:
+
 Images
-- **preferred** - [figure shortcode](https://gohugo.io/content-management/shortcodes/#figure): `{{< figure src="/images/media-ghoneima/image3.png" alt="Chart">}}`
+- [figure shortcode](https://gohugo.io/content-management/shortcodes/#figure): `{{< figure src="/images/media-ghoneima/image3.png" alt="Chart">}}`
 - `{{< figure src="/images/`*name of image.extension*`" alt="`*alt text for your image*`" >}}`
      - to adjust size: `{{< figure src="/images/media-ghoneima/image3.png" alt="Chart" width="640" height="360" >}}` - adjust width and height as you like
 - markdown: `![stucco-molded](/images/stucco-molded.jpg)`
 
 Documents
-- **preferred:** `[Stucco for Molding]({{< ref "/documents/activity-sheets/stucco-assignment.pdf" >}})`
+- `[Stucco for Molding]({{< ref "/documents/activity-sheets/stucco-assignment.pdf" >}})`
 - markdown: `[Stucco for Molding](/documents/activity-sheets/stucco_assignment_student-handout.pdf)`
 
 For more information about internal links, see the Hugo documentation on [Links and Cross References](https://gohugo.io/content-management/cross-references/).
+
+```markdown
+Similar to M&K's [Fieldnotes](https://fieldnotes.makingandknowing.org/), these
+portfolios document the students' hands-on activities, which included
+[Stucco for Molding]({{< ref "/resources/activity-sheets/stucco-assignment" >}}), "Keeping Dry Flowers
+in the Same State all Year" from the bottom of [folio 120v in BnF Ms. Fr. 640](https://edition640.makingandknowing.org/#/folios/120v/f/120v/tl),
+and making and painting [cochineal lake]({{< ref "/resources/activity-sheets/pigment-cochineal-lake_assignment" >}})
+and [verdigris]({{< ref " /resources/activity-sheets/verdigris-assignment" >}}) pigments.
+```
+
+<del>Note that you do not need to give the entire path for `ref` tags, unless there are multiple Markdown files with the same name. You also do not need to include the `.md`. All of the following will work, but the first is much simpler!</del>
+
+Use "absolute" paths in ref links; that is starting with `/resources/` followed with the path to the file, excluding file extension
+
 
 ### `_index.md` pages
 
