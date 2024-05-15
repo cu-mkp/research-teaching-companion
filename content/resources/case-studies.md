@@ -111,7 +111,7 @@ Naomi Rosenkranz, Dr. Sophie Pitman, Professor Paula Hohti,
 
 **RESOURCES**
 - **NOTE:** NJR: to upload and link 2 "exchnage" documents that were deleted from static/documents/activity-sheets
-- Also this video: https://youtu.be/Q_O6ahh2LjU from M&K Website
+- Also this video: [Refashioning the Renaissance in the M&K Lab](https://vimeo.com/user101162788)
 
 ### Genspace Community Science Workshops
 #### Coloring Textiles with Bugs: Old (Cochineal) and New (Bacteria)
