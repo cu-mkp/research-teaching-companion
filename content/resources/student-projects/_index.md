@@ -5,7 +5,7 @@ weight: 40
 ---
 
 # Student Projects
-In the course *Making and Knowing in Early Modern Europe: Hands-On History*, students explore *Secrets of Craft and Nature*, carry out hands-on lessons, and develop a project that engages with hands-on activities, materials, techniques, and any number of other themes. Their projects range from humorous to scholarly, pedagogical, and public facing, and we hope they will be consulted by instructors and students for inspiration and to consider the many pathways into and through Ms. Fr. 640 and its digital edition. 
+In all Making and Knowing Project courses, the students create a final project. We offer their final projects here to provide ideas to students and instructors for engaging with _Secrets of Craft and Nature_.
 
 ## ENGL84031 / HISTGU4031 / COMS4495: _Transforming Texts_ (Spring 2019)
 
@@ -22,9 +22,8 @@ The Spring 2019 course _Transforming Texts: Textual Analysis, Literary Modeling,
 -   [Augmented Reality Group (ARGroup)](/documents/student-projects/SP19_ARGroup.pdf) by Mahzabin Hasnath, Kathleen Lee, and Taewan Shim. See also:
     -   PowerPoint presentation [[PDF](/documents/student-projects/SP19_ARGroup-Presentation.pdf)] [[PPTX](/documents/student-projects/SP19_ARGroup-Presentation.pptx)]
 
-## GU4962: _Hands-on History_ (2021-)
-
-The Final Project in the undergraduate/graduate lab seminar _Making and Knowing in Early Modern Europe: Hands-on History_ are intended to serve as companion pieces to the Digital Critical Edition, _Secrets of Craft and Nature_, or form a part of the Making and Knowing Project’s Research and Teaching Companion to _Secrets of Craft and Nature_. These exploratory and experimental projects are meant to help brainstorm, design, and implement alternative paths by which to access the material in the Edition and/or provide other forms of disseminating and engaging with the themes.
+## GU4962: _Making and Knowing in Early Modern Europe: Hands-On History_ (2021-)
+In *Making and Knowing in Early Modern Europe: Hands-On History*, undergrad and grad students explore *Secrets of Craft and Nature*, carry out hands-on lessons, and develop a project that engages with hands-on activities, materials, techniques, and any number of other themes. These exploratory and experimental projects serve as companion pieces to *Secrets of Craft and Nature* or mark out alternative paths into the edition. Their projects range from humorous to scholarly, pedagogical, and public facing, and we hope they will be consulted by instructors and students for inspiration and as an invitation to the many pathways into and through Ms. Fr. 640 and its digital edition.
 
 ### Summer 2021 Final Student Projects (2021-07-08) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vTdDTbjg3Wo-03RCA7KtszFF-nVyY0ECotExiQK8SnNpBQ_zNC0tBv9f_RUCujxGlTkdFTZiGicbVKO/pub)]
 
@@ -64,8 +63,7 @@ The Final Project in the undergraduate/graduate lab seminar _Making and Knowing 
 -   [Sieves in Ms. Fr. 640]({{< ref "sp22_gardner_schuyler_final-project-sieves" >}}) by Schuyler Gardner
 -   [Animal Rationality in Ms. Fr. 640]({{< ref "sp22_nebolsin_victoria_final-project_animal-rationality" >}}) by Victoria Nebolsin
 
-### Spring 2023 Final Student Projects (2024-01-08) 
-[[Syllabus](https://docs.google.com/document/d/e/2PACX-1vS_I76a42zOm-GfGNZHl4s385XNFV4pkHqBq_x0op2S8LUlqN_-B5ebEPdNxqJ3-O1wWUiyemMA2zF9/pub)]
+### Spring 2023 Final Student Projects (2024-01-08) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vS_I76a42zOm-GfGNZHl4s385XNFV4pkHqBq_x0op2S8LUlqN_-B5ebEPdNxqJ3-O1wWUiyemMA2zF9/pub)]
 - [“Flesh Color” and Race Making in Early Modern Painters’ Manuals]({{< ref "sp23_fan_ruilin_final-project_flesh-color" >}}) by Ruilin Fan
 -  [Languages and Linguistic Agency in Ms. Fr. 640]({{< ref "sp23_narcy_gilles_final-project_languages" >}}) by Gilles Narcy
 -  [Medieval Spirituality and Materiality in Ms. Fr. 640]({{< ref "sp23_lambert-avery_final-project_medieval-spirituality" >}}) by Avery Lambert
@@ -76,7 +74,7 @@ The Final Project in the undergraduate/graduate lab seminar _Making and Knowing 
 -  [Dyeing Textiles with Cochineal - A Workshop]({{< ref "sp23_brown-reece_final-project_dye-workshop" >}}) by Reece Brown
 -  [Varnishing, a Craft of Closure]({{< ref "sp23_oberem-lukas_final-project_varnish" >}}) by Lukas Oberem
   
-## Making Colors!
+## Making Colors with Students
 
 -  [Dyeing with Onion Skins]({{< ref "su22_fld_cunningham_annika_onion-skin-dyeing" >}}) by Annika Cunningham (2022-07-18)
 -  [Making Pigment from Madder: a Trio of Recipes]({{< ref "sp22_fld_rosenkranz_naomi_madder-lake-trio" >}}) by Naomi Rosenkranz (2022-07-19) (WIP)
