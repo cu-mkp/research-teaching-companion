@@ -47,6 +47,7 @@ Many essays in *Secrets of Craft and Nature* describe the reconstruction of a te
 
 ### Molding with Cuttlefish Bone
 **[Molding with Cuttlefish Bone ](https://edition640.makingandknowing.org/#/essays/ann_506_ad_20)by Emily Boyd, Jef Palframan, and Pamela H. Smith**
+
 Cuttlefish bone is an ancient material that is still used today by goldsmiths to create small cast objects. Objects can be impressed into the soft core of the cuttlefish’s float bone, after which metal or wax can be cast into the mold. Casting could be done with tin or pewter which have low melting points and liquefy easily in a pan on a stovetop or a hot plate. 
 
 Several entries in Ms. Fr. 640 mention cuttlefish bone as a material by which to rapidly produce molds, including fols. 91r–v and 145r–v. These entries provide a wealth of information on preparing the bones for molding, impressing models into them, and, finally, casting metals into them. They also contain descriptions of techniques by which an artisan can test the temperature of molten metal before casting. These entries particularly highlight the sensory and bodily knowledge needed by an artisan. In carrying out cuttlefish bone molding and casting, students will learn through experience the value of this sensory knowledge.
