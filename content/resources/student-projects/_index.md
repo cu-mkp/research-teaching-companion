@@ -5,11 +5,11 @@ weight: 40
 ---
 
 # Student Projects
-In all Making and Knowing Project courses, the students create a final project. We offer their final projects here to provide ideas to students and instructors for engaging with _Secrets of Craft and Nature_.
+In all Making and Knowing Project courses students create a final project. Browse their projects for ideas about how to engage with _Secrets of Craft and Nature_.
 
 ## ENGL84031 / HISTGU4031 / COMS4495: _Transforming Texts_ (Spring 2019)
 
-The Spring 2019 course _Transforming Texts: Textual Analysis, Literary Modeling, and Visualization_ built upon M&K's previous Digital and Lab Seminars. Geared towards students from the humanities and computer science, the course encouraged the disciplines to work together to analyze, explore, and understand historical texts.
+The Spring 2019 course _Transforming Texts: Textual Analysis, Literary Modeling, and Visualization_ built upon M&K's previous Digital and Lab Seminars. Geared towards students from the humanities and computer science, the course encouraged the disciplines to work together to analyze, explore, and understand historical texts. 
 
 ### Spring 2019 Final Student Projects (2021-05-06) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vQPLMeJc5B32slPAKIv-4W29hj_G6WR7dVQ7TTbYA7oStHv-Ze7BP5BUkQhUvFgXGXGlylSL6BsL2jT/pub)]
 
@@ -23,7 +23,9 @@ The Spring 2019 course _Transforming Texts: Textual Analysis, Literary Modeling,
     -   PowerPoint presentation [[PDF](/documents/student-projects/SP19_ARGroup-Presentation.pdf)] [[PPTX](/documents/student-projects/SP19_ARGroup-Presentation.pptx)]
 
 ## GU4962: _Making and Knowing in Early Modern Europe: Hands-On History_ (2021-)
-In *Making and Knowing in Early Modern Europe: Hands-On History*, undergrad and grad students explore *Secrets of Craft and Nature*, carry out hands-on lessons, and develop a project that engages with hands-on activities, materials, techniques, and any number of other themes. These exploratory and experimental projects serve as companion pieces to *Secrets of Craft and Nature* or mark out alternative paths into the edition. Their projects range from humorous to scholarly, pedagogical, and public facing, and we hope they will be consulted by instructors and students for inspiration and as an invitation to the many pathways into and through Ms. Fr. 640 and its digital edition.
+In *Making and Knowing in Early Modern Europe: Hands-On History*, undergrad and grad students explore *Secrets of Craft and Nature*, carry out hands-on lessons, and develop a project that engages with hands-on activities, materials, techniques, and any number of other themes.
+
+Their exploratory and experimental projects serve as companion pieces to *Secrets of Craft and Nature* or mark out alternative pathways into the edition. Projects range from humorous to scholarly, pedagogical, and public facing. Instructors and students can find in them inspiration and pathways by which to explore Ms. Fr. 640 and its digital edition.
 
 ### Summer 2021 Final Student Projects (2021-07-08) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vTdDTbjg3Wo-03RCA7KtszFF-nVyY0ECotExiQK8SnNpBQ_zNC0tBv9f_RUCujxGlTkdFTZiGicbVKO/pub)]
 
