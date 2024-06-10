@@ -48,7 +48,8 @@ Paint is applied to a variety of supports, including canvas, panel, plaster, pap
 
 #### Making Paint in the Classroom: Activity Sheets
 - Classroom activity sheet for paint making [pdf]({{< ref "/documents/activity-sheets/painting_assignment_downloadable_2021.pdf" >}})
-- Classroom activity sheet for making gessoed test panels for paint samples [docx]({{< ref "/documents/activity-sheets/bol_2024_preparing-test-panels.docx" >}}) [pdf]({{< ref "/documents/activity-sheets/bol_2024_preparing-test-panels.pdf" >}})
+- Classroom activity sheet for preparing gessoed test panels to receive paint samples [docx]({{< ref "/documents/activity-sheets/bol_2024_preparing-test-panels.docx" >}}) [pdf]({{< ref "/documents/activity-sheets/bol_2024_preparing-test-panels.pdf" >}})
+- Classroom activity sheet for stretching and gessoing canvas for painting [pdf]({{< ref "/documents/activity-sheets/hermens_preparing-canvas-supports.pdf" >}}) 
 
 #### Making Paint in the Classroom: Reflection Assignment
 - Paint-Making Lab Reflection Assignment [docx]({{< ref "/documents/activity-sheets/uchacz_2024_lab2_reflection-assignment.docx" >}}) [pdf]({{< ref "/documents/activity-sheets/uchacz_2024_lab2_reflection-assignment.pdf" >}})
