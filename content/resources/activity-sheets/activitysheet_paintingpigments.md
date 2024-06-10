@@ -14,7 +14,7 @@ The activity of making paint and testing out those paints on a sample card has s
 Paint = pigment + binder
 {{< figure src="/images/pigment-particles-in-binding-medium.jpg" alt="pigment-particles-in-binding-medium" >}}
 
-For more on paint making, refer to [Presentation: Introduction to Pigments &amp; Paints](introduction-paints-pigments_njr_2021.pdf)
+For more on paint making, refer to [Presentation: Introduction to Pigments &amp; Paints]({{< ref "/documents/activity-sheets/introduction-paints-pigments_njr_2021.pdf" >}}))
 
 {{< figure src="/images/painting-pigment+binding-media.png" alt="painting-pigment+binding-media" >}}
 
@@ -40,6 +40,8 @@ Mulling is a mechanical process used to thoroughly combine a pigment with a bind
 #### Substrates or Supports
 Paint is applied to a variety of supports, including canvas, panel, plaster, paper, and metal, just to name a few. Some paints adhere better to particular supports than to others. 
 
+For an overview of stretching and gessoing canvas for painting, refer to [Presentation: Preparing the Canvas Support]({{< ref "/documents/activity-sheets/hermens_preparing-canvas-supports.pdf" >}})
+
 {{< figure src="/images/painting-substrates-supports.jpg" alt="various substrates for painting" >}}
 
 ### Teaching Paint Making
@@ -49,7 +51,6 @@ Paint is applied to a variety of supports, including canvas, panel, plaster, pap
 #### Making Paint in the Classroom: Activity Sheets
 - Classroom activity sheet for paint making [pdf]({{< ref "/documents/activity-sheets/painting_assignment_downloadable_2021.pdf" >}})
 - Classroom activity sheet for preparing gessoed test panels to receive paint samples [docx]({{< ref "/documents/activity-sheets/bol_2024_preparing-test-panels.docx" >}}) [pdf]({{< ref "/documents/activity-sheets/bol_2024_preparing-test-panels.pdf" >}})
-- Classroom activity sheet for stretching and gessoing canvas for painting [pdf]({{< ref "/documents/activity-sheets/hermens_preparing-canvas-supports.pdf" >}}) 
 
 #### Making Paint in the Classroom: Reflection Assignment
 - Paint-Making Lab Reflection Assignment [docx]({{< ref "/documents/activity-sheets/uchacz_2024_lab2_reflection-assignment.docx" >}}) [pdf]({{< ref "/documents/activity-sheets/uchacz_2024_lab2_reflection-assignment.pdf" >}})
