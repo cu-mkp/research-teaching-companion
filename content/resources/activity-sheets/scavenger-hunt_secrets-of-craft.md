@@ -32,11 +32,6 @@ For an account of how the Making and Knowing Project created the edition through
 For more context on Ms. Fr. 640, see Pamela H. Smith, “[An Introduction to Ms. Fr. 640 and its Author-Practitioner](https://edition640.makingandknowing.org/#/essays/ann_300_ie_19),” in *Secrets of Craft and Nature in Renaissance France*.
 
 Explore the syllabi, student projects, and assignments for hands-on activities on
-
-- **The [Sandbox](https://cu-mkp.github.io/sandbox/)**
-     - See the sections "Syllabi" and "Course Projects," particularly those for the course, *GU4962: Hands-on History (2021- ).*
-     -  You’ll find lesson plans for hands-on activities at the subheading, *Activity Sheets, Assignments, and Reconstruction Protocols*
-
-In the future, this material will be found (better organized) on the Project's *[Research and Teaching Companion](https://teaching640.makingandknowing.org/)*.
+- **The [Research and Teaching Companion](https://teaching640.makingandknowing.org/)**.
 
 **The Making and Knowing Project** is very interested in your user experience of the Edition and Sandbox, and how you integrate them into your own research and teaching. Please send any feedback or suggestions to Pamela Smith at <ps2270@columbia.edu>.
