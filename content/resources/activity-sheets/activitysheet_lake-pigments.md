@@ -1,6 +1,6 @@
 ## Making Lake Pigments
 
-The Making and Knowing Project has used lake pigment making as a core skill-building exercise for its students. M&K has often assigned lake pigment making alongside [verdigris growing]({{<ref "verdigris-assignment" >}}), which were then followed up by a [paint making and testing]({{< ref "activitysheet_paintingpigments" >}}) activity. Nevertheless, lake pigment making can be done on its own.
+The Making and Knowing Project has used lake pigment making as a core skill-building exercise for its students. M&K has often assigned lake pigment making alongside [verdigris growing](/resources/activity-sheets/verdigris-assignment), which were then followed up by a [paint making and testing](/resources/activity-sheets/activitysheet_paintingpigments) activity. Nevertheless, lake pigment making can be done on its own.
 
 
 ### Learning Objectives
@@ -22,7 +22,7 @@ In short: lake pigments are made by extracting a dye from an organic material an
 
 If you are not already familiar with historical pigments and natural colorants, refer to [Presentation: Cochineal Lake: History, Chemistry, and Preparation](/documents/activity-sheets/rosenkranz_2023_lakes_cochineal-history-chem-prep.pdf) for more complete information and further explanation of natural colorants and lake pigments.
 
-[![Presentation: Cochineal Lake: History, Chemistry, and Preparation](/images/cochineal-presentation.png)](/documents/activity-sheets/activity-sheets/presentation_sp23_rosenkranz_naomi_lakes_cochineal-history-chem-prep.pdf)
+[Presentation: Cochineal Lake: History, Chemistry, and Preparation](/images/cochineal-presentation.png)](/documents/activity-sheets/presentation_sp23_rosenkranz_naomi_lakes_cochineal-history-chem-prep.pdf)
 
 See also [Presentation: Introduction to Pigments &amp; Paints](/documents/activity-sheets/introduction-paints-pigments_njr_2021.pdf).
 
@@ -95,10 +95,10 @@ Lakes can be made from a variety of natural colorants. Natural colorants can be 
 
 ### Teaching Lake Pigments
 #### Lake-Making in the Classroom: Activities 
-- [Making Lake Pigment from Cochineal]({{< ref "/documents/activity-sheets/pigment-cochineal-lake_assignment" >}}) - hands-on lesson plan and assignment for transforming natural colorants in cochineal insects into a pigment (2021-09-27)
-- [Making Lake Pigment from Madder]({{< ref "/documents/activity-sheets/pigment-madder-lake_assignment" >}}) - hands-on lesson plan and assignment for transforming natural colorants in madder roots into a pigment (2022-01-29)
+- [Making Lake Pigment from Cochineal](/documents/activity-sheets/pigment-cochineal-lake_assignment) - hands-on lesson plan and assignment for transforming natural colorants in cochineal insects into a pigment (2021-09-27)
+- [Making Lake Pigment from Madder](/documents/activity-sheets/pigment-madder-lake_assignment) - hands-on lesson plan and assignment for transforming natural colorants in madder roots into a pigment (2022-01-29)
 #### Lake-Making in the Classroom: Field Notes
-- [Making Pigment from Madder: a Trio of Recipes]({{< ref "/documents/activity-sheets/sp22_fld_rosenkranz_naomi_madder-lake-trio" >}}) - helpful step-by-step fieldnotes  (2022-07-19) (WIP)
+- [Making Pigment from Madder: a Trio of Recipes](/documents/activity-sheets/sp22_fld_rosenkranz_naomi_madder-lake-trio) - helpful step-by-step fieldnotes  (2022-07-19) (WIP)
 - Pigment cards / pics
 #### Lake-Making in the Classroom: Presentations
 - [Presentation: Cochineal Lake: History, Chemistry, and Preparation]({{< ref "/documents/activity-sheets/presentation_sp23_rosenkranz_naomi_lakes_cochineal-history-chem-prep" >}})
