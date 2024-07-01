@@ -42,4 +42,4 @@ For an account of how the Making and Knowing Project created the edition through
 
 For more context on Ms. Fr. 640, see Pamela H. Smith, “[An Introduction to Ms. Fr. 640 and its Author-Practitioner](https://edition640.makingandknowing.org/#/essays/ann_300_ie_19),” in *Secrets of Craft and Nature*.
 
-Explore the student projects, resoures, and assignments for hands-on activities on the [Sandbox](https://cu-mkp.github.io/sandbox/).
+Explore the student projects, resoures, and assignments for hands-on activities on the [Research and Teaching Companion](https://teaching640.makingandknowing.org/).
