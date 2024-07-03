@@ -14,7 +14,7 @@ Today, artistic making and scientific knowing are seen as separate realms, yet t
 M&K employs “hands-on history”—reconstructing techniques of the past—to illuminate the continuous and universal human striving to investigate and understand nature. Such reconstructions offer first-hand glimpses into craft workshops to see artisans using constant experimentation to manipulate natural materials that allows us to understand how “making” can be a form of “knowing.” Reconstructions also raise historical questions that would otherwise remain inaccessible and inconceivable outside of hands-on engagement with materials.
 
 ## Why Hands-on Learning?
-Hands-on experimental history does not need to be expensive or exclusive. It can be scaled for various levels of learners, and it can be accommodated in a range of research spaces: labs, studios, classrooms, libraries, museums. Some of the outcomes we have witnessed in our own classrooms: students who believe they are “no good at science” can experience laboratory experimentation and dissolve preconceptions about science, and science students can gain a more robust and expansive understanding of the history of their disciplines.
+Hands-on experimental history and experiential learning does not need to be expensive or exclusive. It can be scaled for various levels of learners, and it can be accommodated in a range of research spaces: labs, studios, classrooms, libraries, museums. Some of the outcomes we have witnessed in our own classrooms: students who believe they are “no good at science” can experience laboratory experimentation and dissolve preconceptions about science, and science students can gain a more robust and expansive understanding of the history of their disciplines.
 
 By proposing a shift from textbooks and tests to hands-on work and process, M&K aims to stress the importance of other ways of knowing—making, experimentation, hand-skills, collaboration, and failure—to foster cross-fertilization between the humanities and sciences, and engage all levels of learners with first-hand experience of how human beings transform natural materials. This aim can be carried out in kitchens, studios, and laboratories, from elementary school through higher education, and we believe it can promote a new kind of material and scientific literacy, not of the content of science, but of its essence as exploration and experimentation with nature.
 
@@ -36,7 +36,7 @@ By proposing a shift from textbooks and tests to hands-on work and process, M&K 
     -  Unexpected Successes and Failures<br>
     -  Metal Casting with Toulouse Sand<br>
 
-## Further Reflections on Hands-on Learniung
+## Reflections on Hands-on Learniung
 [A Recipe for Recipe Research: The Making and Knowing Project](https://recipes.hypotheses.org/7430), The Recipes Project, 2016.
 
 [Knowing by Making](https://soundcloud.com/user-265326599/2-making-by-knowing-with-pamela-smith?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)<br>
@@ -51,6 +51,7 @@ A panel discussion between scholars, curators, and creators including Deborah Kr
 [Mechanochemistry: The Science of Crush Digital Exhibition](https://artsandculture.google.com/story/mechanochemistry-the-science-of-crush-science-history-institute/UQUh6_yaa-LjTg?hl=en)<br>
 Science History Institute Online Exhibition (hosted by Google Arts and Culture), 2021, featuring a video about the Making and Knowing Project's collaboration with Refashioning the Renaissance that highlights the importance of hands-on engagement with materials).
 
+## Experiential Learning
 [Weaving Knowledge](https://weavingknowledge.org/)<br>
 In July 2017 and January 2019, Pamela Smith and the Making and Knowing Project worked with Nussara Tiengate and Annapurna Mamidipudi to mount a Weaving Knowledge Workshop at Ban Rai Jai Sook in Chiang Mai, Thailand. These two workshops provided a two-week immersion in traditional Thai weaving for international PhD students. Over two weeks, participants experienced a full immersion in Lanna weaving with help from expert weavers and textile scholars. In 2019, the Making and Knowing Postdoctoral Scholars participated in the workshop.
 
