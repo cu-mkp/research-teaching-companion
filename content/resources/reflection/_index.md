@@ -36,7 +36,7 @@ By proposing a shift from textbooks and tests to hands-on work and process, M&K 
     -  Unexpected Successes and Failures<br>
     -  Metal Casting with Toulouse Sand<br>
 
-## Reflections on Hands-on Learniung
+## Reflections on Hands-on Learning
 [A Recipe for Recipe Research: The Making and Knowing Project](https://recipes.hypotheses.org/7430), The Recipes Project, 2016.
 
 [*Science and Art in a Sixteenth-Century Workshop: Hands-On History in the Making and Knowing Project*](https://vimeo.com/user101162788)<br>
