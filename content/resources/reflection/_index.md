@@ -29,7 +29,7 @@ By proposing a shift from textbooks and tests to hands-on work and process, M&K 
     -  Moldmaking and Metalworking<br>
     -  Colormaking<br>
     -  Practical Knowledge<br>
-  **Focus Videos**<br>
+    **Focus Videos**<br>
     -  Project Design<br>
     -  Colors and Dyes<br>
     -  Hourglass Sand<br>
@@ -39,7 +39,7 @@ By proposing a shift from textbooks and tests to hands-on work and process, M&K 
 ## Reflections on Hands-on Learniung
 [A Recipe for Recipe Research: The Making and Knowing Project](https://recipes.hypotheses.org/7430), The Recipes Project, 2016.
 
-[*Science and Art in a Sixteenth-Century Workshop: Hands-On History in the Making and Knowing Project (https://vimeo.com/user101162788)<br>
+[*Science and Art in a Sixteenth-Century Workshop: Hands-On History in the Making and Knowing Project*](https://vimeo.com/user101162788)<br>
 Pamela H. Smith gives the Elizabeth B. McNab Lecture in the History of Science, McGill University, 2021
 
 [Hands-On History: Reconstruction in the High School Classroom]([https://vimeo.com/user101162788)<br>
