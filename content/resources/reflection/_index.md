@@ -40,12 +40,16 @@ By proposing a shift from textbooks and tests to hands-on work and process, M&K 
 [A Recipe for Recipe Research: The Making and Knowing Project](https://recipes.hypotheses.org/7430), The Recipes Project, 2016.
 
 [*Science and Art in a Sixteenth-Century Workshop: Hands-On History in the Making and Knowing Project*](https://vimeo.com/957244396)<br>
-Pamela H. Smith gives the Elizabeth B. McNab Lecture in the History of Science, McGill University, 2021
+Pamela H. Smith discusses hands-on teaching and learning in the Elizabeth B. McNab Lecture in the History of Science, McGill University, 2021.
 
 [Hands-On History: Reconstruction in the High School Classroom](https://vimeo.com/942105196)<br>
-Sofia Gans, PhD, speaks about her experience teaching European history through hands-on projects.
+Sofia Gans, PhD, speaks about her experience teaching high school European history through hands-on reconstruction of historical techniques.
 
-Christina Neilson...
+[From Watching to Working: Incorporating Making and Knowing Activities into History of Science Courses](https://vimeo.com/840477199)<br>
+Monique O'Connell reflects on her experiences using the Making and Knowing Project's Hands-on Lesson Plan for stucco-making in a history of science course at Wake Forest University.
+
+[Ingenious Making in the Early Modern World](https://vimeo.com/942071266)<br>
+Christina Neilson and Heather Galloway speak about their experience using the Making and Knowing Project's Hands-on Lesson Plans in a class at Oberlin College.
 
 [Knowing by Making](https://soundcloud.com/user-265326599/2-making-by-knowing-with-pamela-smith?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)<br>
 An episode of the _Refashioning the Renaissance Podcast_ with Sophie Pitman and Pamela Smith.
