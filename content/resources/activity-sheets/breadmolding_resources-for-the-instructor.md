@@ -2,7 +2,7 @@
 {{< figure src="/images/breadmolding-kneading.jpg" alt="Kneading Bread">}}
 ## Introduction
 
-The 16th-century artisanal/technical manual, BnF Ms. Fr. 640, contains
+The sixteenth-century artisanal/technical manual, BnF Ms. Fr. 640, contains
 hundreds of entries that describe making processes and techniques from
 the Renaissance. These include instructions for and observations about
 painting, gilding, arms and armor production, plant cultivation, and
@@ -11,16 +11,14 @@ making molds and metal casts.
 Ms. Fr. 640 contains three mentions of bread as a material that can be
 used to take an impression of another object quickly and neatly. This impression
 can be used as a mold into which sulfur or wax is cast. It is an example
-of the kinds of intermediate processes that artists must have relied on
+of the kind of intermediate process that artists must have relied on
 in the sixteenth century, akin to making a 3D printed prototype in resin
 before casting in gold for a modern jeweler, but for which very little
 evidence survives.
 
-Two entries are found on [<u>folio
-140v</u>](https://edition640.makingandknowing.org/#/folios/140v/f/140v/tl)
-and another on [<u>fol.
-156r.</u>](https://edition640.makingandknowing.org/#/folios/156r/f/156r/tl)
-mentions breadmolding as an alternative process for “Molding promptly.”
+Two entries on [<u>fol. 140v</u>](https://edition640.makingandknowing.org/#/folios/140v/f/140v/tl)
+and on [<u>fol.
+156r</u>](https://edition640.makingandknowing.org/#/folios/156r/f/156r/tl) mention breadmolding as an alternative process for “Molding promptly.”
 
 <table>
 <colgroup>
@@ -80,14 +78,14 @@ course.
 The activity introduces students to hands-on historical reconstruction
 and performative interpretation of texts. It is a good exercise to
 jump-start discussions of tacit/embodied knowledge in arts and sciences. It is also an instructive introduction to the principles of molding. More generally, it encourages students to think differently about historical
-materials and processes, by de-familiarising something we take for
+materials and processes, by de-familiarizing something we take for
 granted as food, and exploring its varied uses in everyday life,
 medicine, artistic practice, and the workshop.
 
 This activity is split into 2 parts, the first part can be done
-asynchronously in advance of the group/in class activity:
+asynchronously in advance of the in-class activity:
 
-1\) The students are asked to explore historical recipes for bread, bake their own bread, and impress a small object into the pith. They are also asked to develop a protocol for step 2 - the pour. See the [Bread Making student activity sheet](/documents/activity-sheets/breadmolding-student-activity-sheet).
+1\) The students are asked to explore historical recipes for bread, bake their own bread, and impress a small object into the pith. They are also asked to develop a protocol for step 2 - the pour. See the [Bread Making student activity sheet](/resources/activity-sheets/breadmolding-student-activity-sheet).
 
 2\) Part 2 takes place together in class (or can be done online). There is no worksheet, because part of the assignment is for the students to closely read the manuscript and develop their own experimental protocol. See the sample class plan below.
 
@@ -121,9 +119,9 @@ tape or modeling clay like plasticine
 
 ## Resources
 
-[Bread Making student activity sheet](/documents/activity-sheets/breadmolding-student-activity-sheet)
+[Bread Making student activity sheet](/resources/activity-sheets/breadmolding-student-activity-sheet)
 
-[Powerpoint presentation showing the process](/documents/activity-sheets/breadmoldingreconstruction_visualpresentation.pdf)
+[Powerpoint presentation showing the process of bread molding](/documents/activity-sheets/breadmoldingreconstruction_visualpresentation.pdf)
 
 Videos by Vassar College students showing the process and result
 
@@ -157,7 +155,7 @@ York: Making and Knowing Project, 2020.
 
 -   Le Pouésard, Emma. ["Pain, Ostie, Rostie: Bread in Early Modern Europe."](https://edition640.makingandknowing.org/#/essays/ann_046_fa_16)
 -   Le Pouésard, Emma. [“Bread as Mediating Material: Tactile Memory and Touch in Ms. Fr. 640.”](https://edition640.makingandknowing.org/#/essays/ann_050_fa_16)
--   Landsman, Rozemarjin and Jonah Rowen. ["Uses of Sulfur in Casting."](https://edition640.makingandknowing.org/#/essays/ann_007_fa_14)
+-   Landsman, Rozemarjin and Jonah Rowen. ["Uses of Sulfur in Casting"](https://edition640.makingandknowing.org/#/essays/ann_007_fa_14)
 -   Lim, Min. ["To Shrink an Object: Bread Molding in Ms. Fr. 640."](https://edition640.makingandknowing.org/#/essays/ann_076_fa_18)
 -   Sulfur-Passed Wax
     -   Landsman/Rowen, [“Uses of Sulfur for Casting.”](http://edition640.makingandknowing.org/#/essays/ann_007_fa_14)
@@ -169,8 +167,7 @@ links in the essays above.
 ### Sources on Making Sixteenth-century Bread
 
 -  [<u>John Evelyn’s bread
-recipes</u>](https://drive.google.com/file/d/1DEwyDoUtKeA0MgbW_Fk6mS5WzcJbZDor/view?usp=sharing),
-including varieties of French bread
+recipes</u>](/documents/activity-sheets/breadmolding_evelyn-john_bread-recipes), including varieties of French bread
 -  ([<u>working
 transcription</u>](https://drive.google.com/open?id=1GNklzsgidrIGdf2Twf78eJy0fgy-S6Tuh3VKGdKNTJU)
 of Evelyn’s recipes by Reut Ullman, Columbia University)
