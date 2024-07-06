@@ -16,9 +16,7 @@ in the sixteenth century, akin to making a 3D printed prototype in resin
 before casting in gold for a modern jeweler, but for which very little
 evidence survives.
 
-Two entries on [<u>fol. 140v</u>](https://edition640.makingandknowing.org/#/folios/140v/f/140v/tl)
-and on [<u>fol.
-156r</u>](https://edition640.makingandknowing.org/#/folios/156r/f/156r/tl) mention breadmolding as an alternative process for “Molding promptly.”
+There are two entries for breadmolding on [<u>fol. 140v</u>](https://edition640.makingandknowing.org/#/folios/140v/f/140v/tl). Another on [<u>fol. 156r</u>](https://edition640.makingandknowing.org/#/folios/156r/f/156r/tl) mentions breadmolding as an alternative process for “Molding promptly.”
 
 <table>
 <colgroup>
