@@ -16,8 +16,8 @@ This activity has two parts
 
 ## Source text
 
-There are two entries on breadmolding on [<u>folio140v</u>.](https://edition640.makingandknowing.org/#/folios/140v/f/140v/tl)
-Another on [<u>fol.156r.</u>](https://edition640.makingandknowing.org/#/folios/156r/f/156r/tl) mentions breadmolding as an alternative process for “Molding promptly.”
+There are two entries on breadmolding on [<u>fol. 140v</u>.](https://edition640.makingandknowing.org/#/folios/140v/f/140v/tl)
+Another on [<u>fol.156r</u>](https://edition640.makingandknowing.org/#/folios/156r/f/156r/tl) mentions breadmolding as an alternative process for “Molding promptly.”
 
 <table>
 <colgroup>
@@ -112,12 +112,10 @@ After looking into these options, you may find that you are logistically only be
 ### Sources on making sixteenth-century bread
 
 -  [<u>John Evelyn’s bread
-recipes</u>](https://drive.google.com/file/d/1DEwyDoUtKeA0MgbW_Fk6mS5WzcJbZDor/view?usp=sharing),
-including varieties of French bread
+recipes</u>](/documents/activity-sheets/breadmolding_evelyn-john_bread-recipes.pdf), including varieties of French bread
 
--  ([<u>working
-transcription</u>](https://drive.google.com/open?id=1GNklzsgidrIGdf2Twf78eJy0fgy-S6Tuh3VKGdKNTJU)
-of Evelyn’s recipes by Reut Ullman, Columbia University)
+    - [<u>working transcription</u>](/documents/activity-sheets/activitysheet_Ullman_John-Evelyn-Bread-Recipes-Transcription.pdf)
+of Evelyn’s recipes by Reut Ullman, Columbia University
 
 -  The Food Timeline- Bread History (good bibliography):
 [<u>http://www.foodtimeline.org/foodbreads.html#breadhistory</u>](http://www.foodtimeline.org/foodbreads.html#breadhistory)
