@@ -31,7 +31,7 @@ cookery (1658).](https://www.google.com/books/edition/Archimagirus_Anglo_Gallicu
 
 Le Menagier de Paris (1393). 
 - [original French](https://archive.org/details/lemnagierdepari03renagoog)
-- [translation by Janet Hinson](http://www.daviddfriedman.com/Medieval/Cookbooks/Menagier/Menagier.html#BEVERAGES%20FOR%20INVALIDS)(make sure to check the original French).
+- [translation by Janet Hinson](http://www.daviddfriedman.com/Medieval/Cookbooks/Menagier/Menagier.html#BEVERAGES%20FOR%20INVALIDS) (make sure to check the original French).
 
 [Le Thresor de santé, ou mesnage de la vie humaine divisé en dix
 livres (Lyon, 1607).](http://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=39201&do=chapitre)
