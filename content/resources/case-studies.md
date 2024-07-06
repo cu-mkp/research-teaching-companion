@@ -61,7 +61,7 @@ In these semesters, students enrolled in the Honors section of Uchacz's ARTS 150
 - paper marbling
 - [imitation stucco making]({{< ref "/resources/activity-sheets/activitysheet_stucco" >}})
 
-#### Full Class Hands-on Art History: Spring 2024
+#### Scaling Up: Full Class Hands-on Art History, Spring 2024
 With support from a [Montague-Center for Teaching Excellence Award](https://pvfa.tamu.edu/news/2023/10/19/uchacz-honored-with-montague-cte-scholars-award-for-development-of-teaching-excellence/), I tested the scalability of M&K's skill-building activities in [making lake pigments]({{< ref "/resources/activity-sheets/activitysheet_lake-pigments" >}}) and [making and testing paints]({{< ref "/resources/activity-sheets/activitysheet_paintingpigments" >}}) with a class of 60 students in the Renaissance-to-Modern art history survey (75 min class time, Tue & Thu). I divided the class into 2 groups of 30 students, sending half to visit an on-campus art exhibition for an analysis assignment and the other half to the lab.
 - Lab 1: Making Lake Pigments [Canvas page for the day's activities](/documents/case-studies/sp24_uchacz_tianna_canvas-lab1-arts-150_global-art-history-survey.pdf)
 - - 15 stations of students working in pairs across 5 different pigment recipes (cochineal, cochineal reversed, madder, weld, logwood)
@@ -140,4 +140,4 @@ Annika Cunningham, High School Student
 - Template for Dyeing Onion Skins + notes 2 (greens) [xlsx]({{< ref "/documents/activity-sheets/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes-2-greens.xlsx" >}}) [PDF]({{< ref "/documents/activity-sheets/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes-2-greens.pdf" >}})
 
 ## Making and Knowing Project Collaborations
-For additional collaborations, see [Making and Knowing Collaborators](https://www.makingandknowing.org/collaborators/).
+For more [Making and Knowing Collaborations](https://www.makingandknowing.org/collaborators/).
