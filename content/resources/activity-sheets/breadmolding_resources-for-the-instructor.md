@@ -155,7 +155,7 @@ York: Making and Knowing Project, 2020.
 
 -   Le Pouésard, Emma. ["Pain, Ostie, Rostie: Bread in Early Modern Europe."](https://edition640.makingandknowing.org/#/essays/ann_046_fa_16)
 -   Le Pouésard, Emma. [“Bread as Mediating Material: Tactile Memory and Touch in Ms. Fr. 640.”](https://edition640.makingandknowing.org/#/essays/ann_050_fa_16)
--   Landsman, Rozemarjin and Jonah Rowen. ["Uses of Sulfur in Casting"](https://edition640.makingandknowing.org/#/essays/ann_007_fa_14)
+-   Landsman, Rozemarjin and Jonah Rowen. ["Uses of Sulfur in Casting."](https://edition640.makingandknowing.org/#/essays/ann_007_fa_14)
 -   Lim, Min. ["To Shrink an Object: Bread Molding in Ms. Fr. 640."](https://edition640.makingandknowing.org/#/essays/ann_076_fa_18)
 -   Sulfur-Passed Wax
     -   Landsman/Rowen, [“Uses of Sulfur for Casting.”](http://edition640.makingandknowing.org/#/essays/ann_007_fa_14)
@@ -167,7 +167,7 @@ links in the essays above.
 ### Sources on Making Sixteenth-century Bread
 
 -  [<u>John Evelyn’s bread
-recipes</u>](/documents/activity-sheets/breadmolding_evelyn-john_bread-recipes), including varieties of French bread
+recipes</u>](/documents/activity-sheets/breadmolding_evelyn-john_bread-recipes.pdf), including varieties of French bread
 -  ([<u>working
 transcription</u>](https://drive.google.com/open?id=1GNklzsgidrIGdf2Twf78eJy0fgy-S6Tuh3VKGdKNTJU)
 of Evelyn’s recipes by Reut Ullman, Columbia University)
