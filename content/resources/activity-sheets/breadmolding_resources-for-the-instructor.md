@@ -168,8 +168,8 @@ links in the essays above.
 
 -  [<u>John Evelyn’s bread
 recipes</u>](/documents/activity-sheets/breadmolding_evelyn-john_bread-recipes.pdf), including varieties of French bread
--  ([<u>working
-transcription</u>](https://drive.google.com/open?id=1GNklzsgidrIGdf2Twf78eJy0fgy-S6Tuh3VKGdKNTJU)
+    - [<u>working
+transcription</u>](/documents/activity-sheets/activitysheet_Ullman_John-Evelyn-Bread-Recipes-Transcription.pdf)
 of Evelyn’s recipes by Reut Ullman, Columbia University)
 -  [<u>Culinary and medicinal recipe book of Beulah Hutson</u>](https://digitalcollections.folger.edu/bib354134-502408), c.1660-1685, which contains a recipe for French Bread (pp.22-23)
 -  The Food Timeline- Bread History (good bibliography):
