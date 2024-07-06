@@ -64,8 +64,8 @@ Corpus of culinary & dietetic texts of Europe from the Middle Ages to 1800 with 
 
 -   [Ken Albala’s blog](http://kenalbala.blogspot.nl/)
 
--   [The Recipes Project](http://recipes.hypotheses.org/category/teaching)
+-   [The Recipes Project](https://recipes.hypotheses.org/)
 
     -   [Interview with the key organizer](http://recipes.hypotheses.org/3216)
 
--   See also historic food recreations by [culinary historian Ivan Day](http://www.historicfood.com/portal.htm)
+-   See also historic food recreations by [culinary historian Ivan Day](http://foodhistorjottings.blogspot.com/)
