@@ -123,13 +123,16 @@ tape or modeling clay like plasticine
 
 Videos by Vassar College students showing the process and result
 
-{{< vimeo 419940044 >}}
+{{< vimeo 419940044 >}}<br>
 
-{{< vimeo 419949231 >}}
+
+{{< vimeo 419949231 >}}<br>
+
   
-Video of Making and Knowing Director Pamela Smith introducing “skillbuilding” exercises, including culinary reconstructions.
+Video of Making and Knowing Director Pamela Smith introducing “skillbuilding” exercises, including breadmolding and culinary reconstructions.
 
-{{< vimeo 384070302 >}}
+{{< vimeo 384070302 >}}<br>
+
 
 ### Suggested reading on Historical Breads (to assign for class and/or further information)
 - If you only assign one piece of reading, we suggest Le Pouésard, “Pain, Ostie, Rostie” (see below).
