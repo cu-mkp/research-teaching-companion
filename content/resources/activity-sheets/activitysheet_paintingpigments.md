@@ -47,7 +47,7 @@ For an overview of stretching and gessoing canvas for painting, refer to [Presen
 ### Teaching Paint Making
 #### Making Paint in the Classroom: Presentations
 - [Presentation: Introduction to Pigments & Paints](/documents/activity-sheets/painting_assignment_downloadable_2021.pdf)
-- [Presentation: Flower Painting in Oil According to Willem Beurs](/documents/activity-sheets/Hermens_2024_Flower-painting-in-oil.pdf)
+- [Presentation: Flower Painting in Oil According to Willem Beurs](/documents/activity-sheets/2024_Hermens_Flower-painting-in-oil.pdf)
 
 #### Making Paint in the Classroom: Activity Sheets
 - Classroom activity sheet for paint making [pdf]({{< ref "/documents/activity-sheets/painting_assignment_downloadable_2021.pdf" >}})
