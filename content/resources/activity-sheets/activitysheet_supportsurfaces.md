@@ -1,4 +1,4 @@
-## Preparing Panels, Canvases, and Other Supports for Painting, etc.
+## Preparing Panels, Canvases, and Other Supports for Painting, Guilding, etc.
 {{< figure src="/images/painting-title-image.png" alt="hand holding paintbrush in paint on mulling plate" >}}
 
 This activity teaches students how to prepare common supports, namely panels and canvases, to receive paint. The preparations outlined below ensure that any media applied to the support goes on evenly without risk of bleeding into or through that support. This activity can be undertaken as a stand-alone skill-building exercise or it can be a prelude to [paint making and testing](/resources/activity-sheets/activitysheet_paintingpigments/) using [hand-made lake pigments](/resources/activity-sheets/activitysheet_lake-pigments/), [hand-grown verdigris](/resources/activity-sheets/verdigris-assignment/), and/or [hand-levigated azurite](/research-teaching-companion/resources/activity-sheets/azurite-assignment/). The Making and Knowing Project has found it useful to have various preparred panels and canvases on hand for other hands-on activities and experiments, such as applying metal leaf, varnish enamels, and metalpoint, and pounced designs.
@@ -23,6 +23,7 @@ The terms "support" and "substrate" are often used interchangeably to mean the m
 
 #### Preparing Supports: Activity Sheets
 - Classroom activity sheet for preparing gessoed test panels to receive paint samples [docx]({{< ref "/documents/activity-sheets/bol_2024_preparing-test-panels.docx" >}}) [pdf]({{< ref "/documents/activity-sheets/bol_2024_preparing-test-panels.pdf" >}})
+- Handout: Historical recipes for metalpoint ground
 
 #### Follow-up Activities
 - [Lesson Plan: Making Paints from Pigments and Binding Media and Painting Them Out](/resources/activity-sheets/activitysheet_paintingpigments/)
@@ -31,7 +32,7 @@ The terms "support" and "substrate" are often used interchangeably to mean the m
 - [Presentation: Flower Painting in Oil According to Willem Beurs](/documents/activity-sheets/2024_Hermens_Flower-painting-in-oil.pdf)
 
 #### The Preparation of Supports in Ms. Fr. 640
-There are dozens of entries in Ms. Fr. 640 that address elements of paint making and painting, including pigment behavior, mulling (grinding), binders, handling, and the practical uses of particular materials for various kinds of subject matter (e.g., flesh tones). In fact, "painting" is one of the categories that M&K has used to classify the various entries in the manuscript, and entries on painting account for roughly 15% of the manuscript's contents. These entries are best accessed by searching the manuscript for "[painter](https://edition640.makingandknowing.org/#/search?q=painter)" and "[painting](https://edition640.makingandknowing.org/#/search?q=painting)." 
+There are several entries in Ms. Fr. 640 that address the preparation of supports for the application of media. 
 
 There are also several essays in [_Secrets of Craft and Nature in Renaissance France_](https://edition640.makingandknowing.org/#/) that explore the use of various prepared supports, including:
 - Sahar Bostock, "[Tablets](https://edition640.makingandknowing.org/#/essays/ann_068_fa_18)."
