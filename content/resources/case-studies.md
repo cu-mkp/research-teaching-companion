@@ -10,28 +10,30 @@ The Making and Knowing Project has many collaborators from K-12 to university, t
 ## Collaborator Pilot Courses
 Materials from courses taught by Project collaborators, some using resources from this Companion or developed in consultation with the Making and Knowing Project.
 
-### Spring 2018: Experiment [[Syllabus]](https://www.makingandknowing.org/wp-content/uploads/2018/05/Keller_Experiment-2018.pdf).
+### Spring 2018: Experiment [[Syllabus](https://www.makingandknowing.org/wp-content/uploads/2018/05/Keller_Experiment-2018.pdf)]
 Spring 2018, 
 University of Oregon, Clark Honors College, 
 Vera Keller, Professor of History
 
 - **Course description:** The course *Experiment* explores the origins of experimental science in early modern Europe (15th-18th centuries), and incorporates hands-on activities. In 2018, students researched Ms. Fr. 640 then read essays in *Secrets of Craft and Nature*. The class had the chance to Skype with current and former Making and Knowing students, who were able to answer questions and respond to critiques. The course included a number of experimental reconstructions, including a “Boyle’s Law” demonstration and growing of Seignette Salts. Students described the course of this experiment in a period voice (voice of Boyle or voice of the author-practitioner), and discussed what is at stake in the various literary technologies employed. For more on the various literary technologies, see Vera Keller, [Four Manuscripts between the Recipe and the Experimental Essay](https://edition640.makingandknowing.org/#/essays/ann_320_ie_19).
 
-### Spring 2022: ARTH 295 (OC): Ingenious Making in the Early Modern World \[[Syllabus](https://docs.google.com/document/d/e/2PACX-1vQbugAa655DEXQrOFr0M29BK_MCLZEDPdQm8QlQl1M4qkU1Igx9FcP1NkHONbiveQ/pub)\]
+### Spring 2022: ARTH 295 (OC): Ingenious Making in the Early Modern World [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vQbugAa655DEXQrOFr0M29BK_MCLZEDPdQm8QlQl1M4qkU1Igx9FcP1NkHONbiveQ/pub)]
 
 Spring 2022, 
 Oberlin College, 
 Christina Neilson, Associate Professor of Art History
 
 - **Course description:** This course investigates what it meant to make things and work with materials, including featherwork, imitation gems, color making, and metal casting, in Europe and colonial Latin America between around 1350 and 1650. We will follow historical descriptions and recipes to reconstruct methods of making, and learn from expert practitioners who are holders of traditional techniques and meanings, including indigenous makers. We will consider how a wide range of practitioners developed hands-on knowledge in workshops, laboratories, marketplaces, gardens, etc. and we will explore how making was and is a form of knowledge, how there are different systems of knowledge, and the intersections between art making and science.
-  
-- **Sample student portfolio reports:**
+- **Reflections on Teaching Ingenious Making:** [Ingenious Making in the Early Modern World](https://vimeo.com/942071266)<br>
+Christina Neilson and Heather Galloway speak about their experience using the Making and Knowing Project's Hands-on Lesson Plans in a class at Oberlin College.
+
+ - **Sample student portfolio reports:**
 Similar to M&K's [Fieldnotes](https://fieldnotes.makingandknowing.org/), these portfolios document the students' hands-on activities, which included [Stucco for Molding]({{< ref "/resources/activity-sheets/stucco-assignment" >}}), Molding Fruits in Sugar ([Ms. Fr. 640, fol. 126r](https://edition640.makingandknowing.org/#/folios/126r/f/126r/tl)), and making and painting [cochineal lake]({{< ref "/resources/activity-sheets/pigment-cochineal-lake_assignment" >}}) and [verdigris]({{< ref "/resources/activity-sheets/verdigris-assignment" >}}) pigments.
      - [Audrey Libatique](https://oberlin.digication.com/audrey-libatique-ingenious-making/home)
      - [Ava Chessum](https://oberlin.digication.com/audrey-libatique-ingenious-making/home)
      - [Sien McFalls](https://oberlin.digication.com/sien-mcfalls-journal-arth295/home)
 
-### Spring 2023: VIZA 689: Art/Craft: Hands-on Global Histories of Materials, Techniques, and Skilled Making [Syllabus]({{< ref "/documents/case-studies/sp23_uchacz_tianna_syllabus-viza-689_art-craft.pdf" >}})
+### Spring 2023: VIZA 689: Art/Craft: Hands-on Global Histories of Materials, Techniques, and Skilled Making [[Syllabus](/documents/case-studies/sp23_uchacz_tianna_syllabus-viza-689_art-craft.pdf)]
 
 Spring 2023, 
 Graduate Special Topics Seminar, School of Performance, Visualization & Fine Arts, 
@@ -70,19 +72,19 @@ With support from a [Montague-Center for Teaching Excellence Award](https://pvfa
   - tip: assign students to pairs ahead of class and try to pair a sciences student with an arts student so that at least one person per pair is familiar with lab equipment, lab safety, etc.
   - tip: I used a kettle and two 1.75 L caraffes to pre-boil water in order to reduce activity time spent waiting for water to heat
   - tip: I used stackable cooling racks for baking to help the pigments dry
-- Lab 2: Making and Testing Paint [Canvas page for the day's activities]({{< ref "/documents/case-studies/sp24_uchacz_tianna_canvas-lab2-arts-150_global-art-history-survey.pdf" >}}) [Canvas page for the day's activities](/documents/case-studies/sp24_uchacz_tianna_canvas-lab2-arts-150_global-art-history-survey.pdf)
-- - 5 stations (tables) of 6 students, where each student has their own glass plate and muller. Each station works with *one* of five pigments made in the previous lab (cochineal, cochineal reversed, madder, weld, logwood), first mulling it in either egg white or egg yolk, and second in either walnut oil or linseed oil. I laid out each station-table according to these templates: first [egg media]({{< ref "/images/sp24_uchacz_tianna_egg-media-arts-150_global-art-history-survey.png" >}}), and then [oil media]({{< ref "/images/sp24_uchacz_tianna_oil-media-arts-150_global-art-history-survey.png" >}}).
+- Lab 2: Making and Testing Paint [Canvas page for the day's activities](/documents/case-studies/sp24_uchacz_tianna_canvas-lab2-arts-150_global-art-history-survey.pdf)
+- - 5 stations (tables) of 6 students, where each student has their own glass plate and muller. Each station works with *one* of five pigments made in the previous lab (cochineal, cochineal reversed, madder, weld, logwood), first mulling it in either egg white or egg yolk, and second in either walnut oil or linseed oil. I laid out each station-table according to these templates: first [egg media](/images/sp24_uchacz_tianna_egg-media-arts-150_global-art-history-survey.png), and then [oil media](/images/sp24_uchacz_tianna_oil-media-arts-150_global-art-history-survey.png).
   - limiting factor: need for 30 glass plates and 30 glass mullers as well as table space for this equipment
   - limiting factor: 75 min was barely enough for the seven general stages of this lab: 1) separating eggs and extracting the yolk from the sac, 2) mulling pigment with egg white/yolk, 3) walking around and filling out all 10 sample squares on their card for egg media, 4) washing equipment, 5) mulling pigment with wallnut/linseed oil, 6) walking around and filling out all 10 sample squares on their card for oil media, 7) washing up.
-  - tip: have students prepare their sample cards ahead of time. Here is the [template]({{< ref "images/sp24_uchacz_tianna_paint-grid-arts-150_global-art-history-survey.png" >}}) I gave them.
+  - tip: have students prepare their sample cards ahead of time. Here is the [template](images/sp24_uchacz_tianna_paint-grid-arts-150_global-art-history-survey.png) I gave them.
   - tip: leave enough time for students to go around the stations to fill in samples of all colors in all media on their cards, but do hurry them along, as they can lose time here.
   - tip: have students take photos of their sample card when they finish, and have ziptop bags on hand into which students can (carefully) place their finished and still-wet sample cards to take home
   - tip: use cheap paintbrushes (the aim is to create a sample card not a masterpiece), and start with egg media so that the paint brushes can be washed and used again for oil media. Dispose of the paintbrushes after using them with the oil paints.
 
 After each lab, I assigned reflection assignments that asked them to consider contextual information, their experiences in the lab, and the relevance of their experiences for their understanding of art history:
-- Pigment-Making Lab Reflection Assignment [docx](/documents/activity-sheets/uchacz_2024_lab1_reflection-assignment-background.docx) [pdf](/documents/activity-sheets/uchacz_2024_lab1_reflection-assignment-background.pdf)
-- Pigment-Making Lab Reflection Assignment Background Document [docx](/documents/activity-sheets/uchacz_2024_lab1_reflection-assignment.docx) [pdf](/documents/activity-sheets/uchacz_2024_lab1_reflection-assignment.pdf)
-- Paint-Making Lab Reflection Assignment [docx](/documents/activity-sheets/uchacz_2024_lab2_reflection-assignment.docx) [pdf](/documents/activity-sheets/uchacz_2024_lab2_reflection-assignment.pdf)
+- Pigment-Making Lab Reflection Assignment [[docx](/documents/activity-sheets/uchacz_2024_lab1_reflection-assignment-background.docx)] [[pdf](/documents/activity-sheets/uchacz_2024_lab1_reflection-assignment-background.pdf)]
+- Pigment-Making Lab Reflection Assignment Background Document [[docx](/documents/activity-sheets/uchacz_2024_lab1_reflection-assignment.docx)] [[pdf](/documents/activity-sheets/uchacz_2024_lab1_reflection-assignment.pdf)]
+- Paint-Making Lab Reflection Assignment [[docx](/documents/activity-sheets/uchacz_2024_lab2_reflection-assignment.docx)] [[pdf](/documents/activity-sheets/uchacz_2024_lab2_reflection-assignment.pdf)]
 
 The results of the reflection assignments were encouraging: the students came to appreciate the material qualities, appearances, and behaviors of various paint media. They gained a better sense of the skill and labor involved in painting, and they had excellent and insightful follow-up questions after the assignemnt. Moreover, their course evaluations routinely mentioned how much they enjoyed the activity, not only for what they learned but for the opportunity it gave them to get to know their classmates in what is otherwise a sizeable lecture course.
 
@@ -98,11 +100,11 @@ Naomi Rosenkranz, Dr. Tianna Uchacz, Dr. Donna Janes, Dr. Sumeyye Yar
 This 4-day workshop was held in March 2023 at Texas A&M University. It was organized by Tianna Uchacz as a series of guest labs for her graduate course "Art/Craft: Hands-on Global Histories of Materials, Techniques & Skilled Making." The labs were co-led by Naomi Rosenkranz (M&K) and Donna Janes (Microbiology, Texas A&M) in consultation with Sumeyye Yar. The activities, a 2-day dyeing workshop using cochineal insects, paired with a 2-day painting workshop using bioluminescent bacteria, built on workshops that Rosenkranz and Yar had developed and led at Genspace community lab, Brooklyn. 10 faculty and 26 students from the College of Arts and Sciences, the College of Engineering, and the School of Performance, Visualization & Fine Arts took part.
 
 **RESOURCES**
-- [Presentation: Chemistry of dyeing and history of cochineal as a dyestuff]({{< ref "/documents/activity-sheets/2023_dyes_cochineal-history-chem-prep_TAMU-compressed.pdf" >}})
-- [Handout: mordant and dyestuff amounts for 12 different dyeing stations]({{< ref "/documents/activity-sheets/sp23_printout_samples-amounts.pdf" >}})
-- [Handout: mordanting and dyeing process protocol]({{< ref "/documents/activity-sheets/sp23_handout_dyeing-textiles_general-process.pdf" >}})
+- [Presentation: Chemistry of dyeing and history of cochineal as a dyestuff](/documents/activity-sheets/2023_dyes_cochineal-history-chem-prep_TAMU-compressed.pdf)
+- [Handout: mordant and dyestuff amounts for 12 different dyeing stations](/documents/activity-sheets/sp23_printout_samples-amounts.pdf)
+- [Handout: mordanting and dyeing process protocol](/documents/activity-sheets/sp23_handout_dyeing-textiles_general-process.pdf)
 - [News Item: Bio Art Workshops at Texas A&M University](https://pvfa.tamu.edu/news/2023/03/20/bio-art-workshops-to-show-creative-process-using-cochineal-insects-bacteria/)
-- [Poster: Bio Art Workshops at Texas A&M University]({{< ref "/documents/activity-sheets/sp23_poster_bioart.pdf" >}})
+- [Poster: Bio Art Workshops at Texas A&M University](/documents/activity-sheets/sp23_poster_bioart.pdf)
 
 
 ### Refashioning the Renaissance
@@ -120,9 +122,9 @@ Naomi Rosenkranz & Dr. Sumeyye Yar
 Sponsored by the Center for Science and Society and Genspace
 
 **RESOURCES**
-- [Presentation: Overview of the history and chemistry of dyeing]({{< ref "/documents/activity-sheets/rosenkranz_2018_dyes_cochineal-workshop_overview-of-dye-chemistry-history.pdf" >}})
-- [Presentation: Dyeing with Cochineal, Step by Step]({{< ref "/documents/activity-sheets/rosenkranz_2018_dyes_cochineal-step-by-step.pdf" >}})
-- [Handout: Mordanting and Dyeing Protocol]({{< ref "/documents/activity-sheets/rosenkranz_2018_dyes_handout_dyeing-with-cochineal.pdf" >}})
+- [Presentation: Overview of the history and chemistry of dyeing](/documents/activity-sheets/rosenkranz_2018_dyes_cochineal-workshop_overview-of-dye-chemistry-history.pdf)
+- [Presentation: Dyeing with Cochineal, Step by Step](/documents/activity-sheets/rosenkranz_2018_dyes_cochineal-step-by-step.pdf)
+- [Handout: Mordanting and Dyeing Protocol](/documents/activity-sheets/rosenkranz_2018_dyes_handout_dyeing-with-cochineal.pdf)
 
 #### Dyeing with Natural Colorants 
 (date)
@@ -136,8 +138,8 @@ Summer 2022
 Annika Cunningham, High School Student
 
 **RESOURCES**
-- Template for Dyeing Onion Skins + notes 1 [xlsx]({{< ref "/documents/activity-sheets/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes.xlsx" >}}) [PDF]({{< ref "/documents/activity-sheets/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes.pdf" >}})
-- Template for Dyeing Onion Skins + notes 2 (greens) [xlsx]({{< ref "/documents/activity-sheets/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes-2-greens.xlsx" >}}) [PDF]({{< ref "/documents/activity-sheets/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes-2-greens.pdf" >}})
+- Template for Dyeing Onion Skins + notes 1 [[xlsx](/documents/activity-sheets/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes.xlsx)] [[PDF](/documents/activity-sheets/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes.pdf)]
+- Template for Dyeing Onion Skins + notes 2 (greens) [[xlsx](/documents/activity-sheets/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes-2-greens.xlsx)] [[PDF](/documents/activity-sheets/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes-2-greens.pdf)]
 
 ## Making and Knowing Project Collaborations
 For more [Making and Knowing Collaborations](https://www.makingandknowing.org/collaborators/).
