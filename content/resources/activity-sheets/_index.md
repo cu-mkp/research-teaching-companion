@@ -21,7 +21,7 @@ Reconstructing an obscure culinary recipe is especially effective as a first han
 An intriguing recipe in Ms. Fr. 640 for making molds from bread is the basis for this lesson plan, which begins from the Ms. Fr. 640 recipe and expands to a multi-week series of activities, including learning to make bread, experimenting with different techniques of molding, and, finally, casting wax into bread. The lesson is an effective way to introduce students to embodied experience and knowledge.  
 - [Bread Making, Molding, and Casting](/resources/activity-sheets/breadmolding_resources-for-the-instructor)
 ### Making Stucco for Molding
-- [Stucco for Molding](/resources/activity-sheets/activitysheet_stucco)
+- [Stucco for Molding](/resources/activity-sheets/stucco-assignment)
 ### Dyeing with Natural Colorants
 - [Dyeing with Natural Colorants](/resources/activity-sheets/activitysheet_dyeing)
 ### Making Paints from Pigments and Painting Them Out
