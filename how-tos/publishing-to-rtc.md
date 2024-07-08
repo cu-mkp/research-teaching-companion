@@ -157,7 +157,7 @@ Images
      - to adjust size: `{{< figure src="/images/media-ghoneima/image3.png" alt="Chart" width="640" height="360" >}}` - adjust width and height as you like</del>
 
 - markdown: `![stucco-molded](/images/stucco-molded.jpg)`
-- html: `<img src="./images/image5.png" style="width:6.11351in;height:3.77in" alt="Chart" />
+- html: `<img src="./images/image5.png" style="width:6.11351in;height:3.77in" alt="Chart" />`
 
 Documents
 <del>- `[Stucco for Molding]({{< ref "/documents/activity-sheets/stucco-assignment.pdf" >}})` </del>
