@@ -84,10 +84,10 @@ The reconstruction of this recipe has been adapted for two variations: stucco fr
 
 __________________________________________________________________________________________________________________________________
 
-A downloadable version of this assignment: [[PDF](/documents/activity-sheets/stucco_assignment_downloadable_2021.pdf)]
+A downloadable version of this assignment: [[PDF]([[**PDF**](/documents/activity-sheets/stucco_assignment_downloadable_2021.pdf)]
 
 **NOTE TO INSTRUCTORS:** Rather than providing the full instructions, one may want to provide students only with the original recipe and the materials, allowing them to interpret the entry for themselves. A "student handout" is available:
-- [webpage (student handout)](../stucco_assignment_student-handout)
+- [webpage (student handout)](/resources/activity-sheets/stucco_assignment_student-handout)
 - [PDF (student handout)](/documents/activity-sheets/stucco_assignment_student-handout.pdf)
 
 
