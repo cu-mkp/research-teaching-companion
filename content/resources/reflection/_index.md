@@ -74,3 +74,6 @@ See the videos created by Lan Li:<br>
 [Weaving Knowledge: The Looms of Banraijaisook](https://player.vimeo.com/video/310728471)<br>
 [Weaving Knowledge: Thinking, Feeling, and Making](https://player.vimeo.com/video/310888539)<br>
 
+## Bibliography - Hands-on Teaching and Learning
+[Bibliography](/resources/reflection/bibliography)
+
