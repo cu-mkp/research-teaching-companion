@@ -80,6 +80,6 @@ Ms. Fr. 640 contains an entry on fol. 43v for “Varied and Transmuted Wine.” 
 See [Sleight of Hand Tricks](https://edition640.makingandknowing.org/#/essays/ann_043_sp_16) by Ann-Sophie Barwich and [Varied and Transmuted Wine](https://edition640.makingandknowing.org/#/essays/ann_512_ad_20) by Sayantani Mukherjee.
 
 ### Making and Using Fish Glue
-The making of an essential material for any workshop.
+The making of an essential material for any early modern workshop.
 
 [Making and Using Fish Glue](https://edition640.makingandknowing.org/#/essays/ann_056_sp_17) by Xinguo (Casa) Wang
