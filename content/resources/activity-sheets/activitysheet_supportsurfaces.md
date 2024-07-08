@@ -23,7 +23,7 @@ The terms "support" and "substrate" are often used interchangeably to mean the m
 
 #### Preparing Supports: Activity Sheets
 - Classroom activity sheet for preparing gessoed test panels to receive paint samples [docx]({{< ref "/documents/activity-sheets/bol_2024_preparing-test-panels.docx" >}}) [pdf]({{< ref "/documents/activity-sheets/bol_2024_preparing-test-panels.pdf" >}})
-- Handout: Historical recipes for metalpoint ground
+- [Handout: Historical recipes for metalpoint ground](/documents/activity-sheets/metalpoint-ground-preparation-recipes.pdf)
 
 #### Follow-up Activities
 - [Lesson Plan: Making Paints from Pigments and Binding Media and Painting Them Out](/resources/activity-sheets/activitysheet_paintingpigments/)
@@ -32,10 +32,27 @@ The terms "support" and "substrate" are often used interchangeably to mean the m
 - [Presentation: Flower Painting in Oil According to Willem Beurs](/documents/activity-sheets/2024_Hermens_Flower-painting-in-oil.pdf)
 
 #### The Preparation of Supports in Ms. Fr. 640
-There are several entries in Ms. Fr. 640 that address the preparation of supports for the application of media. 
+Several entries in Ms. Fr. 640 address the preparation of supports for the application of various media:
+- Canvas for painting in oil without breaking
+- Painting in oil on taffeta
+- For painting in oil on taffeta without the oil running
+- Stretching a canvas picture
+- Mending the cracks in a panel
+- First whitening of a panel
+- Grottos
+- For gilding on wood
+- Seat for gold
+- Seat for gold leaf on parchment or paper
+- Gilding molding for panels with or mat
+- For coating it
+- Cutters of printing plates
+
+The author-practitioner mentions techniques for preparing supports in passing, such as in the entry "Painter" on fol. 56v and "Drawing" on fol. 62r. There is no systematic way to catch all instances, so it is useful to search broadly. It is also useful to search the edition for particular supports, such as "[canvas]()," "[panel]()," "[parchment]()," or "[stucco]()," or to search for terms such as "[imprimatura]()," "[ground[()," and "[seat]()," being mindful of homonyms and context.  
 
 There are also several essays in [_Secrets of Craft and Nature in Renaissance France_](https://edition640.makingandknowing.org/#/) that explore the use of various prepared supports, including:
-- Sahar Bostock, "[Tablets](https://edition640.makingandknowing.org/#/essays/ann_068_fa_18)."
+- "[Painting in Oil on Taffeta Without the Oil Running]"
+- "[Painting in Oil on Taffeta I]
 - Sumeyye Yar, “[Painting in Oil on Taffeta II](https://edition640.makingandknowing.org/#/essays/ann_062_fa_17).”
-- Cleo Nisse, “[Shadows Beneath the Skin: How to Paint Faces in Distemper](https://edition640.makingandknowing.org/#/essays/ann_042_sp_16).”- 
+- Sahar Bostock, "[Tablets](https://edition640.makingandknowing.org/#/essays/ann_068_fa_18)."
+- Cleo Nisse, “[Shadows Beneath the Skin: How to Paint Faces in Distemper](https://edition640.makingandknowing.org/#/essays/ann_042_sp_16).”
 
