@@ -21,8 +21,8 @@ The activity of making stucco for molding has several potential learning outcome
 ### Teaching Stucco Making
 
 #### Stucco Making: Activity Sheets
-- [Stucco Making Assignment]({{< ref "/documents/activity-sheets/stucco_assignment_downloadable_2021.pdf" >}})
-- [Stucco Making Assignment: Student Handout]({{< ref "/documents/activity-sheets/stucco_assignment_downloadable_2021.pdf" >}})
+- [Stucco Making Assignment]({{ < ref "/documents/activity-sheets/stucco_assignment_downloadable_2021.pdf" >}})
+- [Stucco Making Assignment: Student Handout]({{ < ref "/documents/activity-sheets/stucco_assignment_downloadable_2021.pdf" >}})
 - Stucco Making Assignment: Pre-Lab Reflection and Research Assignment [docx]({{< ref "/documents/activity-sheets/uchacz_2024_stucco_reflection-assignment.docx" >}}) [PDF]({{< ref "/documents/activity-sheets/uchacz_2024_stucco_reflection-assignment.pdf" >}})
 
 
