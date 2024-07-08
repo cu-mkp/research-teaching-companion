@@ -145,23 +145,25 @@ Whenever we include links to external resources, we need to consider whether tho
 
 All non-markdown media should be placed in the `static/` directory. For ease of use, it is currently structured as two folders: `img` for images, and `documents` for all other media (e.g. `docx`, `pptx`, `pdf`).
 
-These work differently from the other internal links. Instead of the `ref` tag, just use normal Markdown link or image syntax, treating `static/` as the base of the URL. It is important that each URL includes a leading slash. For example:
+<del>These work differently from the other internal links. Instead of the `ref` tag, just use normal Markdown link or image syntax, treating `static/` as the base of the URL. It is important that each URL includes a leading slash. For example:</del>
 
-To link to other pages on the site, use the `ref` tag surrounded by double brackets; to link to external links, use typical Markdown link syntax.
+<del>To link to other pages on the site, use the `ref` tag surrounded by double brackets; to link to external links, use typical Markdown link syntax.</del>
 
 For an example using both internal and external links:
 
 Images
-- [figure shortcode](https://gohugo.io/content-management/shortcodes/#figure): `{{< figure src="/images/media-ghoneima/image3.png" alt="Chart">}}`
-- `{{< figure src="/images/`*name of image.extension*`" alt="`*alt text for your image*`" >}}`
-     - to adjust size: `{{< figure src="/images/media-ghoneima/image3.png" alt="Chart" width="640" height="360" >}}` - adjust width and height as you like
+<del>- [figure shortcode](https://gohugo.io/content-management/shortcodes/#figure): `{{< figure src="/images/media-ghoneima/image3.png" alt="Chart">}}` </del>
+<del>- `{{< figure src="/images/`*name of image.extension*`" alt="`*alt text for your image*`" >}}`
+     - to adjust size: `{{< figure src="/images/media-ghoneima/image3.png" alt="Chart" width="640" height="360" >}}` - adjust width and height as you like</del>
+
 - markdown: `![stucco-molded](/images/stucco-molded.jpg)`
+- html: `<img src="./images/image5.png" style="width:6.11351in;height:3.77in" alt="Chart" />
 
 Documents
-- `[Stucco for Molding]({{< ref "/documents/activity-sheets/stucco-assignment.pdf" >}})`
+<del>- `[Stucco for Molding]({{< ref "/documents/activity-sheets/stucco-assignment.pdf" >}})` </del>
 - markdown: `[Stucco for Molding](/documents/activity-sheets/stucco_assignment_student-handout.pdf)`
 
-For more information about internal links, see the Hugo documentation on [Links and Cross References](https://gohugo.io/content-management/cross-references/).
+<del>For more information about internal links, see the Hugo documentation on [Links and Cross References](https://gohugo.io/content-management/cross-references/).</del>
 
 ```markdown
 Similar to M&K's [Fieldnotes](https://fieldnotes.makingandknowing.org/), these
