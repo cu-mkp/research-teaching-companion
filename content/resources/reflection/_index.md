@@ -37,9 +37,11 @@ By proposing a shift from textbooks and tests to hands-on work and process, M&K 
     -  [Metal Casting with Toulouse Sand](https://vimeo.com/384070929)<br>
 
 ## Reflections on Hands-on Learning
+[Tips for Hands-on Teaching and Learning](/resources/activity-sheets/activitysheet_tips-for-instructors) compiled by the Making and Knowing Project.
+
 [A Recipe for Recipe Research: The Making and Knowing Project](https://recipes.hypotheses.org/7430), The Recipes Project, 2016.
 
-[Around the Table: The Making and Knowing Project](https://recipes.hypotheses.org/17539), The Recipes Project, October 2020
+[Around the Table: The Making and Knowing Project](https://recipes.hypotheses.org/17539), The Recipes Project, October 2020.
 
 [*Science and Art in a Sixteenth-Century Workshop: Hands-On History in the Making and Knowing Project*](https://vimeo.com/957244396)<br>
 Pamela H. Smith discusses hands-on teaching and learning in the Elizabeth B. McNab Lecture in the History of Science, McGill University, 2021.
@@ -57,7 +59,7 @@ Christina Neilson and Heather Galloway speak about their experience using the Ma
 An episode of the _Refashioning the Renaissance Podcast_ with Sophie Pitman and Pamela Smith.
 
 [Refashioning the Renaissance Team: Imitation Amber & Imitation Leopard Fur](https://www.aalto.fi/en/research-art/refashioning-the-renaissance-team-imitation-amber-imitation-leopard-fur)<br>
-Sophie Pitman is interviewed about the importance of working across art/science and living/non living boundaries, as part of the _Outre: Encounters with Non/living Things exhibition_ (2021).
+Sophie Pitman is interviewed about the importance of working across art/science and living/non living boundaries, as part of the _Outre: Encounters with Non/living Things_ exhibition (2021).
 
 [Remaking Objects in the Classroom and the Museum: A Panel Discussion](https://mediaspace.wisc.edu/media/Remaking+Objects+in+the+Classroom+and+the+MuseumA+A+Panel+Discussion/1_8a2itin1)<br>
 A panel discussion between scholars, curators, and creators including Deborah Krohn (Bard Graduate Center), Johnathan Tavares (Art Institute, Chicago), and Tracy Drier, Distinguished Master Glassblower (UW Madison) about how reconstructed objects and remaking methods can be used in innovative museum exhibitions and classroom teaching. Chaired by Sophie Pitman, curator of Remaking the Renaissance.
