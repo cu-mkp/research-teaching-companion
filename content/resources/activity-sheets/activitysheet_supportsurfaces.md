@@ -38,22 +38,22 @@ The terms "support" and "substrate" are often used interchangeably to mean the m
 - [Presentation: Flower Painting in Oil According to Willem Beurs](/documents/activity-sheets/2024_Hermens_Flower-painting-in-oil.pdf)
 
 #### The Preparation of Supports in Ms. Fr. 640
-Several entries in Ms. Fr. 640 address the preparation of supports for the application of various media:
-- Canvas for painting in oil without breaking
-- Painting in oil on taffeta
-- For painting in oil on taffeta without the oil running
-- Stretching a canvas picture
-- Mending the cracks in a panel
-- First whitening of a panel
-- Grottos
-- For gilding on wood
-- Seat for gold
-- Seat for gold leaf on parchment or paper
-- Gilding molding for panels with or mat
-- For coating it
-- Cutters of printing plates
+Numerous entries in Ms. Fr. 640 address the preparation of supports for the application of various media. A non-exhaustive sampling includes:
+- [Canvas for painting in oil without breaking](https://edition640.makingandknowing.org/#/folios/42v/tl)
+- [Painting in oil on taffeta](https://edition640.makingandknowing.org/#/folios/42v/f/42v/tl)
+- [For painting in oil on taffeta without the oil running](https://edition640.makingandknowing.org/#/folios/10v/tl)
+- [Stretching a canvas picture](https://edition640.makingandknowing.org/#/folios/165r/tl)
+- [Mending the cracks in a panel](https://edition640.makingandknowing.org/#/folios/59v/tl)
+- [First whitening of a panel](https://edition640.makingandknowing.org/#/folios/60r/tl)
+- [Grottos](https://edition640.makingandknowing.org/#/folios/40r/tl)
+- [For gilding on wood](https://edition640.makingandknowing.org/#/folios/75v/tl)
+- [Seat for gold](https://edition640.makingandknowing.org/#/folios/29v/tl)
+- [Seat for gold leaf on parchment or paper](https://edition640.makingandknowing.org/#/folios/10v/tl)
+- [Gilding molding for panels with or mat](https://edition640.makingandknowing.org/#/folios/66r/tl)
+- [For coating it](https://edition640.makingandknowing.org/#/folios/73v/tl)
+- [Cutters of printing plates](https://edition640.makingandknowing.org/#/folios/51r/tl)
 
-The author-practitioner mentions techniques for preparing supports in passing, as in the entries "[Painter]" on fol. 56v and "[Drawing]" on fol. 62r. There is no systematic way to catch all instances, so it is useful to search broadly. It is also useful to search the edition for particular supports, such as "[canvas]()," "[panel]()," "[parchment]()," or "[stucco]()," or to search for terms such as "[imprimatura]()," "[ground]()," and "[seat]()," being mindful of homonyms and context.  
+The author-practitioner mentions techniques for preparing supports in passing, as in the entries "[Painter](https://edition640.makingandknowing.org/#/folios/56v/tl)" on fol. 56v and "[Drawing](https://edition640.makingandknowing.org/#/folios/62r/f/62r/tl)" on fol. 62r. There is no systematic way to catch all instances, so it is useful to search broadly. It is also useful to search the edition for particular supports such as "[canvas](https://edition640.makingandknowing.org/#/search?q=canvas)," "[panel](https://edition640.makingandknowing.org/#/search?q=panel)," "[parchment](https://edition640.makingandknowing.org/#/search?q=parchment)," or "[stucco](https://edition640.makingandknowing.org/#/search?q=stucco)," techniques such as "[gilding](https://edition640.makingandknowing.org/#/search?q=gilding)," or terms such as "[imprimatura](https://edition640.makingandknowing.org/#/search?q=imprimatura)," "[ground](https://edition640.makingandknowing.org/#/search?q=ground)," and "[seat](https://edition640.makingandknowing.org/#/search?q=seat)," being mindful of homonyms and context.  
 
 There are also several essays in [_Secrets of Craft and Nature in Renaissance France_](https://edition640.makingandknowing.org/#/) that explore the use of various prepared supports, including:
 - Marilyn Bowen and Tianhe Lou, "[Painting in Oil on Taffeta Without the Oil Running](https://edition640.makingandknowing.org/#/essays/ann_025_fa_15)"
