@@ -56,7 +56,7 @@ Christina Neilson and Heather Galloway speak about their experience using the Ma
 [Knowing by Making](https://soundcloud.com/user-265326599/2-making-by-knowing-with-pamela-smith?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)<br>
 An episode of the _Refashioning the Renaissance Podcast_ with Sophie Pitman and Pamela Smith.
 
-[Refashioning the Renaissance Team, Imitation Amber & Imitation Leopard Fur](https://www.aalto.fi/en/research-art/refashioning-the-renaissance-team-imitation-amber-imitation-leopard-fur)<br>
+[Refashioning the Renaissance Team: Imitation Amber & Imitation Leopard Fur](https://www.aalto.fi/en/research-art/refashioning-the-renaissance-team-imitation-amber-imitation-leopard-fur)<br>
 Sophie Pitman is interviewed about the importance of working across art/science and living/non living boundaries, as part of the _Outre: Encounters with Non/living Things exhibition_ (2021).
 
 [Remaking Objects in the Classroom and the Museum: A Panel Discussion](https://mediaspace.wisc.edu/media/Remaking+Objects+in+the+Classroom+and+the+MuseumA+A+Panel+Discussion/1_8a2itin1)<br>
