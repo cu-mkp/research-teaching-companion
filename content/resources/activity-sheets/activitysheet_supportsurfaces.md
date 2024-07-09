@@ -13,6 +13,7 @@ The activity of preparing supports has several potential learning outcomes, whic
 - exprience the time and effort required to complete under-acknowledged yet critical preparatory steps in the art-making process
 - experience how support texture and ground layers affect the application and appearance of paint, metal, etc.
 - gain an appreciation for unseen elements in a finished work of art
+
 ![metalpoint-composite](/images/supports-metalpoint-composite.png)
 
 ### Supports, Substrates, Surfaces, and Grounds
@@ -25,9 +26,10 @@ The terms "support" and "substrate" are often used interchangeably to mean the m
 - [Presentation: Preparing Gessoed Test Panels](/documents/activity-sheets/bol_2024_preparing-test-panels.pdf)[Presentation: Introduction to Pigments & Paints](/documents/activity-sheets/painting_assignment_downloadable_2021.pdf)
 - [Presentation: Preparing the Canvas Support](/documents/activity-sheets/hermens_preparing-canvas-supports.pdf)
 
-#### Preparing Supports: Activity Sheets
+#### Preparing Supports: Activity Sheets & Resources
 - Classroom activity sheet for preparing gessoed test panels to receive paint samples [docx]({{< ref "/documents/activity-sheets/bol_2024_preparing-test-panels.docx" >}}) [pdf]({{< ref "/documents/activity-sheets/bol_2024_preparing-test-panels.pdf" >}})
 - [Handout: Historical recipes for metalpoint ground](/documents/activity-sheets/metalpoint-ground-preparation-recipes.pdf)
+- [Field Notes: Rosenkranz & Uchacz, “Varnishes in the Rain, Part I: Canvas Preparation and Painting”](https://fieldnotes.makingandknowing.org/pre-2018-Fall/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-in-the-rain/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-rain-1/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-rain-1-canvas-prep-paint.html)
 
 #### Follow-up Activities
 - [Lesson Plan: Making Paints from Pigments and Binding Media and Painting Them Out](/resources/activity-sheets/activitysheet_paintingpigments/)
@@ -51,12 +53,14 @@ Several entries in Ms. Fr. 640 address the preparation of supports for the appli
 - For coating it
 - Cutters of printing plates
 
-The author-practitioner mentions techniques for preparing supports in passing, such as in the entry "Painter" on fol. 56v and "Drawing" on fol. 62r. There is no systematic way to catch all instances, so it is useful to search broadly. It is also useful to search the edition for particular supports, such as "[canvas]()," "[panel]()," "[parchment]()," or "[stucco]()," or to search for terms such as "[imprimatura]()," "[ground[()," and "[seat]()," being mindful of homonyms and context.  
+The author-practitioner mentions techniques for preparing supports in passing, as in the entries "[Painter]" on fol. 56v and "[Drawing]" on fol. 62r. There is no systematic way to catch all instances, so it is useful to search broadly. It is also useful to search the edition for particular supports, such as "[canvas]()," "[panel]()," "[parchment]()," or "[stucco]()," or to search for terms such as "[imprimatura]()," "[ground]()," and "[seat]()," being mindful of homonyms and context.  
 
 There are also several essays in [_Secrets of Craft and Nature in Renaissance France_](https://edition640.makingandknowing.org/#/) that explore the use of various prepared supports, including:
-- "[Painting in Oil on Taffeta Without the Oil Running]"
-- "[Painting in Oil on Taffeta I]
+- Marilyn Bowen and Tianhe Lou, "[Painting in Oil on Taffeta Without the Oil Running](https://edition640.makingandknowing.org/#/essays/ann_025_fa_15)"
+- Marilyn Bowen and Tianhe Lou, "[Painting in Oil on Taffeta I](https://edition640.makingandknowing.org/#/essays/ann_024_fa_15)"
 - Sumeyye Yar, “[Painting in Oil on Taffeta II](https://edition640.makingandknowing.org/#/essays/ann_062_fa_17).”
+- Lila Goldenberg, "[Gilding on Paper and Parchment](https://edition640.makingandknowing.org/#/essays/ann_039_sp_16)"
+- Njeri Ndungu, "[What is _Or Mat_ in Ms. Fr. 640?](https://edition640.makingandknowing.org/#/essays/ann_041_sp_16)"
 - Sahar Bostock, "[Tablets](https://edition640.makingandknowing.org/#/essays/ann_068_fa_18)."
 - Cleo Nisse, “[Shadows Beneath the Skin: How to Paint Faces in Distemper](https://edition640.makingandknowing.org/#/essays/ann_042_sp_16).”
 
