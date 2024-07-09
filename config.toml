@@ -21,8 +21,8 @@ refLinksErrorLevel = "WARNING"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
+      
+[services]
 # Google analytics code
-services:
-  googleAnalytics:
-    id: G-Q73EJ8XGXM
+  [services.googleAnalytics]
+    id = 'G-XXXXXXXXX'
