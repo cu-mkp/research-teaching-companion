@@ -7,11 +7,11 @@ weight: 40
 
 ## Introduction
 
-In all the development of the Making and Knowing Projet Research and Teaching Companion, many individuals have contributed, including instructors, scholars, students, researchers, practitioners, makers, organizers, advisors, developers, instructors, designers, and supporters. Like _Secrets of Craft and Nature in Renaissance France: A Digital Edition of BnF Ms. Fr. 640_ the Research and Teaching Companion represents the culmination of many years of iterative, interdisciplinary, and collaborative work—of countless dedicated and enthusiastic members, individuals, and networks of the [Making and Knowing Project](https://www.makingandknowing.org/).
+In the development of the Making and Knowing Projet Research and Teaching Companion, many individuals have contributed, including instructors, scholars, students, researchers, practitioners, makers, organizers, advisors, developers, instructors, designers, and supporters. Like [_Secrets of Craft and Nature in Renaissance France: A Digital Edition of BnF Ms. Fr. 640_](https://edition640.makingandknowing.org/#/) the Research and Teaching Companion represents the culmination of many years of iterative, interdisciplinary, and collaborative work—of countless dedicated and enthusiastic members, individuals, and networks of the [Making and Knowing Project](https://www.makingandknowing.org/).
 
 ![about-credits-wgm15](/images/about-credits-wgm15.png)
 
-For more about the creation of the edition, see [About the Edition](h## ttps://edition640.makingandknowing.org/#/content/about#creation-of-the-edition) and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](https://edition640.makingandknowing.org/#/essays/ann_329_ie_19). For the numerous individuals involved in the creation of the edition, see [Credits](https://edition640.makingandknowing.org/#/content/about#People-and-Credits).
+For more about the creation of the edition, see [About the Edition](https://edition640.makingandknowing.org/#/content/about#creation-of-the-edition) and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](https://edition640.makingandknowing.org/#/essays/ann_329_ie_19). For the numerous individuals involved in the creation of the edition, see [Credits](https://edition640.makingandknowing.org/#/content/about#People-and-Credits).
 
 ## Research and Teaching Companion Contributors
 
@@ -81,7 +81,7 @@ For more about the creation of the edition, see [About the Edition](h## ttps://e
       - Christine Hu (2016)
 
 ## *Craft & Science: Making Objects in the Early Modern World* Laboratory Seminar Participants
-This hybrid laboratory-discussion graduate seminar offered through Columbia’s History Department combined historical research with hands-on skill-building and reconstructions of Ms. Fr. 640’s recipes in the Making and Knowing Laboratory. The teaching and student work in this course was foundational for creating the Research and Teaching Companion.
+This hybrid laboratory-discussion graduate seminar offered through Columbia’s History Department combined historical research with hands-on skill-building and reconstructions of Ms. Fr. 640’s recipes in the Making and Knowing Laboratory. The teaching and student work in this course was foundational in creating the content for the Research and Teaching Companion.
 
 Each semester of the *Craft and Science* Lab Seminar was driven by a guiding theme to draw together components of the manuscript and provide focus for analysis and activities, as described below.
 
@@ -169,7 +169,7 @@ Using the Project’s working transcriptions and English translation of Ms. Fr. 
 
 ### Columbia University Libraries and the Center for Teaching and Learning
 
-Staff members of the Libraries’ Digital Scholarship Division helped set the parameters of the Edition to ensure its archival preservation and its discoverability. Research Librarians and staff from the Libraries’ Conservation Lab taught components of the Project’s Text Workshops, Laboratory Seminars, and Digital Humanities Seminars. Staff members of the Center for Teaching and Learning helped the Project design its Digital Humanities Seminars around precepts in skills- and problem-based learning.
+Staff members of the Libraries’ Digital Scholarship Division helped set the parameters of the Edition to ensure its archival preservation and its discoverability, which also informed the Research and Teaching Companion. Research Librarians and staff from the Libraries’ Conservation Lab taught components of the Project’s Text Workshops, Laboratory Seminars, and Digital Humanities Seminars. Staff members of the Center for Teaching and Learning helped the Project design its Digital Humanities Seminars around precepts in skills- and problem-based learning.
 
   - Ann Thornton
   - Barbara Rockenbach
