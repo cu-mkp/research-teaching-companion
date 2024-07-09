@@ -74,10 +74,10 @@ The author-practitioner also mentions a side-project of fashioning a rose out of
 -   Horn (we used buffalo horn)
 -   Spike lavender oil varnish (see separate instructions for making)
 -   Turpentine varnish (see separate instructions)
--   Spike lavender oil (for oiling the undecorated front)
 -   Pigments, transparent rather than opaque (e.g. verdigris, lakes, smalt, azurite, malachite rather than earths, leads, carbon black, soots, chars)
 -   Unspun wool fleece of various colors (or wool yarn, unspun and teased out)
 -   Gold and silver leaf or transfer gold/silver (choice may depend on how dry the varnish layers are)
+-   Spike lavender oil (for oiling the undecorated front)
 -   Mineral spirits (for clean-up)
 
 ### Tools
@@ -161,12 +161,15 @@ Materials
 Tools
 -   Brushes
 
+Instructions
+
 The manuscript mentions using gold, silver or tin leaf as a reflective backing for the painted horn.
 -   Remove the sheet of transfer gold leaf from packet, being careful not to disrupt it and raise it off of the paper backing.
 -   Press one half (lengthwise) of the painted side of one sheet of horn against the transfer gold leaf. Apply pressure to make sure that the horn is really pressing against the gold leaf.
 -   Carefully turn over the sheet of horn and the entire square of gold leaf. With a finger, rub the transfer gold leaf against the horn to further secure the gold onto the oil or varnish of the hold.
 -   Remove the excess of gold leaf around the piece of horn, leaving behind the piece applied to the varnish.
 -   Using an unassigned brush, sweep away extraneous pieces of gold leaf that have not adhered to the horn. These extra pieces can also be swept onto any gaps in the transfer gilding on the sheet of horn. A gentle sweeping motion in one direction should do it.
+
 Notes
 -   For at least one sheet of horn, consider gilding the entire sheet.
 -   Consider using the metal leaf in combination with the wool. You have two options:
@@ -175,4 +178,16 @@ Notes
 
 
 ### Step 4. Oiling the jasper
+
+Materials
+-   Thin sheets of horn painted with varnish and transparent pigment (prepared per Step 2 and 3)
+-   Spike lavender oil (for oiling the undecorated front)
+
+Tools
+- brushes
+
+Instructions
+- Using a clean brush, apply spike lavender oil to the front (undecorated) side of the horn. The oil will fill in the dry micro-cracks on the surface of the horn, giving it a sheen and translucency.
+
+## Resources
 
