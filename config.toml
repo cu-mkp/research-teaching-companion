@@ -23,4 +23,6 @@ refLinksErrorLevel = "WARNING"
       unsafe = true
 
 # Google analytics code
-googleAnalytics = "YOUR-TRACKING-ID"
+services:
+  googleAnalytics:
+    id: G-Q73EJ8XGXM
