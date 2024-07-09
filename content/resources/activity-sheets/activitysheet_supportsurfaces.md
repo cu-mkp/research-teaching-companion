@@ -27,7 +27,6 @@ The terms "support" and "substrate" are often used interchangeably to mean the m
 ### Teaching Support Preparation
 #### Preparing Supports: Presentations
 - [Presentation: Preparing Gessoed Test Panels](/documents/activity-sheets/bol_2024_preparing-test-panels.pdf)
-- [Presentation: Introduction to Pigments & Paints](/documents/activity-sheets/painting_assignment_downloadable_2021.pdf)
 - [Presentation: Preparing the Canvas Support](/documents/activity-sheets/hermens_preparing-canvas-supports.pdf)
 
 #### Preparing Supports: Activity Sheets & Resources
@@ -39,7 +38,7 @@ The terms "support" and "substrate" are often used interchangeably to mean the m
 - [Lesson Plan: Making Paints from Pigments and Binding Media and Painting Them Out](/resources/activity-sheets/activitysheet_paintingpigments/)
 - [Presentation: Introduction to Pigments & Paints](/documents/activity-sheets/painting_assignment_downloadable_2021.pdf)
 - Classroom activity sheet for paint making [[pdf](/documents/activity-sheets/painting_assignment_downloadable_2021.pdf)]
-- [Presentation]
+- [Presentation: Preparing to Paint and Painting in Distemper, Tempera, and Oil](/documents/activity-sheets/activitysheet_Hermens_Preparing-to-Paint-and-Painting.pdf)
 - [Presentation: Flower Painting in Oil According to Willem Beurs (1656-1700)](/documents/activity-sheets/2024_Hermens_Flower-painting-in-oil.pdf)
 
 #### The Preparation of Supports in Ms. Fr. 640
