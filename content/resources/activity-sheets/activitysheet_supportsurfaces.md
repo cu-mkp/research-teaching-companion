@@ -1,4 +1,4 @@
-## Preparing Panels, Canvases, and Other Supports for Painting, Gilding, etc.
+## Preparing Panels, Canvases, and Other Supports for Painting, Gilding, and More
 
 ![canvas-part1](/images/supports-canvas-part1.png)
 ![canvas-part2](/images/supports-canvas-part2.png)
@@ -26,19 +26,21 @@ The terms "support" and "substrate" are often used interchangeably to mean the m
 
 ### Teaching Support Preparation
 #### Preparing Supports: Presentations
-- [Presentation: Preparing Gessoed Test Panels](/documents/activity-sheets/bol_2024_preparing-test-panels.pdf)[Presentation: Introduction to Pigments & Paints](/documents/activity-sheets/painting_assignment_downloadable_2021.pdf)
+- [Presentation: Preparing Gessoed Test Panels](/documents/activity-sheets/bol_2024_preparing-test-panels.pdf)
+- [Presentation: Introduction to Pigments & Paints](/documents/activity-sheets/painting_assignment_downloadable_2021.pdf)
 - [Presentation: Preparing the Canvas Support](/documents/activity-sheets/hermens_preparing-canvas-supports.pdf)
 
 #### Preparing Supports: Activity Sheets & Resources
-- Classroom activity sheet for preparing gessoed test panels to receive paint samples [docx]({{< ref "/documents/activity-sheets/bol_2024_preparing-test-panels.docx" >}}) [pdf]({{< ref "/documents/activity-sheets/bol_2024_preparing-test-panels.pdf" >}})
+- Classroom activity sheet for preparing gessoed test panels to receive paint samples [[docx](documents/activity-sheets/bol_2024_preparing-test-panels.docx)] [[pdf](documents/activity-sheets/bol_2024_preparing-test-panels.pdf)]
 - [Handout: Historical recipes for metalpoint ground](/documents/activity-sheets/metalpoint-ground-preparation-recipes.pdf)
 - [Field Notes: Rosenkranz & Uchacz, “Varnishes in the Rain, Part I: Canvas Preparation and Painting”](https://fieldnotes.makingandknowing.org/pre-2018-Fall/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-in-the-rain/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-rain-1/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-rain-1-canvas-prep-paint.html)
 
 #### Follow-up Activities
 - [Lesson Plan: Making Paints from Pigments and Binding Media and Painting Them Out](/resources/activity-sheets/activitysheet_paintingpigments/)
 - [Presentation: Introduction to Pigments & Paints](/documents/activity-sheets/painting_assignment_downloadable_2021.pdf)
-- Classroom activity sheet for paint making [pdf]({{< ref "/documents/activity-sheets/painting_assignment_downloadable_2021.pdf" >}})
-- [Presentation: Flower Painting in Oil According to Willem Beurs](/documents/activity-sheets/2024_Hermens_Flower-painting-in-oil.pdf)
+- Classroom activity sheet for paint making [[pdf](/documents/activity-sheets/painting_assignment_downloadable_2021.pdf)]
+- [Presentation]
+- [Presentation: Flower Painting in Oil According to Willem Beurs (1656-1700)](/documents/activity-sheets/2024_Hermens_Flower-painting-in-oil.pdf)
 
 #### The Preparation of Supports in Ms. Fr. 640
 Numerous entries in Ms. Fr. 640 address the preparation of supports for the application of various media. A non-exhaustive sampling includes:
