@@ -9,9 +9,10 @@ Making and Knowing Lesson Plans and associated teaching resources provide step-b
 
 ## Lesson Plans, Assignments, and Hands-On Activity Sheets
 
-### Tips for the Instructor
+### Tips for Hands-On Teaching
+Tips for Hands-on Teaching and Learning gathered from Making and Knowing Project experience.
 
-
+[Tip Sheet for Hands-On Teaching](/resources/activity-sheets/activitysheet_tips-for-instructors)
 
 ### Introduction to *Secrets of Craft and Nature*
 A great way to get started in a class or workshop by familiarizing students with the digital critical edition of Ms. Fr. 640 and the manuscript itself by completing a scavenger hunt of its contents.
