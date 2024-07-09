@@ -1,7 +1,7 @@
 # Counterfeit Jasper
 
 MS Fr. 640 contains just one entry about jasper, early in the
-manuscript, on fol.10r. Under an entry entitled “Counterfeit jasper”,
+manuscript, on fol.10r. Under an entry entitled “Counterfeit jasper,”
 the author-practitioner instructs:
 
 > Take horn from which one makes lanterns, quite thin, & underneath make
@@ -59,116 +59,82 @@ substances, cutting horn generates particle dust).
 
 ## Overview of the process
 
-The process of making imitation jasper described in Ms Fr. 640 can be
-summarised as follows:
+The process of making imitation jasper described in Ms Fr. 640 can be summarised as follows:
 
 1.  Planing and cutting thin sheets of horn
-
 2.  Paint sheets of horn with varnishes of various colours
-
-    1.  Optional further treatment: apply wool to the varnished side
-        > and/or scrape oblique lines into the varnish
-
+    a.  Optional further treatment: apply wool to the varnished side and/or scrape oblique lines into the varnish
 3.  Optional application of metal leaf
+4.  Oil the front side of the horn sheets with spike lavender oil to increase transparency
 
-4.  Oil the front side of the horn sheets with spike lavender oil to
-    > increase transparency
-
-The author-practitioner also mentions a side-project of fashioning a
-rose out of the horn planings
+The author-practitioner also mentions a side-project of fashioning a rose out of the horn planings
 
 ## Materials
 
 -   Horn (we used buffalo horn)
-
 -   Wool yarn and unspun fleece of various colors
-
 -   Spike lavender oil varnish (see separate instructions for making)
-
 -   Turpentine varnish (see separate instructions)
-
--   Spike lavender oil (for oiling back)
-
--   Pigments (e.g. verdigris, lakes, smalt, azurite, malachite; we do
-    > not recommend earths, leads, carbon black, soots, chars)
-
+-   Spike lavender oil (for oiling the undecorated front)
+-   Pigments, transparent rather than opaque (e.g. verdigris, lakes, smalt, azurite, malachite rather than earths, leads, carbon black, soots, chars)
 -   Mineral spirits (for clean-up)
-
--   Gold and silver leaf or transfer gold/silver
-
-    -   This may depend on how dry the varnish layers are
+-   Gold and silver leaf or transfer gold/silver (this may depend on how dry the varnish layers are)
 
 ## Tools 
 
--   Mullers
-
--   Glass plates
-
--   Brushes
-
--   Glass droppers
-
 -   Plane
-
--   Jeweller’s saw
-
 -   Bench anvil pin clamp
+-   Jeweler’s saw
+-   File
+-   Mullers
+-   Glass plates
+-   Palette knives
+-   Brushes
+-   Droppers
+-   Sharp metal tools (e.g., dentist tools, etching needles)
 
--   Sharp metal tool (dentist tools)
+## Making Process
 
-## Instructions
-
-### Planing and cutting horn
-
--   Set up the sheet of horn secured in place at a workbench.
-
--   Use a small plane to take the sheet of horn down to about 2 mm
-    > thickness.
-
--   To cut the sheet into smaller pieces,
-
-    -   Set up a peg on the countertop, tightly secured.
-
-    -   Secure an appropriate blade in the jeweler’s saw.
-
-    -   Scrape lines across the length of the sheet of horn to indicate
-        > where cuts will be made.
-
-    -   Put on a protective mask to protect nose and mouth from horn
-        > dust when cutting with the saw.
-
-    -   Following the lines, use the jeweler’s saw to cut the horn into
-        > rectangular sheets, using an up-and-down motion.
-
-    -   Use a file to smooth down the edges of each rectangular sheet.
-
-### Painting horn sheets with colored varnish
+### 1. Planing and cutting horn
 
 Materials
-
 -   Horn (we used buffalo horn)
 
+Tools
+-   Plane
+-   Bench anvil pin clamp
+-   Jeweler’s saw
+-   File
+
+Instructions
+-   Set up the sheet of horn secured in place at a workbench.
+-   Use a small plane to take the sheet of horn down to about 2 mm thickness. Be sure to collect the shavings to use in the side-project of fashioning a rose out of the horn planings.
+-   To cut the sheet into smaller pieces,
+    -   Set up a peg on the countertop, tightly secured.
+    -   Secure an appropriate blade in the jeweler’s saw.
+    -   Scrape lines across the length of the sheet of horn to indicate where cuts will be made.
+    -   Put on a protective mask to protect nose and mouth from horn dust when cutting with the saw.
+    -   Following the lines, use the jeweler’s saw to cut the horn into rectangular sheets, using an up-and-down motion.
+    -   Use a file to smooth down the edges of each rectangular sheet.
+
+### 2. Painting horn sheets with colored varnish
+
+Materials
+-   Thin sheets of horn (prepared as above)
 -   Wool yarn and unspun fleece of various colors
-
 -   Spike lavender oil varnish (see separate instructions for making)
-
--   Turpentine varnish (see separate instructions)
-
--   Pigments (e.g. verdigris, lakes, smalt, azurite, malachite; we do
-    > not recommend earths, leads, carbon black, soots, chars)
+-   Turpentine varnish (see separate instructions available on the page "[Varnishes and Their Many Uses](https://cu-mkp.github.io/research-teaching-companion/resources/activity-sheets/activitysheet_varnishes/)")
+-   Pigments, transparent rather than opaque (e.g. verdigris, lakes, smalt, azurite, malachite rather than earths, leads, carbon black, soots, chars)
 
 Tools
-
--   Mullers
-
 -   Glass plates
-
+-   Mullers
+-   Palette knives
 -   Brushes
+-   Droppers
+-   Sharp metal tools (e.g., dentist tools, etching needles)
 
--   Glass droppers
-
--   (dyed) wool (optional)
-
+Instructions
 The instructions in Ms. Fr. 640 suggest spike lavender oil varnish and
 turpentine varnish for painting. You can try either or both.
 
@@ -201,7 +167,7 @@ see the links above.
 
 -   OPTIONAL Scrape oblique lines into the varnish
 
-### OPTIONAL metal leaf application
+### 3. OPTIONAL metal leaf application
 
 The manuscript mentions using gold, silver or tin leaf as a reflective
 backing.
