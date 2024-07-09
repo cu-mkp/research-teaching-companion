@@ -57,8 +57,9 @@ This requires working with sharp tools and ventilation. You will be
 working with some hazardous materials (varnishes contain volatile
 substances, cutting horn generates particle dust).
 
-## Overview of the process
+## Overview
 
+### Steps in the Process
 The process of making imitation jasper described in Ms Fr. 640 can be summarised as follows:
 
 1.  Planing and cutting thin sheets of horn
@@ -69,25 +70,26 @@ The process of making imitation jasper described in Ms Fr. 640 can be summarised
 
 The author-practitioner also mentions a side-project of fashioning a rose out of the horn planings
 
-## Materials
+### Materials
 
 -   Horn (we used buffalo horn)
--   Wool yarn and unspun fleece of various colors
 -   Spike lavender oil varnish (see separate instructions for making)
 -   Turpentine varnish (see separate instructions)
 -   Spike lavender oil (for oiling the undecorated front)
 -   Pigments, transparent rather than opaque (e.g. verdigris, lakes, smalt, azurite, malachite rather than earths, leads, carbon black, soots, chars)
--   Mineral spirits (for clean-up)
+-   Unspun fleece of various colors (or wool yarn, unspun and teased out)
 -   Gold and silver leaf or transfer gold/silver (this may depend on how dry the varnish layers are)
+-   Mineral spirits (for clean-up)
 
-## Tools 
+### Tools
 
 -   Plane
 -   Bench anvil pin clamp
 -   Jeweler’s saw
 -   File
--   Mullers
+-   Newspaper (to cover work surface)
 -   Glass plates
+-   Mullers
 -   Palette knives
 -   Brushes
 -   Droppers
@@ -95,18 +97,21 @@ The author-practitioner also mentions a side-project of fashioning a rose out of
 
 ## Making Process
 
-### 1. Planing and cutting horn
+### Step 1. Planing and cutting horn
 
 Materials
+
 -   Horn (we used buffalo horn)
 
 Tools
+
 -   Plane
 -   Bench anvil pin clamp
 -   Jeweler’s saw
 -   File
 
 Instructions
+
 -   Set up the sheet of horn secured in place at a workbench.
 -   Use a small plane to take the sheet of horn down to about 2 mm thickness. Be sure to collect the shavings to use in the side-project of fashioning a rose out of the horn planings.
 -   To cut the sheet into smaller pieces,
@@ -117,16 +122,19 @@ Instructions
     -   Following the lines, use the jeweler’s saw to cut the horn into rectangular sheets, using an up-and-down motion.
     -   Use a file to smooth down the edges of each rectangular sheet.
 
-### 2. Painting horn sheets with colored varnish
+### Step 2. Painting horn sheets with colored varnish
 
 Materials
+
 -   Thin sheets of horn (prepared as above)
--   Wool yarn and unspun fleece of various colors
--   Spike lavender oil varnish (see separate instructions for making)
--   Turpentine varnish (see separate instructions available on the page "[Varnishes and Their Many Uses](https://cu-mkp.github.io/research-teaching-companion/resources/activity-sheets/activitysheet_varnishes/)")
+-   Unspun fleece of various colors (or wool yarn, unspun and teased out)
+-   Spike lavender oil varnish (see instructions on the page "[Making Varnishes](https://cu-mkp.github.io/research-teaching-companion/resources/activity-sheets/activitysheet_varnishes/)")
+-   Turpentine varnish (see instructions on the page "[Making Varnishes](https://cu-mkp.github.io/research-teaching-companion/resources/activity-sheets/activitysheet_varnishes/)")
 -   Pigments, transparent rather than opaque (e.g. verdigris, lakes, smalt, azurite, malachite rather than earths, leads, carbon black, soots, chars)
 
 Tools
+
+-   Newspaper (to cover work surface)
 -   Glass plates
 -   Mullers
 -   Palette knives
@@ -135,39 +143,17 @@ Tools
 -   Sharp metal tools (e.g., dentist tools, etching needles)
 
 Instructions
-The instructions in Ms. Fr. 640 suggest spike lavender oil varnish and
-turpentine varnish for painting. You can try either or both.
 
-For instructions for making these varnishes according to the manuscript,
-see the links above.
+The instructions in Ms. Fr. 640 suggest spike lavender oil varnish and turpentine varnish for painting. You can try either or both.
 
--   Set up your workstation with newspaper (so the varnish doesn’t get
-    > on the work surface, ground pigments, glass plates for mixing
-    > pigments and varnish, mullers, palette knives, brushes, and horn
-    > pieces.
+-   Set up your workstation and cover it with newspaper for easy cleanup.
+-   On a glass plate, mix 1g ground pigment with 2-3 drops of varnish (spike lavender or turpentine) using a glass dropper. Use the muller and palette knife to grind and mix the pigment well.
+-   Using a fresh brush, paint one entire side of one rectangular piece of horn.
+-   If desired, repeat with other combinations of other pigment and either of the varnishes. You can also experiment with striating or layering different colors on the same piece of horn.
+-   OPTIONAL: When one side of the horn sheet is completely painted, press wool fibres into the wet paint and arrange them to give an effect of veining or marbling.
+-   OPTIONAL: Using a sharp metal tool, scrape oblique lines into the varnish to give an effect of veining or marbling.
 
-<!-- -->
-
--   On a glass plate, mix 1g ground pigment with 2-3 drops of varnish
-    > (spike lavender or turpentine) using a glass dropper. Use the
-    > muller and palette knife to grind the pigment mix well.
-
--   Using a fresh brush, paint one entire side of one rectangular piece
-    > of horn.
-
--   If desired, repeat with other combinations of other pigment and
-    > either of the varnishes. You can also experiment with layering
-    > different colors on the same piece of horn.
-
--   OPTIONAL When one side of the horn sheet is completely painted,
-    > press wool fibres into the wet paint and arrange them into a
-    > pattern of veining or marbling.
-
-<!-- -->
-
--   OPTIONAL Scrape oblique lines into the varnish
-
-### 3. OPTIONAL metal leaf application
+### Step 3. Metal leaf application (optional)
 
 The manuscript mentions using gold, silver or tin leaf as a reflective
 backing.
@@ -198,3 +184,6 @@ backing.
             > (madder) varnish, we can consider removing the yarn that
             > we adhered to it with varnish, or we can gild the entire
             > length of the half without yarn attached to it.
+
+### Step 4. Oiling the jasper
+
