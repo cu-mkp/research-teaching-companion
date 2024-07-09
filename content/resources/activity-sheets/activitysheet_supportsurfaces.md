@@ -57,11 +57,11 @@ Numerous entries in Ms. Fr. 640 address the preparation of supports for the appl
 The author-practitioner mentions techniques for preparing supports in passing, as in the entries "[Painter](https://edition640.makingandknowing.org/#/folios/56v/tl)" on fol. 56v and "[Drawing](https://edition640.makingandknowing.org/#/folios/62r/tl)" on fol. 62r. There is no systematic way to catch all instances, so it is useful to search broadly. It is also useful to search the edition for particular supports such as "[canvas](https://edition640.makingandknowing.org/#/search?q=canvas)," "[panel](https://edition640.makingandknowing.org/#/search?q=panel)," "[parchment](https://edition640.makingandknowing.org/#/search?q=parchment)," or "[stucco](https://edition640.makingandknowing.org/#/search?q=stucco)," techniques such as "[gilding](https://edition640.makingandknowing.org/#/search?q=gilding)," or terms such as "[imprimatura](https://edition640.makingandknowing.org/#/search?q=imprimatura)," "[ground](https://edition640.makingandknowing.org/#/search?q=ground)," and "[seat](https://edition640.makingandknowing.org/#/search?q=seat)," being mindful of homonyms and context.  
 
 There are also several essays in [_Secrets of Craft and Nature in Renaissance France_](https://edition640.makingandknowing.org/#/) that explore the use of various prepared supports, including:
-- Marilyn Bowen and Tianhe Lou, "[Painting in Oil on Taffeta Without the Oil Running](https://edition640.makingandknowing.org/#/essays/ann_025_fa_15)"
-- Marilyn Bowen and Tianhe Lou, "[Painting in Oil on Taffeta I](https://edition640.makingandknowing.org/#/essays/ann_024_fa_15)"
+- Marilyn Bowen and Tianhe Lou, "[Painting in Oil on Taffeta Without the Oil Running](https://edition640.makingandknowing.org/#/essays/ann_025_fa_15)."
+- Marilyn Bowen and Tianhe Lou, "[Painting in Oil on Taffeta I](https://edition640.makingandknowing.org/#/essays/ann_024_fa_15)."
 - Sumeyye Yar, “[Painting in Oil on Taffeta II](https://edition640.makingandknowing.org/#/essays/ann_062_fa_17).”
-- Lila Goldenberg, "[Gilding on Paper and Parchment](https://edition640.makingandknowing.org/#/essays/ann_039_sp_16)"
-- Njeri Ndungu, "[What is _Or Mat_ in Ms. Fr. 640?](https://edition640.makingandknowing.org/#/essays/ann_041_sp_16)"
+- Lila Goldenberg, "[Gilding on Paper and Parchment](https://edition640.makingandknowing.org/#/essays/ann_039_sp_16)."
+- Njeri Ndungu, "[What is _Or Mat_ in Ms. Fr. 640?](https://edition640.makingandknowing.org/#/essays/ann_041_sp_16)."
 - Sahar Bostock, "[Tablets](https://edition640.makingandknowing.org/#/essays/ann_068_fa_18)."
 - Cleo Nisse, “[Shadows Beneath the Skin: How to Paint Faces in Distemper](https://edition640.makingandknowing.org/#/essays/ann_042_sp_16).”
 
