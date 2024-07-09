@@ -7,9 +7,7 @@ weight: 40
 
 ## Introduction
 
-In all aspects of research and development, the creation of *Secrets of Craft and Nature in Renaissance France* has brought together scholars, students,
-researchers, practitioners, makers, organizers, advisors, developers,
-instructors, designers, and supporters.
+In all aspects of research and development, the creation of *Secrets of Craft and Nature in Renaissance France* has brought together scholars, students, researchers, practitioners, makers, organizers, advisors, developers, instructors, designers, and supporters.
 
 The Edition presents the culmination of over five years of iterative,
 interdisciplinary, and collaborative work—of countless dedicated and
@@ -26,8 +24,7 @@ An exemplary model of crediting has been formulated in "Off the Tracks: Laying N
 Lines for Digital Humanities Scholars," and we strive to adhere to their
 guidelines as stated in the [Collaborators’ Bill of Rights](http://mcpress.media-commons.org/offthetracks/part-one-models-for-collaboration-career-paths-acquiring-institutional-support-and-transformation-in-the-field/a-collaboration/collaborators%e2%80%99-bill-of-rights/).
 
-For more about the creation of the edition, see [About the Edition](https://edition640.makingandknowing.org/#/content/about#creation-of-the-edition)
-and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](https://edition640.makingandknowing.org/#/essays/ann_329_ie_19).
+For more about the creation of the edition, see [About the Edition](https://edition640.makingandknowing.org/#/content/about#creation-of-the-edition) and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](https://edition640.makingandknowing.org/#/essays/ann_329_ie_19). For the numerous individuals involved in the creation of the edition, see [Credits](https://edition640.makingandknowing.org/#/content/about#People-and-Credits).
 
 ## Project Team and Staff
 
