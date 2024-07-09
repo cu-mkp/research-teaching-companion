@@ -22,22 +22,24 @@ By proposing a shift from textbooks and tests to hands-on work and process, M&K 
 [The Lab Playlist](https://www.youtube.com/watch?v=r5vq6yHF8eg&list=PL9JDAfbqTXnOOXbIAW6dML7kxKsWJFY8B&ab_channel=MakingandKnowingProject)<br>
 - Direction and Editing: Lan Li<br>
 - Production: Tianna Uchacz<br>
-    Tour the Lab<br> 
-    Introduction to the Making and Knowing Project<br>
-    Skillbuilding in the Lab Seminars<br>
+    [Tour the Lab](https://vimeo.com/384070452)<br> 
+    [Introduction to the Making and Knowing Project](https://vimeo.com/384070384)<br>
+    [Skillbuilding in the Lab Seminars](https://vimeo.com/384070302)<br>
     **Project Themes**<br>
-    -  Moldmaking and Metalworking<br>
-    -  Colormaking<br>
-    -  Practical Knowledge<br>
-    **Focus Videos**<br>
-    -  Project Design<br>
-    -  Colors and Dyes<br>
-    -  Hourglass Sand<br>
-    -  Unexpected Successes and Failures<br>
-    -  Metal Casting with Toulouse Sand<br>
+    -  [Moldmaking and Metalworking](https://vimeo.com/384070215)<br>
+    -  [Colormaking](https://vimeo.com/384070773)<br>
+    -  [Practical Knowledge](https://vimeo.com/384070632)<br>
+**Focus Videos**<br>
+    -  [Project Design](https://vimeo.com/384070561)<br>
+    -  [Colors and Dyes](https://vimeo.com/384071142)<br>
+    -  [Hourglass Sand](https://vimeo.com/384071046)<br>
+    -  [Unexpected Successes and Failures](https://vimeo.com/384070989)<br>
+    -  [Metal Casting with Toulouse Sand](https://vimeo.com/384070929)<br>
 
 ## Reflections on Hands-on Learning
 [A Recipe for Recipe Research: The Making and Knowing Project](https://recipes.hypotheses.org/7430), The Recipes Project, 2016.
+
+[Around the Table: The Making and Knowing Project](https://recipes.hypotheses.org/17539), The Recipes Project, October 2020
 
 [*Science and Art in a Sixteenth-Century Workshop: Hands-On History in the Making and Knowing Project*](https://vimeo.com/957244396)<br>
 Pamela H. Smith discusses hands-on teaching and learning in the Elizabeth B. McNab Lecture in the History of Science, McGill University, 2021.
@@ -71,9 +73,11 @@ Participants used indigo, turmeric, stick-lac, and jackfruit bark to dye cotton,
 
 See the videos created by Lan Li:<br>
 [Weaving Knowledge: Banraijaisook](https://player.vimeo.com/video/310724422)<br>
+
 [Weaving Knowledge: The Looms of Banraijaisook](https://player.vimeo.com/video/310728471)<br>
+
 [Weaving Knowledge: Thinking, Feeling, and Making](https://player.vimeo.com/video/310888539)<br>
 
-## Bibliography - Hands-on Teaching and Learning
+## Bibliography for Hands-on Teaching and Learning
 [Bibliography](/resources/reflection/bibliography)
 
