@@ -7,7 +7,7 @@ weight: 60
 # Digital Making and Knowing
 The Making and Knowing Project has developed open access digital resources, including a publication tool for making your own edition, model projects for using the data of *Secrets of Craft and Nature*, digital literacy tools, syllabi, and ideas for student activities.
 
-Read a reflection on using the data of *Secrets of Craft and Nature*: [A Computational Approach to Ms. Fr. 640](https://edition640.makingandknowing.org/#/essays/ann_301_ie_19) by Clément Godbarge.
+Read a reflection on using the data of *Secrets of Craft and Nature*: [A Computational Approach to Ms. Fr. 640](https://edition640.makingandknowing.org/#/essays/ann_301_ie_19) by Clément Godbarge. See also [Clément's blog: Visualizing Semantic Markup in BnF Ms. Fr. 640](https://clementgodbarge.com/post/visualization/).
 
 ## The Making and Knowing Project Sandbox
 The [Sandbox](https://cu-mkp.github.io/sandbox/) makes available a number of [projects](https://cu-mkp.github.io/sandbox/docs/index-digital-projects.html) that utilize and explore the data underlying [*Secrets of Craft and Nature*](https://edition640.makingandknowing.org/). The Sandbox presents experimental, provisional, and in-progress work that engages with and analyzes the data, topics, and content of _Secrets of Craft and Nature_, as well as the larger themes explored by the Making and Knowing Project. The Sandbox includes syllabi for Digital Humanities courses taught by the Making and Knowing Project and Student Projects carried out in those courses.
@@ -27,15 +27,21 @@ Editions are published through well-established technologies and workflows and c
 
 ## Assessment and Evaluation Tools
 Tools for assessing digital literacy, developed in collaboration with Columbia University’s Center for Teaching and Learning.
-- [The Digital Literacy Competency Calculator (DLCC)](https://ccnmtl.github.io/digital-literacy/), a web-based tool for representing the connection between digital literacy competencies and the teaching and learning practices that produce them. This tool was developed in collaboration with Columbia's Center for Teaching and Learning as part of the course offering, [Spring 2017: What is a Book?](https://www.makingandknowing.org/wp-content/uploads/2019/10/Website-Syllabus_Digital_course.pdf).
+- [The Digital Literacy Competency Calculator (DLCC)](https://ccnmtl.github.io/digital-literacy/), a web-based tool for representing the connection between digital literacy competencies and the teaching and learning practices that produce them. This tool was developed in collaboration with Columbia's Center for Teaching and Learning as part of the course offering, [Spring 2017: [_What is a Book in the 21st Century? Working with Historical Texts in a Digital Environment_](https://www.makingandknowing.org/wp-content/uploads/2019/10/Website-Syllabus_Digital_course.pdf).
      - See also the [“White Paper: Digital Literacy Competency Calculator: Rationale and Process”](https://docs.google.com/document/d/11Em2vX-jJw_4QoP62STwVo1i5cNi81ARft9j7gOQsoA/edit?usp=sharing).
      - The [DLCC for Spring 2017: What is a Book?](https://cu-mkp.github.io/diglit-gr8975/)
  
 ## Making and Knowing Digital Courses and Collaborations
-### Ms. Fr. 640 in Virtual and Augmented Reality
-The Columbia University Computer Graphics and User Interfaces Lab (CGUI), led by Professor Steven Feiner, has developed an augmented reality (AR) toolset to complement the digital critical edition. These interactive tools help communicate the practice-based experiential knowledge generated in the Making and Knowing lab, allowing readers to experience the process of historical techniques through cutting-edge visualization technologies, including Microsoft HoloLens and Google Tango devices.
+### Making and Knowing Project Digital Humanities Courses
+See the [Syllabi Resources Page](/resources/syllabi.md) for details about the courses _What is a Book in the 21st Century? Working with Historical Texts in a Digital Environment_ and _Transforming Texts: Textual Analysis, Literary Modeling, and Visualization_.
 
-CGUI Research Assistant Samantha Siu developed a mobile app that allows users to add impromptu notes, take video, and capture photos while viewing items or undertaking an experiment in the Project laboratory. For their final project in GU4031: Transforming Texts, a student group collaborated with Samantha to test her application and develop a test database in which the entire process of following a recipe and the corresponding user’s annotation at each step is readily available.
+### Minimal Computing and the Making and Knowing Project
+The Making and Knowing Project worked with Alex Gil and Terry Catapano to employ the website publication tool based on [minimal computing principles](http://go-dh.github.io/mincomp/), [Ed](https://minicomp.github.io/ed/), to prototype the edition of Ms. Fr. 640, [_Secrets of Craft and Nature_](https://edition640.makingandknowing.org/#/). In 2017, students in the Making and Knowing Project course _What is a Book in the 21st Century? Working with Historical Texts in a Digital Environment_ created a [minimal digital edition of the working English translation of BnF Ms. Fr. 640](https://cu-mkp.github.io/GR8975-edition/).
+
+### Ms. Fr. 640 in Virtual and Augmented Reality
+The Columbia University Computer Graphics and User Interfaces Lab (CGUI), led by Professor Steven Feiner, developed an augmented reality (AR) toolset to complement _Secrets of Craft and Nature_. These interactive tools help communicate the practice-based experiential knowledge generated in the Making and Knowing lab, allowing readers to experience the process of historical techniques through cutting-edge visualization technologies, including Microsoft HoloLens and Google Tango devices.
+
+CGUI Research Assistant Samantha Siu developed a mobile app that allows users to add impromptu notes, take video, and capture photos while viewing items or undertaking an experiment in the Project laboratory. For their final project in _Transforming Texts_, a student group collaborated with Samantha to test her application and develop a test database in which the entire process of following a recipe and the corresponding user’s annotation at each step is readily available.
 
 **Explore the AR tools developed by the students**
 - [Hovering swatches](https://vimeo.com/user101162788)
