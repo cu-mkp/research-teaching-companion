@@ -9,6 +9,10 @@ Making and Knowing Lesson Plans and associated teaching resources provide step-b
 
 ## Lesson Plans, Assignments, and Hands-On Activity Sheets
 
+### Tips for the Instructor
+
+
+
 ### Introduction to *Secrets of Craft and Nature*
 A great way to get started in a class or workshop by familiarizing students with the digital critical edition of Ms. Fr. 640 and the manuscript itself by completing a scavenger hunt of its contents.
 - [Scavenger Hunt: Get to Know *Secrets of Craft and Nature*]({{< ref "scavenger-hunt_secrets-of-craft" >}})
