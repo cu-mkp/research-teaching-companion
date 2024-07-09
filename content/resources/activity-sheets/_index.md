@@ -9,7 +9,7 @@ Making and Knowing Lesson Plans and associated teaching resources provide step-b
 
 ## Lesson Plans, Assignments, and Hands-On Activity Sheets
 
-### Introductions to *Secrets of Craft and Nature*
+### Introduction to *Secrets of Craft and Nature*
 A great way to get started in a class or workshop by familiarizing students with the digital critical edition of Ms. Fr. 640 and the manuscript itself by completing a scavenger hunt of its contents.
 - [Scavenger Hunt: Get to Know *Secrets of Craft and Nature*]({{< ref "scavenger-hunt_secrets-of-craft" >}})
 - [*Secrets of Craft and Nature* Reconnaissance (Directed Scavenger Hunt)]({{< ref "scavenger-hunt-2" >}}) 
@@ -42,7 +42,6 @@ An intriguing recipe in Ms. Fr. 640 for making molds from bread is the basis for
 ### Materializing Spiritual Practice: Reconstructing Burn Salve 
 - [Reconstruction of a 16th-century Burn Salve Recipe]({{< ref "burnsalve" >}})
 
-- [Suggestions for additional lesson plans](/resources/activity-sheets/activitysheet_suggestions)
 
 ## Hands-on Lesson Plans from Research Essays in *Secrets of Craft and Nature*
 Many essays in *Secrets of Craft and Nature* describe the reconstruction of a technique in sufficient detail to use the essay itself to formulate a lesson plan that includes hands-on activities. These essays often include lab/field notes that contain even more information for carrying out the process. Each essay discusses themes and includes bibliography that can be integrated into course objectives and class discussion. Suggested essays are listed below, however many more could be explored and adapted for classroom, studio, or lab activities.
