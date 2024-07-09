@@ -15,7 +15,7 @@ The resources included in this Companion to the digital edition [*Secrets of Cra
 
 During the intensive series of collaborative courses, workshops, and conferences through which *Secrets of Craft and Nature* was created, the Making and Knowing Project has had much opportunity to reflect on the challenges and the joys of inserting hands-on work into the text-centered training of the university. We hope the materials we developed through this experience will provide food for thought and action and a guide of sorts for your own experiments. They are intended to be used flexibly, and we invite you to adapt and create your own resources to fit your needs.
 
-For more about the creation of the Companion, and the Making and Knowing Project’s suite of Research and Teaching Resources, see [About M&K]
+For more about the creation of the Companion, and the Making and Knowing Project’s suite of Research and Teaching Resources, see [About M&K](/about).
 ## The Companion's Resources
 ### [Making & Knowing Syllabi]({{<ref "syllabus" >}})
 Syllabi from the Making and Knowing Project's courses model the integration of hands-on activities with discussion of relevant concepts and texts, and they can be mined for possible readings, discussion prompts, and hands-on lessons. These syllabi contain links to essays from _Secrets of Craft and Nature_ for use as course readings and suggest how to plan and coordinate hands-on activities. Student Projects created in these courses can be consulted by instructors and students for inspiration and to consider the many ways to engage with Ms. Fr. 640 and its digital edition.
