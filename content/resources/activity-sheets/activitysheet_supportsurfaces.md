@@ -1,6 +1,8 @@
 ## Preparing Panels, Canvases, and Other Supports for Painting, Gilding, etc.
 
-<img src="./images/supports-canvas-part1.png" alt="composite image of sewing, sizing, and applying red earth" /> <img src="./images/image5.png" style="width:6.11351in;height:3.77in" alt="Chart" /> <img src="./images/image5.png" style="width:6.11351in;height:3.77in" alt="Chart" />
+![canvas-part1](/images/supports-canvas-part1.png)
+
+<img src="./images/image5.png" style="width:6.11351in;height:3.77in" alt="Chart" />
 
 This activity teaches students how to prepare common supports, namely panels and canvases, to receive paint. The preparations outlined below ensure that any media applied to the support goes on evenly without risk of bleeding into or through that support. This activity can be undertaken as a stand-alone skill-building exercise or it can be a prelude to [paint making and testing](/resources/activity-sheets/activitysheet_paintingpigments/) using [hand-made lake pigments](/resources/activity-sheets/activitysheet_lake-pigments/), [hand-grown verdigris](/resources/activity-sheets/verdigris-assignment/), and/or [hand-levigated azurite](/research-teaching-companion/resources/activity-sheets/azurite-assignment/). The Making and Knowing Project has found it useful to have various preparred panels and canvases on hand for other hands-on activities and experiments, such as applying metal leaf, varnish enamels, and metalpoint, and pounced designs.
 
