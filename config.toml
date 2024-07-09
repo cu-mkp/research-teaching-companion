@@ -25,4 +25,4 @@ refLinksErrorLevel = "WARNING"
 [services]
 # Google analytics code
   [services.googleAnalytics]
-    id = 'G-XXXXXXXXX'
+    id = 'G-Q73EJ8XGXM'
