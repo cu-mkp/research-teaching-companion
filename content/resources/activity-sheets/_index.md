@@ -27,10 +27,12 @@ An intriguing recipe in Ms. Fr. 640 for making molds from bread is the basis for
 ### Making Paints from Pigments and Painting Them Out
 #### Transforming Natural Plant and Insect Colorants into Pigments (Lake Pigments)
 - [Making Lake Pigments from Natural Colorants](/resources/activity-sheets/activitysheet_lake-pigments)
-- [Making Paints from Pigments and Binding Media and Painting Them Out](/resources/activity-sheets/activitysheet_paintingpigments) 
 #### Mineral Pigments
 - ["Growing" Verdigris Pigment]({{< ref "verdigris-assignment" >}}). See also Marie-France Lemay's [“Verdigris” in Traveling Scriptorium: A Teaching Kit by the Yale University Library](https://travelingscriptorium.com/2013/01/17/verdigris/)
 - [Grinding, Levigating, and Painting with Azurite]({{< ref "azurite-assignment" >}})
+#### Making Paint, Preparing Supports, and Painting Test Panels
+- [Making Paints from Pigments and Binding Media and Painting Them Out](/resources/activity-sheets/activitysheet_paintingpigments)
+- [Preparing Panels, Canvases, and Other Supports for Painting, Gilding, etc.](/resources/activity-sheets/activitysheet_supportsurfaces)
 ### Making Inks
 - [Inks](/resources/activity-sheets/activitysheet_inks)
 ### Varnishes and Their Many Uses
