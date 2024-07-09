@@ -7,7 +7,7 @@ canonifyURLs = true
 theme = "rtc"
 title = "Research and Teaching Companion"
 author = "Columbia University"
-copyright = "Copyright © 2022, Columbia University"
+copyright = "Copyright © 2024, Columbia University"
 languageCode = "en-US"
 
 # Generate robots.txt for SEO
@@ -21,3 +21,6 @@ refLinksErrorLevel = "WARNING"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+# Google analytics code
+googleAnalytics = "YOUR-TRACKING-ID"
