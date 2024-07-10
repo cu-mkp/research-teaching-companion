@@ -1,8 +1,9 @@
 # Making Jasper
 
 MS Fr. 640 contains just one entry about jasper, early in the
-manuscript, on fol.10r. Under an entry entitled “Counterfeit jasper,”
-the author-practitioner instructs:
+manuscript, on fol.10r. The entry is entitled “Counterfeit jasper,” but the author-practitioner does not mean "counterfeit" in the modern sense of being fake, fraudulent, or deceitful. Rather, he uses "counterfeit" in the early modern sense of being a portrait -- a faithful representation of jasper. Moreoever, as the Making and Knowing Project has come to discover, his process of making jasper, with its cumulative layering of materials one atop the other, recapitulates his understanding of how the striated rock was formed in the earth. In other words, by making jasper, the author-practitioner was attempting to extend his knowledge about natural history. For him, making became a way of knowing.
+
+To make or "counterfeit" jasper, the author-practitioner instructs:
 
 > Take horn from which one makes lanterns, quite thin, & underneath make
 > the figure of your jasper, cornalines, & other stones, which will be a
@@ -190,4 +191,8 @@ Instructions
 - Using a clean brush, apply spike lavender oil to the front (undecorated) side of the horn. The oil will fill in the dry micro-cracks on the surface of the horn, giving it a sheen and translucency.
 
 ## Resources
+
+Ana Estrades, "[Jasper Imitation on Horn](https://edition640.makingandknowing.org/#/essays/ann_028_fa_15)."
+Isabella Lores-Chavez, "[Imitating Raw Nature](https://edition640.makingandknowing.org/#/essays/ann_045_fa_16)."
+Pamela H. Smith and Isabella Lores-Chavez, “Counterfeiting Materials, Imitating Nature,” in The Matter of Mimesis: Studies of Mimesis and Materials in Nature, Art and Science, ed. Marjolijn Bol and E.C. Spary, Studies in Art & Materiality 7 (Leiden: Brill, 2023), 27–53. [Open-Access Download](https://brill.com/downloadpdf/display/book/9789004515413/BP000011.pdf).
 
