@@ -1,6 +1,6 @@
 # Making Jasper
 
-MS Fr. 640 contains just one entry about jasper, early in the
+Ms. Fr. 640 contains just one entry about jasper, early in the
 manuscript, on fol.10r. The entry is entitled “Counterfeit jasper,” but the author-practitioner does not mean "counterfeit" in the modern sense of being fake, fraudulent, or deceitful. Rather, he uses "counterfeit" in the early modern sense of being a portrait -- a faithful representation of jasper. Moreoever, as the Making and Knowing Project has come to discover, his process of making jasper, with its cumulative layering of materials one atop the other, recapitulates his understanding of how the striated rock was formed in the earth. In other words, by making jasper, the author-practitioner was attempting to extend his knowledge about natural history. For him, making became a way of knowing.
 
 To make or "counterfeit" jasper, the author-practitioner instructs:
@@ -40,7 +40,7 @@ certain steps in the process (for example, learning how to plane horn),
 and the project team also returned to and refined processes. Our
 investigations of jasper are shared here as a model of how you might
 engage with a process and material in many different ways over time. It
-is not necessary to complete a recipe to learn much from it. You and
+is not necessary to complete a recipe to learn from it. You and
 your students or collaborators might well learn from building upon one
 another’s investigations, or participating in one part of a larger
 process. We invite you to approach hands-on research and teaching in
@@ -61,17 +61,18 @@ substances, cutting horn generates particle dust).
 ## Overview
 
 ### Steps in the Process
-The process of making imitation jasper described in Ms Fr. 640 can be summarised as follows:
+The process of making imitation jasper described in Ms Fr. 640 in the body and marginal texts can be summarized as follows:
 
-Part 1.  Planing and cutting thin sheets of horn
-Part 2.  Paint sheets of horn with varnishes of various colours, with option to apply wool to the varnished side and/or scrape oblique lines into the varnish
-Part 3.  Optional application of metal leaf
-Part 4.  Oil the front side of the horn sheets with spike lavender oil to increase transparency
+Part 1.  Planing and cutting thin sheets of horn<br>
+Part 2.  Paint sheets of horn with varnishes of various colours<br>
+Part 3.  Apply unspun wool fleece to the varnished side and/or scrape oblique lines into the varnish<br>
+Part 4.  Apply metal leaf<br>
+Part 5.  Oil the front side of the horn sheets with spike lavender oil to increase transparency<br>
+Possible Part 6. As noted by the author-practitioner, you could try this process using "thin glass" instead of (or perhaps in addition to?) horn. The Making and Knowing Project did not experiment with this. As in all reconstruction research, there is lots of room for further experimentation.<br>
 
 The author-practitioner also mentions a side-project of fashioning a rose out of the leftover horn planings. See section below.
 
 ### Materials
-
 -   Horn (we used buffalo horn)
 -   Spike lavender oil varnish (see separate instructions for making)
 -   Turpentine varnish (see separate instructions)
@@ -82,7 +83,6 @@ The author-practitioner also mentions a side-project of fashioning a rose out of
 -   Mineral spirits (for clean-up)
 
 ### Tools
-
 -   Plane
 -   Bench anvil pin clamp
 -   Jeweler’s saw
@@ -92,25 +92,23 @@ The author-practitioner also mentions a side-project of fashioning a rose out of
 -   Mullers
 -   Droppers
 -   Palette knives
--   Brushes
+-   Paintbrushes
 -   Sharp metal tools (e.g., dentist tools, etching needles)
 
 ## Making Process
 
 ### Step 1. Planing and cutting horn
 
-Materials
+**Materials**
 -   Horn (we used buffalo horn)
 
-
-Tools
+**Tools**
 -   Plane
 -   Bench anvil pin clamp
 -   Jeweler’s saw
 -   File
 
-
-Instructions
+**Instructions**
 -   Set up the sheet of horn secured in place at a workbench.
 -   Use a small plane to take the sheet of horn down to about 2 mm thickness. Be sure to collect the shavings to use in the side-project of fashioning a rose out of the horn planings.
 -   To cut the sheet into smaller pieces,
@@ -121,78 +119,78 @@ Instructions
     -   Following the lines, use the jeweler’s saw to cut the horn into rectangular sheets, using an up-and-down motion.
     -   Use a file to smooth down the edges of each rectangular sheet.
 
-
 ### Step 2. Painting horn sheets with colored varnish
-
-Materials
+**Materials**
 -   Thin sheets of horn (prepared per Step 1)
 -   Unspun wool fleece of various colors (or wool yarn, unspun and teased out)
 -   Spike lavender oil varnish (see instructions on the page "[Making Varnishes](https://cu-mkp.github.io/research-teaching-companion/resources/activity-sheets/activitysheet_varnishes/)")
 -   Turpentine varnish (see instructions on the page "[Making Varnishes](https://cu-mkp.github.io/research-teaching-companion/resources/activity-sheets/activitysheet_varnishes/)")
 -   Pigments, transparent rather than opaque (e.g. verdigris, lakes, smalt, azurite, malachite rather than earths, leads, carbon black, soots, chars)
 
-
-Tools
+**Tools**
 -   Newspaper (to cover work surface)
 -   Glass plates
 -   Mullers
 -   Droppers
 -   Palette knives
--   Brushes
+-   Paintbrushes
 -   Sharp metal tools (e.g., dentist tools, etching needles)
 
-
-Instructions
+**Instructions**
 
 The instructions in Ms. Fr. 640 suggest spike lavender oil varnish and turpentine varnish for painting. You can try either or both.
 -   Set up your workstation and cover it with newspaper for easy cleanup.
 -   On a glass plate, mix 1g ground pigment with 2-3 drops of varnish (spike lavender or turpentine) using a glass dropper. Use the muller and palette knife to grind and mix the pigment well.
--   Using a fresh brush, paint one entire side of one rectangular piece of horn.
+-   Using a fresh paintbrush, paint one entire side of one rectangular piece of horn.
 -   If desired, repeat with other combinations of other pigment and either of the varnishes. You can also experiment with striating or layering different colors on the same piece of horn.
--   OPTIONAL: When one side of the horn sheet is completely painted, press wool fibres into the wet paint and arrange them to give an effect of veining or marbling.
--   OPTIONAL: Using a sharp metal tool, scrape oblique lines into the varnish to give an effect of veining or marbling.
+### Step 3. Application of wool fibers
+**Materials**
+-  Unspun wool fleece of various colors (or wool yarn, unspun and teased out)
+  
+**Instructions**
+-   When one side of the horn sheet is completely painted, press wool fibers into the wet paint and arrange them to give an effect of veining or marbling.
+-   Using a sharp metal tool, scrape oblique lines into the varnish to give an effect of veining or marbling.
 
+### Step 4. Metal leaf application
 
-### Step 3. Metal leaf application (optional)
-
-Materials
+**Materials**
 -   Thin sheets of horn painted with varnish and transparent pigment (prepared per Step 2)
 -   Gold and silver leaf or transfer gold/silver (choice may depend on how dry the varnish layers are)
 
-Tools
--   Brushes
+**Tools**
+-   Paintbrushes
 
-Instructions
+**Instructions**
 
 The manuscript mentions using gold, silver or tin leaf as a reflective backing for the painted horn.
 -   Remove the sheet of transfer gold leaf from packet, being careful not to disrupt it and raise it off of the paper backing.
 -   Press one half (lengthwise) of the painted side of one sheet of horn against the transfer gold leaf. Apply pressure to make sure that the horn is really pressing against the gold leaf.
 -   Carefully turn over the sheet of horn and the entire square of gold leaf. With a finger, rub the transfer gold leaf against the horn to further secure the gold onto the oil or varnish of the hold.
 -   Remove the excess of gold leaf around the piece of horn, leaving behind the piece applied to the varnish.
--   Using an unassigned brush, sweep away extraneous pieces of gold leaf that have not adhered to the horn. These extra pieces can also be swept onto any gaps in the transfer gilding on the sheet of horn. A gentle sweeping motion in one direction should do it.
+-   Using a clean paintbrush, sweep away extraneous pieces of gold leaf that have not adhered to the horn. These extra pieces can also be swept onto any gaps in the transfer gilding on the sheet of horn. A gentle sweeping motion in one direction should do it.
 
-Notes
+**Notes**
 -   For at least one sheet of horn, consider gilding the entire sheet.
 -   Consider using the metal leaf in combination with the wool. You have two options:
--- Remove the yarn that you adhered to the varnish, being careful to ensure that the varnish retains its marbled effect from where the wool had pushed into it.
--- Apply metal leaf over the yarn and varnish. The surface will be uneven, but the leaf should adhere nonetheless.
+      -  move the yarn that you adhered to the varnish, being careful to ensure that the varnish retains its marbled effect from where the wool had pushed into it.
+      -  Apply metal leaf over the yarn and varnish. The surface will be uneven, but the leaf should adhere nonetheless.
 
 
-### Step 4. Oiling the jasper
+### Step 5. Oiling the jasper
 
-Materials
+**Materials**
 -   Thin sheets of horn painted with varnish and transparent pigment (prepared per Step 2 and 3)
 -   Spike lavender oil (for oiling the undecorated front)
 
-Tools
-- brushes
+**Tools**
+- Paintbrushes
 
-Instructions
-- Using a clean brush, apply spike lavender oil to the front (undecorated) side of the horn. The oil will fill in the dry micro-cracks on the surface of the horn, giving it a sheen and translucency.
+**Instructions**
+- Using a clean paintbrush, apply spike lavender oil to the front (undecorated) side of the horn. The oil will fill in the dry micro-cracks on the surface of the horn, giving it sheen and translucency.
 
 ## Resources
 
 - Ana Estrades, "[Jasper Imitation on Horn](https://edition640.makingandknowing.org/#/essays/ann_028_fa_15)."
 - Isabella Lores-Chavez, "[Imitating Raw Nature](https://edition640.makingandknowing.org/#/essays/ann_045_fa_16)."
-- Pamela H. Smith and Isabella Lores-Chavez, “Counterfeiting Materials, Imitating Nature,” in The Matter of Mimesis: Studies of Mimesis and Materials in Nature, Art and Science, ed. Marjolijn Bol and E.C. Spary, Studies in Art & Materiality 7 (Leiden: Brill, 2023), 27–53. [Open-Access Download](https://brill.com/downloadpdf/display/book/9789004515413/BP000011.pdf).
+- Pamela H. Smith and Isabella Lores-Chavez, “Counterfeiting Materials, Imitating Nature,” in _The Matter of Mimesis: Studies of Mimesis and Materials in Nature, Art and Science_, ed. Marjolijn Bol and E.C. Spary, Studies in Art & Materiality 7 (Leiden: Brill, 2023), 27–53. [Open-Access Download](https://brill.com/downloadpdf/display/book/9789004515413/BP000011.pdf).
 
