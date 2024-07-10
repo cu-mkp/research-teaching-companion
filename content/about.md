@@ -58,20 +58,6 @@ Editions can be published through well-established technologies and workflows an
 
 ![about-mk-collab-lab](/images/about-mk-collab-lab.png)
 
-## Digital Development of the Research and Teaching Companion
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-
-## How to Cite
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-
-## Sponsors
-
-**Henry Luce Foundation**
-
-**Kress Foundation**
-
-**Gladys Krieble Delmas Foundation**
-
 ## Contact
 
 The Making and Knowing Project is a research cluster of the Center for Science and Society at Columbia University in the City of New York.
