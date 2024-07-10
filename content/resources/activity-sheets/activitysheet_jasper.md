@@ -68,9 +68,11 @@ Part 2.  Paint sheets of horn with varnishes of various colours<br>
 Part 3.  Apply unspun wool fleece to the varnished side and/or scrape oblique lines into the varnish<br>
 Part 4.  Apply metal leaf<br>
 Part 5.  Oil the front side of the horn sheets with spike lavender oil to increase transparency<br>
-Possible Part 6. As noted by the author-practitioner, you could try this process using "thin glass" instead of (or perhaps in addition to?) horn. The Making and Knowing Project did not experiment with this. As in all reconstruction research, there is lots of room for further experimentation.<br>
 
-The author-practitioner also mentions a side-project of fashioning a rose out of the leftover horn planings. See section below.
+**Optional further experimentation**
+- As noted by the author-practitioner, you could try this process using "thin glass" as an alternative substrate for (or perhaps in addition to?) horn. The Making and Knowing Project did not experiment with this. As in all reconstruction research, there is always space for further trials.<br>
+
+- The author-practitioner also mentions a side-project of fashioning a rose out of the leftover horn planings. See section below.
 
 ### Materials
 -   Horn (we used buffalo horn)
@@ -193,4 +195,7 @@ The manuscript mentions using gold, silver or tin leaf as a reflective backing f
 - Ana Estrades, "[Jasper Imitation on Horn](https://edition640.makingandknowing.org/#/essays/ann_028_fa_15)."
 - Isabella Lores-Chavez, "[Imitating Raw Nature](https://edition640.makingandknowing.org/#/essays/ann_045_fa_16)."
 - Pamela H. Smith and Isabella Lores-Chavez, “Counterfeiting Materials, Imitating Nature,” in _The Matter of Mimesis: Studies of Mimesis and Materials in Nature, Art and Science_, ed. Marjolijn Bol and E.C. Spary, Studies in Art & Materiality 7 (Leiden: Brill, 2023), 27–53. [Open-Access Download](https://brill.com/downloadpdf/display/book/9789004515413/BP000011.pdf).
+- Preprint ADD CH360 essay
+- Pamela H. Smith, Tianna Helena Uchacz, Sophie Pitman, Tillmann Taape, and Colin Debuiche, “The Matter of Ephemeral Art: Craft, Spectacle, and Power in Early Modern Europe.” _Renaissance Quarterly_, Volume 73, Issue 1 (2020), 78-131, https://www.cambridge.org/core/journals/renaissance-quarterly/article/matter-of-ephemeral-art-craft-spectacle-and-power-in-early-modern-europe/45366084D72E61713504E59F4AC59E88. This essay provides context about the use of imitation jasper in early modern Europe.
+
 
