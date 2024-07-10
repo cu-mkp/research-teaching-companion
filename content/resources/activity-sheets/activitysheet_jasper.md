@@ -123,9 +123,9 @@ The author-practitioner also mentions a side-project of fashioning a rose out of
 **Materials**
 -   Thin sheets of horn (prepared per Step 1)
 -   Unspun wool fleece of various colors (or wool yarn, unspun and teased out)
--   Spike lavender oil varnish (see instructions on the page "[Making Varnishes](https://cu-mkp.github.io/research-teaching-companion/resources/activity-sheets/activitysheet_varnishes/)")
--   Turpentine varnish (see instructions on the page "[Making Varnishes](https://cu-mkp.github.io/research-teaching-companion/resources/activity-sheets/activitysheet_varnishes/)")
--   Pigments, transparent rather than opaque (e.g. verdigris, lakes, smalt, azurite, malachite rather than earths, leads, carbon black, soots, chars)
+-   Spike lavender oil varnish (see instructions on the page "[Making Varnishes](/resources/activity-sheets/activitysheet_varnishes/)")
+-   Turpentine varnish (see instructions on the page "[Making Varnishes](/resources/activity-sheets/activitysheet_varnishes/)")
+-   Pigments, transparent rather than opaque (e.g., verdigris, lakes, smalt, azurite, malachite, rather than earths, leads, carbon black, soots, chars)
 
 **Tools**
 -   Newspaper (to cover work surface)
