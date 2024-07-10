@@ -120,6 +120,7 @@ Part 5.  Oil the front side of the horn sheets with spike lavender oil to increa
     -   Put on a protective mask to protect nose and mouth from horn dust when cutting with the saw.
     -   Following the lines, use the jeweler’s saw to cut the horn into rectangular sheets, using an up-and-down motion.
     -   Use a file to smooth down the edges of each rectangular sheet.
+ - See [Field Notes on horn preparation](/documents/activity-sheets/activitysheet_Jasper_preparation-of-horn.pdf) from the Making and Knowing Project's Jasper Making.
 
 ### Step 2. Painting horn sheets with colored varnish
 **Materials**
@@ -191,11 +192,11 @@ The manuscript mentions using gold, silver or tin leaf as a reflective backing f
 - Using a clean paintbrush, apply spike lavender oil to the front (undecorated) side of the horn. The oil will fill in the dry micro-cracks on the surface of the horn, giving it sheen and translucency.
 
 ## Resources
-
 - Ana Estrades, "[Jasper Imitation on Horn](https://edition640.makingandknowing.org/#/essays/ann_028_fa_15)."
 - Isabella Lores-Chavez, "[Imitating Raw Nature](https://edition640.makingandknowing.org/#/essays/ann_045_fa_16)."
 - Pamela H. Smith and Isabella Lores-Chavez, “Counterfeiting Materials, Imitating Nature,” in _The Matter of Mimesis: Studies of Mimesis and Materials in Nature, Art and Science_, ed. Marjolijn Bol and E.C. Spary, Studies in Art & Materiality 7 (Leiden: Brill, 2023), 27–53. [Open-Access Download](https://brill.com/downloadpdf/display/book/9789004515413/BP000011.pdf).
-- Preprint ADD CH360 essay
+- Naomi Rosenkranz and Pamela H. Smith, “Making and Knowing: Reconstructing an Author-Practitioner’s Epistemic World and Material Imaginary,” in _Cultural Heritage 360_, special issue of _Endeavour_, edited by Tianna Helena Uchacz, Giles Gasper, and Stephen J.C. Taylor, expected 2024, preprint.
 - Pamela H. Smith, Tianna Helena Uchacz, Sophie Pitman, Tillmann Taape, and Colin Debuiche, “The Matter of Ephemeral Art: Craft, Spectacle, and Power in Early Modern Europe.” _Renaissance Quarterly_, Volume 73, Issue 1 (2020), 78-131, https://www.cambridge.org/core/journals/renaissance-quarterly/article/matter-of-ephemeral-art-craft-spectacle-and-power-in-early-modern-europe/45366084D72E61713504E59F4AC59E88. This essay provides context about the use of imitation jasper in early modern Europe.
+- [Making and Knowing Project Jasper Making Field Notes](/documents/activity-sheets/activitysheet_Jasper_field-notes.pdf), 2018. This set of notes include the Team's planning and protocol, informal field notes, and horn planing and cutting process. The steps and instructions above are drawn in part from this record of the Team's process.
 
 
