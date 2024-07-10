@@ -192,7 +192,7 @@ Instructions
 
 ## Resources
 
-Ana Estrades, "[Jasper Imitation on Horn](https://edition640.makingandknowing.org/#/essays/ann_028_fa_15)."
-Isabella Lores-Chavez, "[Imitating Raw Nature](https://edition640.makingandknowing.org/#/essays/ann_045_fa_16)."
-Pamela H. Smith and Isabella Lores-Chavez, “Counterfeiting Materials, Imitating Nature,” in The Matter of Mimesis: Studies of Mimesis and Materials in Nature, Art and Science, ed. Marjolijn Bol and E.C. Spary, Studies in Art & Materiality 7 (Leiden: Brill, 2023), 27–53. [Open-Access Download](https://brill.com/downloadpdf/display/book/9789004515413/BP000011.pdf).
+- Ana Estrades, "[Jasper Imitation on Horn](https://edition640.makingandknowing.org/#/essays/ann_028_fa_15)."
+- Isabella Lores-Chavez, "[Imitating Raw Nature](https://edition640.makingandknowing.org/#/essays/ann_045_fa_16)."
+- Pamela H. Smith and Isabella Lores-Chavez, “Counterfeiting Materials, Imitating Nature,” in The Matter of Mimesis: Studies of Mimesis and Materials in Nature, Art and Science, ed. Marjolijn Bol and E.C. Spary, Studies in Art & Materiality 7 (Leiden: Brill, 2023), 27–53. [Open-Access Download](https://brill.com/downloadpdf/display/book/9789004515413/BP000011.pdf).
 
