@@ -28,7 +28,7 @@ An intriguing recipe in Ms. Fr. 640 for making molds from bread is the basis for
 - [Bread Making, Molding, and Casting](/resources/activity-sheets/breadmolding_resources-for-the-instructor)
   
 ### Making Stucco for Molding
-- [Stucco for Molding](/resources/activity-sheets/stucco)
+- [Stucco for Molding](/resources/activity-sheets/activitysheet_stucco)
   
 ### Dyeing with Natural Colorants
 - [Dyeing with Natural Colorants](/resources/activity-sheets/activitysheet_dyeing)
