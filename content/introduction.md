@@ -29,3 +29,14 @@ The Making and Knowing Project has many collaborators from K-12 to university an
 Why engage in hands-on activities in teaching and research? In this section, the Making and Knowing Project team members and collaborators reflect in lectures, videos, and testimonials on their reasons for and experience of engaging in hands-on teaching and research.
 ### [Digital Making and Knowing]({{<ref "digital" >}})
 The Making and Knowing Project has developed open access digital resources, including a publication tool for making your own edition, model projects for using the data of _Secrets of Craft and Nature_, digital literacy tools, syllabi, and ideas for student activities.
+## Digital Development of the Research and Teaching Companion
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+## How to Cite the Research and Teaching Companion
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+## Sponsors of the Research and Teaching Companion
+
+**Henry Luce Foundation**
+
+**Kress Foundation**
+
+**Gladys Krieble Delmas Foundation**
