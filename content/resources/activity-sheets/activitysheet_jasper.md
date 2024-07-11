@@ -3,6 +3,8 @@
 Ms. Fr. 640 contains just one entry about jasper, early in the
 manuscript, on fol.10r. The entry is entitled “Counterfeit jasper,” but the author-practitioner does not mean "counterfeit" in the modern sense of being fake, fraudulent, or deceitful. Rather, he uses "counterfeit" in the early modern sense of being a portrait -- a faithful representation of jasper. Moreoever, as the Making and Knowing Project has come to discover, his process of making jasper, with its cumulative layering of materials one atop the other, recapitulates his understanding of how the striated rock was formed in the earth. In other words, by making jasper, the author-practitioner was attempting to extend his knowledge about natural history. For him, making became a way of knowing.
 
+![jasper-intro](/images/jasper-intro.png)
+
 To make or "counterfeit" jasper, the author-practitioner instructs:
 
 > Take horn from which one makes lanterns, quite thin, & underneath make
@@ -31,8 +33,6 @@ effect is very beautiful.” and in the left margin a longer note:
 > tin leaf. You can also file horn & mix it with strong glue, & layer it
 > onto the joints of the piece of horn, then even it with a joiner's
 > plane.
-
-![jasper-intro](/images/jasper-intro.png)
 
 ## Learning Objectives
 
@@ -205,17 +205,33 @@ The manuscript mentions using gold, silver or tin leaf as a reflective backing f
 
 ### Side-Project: Fashioning a Rose from Horn Shavings
 
+The "Counterfeit Jasper" recipe on fol. 10r notes:
+> You know how, with scrapings of the said horn, roses can be imitated.
+
+Further down the page, another entry, "Roses," elaborates further:
+> These are counterfeited either with the scrapings of horn used for lanterns, or with scrapings of parchment, very clear & delicate & dyed & employed as you know.
+
+The author-practitioner suggests that the waste product from the production of lantern panels or "counterfeit" jasper can be used to make imitation roses. In both entries, the author-practitioner assumes that the reader already knows how this is done ("you know how," "as you know"). Needless to say, this knowledge is lost. The Making and Knowing Project shares one reconstruction below (painting rather than dyeing the shavings), but feel free to experiment!
+
 **Materials**
 -   Shavings left over after planing the horn (per Step 1)
--   Red lake paint
+-   Red pigment (e.g,. madder lake, Venice lake)
+-   Walnut oil
+-   Turpentine varnish (see instructions on the page "[Making Varnishes](/resources/activity-sheets/activitysheet_varnishes/)")
 
 **Tools**
--   Paintbrushes
+- Glass plates
+- Mullers
+- Palette knives
+- Droppers
+- Paintbrushes
 
 **Instructions**
-
-The manuscript ment
-
+- On a glass plate, grind the pigment with a few drops of walnut oil until it forms a smooth paint. Use the muller and palette knife to grind and mix the pigment well.
+- Add a few drops of turpentine varnish to the paint and continue to mull until it is incorporated and has the consistency of a thin glaze.
+- Use a paintbrush to apply the red glaze to the horn shavings. Apply additional coatings to achieve the desired depth of color. The glaze will make the shavings slightly more pliable.
+- Following the natural curls of the shavings, arrange them in a shallow bowl so that they resemble the unfurling petals of a rose.
+  
 ![jasper-supplementary](/images/jasper-supplementary.png)
 
 ## Resources
