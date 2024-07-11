@@ -1,6 +1,6 @@
 ## Dyeing
 
-The Making and Knowing Project has undertaken experiments in dyeing with natural colorants as a way to engage with various entries in Ms. Fr. 640 and as a preliminary step to [making lake pigments]({{<ref "activitysheet_lake-pigments" >}}). Additionally, M&K has led several community outreach activites on dyeing with natural colorants that can be ported directly into the classroom. These activities and their contexts are also described on the [Making and Knowing Resources in Use]({{< ref "../casestudies" >}}) section of the Companion.
+The Making and Knowing Project has undertaken experiments in dyeing with natural colorants as a way to engage with various entries in Ms. Fr. 640 and as a preliminary step to [making lake pigments](/resources/activity-sheets/activitysheet_lake-pigments). Additionally, M&K has led several community outreach activites on dyeing with natural colorants that can be ported directly into the classroom. These activities and their contexts are also described on the [Making and Knowing Resources in Use](/resources/case-studies) section of the Companion.
 
 If you are already familiar with historical dyes and natural colorants, you might want to explore the presentation [Cochineal Dye: History, Chemistry, and Preparation](/documents/activity-sheets/2023_dyes_cochineal-history-chem-prep.pdf) which offers more extensive information than is offered in summary on this page.
 
