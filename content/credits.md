@@ -36,7 +36,7 @@ Although not everyone named below worked directly on the Research and Teaching C
   - Digital Designer-Developer: Nick Laiacona and team at [Performant Software Solutions](https://www.performantsoftware.com/)
 
 ### Senior Editorial Team
-                                                                                                                           | Pamela H. Smith <br><br>Naomi Rosenkranz <br><br>Tianna Helena Uchacz <br><br>Tillmann Taape <br><br>Sophie Pitman <br><br>Donna Bilak <br><br>Terry Catapano 
+|Pamela H. Smith <br><br>Naomi Rosenkranz <br><br>Tianna Helena Uchacz <br><br>Tillmann Taape <br><br>Sophie Pitman <br><br>Donna Bilak <br><br>Terry Catapano 
 
 ### Senior Digital Team
 |Terry Catapano <br><br>Nick Laiacona and team at Performant Software Solutions <br><br>Naomi Rosenkranz 
