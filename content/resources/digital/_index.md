@@ -44,6 +44,6 @@ The Columbia University Computer Graphics and User Interfaces Lab (CGUI), led by
 CGUI Research Assistant Samantha Siu developed a mobile app that allows users to add impromptu notes, take video, and capture photos while viewing items or undertaking an experiment in the Project laboratory. For their final project in _Transforming Texts_, a student group collaborated with Samantha to test her application and develop a test database in which the entire process of following a recipe and the corresponding user’s annotation at each step is readily available.
 
 **Explore the AR tools developed by the students**
-- [Hovering swatches](https://vimeo.com/user101162788)
-- [Contents in drawers](https://vimeo.com/user101162788)
-- [Prototyping Spatiotemporal Documentation for Digital History](https://vimeo.com/user101162788)
+- [Augmented Reality and Art History Annotation](https://vimeo.com/946354320)
+- [Augmented Reality Labeling and Annotating](https://vimeo.com/946353976)
+- [Prototyping Spatiotemporal Documentation for Digital History](https://vimeo.com/946354776)
