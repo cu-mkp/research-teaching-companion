@@ -7,13 +7,14 @@ weight: 40
 
 ## Introduction
 
-In the development of the Making and Knowing Projet Research and Teaching Companion, many individuals have contributed, including instructors, scholars, students, researchers, practitioners, makers, organizers, advisors, developers, instructors, designers, and supporters. Like [_Secrets of Craft and Nature in Renaissance France: A Digital Edition of BnF Ms. Fr. 640_](https://edition640.makingandknowing.org/#/) the Research and Teaching Companion represents the culmination of many years of iterative, interdisciplinary, and collaborative work—of countless dedicated and enthusiastic members, individuals, and networks of the [Making and Knowing Project](https://www.makingandknowing.org/).
+In the development of the Making and Knowing Project's Research and Teaching Companion, many individuals have contributed, including instructors, scholars, students, researchers, practitioners, makers, organizers, advisors, developers, instructors, designers, and supporters. Like [_Secrets of Craft and Nature in Renaissance France: A Digital Edition of BnF Ms. Fr. 640_](https://edition640.makingandknowing.org/#/), the Research and Teaching Companion represents the culmination of many years of iterative, interdisciplinary, and collaborative work by countless dedicated and enthusiastic members, individuals, and networks of the [Making and Knowing Project](https://www.makingandknowing.org/).
 
 ![about-credits-wgm15](/images/about-credits-wgm15.png)
 
-For more about the creation of the edition, see [About the Edition](https://edition640.makingandknowing.org/#/content/about#creation-of-the-edition) and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](https://edition640.makingandknowing.org/#/essays/ann_329_ie_19). For the numerous individuals involved in the creation of the edition, see [Credits](https://edition640.makingandknowing.org/#/content/about#People-and-Credits).
+The process of creating the edition of Ms. Fr. 640 underpins the structure and content of this Research and Teaching Companion, and it is important to understand how the edition came into being and who was involved. For more about the creation of the edition, see [About the Edition](https://edition640.makingandknowing.org/#/content/about#creation-of-the-edition) and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](https://edition640.makingandknowing.org/#/essays/ann_329_ie_19). For the numerous individuals involved in the creation of the edition, see [Credits](https://edition640.makingandknowing.org/#/content/about#People-and-Credits).
 
 ## Research and Teaching Companion Contributors
+Although not everyone named below worked directly on the Research and Teaching Companion, their research and teaching contributed to its content.
 
 ### Project Team and Staff
 
@@ -34,8 +35,11 @@ For more about the creation of the edition, see [About the Edition](https://edit
   - Digital Lead: Terry Catapano
   - Digital Designer-Developer: Nick Laiacona and team at [Performant Software Solutions](https://www.performantsoftware.com/)
 
-### Senior Editorial and Digital Teams
-| Senior Editorial Team                                                                                                                                                                                                                                 | Digital Team                                                                                                                             | Pamela H. Smith <br><br>Naomi Rosenkranz <br><br>Tianna Helena Uchacz <br><br>Tillmann Taape <br><br>Clément Godbarge <br><br>Sophie Pitman <br><br>Jenny Boulboullé <br><br>Joel A. Klein <br><br>Donna Bilak <br><br>Marc Smith <br><br>Terry Catapano | Terry Catapano <br><br> Nick Laiacona and team at Performant Software Solutions <br><br> Naomi Rosenkranz <br><br> Consultants: Alex Gil, Ben Armintor, Marii Nyrop, Dennis Tenen, and Philip Cherian |
+### Senior Editorial Teams
+| Senior Editorial Team                                                                                                                                                                                                                                 | Digital Team                                                                                                                             | Pamela H. Smith <br><br>Naomi Rosenkranz <br><br>Tianna Helena Uchacz <br><br>Tillmann Taape <br><br>Sophie Pitman <br><br>Donna Bilak <br><br>Terry Catapano 
+
+### Senior Digital Team
+|Terry Catapano <br><br>Nick Laiacona and team at Performant Software Solutions <br><br>Naomi Rosenkranz 
 
 ## Project Managers, Assistants, and Interns
 
