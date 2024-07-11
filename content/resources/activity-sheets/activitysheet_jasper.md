@@ -32,6 +32,8 @@ effect is very beautiful.” and in the left margin a longer note:
 > onto the joints of the piece of horn, then even it with a joiner's
 > plane.
 
+![jasper-intro](/images/jasper-intro.png)
+
 ## Learning Objectives
 
 Over a number of years, the Making and Knowing Project experimented with
@@ -122,6 +124,8 @@ Part 5.  Oil the front side of the horn sheets with spike lavender oil to increa
     -   Use a file to smooth down the edges of each rectangular sheet.
  - See [Field Notes on horn preparation](/documents/activity-sheets/activitysheet_Jasper_preparation-of-horn.pdf) from the Making and Knowing Project's Jasper Making.
 
+![jasper-part1](/images/jasper-part1.png)
+
 ### Step 2. Painting horn sheets with colored varnish
 **Materials**
 -   Thin sheets of horn (prepared per Step 1)
@@ -146,6 +150,9 @@ The instructions in Ms. Fr. 640 suggest spike lavender oil varnish and turpentin
 -   On a glass plate, mix 1g ground pigment with 2-3 drops of varnish (spike lavender or turpentine) using a glass dropper. Use the muller and palette knife to grind and mix the pigment well.
 -   Using a fresh paintbrush, paint one entire side of one rectangular piece of horn.
 -   If desired, repeat with other combinations of other pigment and either of the varnishes. You can also experiment with striating or layering different colors on the same piece of horn.
+
+![jasper-part2](/images/jasper-part2.png)
+
 ### Step 3. Application of wool fibers
 **Materials**
 -  Unspun wool fleece of various colors (or wool yarn, unspun and teased out)
@@ -153,6 +160,8 @@ The instructions in Ms. Fr. 640 suggest spike lavender oil varnish and turpentin
 **Instructions**
 -   When one side of the horn sheet is completely painted, press wool fibers into the wet paint and arrange them to give an effect of veining or marbling.
 -   Using a sharp metal tool, scrape oblique lines into the varnish to give an effect of veining or marbling.
+
+![jasper-part3](/images/jasper-part3.png)
 
 ### Step 4. Metal leaf application
 
@@ -178,6 +187,7 @@ The manuscript mentions using gold, silver or tin leaf as a reflective backing f
       -  move the yarn that you adhered to the varnish, being careful to ensure that the varnish retains its marbled effect from where the wool had pushed into it.
       -  Apply metal leaf over the yarn and varnish. The surface will be uneven, but the leaf should adhere nonetheless.
 
+![jasper-part4](/images/jasper-part4.png)
 
 ### Step 5. Oiling the jasper
 
@@ -190,6 +200,23 @@ The manuscript mentions using gold, silver or tin leaf as a reflective backing f
 
 **Instructions**
 - Using a clean paintbrush, apply spike lavender oil to the front (undecorated) side of the horn. The oil will fill in the dry micro-cracks on the surface of the horn, giving it sheen and translucency.
+
+![jasper-part5](/images/jasper-part5.png)
+
+### Side-Project: Fashioning a Rose from Horn Shavings
+
+**Materials**
+-   Shavings left over after planing the horn (per Step 1)
+-   Red lake paint
+
+**Tools**
+-   Paintbrushes
+
+**Instructions**
+
+The manuscript ment
+
+![jasper-supplementary](/images/jasper-supplementary.png)
 
 ## Resources
 - Ana Estrades, "[Jasper Imitation on Horn](https://edition640.makingandknowing.org/#/essays/ann_028_fa_15)."
