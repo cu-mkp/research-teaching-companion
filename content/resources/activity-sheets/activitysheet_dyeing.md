@@ -76,14 +76,14 @@ To know how much of the mordant, water, cochineal, and optional additive are nee
 ### Teaching Dyeing
 #### Presentations
 - [Cochineal Dye: History, Chemistry, and Preparation](/documents/activity-sheets/2023_dyes_cochineal-history-chem-prep.pdf)
-- [Dyeing: Step-by-Step Instructions](documents/activity-sheets/rosenkranz_2018_dyes_cochineal-step-by-step.pdf)
+- [Dyeing: Step-by-Step Instructions](/documents/activity-sheets/rosenkranz_2018_dyes_cochineal-step-by-step.pdf)
 - [Pictures of Common Natural Dyestuffs](/documents/activity-sheets/2023_dyes-pigments_samples.pdf)
 
 
 #### Resources
-- Sourcing Materials for Dyeing [[docx](/documents/activity-sheets/activitysheet_dye-material-sourcing.docx)] [[PDF](documents/activity-sheets/activitysheet_dye-material-sourcing.pdf)]
+- Sourcing Materials for Dyeing [[docx](/documents/activity-sheets/activitysheet_dye-material-sourcing.docx)] [[PDF](/documents/activity-sheets/activitysheet_dye-material-sourcing.pdf)]
 - Advice for Dyeing in the Home Kitchen [[docx](/documents/activity-sheets/activitysheet_dye-kitchen-dyeing.docx)] [[PDF](/documents/activity-sheets/activitysheet_dye-kitchen-dyeing.pdf)]
-- How to Calculate Mordant and Dyestuff Amounts [[docx](/documents/activity-sheets/activitysheet_mordants-dyes-recipes-calculator.docx)] [[PDF](documents/activity-sheets/activitysheet_mordants-dyes-recipes-calculator.pdf)]
+- How to Calculate Mordant and Dyestuff Amounts [[docx](/documents/activity-sheets/activitysheet_mordants-dyes-recipes-calculator.docx)] [[PDF](/documents/activity-sheets/activitysheet_mordants-dyes-recipes-calculator.pdf)]
 - Automatic Mordant and Dyestuff Calculator [[xlsx](/documents/activity-sheets/activitysheet_mordants-dyes-recipes-automatic-calculator.xlsx)] 
 
 
