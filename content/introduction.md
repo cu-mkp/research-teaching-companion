@@ -17,7 +17,7 @@ During the intensive series of collaborative courses, workshops, and conferences
 
 For more about the creation of the Companion, and the Making and Knowing Project’s suite of Research and Teaching Resources, see [About M&K](/about).
 ## The Companion's Resources
-### [Making & Knowing Syllabi]({{<ref "syllabus" >}})
+### [Making & Knowing Syllabi](/resources/syllabi)
 Syllabi from the Making and Knowing Project's courses model the integration of hands-on activities with discussion of relevant concepts and texts, and they can be mined for possible readings, discussion prompts, and hands-on lessons. These syllabi contain links to essays from _Secrets of Craft and Nature_ for use as course readings and suggest how to plan and coordinate hands-on activities. Student Projects created in these courses can be consulted by instructors and students for inspiration and to consider the many ways to engage with Ms. Fr. 640 and its digital edition.
 ### [Lesson Plans for Hands-on]({{<ref "activitysheet" >}})
 Making and Knowing Lesson Plans and the associated teaching resources included in the Companion provide step-by-step guidance in planning, tools, ingredients, sourcing, and the processes of hands-on activities. These Lesson Plans can be integrated into courses or research projects as skill building, they can be used to spark the historical imagination and raise questions, or as stand alone activities that immerse students or event audiences in hands-on work with materials. 
