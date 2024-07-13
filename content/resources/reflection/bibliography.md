@@ -4,7 +4,9 @@ Almevik, Gunnar, Camilla Groth, and Tina Westerlund. Explorations in Craft Scien
 Beentjes, Tonny, and Pamela H. Smith. “Sixteenth-century life-casting techniques: experimental reconstructions based on a preserved manuscript.” In The Renaissance Workshop, edited by David Saunders, Marika Spring and Andrew Meek. London: Archetype Publications Ltd, 2013, 144-51.
 
 Bilak, Donna. “Out of the Ivy and into the Arctic: Imitation Coral Reconstruction in Cross-Cultural Contexts.” Berichte Zur Wissenschaftsgeschichte 43, no. 3 (2020): 341–66. https://doi.org/10.1002/bewi.202000010.
+
 Bilak, Donna, Jenny Boulboullé, Joel A. Klein, and Pamela H. Smith. “The Making and Knowing Project: Reflections, Methods, and New Directions.” West 86th, Volume 21, No. 1 (2016):  35-55. http://www.journals.uchicago.edu/doi/full/10.1086/688199.
+
 Bol, Marjolijn. “Polito et Claro: The Art and Knowledge of Polishing, 1100–1500.” In Gems in the Early Modern World: Materials, Knowledge and Global Trade, 1450–1800, edited by Michael Bycroft and Sven Dupré, 223–57. Europe’s Asian Centuries. Cham: Springer International Publishing, 2019. https://doi.org/10.1007/978-3-319-96379-2_9.
 
 Bol, Marjolijn, Matteo Martelli, Lucia Raggetti, and Jennifer M. Rampling. “Changing Colour: Yellow Dyes from Antiquity to Early Modernity.” Ambix 71, no. 1 (January 2, 2024): 1–9. https://doi.org/10.1080/00026980.2024.2326802.
@@ -16,6 +18,7 @@ Bycroft, Michael, and Alexander Wragge-Morley. “Introduction: Science and Conn
 Casadio, Francesca, Marc Walton, and Giovanni Verri. “An Ecosystem for Diagnosis: Creating Synergies in Academic and Museum Research.” CONSERVATION 360o, no. 2 (June 30, 2022). https://monografias.editorial.upv.es/index.php/con_360/article/view/389.
 
 Creager, Angela NH, Mathias Grote, and Elaine Leong. “Learning by the Book: Manuals and Handbooks in the History of Science.” BJHS Themes 5 (2020): 1–13. https://doi.org/10.1017/bjt.2020.1.
+
 Demeter, Béla Jozsef. “Reappraising Piero Di Cosimo’s Serpents: The Role of Vipers in Renaissance Florence.” Renaissance Studies 32, no. 4 (2018): 638–59. https://doi.org/10.1111/rest.12359.
 
 Dupré, Sven. “Knowledge, Performance, Conservation : How Art and Science Embrace Technology.” Knowledge, Performance, Conservation : How Art and Science Embrace Technology, 2022, 139–54. https://doi.org/10.1400/289115.
@@ -39,6 +42,7 @@ Kang, Hyeok Hweon. “Reverse Engineering as History and Method: The Portuguese 
 Kernan, Sarah Peters. “‘For al Them That Delight in Cookery’: The Production and Use of Cookery Books in England, 1300–1600.” Ph.D., The Ohio State University. Accessed February 28, 2023. https://www.proquest.com/docview/1840162939/abstract/7FA8008B18384906PQ/1.
 
 Kremnitzer, Kathryn, Siddhartha V. Shah, Wenrui Zhao. “Three Recipes for Historical Reconstruction.” Common Knowledge 1 August 2018; 24 (3): 389–396. https://read.dukeupress.edu/common-knowledge/article/24/3/389/135469/Three-Recipes-for-Historical-Reconstruction.
+
 Lacey, Andrew, and Pamela H. Smith. “Thinking through Molds: Metal Flow and Visualizing the Unseen.” West 86th: A Journal of Decorative Arts, Design History, and Material Culture 28, no. 2 (September 2021): 259–68. https://doi.org/10.1086/721207.
 
 Laurioux, Bruno, and Agostino Paravicini Bagliani. The Recipe from the XIIth to the XVIIth Centuries: Europe, Islam, Far East. SISMEL, 2023.
@@ -82,6 +86,7 @@ Smith, Pamela H. and Tonny Beentjes, “Nature and Art, Making and Knowing: Reco
 Smith, Pamela H. “In the Workshop of History: Making, Writing, and Meaning.” Shaping Objects: Art, Materials, Making, and Meanings in the Early Modern World, an article series of West 86th: A Journal of Decorative Arts, Design History, and Material Culture, 19 (2012): 4-31.
 
 Smith, Pamela H. “Making Things: Techniques and books in early modern Europe,” Things, edited by Paula Findlen. London: Routledge, 2013, pp. 173-203.
+
 Smith, Pamela H. “Des recettes et des secrets à l’expérience: le “Making and Knowing Project. In Toulouse Renaissance, Musée des Augustins, Toulouse. Paris: Somogy éditions d’art, 2018. pp. 340-43. https://www.makingandknowing.org/wp-content/uploads/2018/11/Smith-p340-343-Toulouse-Renaissance-Exhib-Cat.pdf.
 
 Smith, Pamela H. and the Making and Knowing Project. “Historians in the Laboratory: Reconstruction of Renaissance Art and Technology in the Making and Knowing Project.” Art History, Volume 39, Issue 2, pp. 210–233. http://onlinelibrary.wiley.com/doi/10.1111/1467-8365.12235/full.
