@@ -116,3 +116,10 @@ Run this command to build the static site and output into the `public/` director
 ### Theming and templates
 
 The custom theme is based on the Edition 640 theme and is composed of Go Templates HTML and SASS-flavored CSS. It can be edited in `themes/rtc/`, under `layouts/` for Go Templates/HTML and `assets/scss/` for CSS. See [Hugo documentation on templating](https://gohugo.io/templates/introduction/) for more information.
+
+### NOTES from NJR+THC about building site on NJR's WSL (2024-07-17)
+
+1. 'git pull'
+2. 'rm -rf public/' to clear anything in the `public/` directory [[we have tested this -- without wiping this directory first, the build takes MUCH longer]]
+3. 'hugo'
+4. 'aws s3 sync ./public/ s3://teaching640-dev/ --delete` to push build to the bucket in AWS S3 of 'teaching640-dev' which is now routing to teaching640.makingandknowing.org
