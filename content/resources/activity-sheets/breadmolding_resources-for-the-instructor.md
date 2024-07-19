@@ -119,7 +119,7 @@ tape or modeling clay like plasticine
 
 [Bread Making student activity sheet](/resources/activity-sheets/breadmolding-student-activity-sheet)
 
-[Powerpoint presentation showing the process of bread molding](/documents/activity-sheets/breadmoldingreconstruction_visualpresentation.pdf)
+[Powerpoint presentation showing the process of bread molding](/documents/pdf/breadmoldingreconstruction_visualpresentation.pdf)
 
 Videos by Vassar College students showing the process and result
 
@@ -168,8 +168,8 @@ links in the essays above.
 ### Sources on Making Sixteenth-century Bread
 
 -  [<u>John Evelyn’s bread
-recipes</u>](/documents/activity-sheets/breadmolding_evelyn-john_bread-recipes.pdf), including varieties of French bread
-    - [<u>working transcription</u>](/documents/activity-sheets/activitysheet_Ullman_John-Evelyn-Bread-Recipes-Transcription.pdf)
+recipes</u>](/documents/pdf/breadmolding_evelyn-john_bread-recipes.pdf), including varieties of French bread
+    - [<u>working transcription</u>](/documents/pdf/activitysheet_Ullman_John-Evelyn-Bread-Recipes-Transcription.pdf)
 of Evelyn’s recipes by Reut Ullman, Columbia University
 -  [<u>Culinary and medicinal recipe book of Beulah Hutson</u>](https://digitalcollections.folger.edu/bib354134-502408), c.1660-1685, which contains a recipe for French Bread (pp.22-23)
 -  The Food Timeline- Bread History (good bibliography):

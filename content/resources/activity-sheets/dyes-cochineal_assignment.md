@@ -4,15 +4,15 @@
 >_The Making and Knowing Project, Columbia University_<br>
 _Last updated 2023-03-30 by NJR_
 
-A downloadable version of this assignment: [[PDF](/documents/activity-sheets/dyes-cochineal_assignment_downloadable_2023.pdf)]
+A downloadable version of this assignment: [[PDF](/documents/pdf/dyes-cochineal_assignment_downloadable_2023.pdf)]
 
 ![dyes-cochineal_header](/images/cochineal-dyed-textiles-mix.JPG?raw=true)
 
 ## Dyes and natural colorants
-If you are not already familiar with historical dyes and natural colorants, refer to [Presentation: Cochineal Dye: History, Chemistry, and Preparation](/documents/activity-sheets/2023_dyes_cochineal-history-chem-prep.pdf) for more complete information and further explanation of natural colorants and dyeing.
+If you are not already familiar with historical dyes and natural colorants, refer to [Presentation: Cochineal Dye: History, Chemistry, and Preparation](/documents/pdf/2023_dyes_cochineal-history-chem-prep.pdf) for more complete information and further explanation of natural colorants and dyeing.
 
 
-[![Presentation: Cochineal Dye: History, Chemistry, and Preparation](/images/cochineal-dye-presentation-slide.JPG)](/documents/activity-sheets/2023_dyes_cochineal-history-chem-prep.pdf)
+[![Presentation: Cochineal Dye: History, Chemistry, and Preparation](/images/cochineal-dye-presentation-slide.JPG)](/documents/pdf/2023_dyes_cochineal-history-chem-prep.pdf)
 
 
 A dye is "a compound that absorbs into and colors another material" and "is generally a complex organic material" ([Conservation and Art Materials Encyclopedia Online (CAMEO)](http://cameo.mfa.org/wiki/Dye)). Until the onset of synthetic dyes in the mid-nineteenth century, most dyes were sourced from natural colorants such as plants, insects, lichens, and shellfish. 
@@ -72,8 +72,8 @@ Cochineal is a mordant dye. The following recipe has been adapted from Chapter 5
 It is necessary to prepare both a mordant bath and a dye bath.
 
 Refer also to: 
-- Handout: [Dyeing Instructions: General Mordant and Dye Process](/documents/activity-sheets/sp23_handout_dyeing-textiles_general-process.pdf)
-- [Presentation: Dyeing: Step-by-Step Instructions](/documents/activity-sheets/rosenkranz_2018_dyes_cochineal-step-by-step.pdf)
+- Handout: [Dyeing Instructions: General Mordant and Dye Process](/documents/pdf/sp23_handout_dyeing-textiles_general-process.pdf)
+- [Presentation: Dyeing: Step-by-Step Instructions](/documents/pdf/rosenkranz_2018_dyes_cochineal-step-by-step.pdf)
 
 ![dye-process-overview](/images/dye-process.JPG?raw=true) 
 
@@ -83,7 +83,7 @@ Recipes for dyeing textiles often list ratios rather than outright amounts. Why 
 Because of the ratios, the weight of textile will determine how much of the other ingredients are needed. The ratios below are provided for 1g of textile. To know how much of the mordant, water, cochineal, and optional additive are needed, first weigh the textiles you plan to dye then multiply that amount by the ratios below. For example, if your textile weigh 10g, you will need 1.25g cochineal and 625ml water.
 
 You can also use: 
-- [Activity Sheet: Calculating ratios and amount of material needed](/documents/case-studies/rosenkranz_2019_dyes_handout_reconstruction-exchange_dyeing-with-natural-colorants.pdf) 
+- [Activity Sheet: Calculating ratios and amount of material needed](/documents/pdf/rosenkranz_2019_dyes_handout_reconstruction-exchange_dyeing-with-natural-colorants.pdf) 
 
 **Mordant: Alum**
 
