@@ -83,6 +83,7 @@ With support from a [Montague-Center for Teaching Excellence Award](https://pvfa
 
 After each lab, I assigned reflection assignments that asked them to consider contextual information, their experiences in the lab, and the relevance of their experiences for their understanding of art history:
 - Pigment-Making Lab Reflection Assignment [[DOCX](/documents/docx/uchacz_2024_lab1_reflection-assignment-background.docx)] 
+- - Pigment-Making Lab Reflection Assignment [[DOCX](/documents/docx/uchacz-2024-lab1-reflection-assignment-background.docx)] 
      - [[PDF](/documents/pdf/uchacz_2024_lab1_reflection-assignment-background.pdf)]
 - Pigment-Making Lab Reflection Assignment Background Document [[DOCX](/documents/docx/uchacz_2024_lab1_reflection-assignment.docx)] 
      - [[PDF](/documents/pdf/uchacz_2024_lab1_reflection-assignment.pdf)]

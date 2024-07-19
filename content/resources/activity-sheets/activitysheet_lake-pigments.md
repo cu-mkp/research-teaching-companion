@@ -105,6 +105,7 @@ Lakes can be made from a variety of natural colorants. Natural colorants can be 
 - [Presentation: Madder Lake: History, Chemistry, and Preparation]({{< ref "/documents/activity-sheets/presentation_sp23_rosenkranz_naomi_lakes_madder-history-chem-prep" >}})
 #### Lake-Making in the Classroom: Reflection Assignments 
 - Pigment-Making Lab Reflection Assignment [DOCX]({{< ref "/documents/docx/uchacz_2024_lab1_reflection-assignment-background.docx" >}}) 
+- - Pigment-Making Lab Reflection Assignment [DOCX]({{< ref "/documents/docx/uchacz-2024-lab1-reflection-assignment-background.docx" >}}) 
      - [PDF]({{< ref "/documents/pdf/uchacz_2024_lab1_reflection-assignment-background.pdf" >}})
 - Pigment-Making Lab Reflection Assignment Background Document [DOCX]({{< ref "/documents/docx/uchacz_2024_lab1_reflection-assignment.docx" >}}) 
      - [PDF]({{< ref "/documents/pdf/uchacz_2024_lab1_reflection-assignment.pdf" >}})
