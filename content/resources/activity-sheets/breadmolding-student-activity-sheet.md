@@ -112,9 +112,9 @@ After looking into these options, you may find that you are logistically only be
 ### Sources on making sixteenth-century bread
 
 -  [<u>John Evelyn’s bread
-recipes</u>](/documents/activity-sheets/breadmolding_evelyn-john_bread-recipes.pdf), including varieties of French bread
+recipes</u>](/documents/pdf/breadmolding_evelyn-john_bread-recipes.pdf), including varieties of French bread
 
-    - [<u>working transcription</u>](/documents/activity-sheets/activitysheet_Ullman_John-Evelyn-Bread-Recipes-Transcription.pdf)
+    - [<u>working transcription</u>](/documents/pdf/activitysheet_Ullman_John-Evelyn-Bread-Recipes-Transcription.pdf)
 of Evelyn’s recipes by Reut Ullman, Columbia University
 
 -  The Food Timeline- Bread History (good bibliography):

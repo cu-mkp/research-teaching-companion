@@ -3,17 +3,17 @@
 >_The Making and Knowing Project, Columbia University_<br>
 _Last updated 2021-09-29 by NJR_
 
-A downloadable version of this assignment: [[PDF](/documents/activity-sheets/pigment-cochineal-lake_assignment_downloadable_2023.pdf)]
+A downloadable version of this assignment: [[PDF](/documents/pdf/pigment-cochineal-lake_assignment_downloadable_2023.pdf)]
 
 ![pigment-cochineal_header](/images/pigment-cochineal_header.png?raw=true)
 
 ## Lake pigments and natural colorants
-If you are not already familiar with historical pigments and natural colorants, refer to [Presentation: Cochineal Lake: History, Chemistry, and Preparation](/documents/activity-sheets/rosenkranz_2023_lakes_cochineal-history-chem-prep.pdf) for more complete information and further explanation of natural colorants and lake pigments.
+If you are not already familiar with historical pigments and natural colorants, refer to [Presentation: Cochineal Lake: History, Chemistry, and Preparation](/documents/pdf/rosenkranz_2023_lakes_cochineal-history-chem-prep.pdf) for more complete information and further explanation of natural colorants and lake pigments.
 
 
-See also [Presentation: Introduction to Pigments &amp; Paints](/documents/activity-sheets/introduction-paints-pigments_njr_2021.pdf).
+See also [Presentation: Introduction to Pigments &amp; Paints](/documents/pdf/introduction-paints-pigments_njr_2021.pdf).
 
-[![Presentation: Cochineal Lake: History, Chemistry, and Preparation](/images/cochineal-presentation.png?raw=true)](/documents/activity-sheets/rosenkranz_2021_lakes_cochineal-history-chem-prep.pdf)
+[![Presentation: Cochineal Lake: History, Chemistry, and Preparation](/images/cochineal-presentation.png?raw=true)](/documents/pdf/rosenkranz_2021_lakes_cochineal-history-chem-prep.pdf)
 
 
 Lake pigments are a type of pigment prepared from organic natural colorants: plant and animal sources. As most organic natural colorants are soluble, they cannot be mixed directly with a binding medium and therefore cannot be used as a pigment. These colorants must therefore be extracted and then made insoluble in order to use them as pigments.

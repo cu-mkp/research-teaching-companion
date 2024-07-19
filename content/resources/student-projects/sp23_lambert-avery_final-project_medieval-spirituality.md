@@ -405,7 +405,7 @@ Thomas, Keith. *Religion and the Decline of Magic*. New York: Charles Scribner�
 
 [^2]: Liu, “An Excellent Salve for Burns.”
 
-[^3]: See the Making and Knowing protocol, “Activity: Reconstruction of a 16th-Century Burn Salve Recipe,” [<u>https://cu-mkp.github.io/sandbox/docs/burnsalve.html</u>](https://cu-mkp.github.io/sandbox/docs/burnsalve.html), and [<u>here</u> <u>for my protocol</u>](/documents/student-projects/sp23_lambert-avery_final-project_burnsalve-protocol.pdf).
+[^3]: See the Making and Knowing protocol, “Activity: Reconstruction of a 16th-Century Burn Salve Recipe,” [<u>https://cu-mkp.github.io/sandbox/docs/burnsalve.html</u>](https://cu-mkp.github.io/sandbox/docs/burnsalve.html), and [<u>here</u> <u>for my protocol</u>](/documents/pdf/sp23_lambert-avery_final-project_burnsalve-protocol.pdf).
 
 [^4]: Episcopal Church, *The Book of Common Prayer and Administration of the Sacraments and Other Rites and Ceremonies of the Church: Together with the Psalter or Psalms of David According to the Use of the Episcopal Church* (New York: Seabury Press, 1979), 306-7.
 

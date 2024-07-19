@@ -16,13 +16,13 @@ This Lab Seminar course studies the materials, techniques, settings, and meaning
 The course was offered from 2014-18, guided by a different theme each year to help focus research on related techniques described in the manuscript. The syllabi evolved alongside our competence and confidence in working with and thinking through materials, thus the first semesters were quite experimental.
 
 - Moldmaking and Metalworking (e.g., portrait medal casting, sand casting, and box molding)
-     - [Fall 2014 HIST GR8906: Moldmaking and Metalworking Syllabus](/documents/syllabi/Web_Fall 2014 Craft and Science.docx)
-     - [Spring 2015 HIST GR8906: Moldmaking and Metalworking Syllabus](/documents/syllabi/Web_Spring 2015 Craft and Science.docx)
+     - [Fall 2014 HIST GR8906: Moldmaking and Metalworking Syllabus](/documents/docx/Web_Fall 2014 Craft and Science.docx)
+     - [Spring 2015 HIST GR8906: Moldmaking and Metalworking Syllabus](/documents/docx/Web_Spring 2015 Craft and Science.docx)
 - Colormaking (including dyes, pigments, artificial gems, coloring woods and metals, and varnish making)
-     - [Fall 2015 HIST GR8906: Colormaking Syllabus](/documents/syllabi/Web_Fall 2015 Craft and Science.docx)
-     - [Spring 2016 HIST GR8906: Colormaking Syllabus](/documents/syllabi/Web_Spring 2016 Craft and Science.docx)
+     - [Fall 2015 HIST GR8906: Colormaking Syllabus](/documents/docx/Web_Fall 2015 Craft and Science.docx)
+     - [Spring 2016 HIST GR8906: Colormaking Syllabus](/documents/docx/Web_Spring 2016 Craft and Science.docx)
 - Practical Knowledge: Vernacular Natural History, Practical Perspective, Optics, Mechanics, and Medicine
-     - [Fall 2016 HIST GR8906: Practical Knowledge Syllabus](/documents/syllabi/Web_Fall 2106 Craft and Science.docx)
+     - [Fall 2016 HIST GR8906: Practical Knowledge Syllabus](/documents/docx/Web_Fall 2106 Craft and Science.docx)
      - [Spring 2017 HIST GR8906: Practical Knowledge Syllabus](https://docs.google.com/document/d/e/2PACX-1vTfqF4UNMaSLjX-FmXA6vOz6calSfPMMUfGaUpw8CjcUFcBtXXj7b1XLOOSHMVKUDljAcXGzDSCrevx/pub)
 - Ephemeral Art (such as the creation of artworks that were intended to stand outside (like banners) or that aimed to create the visual effect of a more permanent (and expensive) work of art)
      - [Fall 2017 HIST GR8906: Ephemeral Art Syllabus](https://docs.google.com/document/d/e/2PACX-1vRvNiZIaubDG_Cb1F8KOF8gV0sFBiGr01W3iXmDJV3yTFgeGp1teBwg2MkwUZ4TCGRglJ6Y1bK3XUMv/pub)

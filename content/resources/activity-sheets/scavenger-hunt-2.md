@@ -1,6 +1,6 @@
 # *Secrets of Craft and Nature* Reconnaissance (Directed Scavenger Hunt)
 
-A downloadable version of this assignment: [[PDF](/documents/activity-sheets/scavenger-hunt-recon_downloadable_2022.pdf)]
+A downloadable version of this assignment: [[PDF](/documents/pdf/scavenger-hunt-recon_downloadable_2022.pdf)]
 
 BnF Ms. Fr. 640 has 170 folios (340 pages) with over 900 entries on metalworking, casting, painting, medicine, and sleight of hand tricks. This is an exercise with two activities to help become familiar with the online Edition and Translation of Ms. Fr. 640: [*Secrets of Craft and Nature*](https://edition640.makingandknowing.org).
 

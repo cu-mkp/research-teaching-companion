@@ -28,11 +28,14 @@ In this period, there also existed a third, intermediary category of “mixed”
 ### Teaching Spirit Varnish Making
 
 #### Spirit Varnish Making: Activity Sheets, Field Notes, and Resources
-- Protocol for Spike Lavender Oil Spirit-based Varnish [docx]({{< ref "/documents/activity-sheets/activitysheet_varnishes-protocol-slsv.docx" >}}) [PDF]({{< ref "/documents/activity-sheets/activitysheet_varnishes-protocol-slsv.pdf" >}})
-- Protocol for Turpentine Spirit-based Varnish [docx]({{< ref "/documents/activity-sheets/activitysheet_varnishes-protocol-ttv.docx" >}}) [PDF]({{< ref "/documents/activity-sheets/activitysheet_varnishes-protocol-ttv.pdf" >}})
-- [M&K field notes from the making of several varnishes for the reconstruction "Varnishes in the Rain."](https://fieldnotes.makingandknowing.org/pre-2018-Fall/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-in-the-rain/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-rain-2/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-rain-2-varnish-making-application.html)
-- Sourcing Materials for Varnish Making [docx]({{< ref "/documents/activity-sheets/material-sourcing-varnishes-resins.docx" >}}) [PDF]({{< ref "/documents/activity-sheets/material-sourcing-varnishes-resins.pdf" >}})
-- [Compiled Description of Common Varnish Materials]({{< ref "/documents/activity-sheets/glossary-turpentine-resins-balsams.pdf" >}})
+- Protocol for Spike Lavender Oil Spirit-based Varnish [DOCX]({{< ref "/documents/docx/activitysheet_varnishes-protocol-slsv.docx" >}}) 
+     - [PDF]({{< ref "/documents/pdf/activitysheet_varnishes-protocol-slsv.pdf" >}})
+- Protocol for Turpentine Spirit-based Varnish [DOCX]({{< ref "/documents/docx/activitysheet_varnishes-protocol-ttv.docx" >}}) 
+     - [PDF]({{< ref "/documents/pdf/activitysheet_varnishes-protocol-ttv.pdf" >}})
+- [M&K field notes from the making of several varnishes for the reconstruction "Varnishes in the Rain"](https://fieldnotes.makingandknowing.org/pre-2018-Fall/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-in-the-rain/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-rain-2/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-rain-2-varnish-making-application.html)
+- Sourcing Materials for Varnish Making [DOCX]({{< ref "/documents/docx/material-sourcing-varnishes-resins.docx" >}}) 
+     - [PDF]({{< ref "/documents/pdf/material-sourcing-varnishes-resins.pdf" >}})
+- [Compiled Description of Common Varnish Materials]({{< ref "/documents/pdf/glossary-turpentine-resins-balsams.pdf" >}})
 
 #### Varnishes in Ms. Fr. 640
 There are dozens of entries in Ms. Fr. 640 that address the making and use of varnishes. In fact, "varnish" is one of the categories that M&K has used to classify the various entries in the manuscript, and entries on varnishes account for roughly 5% of the manuscript's contents. These entries can be accessed through the "varnish" category filter in the [List of Entries](https://edition640.makingandknowing.org/#/entries) and by a wildcard search for "[varnish\*](https://edition640.makingandknowing.org/#/search?q=varnish*)" to catch all instances of the term in [_Secrets of Craft and Nature in Renaissance France_](https://edition640.makingandknowing.org/#/).

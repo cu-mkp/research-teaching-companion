@@ -1,7 +1,7 @@
 ## Making and Testing Paints Made by Hand from Pigments
 {{< figure src="/images/painting-title-image.png" alt="hand holding paintbrush in paint on mulling plate" >}}
 
-The Making and Knowing Project has used paint and test card making as a core skill-building exercise for its students. Paint making has often been a follow-up activity to [lake pigment making]({{< ref "activitysheet_lake-pigments" >}}) or [verdigris growing]({{<ref "verdigris-assignment" >}}), but paint making can also be undertaken using commercially produced pigments.
+The Making and Knowing Project has used paint and test card making as a core skill-building exercise for its students. Paint making has often been a follow-up activity to [lake pigment making]({{< ref "activitysheet_lake-pigments" >}}) or [verdigris growing]({{< ref "verdigris-assignment" >}}), but paint making can also be undertaken using commercially produced pigments.
 
 ### Learning Objectives
 The activity of making paint and testing out those paints on a sample card has several potential learning outcomes, which can include:
@@ -14,7 +14,7 @@ The activity of making paint and testing out those paints on a sample card has s
 Paint = pigment + binder
 {{< figure src="/images/pigment-particles-in-binding-medium.jpg" alt="pigment-particles-in-binding-medium" >}}
 
-For more on paint making, refer to [Presentation: Introduction to Pigments &amp; Paints](/documents/activity-sheets/introduction-paints-pigments_njr_2021.pdf).
+For more on paint making, refer to [Presentation: Introduction to Pigments &amp; Paints](/documents/pdf/introduction-paints-pigments_njr_2021.pdf).
 
 {{< figure src="/images/painting-pigment+binding-media.png" alt="painting-pigment+binding-media" >}}
 
@@ -40,21 +40,24 @@ Mulling is a mechanical process used to thoroughly combine a pigment with a bind
 #### Substrates or Supports
 Paint is applied to a variety of supports, including canvas, panel, plaster, paper, and metal, just to name a few. Some paints adhere better to particular supports than to others. 
 
-For an overview of stretching and gessoing canvas for painting, refer to [Presentation: Preparing the Canvas Support](/documents/activity-sheets/hermens_preparing-canvas-supports.pdf) and [Presentation: Preparing Gessoed Test Panels](/documents/activity-sheets/bol_2024_preparing-test-panels.pdf).
+For an overview of stretching and gessoing canvas for painting, refer to [Presentation: Preparing the Canvas Support](/documents/pdf/hermens_preparing-canvas-supports.pdf) 
+and [Presentation: Preparing Gessoed Test Panels](/documents/pdf/bol_2024_preparing-test-panels.pdf).
 
 {{< figure src="/images/painting-substrates-supports.jpg" alt="various substrates for painting" >}}
 
 ### Teaching Paint Making
 #### Making Paint in the Classroom: Presentations
-- [Presentation: Introduction to Pigments & Paints](/documents/activity-sheets/painting_assignment_downloadable_2021.pdf)
-- [Presentation: Flower Painting in Oil According to Willem Beurs](/documents/activity-sheets/2024_Hermens_Flower-painting-in-oil.pdf)
+- [Presentation: Introduction to Pigments & Paints](/documents/pdf/painting_assignment_downloadable_2021.pdf)
+- [Presentation: Flower Painting in Oil According to Willem Beurs](/documents/pdf/2024_Hermens_Flower-painting-in-oil.pdf)
 
 #### Making Paint in the Classroom: Activity Sheets
-- Classroom activity sheet for paint making [pdf]({{< ref "/documents/activity-sheets/painting_assignment_downloadable_2021.pdf" >}})
-- Classroom activity sheet for preparing gessoed test panels to receive paint samples [docx]({{< ref "/documents/activity-sheets/bol_2024_preparing-test-panels.docx" >}}) [pdf]({{< ref "/documents/activity-sheets/bol_2024_preparing-test-panels.pdf" >}})
+- Classroom activity sheet for paint making [pdf]({{< ref "/documents/pdf/painting_assignment_downloadable_2021.pdf" >}})
+- Classroom activity sheet for preparing gessoed test panels to receive paint samples [DOCX]({{< ref "/documents/docx/bol_2024_preparing-test-panels.docx" >}}) 
+     - [PDF]({{< ref "/documents/pdf/bol_2024_preparing-test-panels.pdf" >}})
 
 #### Making Paint in the Classroom: Reflection Assignment
-- Paint-Making Lab Reflection Assignment [docx]({{< ref "/documents/activity-sheets/uchacz_2024_lab2_reflection-assignment.docx" >}}) [pdf]({{< ref "/documents/activity-sheets/uchacz_2024_lab2_reflection-assignment.pdf" >}})
+- Paint-Making Lab Reflection Assignment [DOCX]({{< ref "/documents/docx/uchacz_2024_lab2_reflection-assignment.docx" >}}) 
+     - [PDF]({{< ref "/documents/pdf/uchacz_2024_lab2_reflection-assignment.pdf" >}})
 
 #### Painting in Ms. Fr. 640
 There are dozens of entries in Ms. Fr. 640 that address elements of paint making and painting, including pigment behavior, mulling (grinding), binders, handling, and the practical uses of particular materials for various kinds of subject matter (e.g., flesh tones). In fact, "painting" is one of the categories that M&K has used to classify the various entries in the manuscript, and entries on painting account for roughly 15% of the manuscript's contents. These entries are best accessed by searching the manuscript for "[painter](https://edition640.makingandknowing.org/#/search?q=painter)" and "[painting](https://edition640.makingandknowing.org/#/search?q=painting)." 

@@ -29,8 +29,10 @@ having to find rare and expensive ingredients.
 
 ## Notes and pictures - raw data
 - Template and notes used during dyeing processes for calculations and record keeping:
-     -  First Dye Experiment (Summer 2022): [[XLSX]({{< ref "/documents/student-projects/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes.pdf" >}})] [[PDF](/documents/student-projects/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes.pdf)]
-     -  Second Dye Experiment (Fall 2022): [[XLSX]({{< ref "/documents/student-projects/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes-2-greens.pdf" >}})] [[PDF](/documents/student-projects/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes-2-greens.pdf)]
+     -  First Dye Experiment (Summer 2022): [[XLSX]({{< ref "/documents/pdf/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes.pdf" >}})] 
+          - [[PDF](/documents/pdf/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes.pdf)]
+     -  Second Dye Experiment (Fall 2022): [[XLSX]({{< ref "/documents/pdf/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes-2-greens.pdf" >}})] 
+          - [[PDF](/documents/pdf/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes-2-greens.pdf)]
 - [Flickr Album](https://www.flickr.com/photos/128418753@N06/albums/72177720300558025) with all photos
 
 ## Summer 2022 First Dye Experiments
@@ -49,8 +51,8 @@ having to find rare and expensive ingredients.
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52218380934/in/album-72177720300558025/" title="20220707_cunningham_onion-skin-dyeing_001">![overhead shot of a pot full of onion skins and water on the stovetop](https://live.staticflickr.com/65535/52218380934_6e635831a4.jpg)</a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 - I also prepared my mordant, alum, just using the information from the sandbox, I used the standard ratios and followed the general mordant and dye process
-  - [DYE AND MORDANT RECIPES](/documents/student-projects/rosenkranz_2019_dyes_handout_reconstruction-exchange_dyeing-with-natural-colorants.pdf)
-  - [Activity Sheet: Mordant Dyeing General Procedure](/documents/student-projects/rosenkranz_2019_dyes_handout_general-mordant-and-dye-processes.pdf)
+  - [DYE AND MORDANT RECIPES](/documents/pdf/rosenkranz_2019_dyes_handout_reconstruction-exchange_dyeing-with-natural-colorants.pdf)
+  - [Activity Sheet: Mordant Dyeing General Procedure](/documents/pdf/rosenkranz_2019_dyes_handout_general-mordant-and-dye-processes.pdf)
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/128418753@N06/52218380984/in/album-72177720300558025/" title="20220707_cunningham_onion-skin-dyeing_002">![Two beakers, each filled to about the 88 ml mark with a translucent reddish liquid](https://live.staticflickr.com/65535/52218380984_5f157189fa.jpg)</a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -67,7 +69,7 @@ having to find rare and expensive ingredients.
 
 ### Second round - 07/12/22 - adding iron and copper
 - Unfortunately, I did not have enough onions to make a new dye bath, so I created a mordant bath for the iron and copper and put the textiles I had already dyed in them
-- I used the ratios from the [DYE AND MORDANT RECIPES](/documents/student-projects/rosenkranz_2019_dyes_handout_reconstruction-exchange_dyeing-with-natural-colorants.pdf)  document for ratios
+- I used the ratios from the [DYE AND MORDANT RECIPES](/documents/pdf/rosenkranz_2019_dyes_handout_reconstruction-exchange_dyeing-with-natural-colorants.pdf)  document for ratios
 - I had two baths, iron and copper, but four different bundles - iron, iron + alum, copper, copper + alum
 - Pretty straightforward, I just followed the standard mordant bath recipe as described above and put my textiles in
 
