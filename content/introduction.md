@@ -32,7 +32,7 @@ The Making and Knowing Project has developed open access [digital resources](/re
 ## Digital Development of the Companion
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 ## How to Cite the Companion
-Naomi Rosenkranz, Pamela H. Smith, Tianna Uchacz, and Terry Catapano, _Making and Knowing Project Research and Teaching Companion_ (New York: The Making and Knowing Project, 2024), https://teaching640.makingandknowing.org.
+Naomi Rosenkranz, Pamela H. Smith, Tianna Helena Uchacz, and Terry Catapano, _Making and Knowing Project Research and Teaching Companion_ (New York: The Making and Knowing Project, 2024), https://teaching640.makingandknowing.org.
 ## Sponsors 
 **The Henry Luce Foundation**
 
