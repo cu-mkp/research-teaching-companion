@@ -29,14 +29,13 @@ The Making and Knowing Project has many collaborators from K-12 to university an
 Why engage in hands-on activities in teaching and research? In this section, the Making and Knowing Project team members and collaborators reflect in [lectures, videos, and testimonials](/resources/reflection/) on their reasons for and experience of engaging in hands-on teaching and research.
 ### Digital Making and Knowing
 The Making and Knowing Project has developed open access [digital resources](/resources/digital/), including a publication tool for making your own edition, model projects for using the data of _Secrets of Craft and Nature_, digital literacy tools, syllabi, and ideas for student activities.
-## Digital Development of the Research and Teaching Companion
+## Digital Development of the Companion
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-## How to Cite the Research and Teaching Companion
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-## Sponsors of the Research and Teaching Companion
+## How to Cite the Companion
+Naomi Rosenkranz, Pamela H. Smith, Tianna Uchacz, and Terry Catapano, _Making and Knowing Project Research and Teaching Companion_ (New York: The Making and Knowing Project, 2024), https://teaching640.makingandknowing.org.
+## Sponsors 
+**The Henry Luce Foundation**
 
-**Henry Luce Foundation**
+**The Samuel H. Kress Foundation**
 
-**Kress Foundation**
-
-**Gladys Krieble Delmas Foundation**
+**The Gladys Krieble Delmas Foundation**
