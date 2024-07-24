@@ -47,14 +47,14 @@ Headings of levels `## Two` and `### Three` will populate the table of contents 
      - So if you want to link to [research-teaching-companion/content/resources/activity-sheets/activitysheet_jasper.md](https://github.com/cu-mkp/research-teaching-companion/blob/main/content/resources/activity-sheets/activitysheet_jasper.md?plain=1), use the path `/resources/activity-sheets/activitysheet_jasper/`
 
 #### Links to other pages (i.e., `.md` files under `content/`):
-`[Making Varnishes](/resources/activity-sheets/activitysheet_varnishes/)`
-`[Digital Project](/resources/digital/EXAMPLEPAGE/)`
-`[Bibliography](/resources/reflection/bibliography/)`
-`[Student Project - Alberts](/resources/student-projects/fa21_alberts_naomi_final-project_ph-lesson/)`
+`[Making Varnishes](/resources/activity-sheets/activitysheet_varnishes/)` <br><br>
+`[Digital Project](/resources/digital/EXAMPLEPAGE/)` <br><br>
+`[Bibliography](/resources/reflection/bibliography/)` <br><br>
+`[Student Project - Alberts](/resources/student-projects/fa21_alberts_naomi_final-project_ph-lesson/)` <br><br>
 `[Syllabus SP23](/resources/reflection/syllabi/syllabus_sp23_gu4962-hands-on-history/)`
 
 #### Links to pdfs, handouts, etc (i.e., files under `static/`):
-`[pdf example](/documents/pdf/activitysheet_Jasper_preparation-of-horn.pdf)`
+`[pdf example](/documents/pdf/activitysheet_Jasper_preparation-of-horn.pdf)` <br><br>
 `[docx example](/documents/docx/activitysheet_Jasper_preparation-of-horn.docx)`
 
 #### Images:
