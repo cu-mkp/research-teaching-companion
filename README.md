@@ -43,21 +43,22 @@ After the front matter, the rest of the page must be formatted as Goldmark-flavo
 Headings of levels `## Two` and `### Three` will populate the table of contents on the left side of each document. Headings of level two will also have a thin horizontal rule beneath them.
 
 ### Internal links
+- make sure you include the full filepath, starting from either `/static/` or `/content/`
+     - So if you want to link to [research-teaching-companion/content/resources/activity-sheets/activitysheet_jasper.md](https://github.com/cu-mkp/research-teaching-companion/blob/main/content/resources/activity-sheets/activitysheet_jasper.md?plain=1), use the path `/resources/activity-sheets/activitysheet_jasper/`
 
-<del>To link to other pages on the site, use the `ref` tag surrounded by double brackets; </del> To link to both external and internal locations, use typical Markdown link syntax.
+#### Links to other pages (i.e., `.md` files under `content/`):
+`[Making Varnishes](/resources/activity-sheets/activitysheet_varnishes/)`
+`[Digital Project](/resources/digital/EXAMPLEPAGE/)`
+`[Bibliography](/resources/reflection/bibliography/)`
+`[Student Project - Alberts](/resources/student-projects/fa21_alberts_naomi_final-project_ph-lesson/)`
+`[Syllabus SP23](/resources/reflection/syllabi/syllabus_sp23_gu4962-hands-on-history/)`
 
-For an example using both internal and external links:
+#### Links to pdfs, handouts, etc (i.e., files under `static/`):
+`[pdf example](/documents/pdf/activitysheet_Jasper_preparation-of-horn.pdf)`
+`[docx example](/documents/docx/activitysheet_Jasper_preparation-of-horn.docx)`
 
-```markdown
-Similar to M&K's [Fieldnotes](https://fieldnotes.makingandknowing.org/), these
-portfolios document the students' hands-on activities, which included
-[Stucco for Molding](/resources/activity-sheets/stucco-assignment), "Keeping Dry Flowers
-in the Same State all Year" from the bottom of [folio 120v in BnF Ms. Fr. 640](https://edition640.makingandknowing.org/#/folios/120v/f/120v/tl),
-and making and painting [cochineal lake](/resources/activity-sheets/pigment-cochineal-lake_assignment)
-and [verdigris](resources/activity-sheets/verdigris-assignment) pigments.
-```
-
-<del>Note that you do not need to give the entire path for `ref` tags, unless there are multiple Markdown files with the same name. You also do not need to include the `.md`. All of the following will work, but the first is much simpler!</del>
+#### Images:
+`![jasper-part3](/images/jasper-part3.png)`
 
 Use "absolute" paths in ref links; that is starting with `/resources/` followed with the path to the file, excluding file extension
 
