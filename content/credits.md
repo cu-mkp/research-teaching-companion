@@ -51,6 +51,7 @@ Terry Catapano <br><br>Nick Laiacona and team at Performant Software Solutions <
       - Kelsey Troth (2019-20)
       - Ray Abruzzi (2019-21)
       - Christian-Joseph Macahilig (2020-21)
+      - Lydia DeFusto (2024)
   - Digital Programming Assistants:
       - Philip Cherian (2016-18)
       - Emre Tetik (2016-2018)
@@ -78,12 +79,12 @@ Terry Catapano <br><br>Nick Laiacona and team at Performant Software Solutions <
       - Philip Cherian (2016)
       - Ludovic Touzé-Peiffer (2017)
   - High School Interns:
-      - Annika Cunningham (2021-2022)
-      - Charlotte Nahley (2017-20)
+      - Christine Hu (2016)
       - Karuna Vikram (2016-2017)
+      - Charlotte Nahley (2017-20)
       - Divya Mehrish (2018)
       - Camilla Shulman (2018)
-      - Christine Hu (2016)
+      - Annika Cunningham (2021-2022)
 
 ## *Making and Knowing in Early Modern Europe: Hands-on History* Laboratory Seminar Participants
 This hybrid laboratory-discussion advanced undergraduate / intro graduate seminar offered through Columbia’s History Department combined historical research with hands-on skill-building and reconstructions of Ms. Fr. 640’s recipes in the Making and Knowing Laboratory. This course was adapted from the graduate-level course *Craft & Science* (described below) and offered after the publication of [_Secrets of Craft and Nature_](https://edition640.makingandknowing.org/#/). Students were asked to develop final projects that explored ways to interact with _Secrets of Craft and Nature_ or engage with its themes.
