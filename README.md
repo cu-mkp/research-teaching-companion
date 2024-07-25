@@ -42,6 +42,16 @@ After the front matter, the rest of the page must be formatted as Goldmark-flavo
 
 Headings of levels `## Two` and `### Three` will populate the table of contents on the left side of each document. Headings of level two will also have a thin horizontal rule beneath them.
 
+### Images, documents, and other media
+
+All non-markdown media should be placed in the `static/` directory. For ease of use, it is currently structured as two folders: `img` for images, and `documents` for all other media (e.g. `docx`, `pptx`, `pdf`).
+
+These work differently from the other internal links. Instead of the `ref` tag, just use normal Markdown link or image syntax, treating `static/` as the base of the URL. It is important that each URL includes a leading slash. For example:
+
+```markdown
+![stucco-molded](/images/stucco-molded.jpg)
+[PDF (student handout)](/documents/activity-sheets/stucco_assignment_student-handout.pdf)
+```
 ### Links to resources and content in this repository
 - make sure you include the full filepath, starting from either `/static/` or `/content/`
      - So if you want to link to [research-teaching-companion/content/resources/activity-sheets/activitysheet_jasper.md](https://github.com/cu-mkp/research-teaching-companion/blob/main/content/resources/activity-sheets/activitysheet_jasper.md?plain=1), use the path `/resources/activity-sheets/activitysheet_jasper/`
@@ -70,24 +80,7 @@ Headings of levels `## Two` and `### Three` will populate the table of contents 
 #### Images:
 `![jasper-part3](/images/jasper-part3.png)`
 
-Use "absolute" paths in ref links; that is starting with `/resources/` followed with the path to the file, excluding file extension
-
-```markdown
-[Stucco for Molding](/resources/activity-sheets/stucco-assignment)
-```
-
 For more information about internal links, see the Hugo documentation on [Links and Cross References](https://gohugo.io/content-management/cross-references/).
-
-### Images, documents, and other media
-
-All non-markdown media should be placed in the `static/` directory. For ease of use, it is currently structured as two folders: `img` for images, and `documents` for all other media (e.g. `docx`, `pptx`, `pdf`).
-
-These work differently from the other internal links. Instead of the `ref` tag, just use normal Markdown link or image syntax, treating `static/` as the base of the URL. It is important that each URL includes a leading slash. For example:
-
-```markdown
-![stucco-molded](/images/stucco-molded.jpg)
-[PDF (student handout)](/documents/activity-sheets/stucco_assignment_student-handout.pdf)
-```
 
 ### `_index.md` pages
 
