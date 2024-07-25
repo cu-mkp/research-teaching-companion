@@ -28,8 +28,9 @@ In this period, there also existed a third, intermediary category of “mixed”
 ### Teaching Spirit Varnish Making
 
 #### Spirit Varnish Making: Activity Sheets, Field Notes, and Resources
-- Protocol for Spike Lavender Oil Spirit-based Varnish [DOCX]({{< ref "/documents/docx/activitysheet_varnishes-protocol-slsv.docx" >}}) 
-     - [PDF]({{< ref "/documents/pdf/activitysheet_varnishes-protocol-slsv.pdf" >}})
+- Protocol for Spike Lavender Oil Spirit-based Varnish
+     - [DOCX](/documents/docx/activitysheet_varnishes-protocol-slsv.docx) 
+     - [PDF](/documents/pdf/activitysheet_varnishes-protocol-slsv.pdf)
 - Protocol for Turpentine Spirit-based Varnish [DOCX]({{< ref "/documents/docx/activitysheet_varnishes-protocol-ttv.docx" >}}) 
      - [PDF]({{< ref "/documents/pdf/activitysheet_varnishes-protocol-ttv.pdf" >}})
 - [M&K field notes from the making of several varnishes for the reconstruction "Varnishes in the Rain"](https://fieldnotes.makingandknowing.org/pre-2018-Fall/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-in-the-rain/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-rain-2/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-rain-2-varnish-making-application.html)
