@@ -16,8 +16,8 @@ Tips for Hands-on Teaching and Learning compiled from Making and Knowing Project
 
 ### Introduction to *Secrets of Craft and Nature*
 A great way to get started in a class or workshop by familiarizing students with the digital critical edition of Ms. Fr. 640 and the manuscript itself by completing a scavenger hunt of its contents.
-- [Scavenger Hunt: Get to Know *Secrets of Craft and Nature*]({{< ref "scavenger-hunt_secrets-of-craft" >}})
-- [*Secrets of Craft and Nature* Reconnaissance (Directed Scavenger Hunt)]({{< ref "scavenger-hunt-2" >}}) 
+- [Scavenger Hunt: Get to Know *Secrets of Craft and Nature*](scavenger-hunt_secrets-of-craft)
+- [*Secrets of Craft and Nature* Reconnaissance (Directed Scavenger Hunt)](scavenger-hunt-2) 
      
 ### Historical Culinary Recipe Reconstruction
 Reconstructing an obscure culinary recipe is especially effective as a first hands-on activity to familiarize students with the textual and material challenges of following past recipes. It is also a wonderful community-building exercise.
@@ -37,8 +37,8 @@ An intriguing recipe in Ms. Fr. 640 for making molds from bread is the basis for
 #### Transforming Natural Plant and Insect Colorants into Pigments (Lake Pigments)
 - [Making Lake Pigments from Natural Colorants](/resources/activity-sheets/activitysheet_lake-pigments)
 #### Mineral Pigments
-- ["Growing" Verdigris Pigment]({{< ref "verdigris-assignment" >}}). See also Marie-France Lemay's [“Verdigris” in Traveling Scriptorium: A Teaching Kit by the Yale University Library](https://travelingscriptorium.com/2013/01/17/verdigris/)
-- [Grinding, Levigating, and Painting with Azurite]({{< ref "azurite-assignment" >}})
+- ["Growing" Verdigris Pigment](verdigris-assignment). See also Marie-France Lemay's [“Verdigris” in Traveling Scriptorium: A Teaching Kit by the Yale University Library](https://travelingscriptorium.com/2013/01/17/verdigris/)
+- [Grinding, Levigating, and Painting with Azurite](azurite-assignment)
 #### Making Paint, Preparing Supports, and Painting Test Panels
 - [Making Paints from Pigments and Binding Media and Painting Them Out](/resources/activity-sheets/activitysheet_paintingpigments)
 - [Preparing Panels, Canvases, and Other Supports for Painting, Gilding, and More](/resources/activity-sheets/activitysheet_supportsurfaces)
@@ -49,7 +49,7 @@ An intriguing recipe in Ms. Fr. 640 for making molds from bread is the basis for
 ### Making "Counterfeit" Jasper
 - [Making Jasper](/resources/activity-sheets/activitysheet_jasper)
 ### Materializing Spiritual Practice: Reconstructing Burn Salve 
-- [Reconstruction of a 16th-century Burn Salve Recipe]({{< ref "burnsalve" >}})
+- [Reconstruction of a 16th-century Burn Salve Recipe](burnsalve)
 
 
 ## Hands-on Lesson Plans from Research Essays in *Secrets of Craft and Nature*
@@ -62,7 +62,7 @@ Cuttlefish bone is an ancient material that is still used today by goldsmiths to
 
 Several entries in Ms. Fr. 640 mention cuttlefish bone as a material by which to rapidly produce molds, including fols. 91r–v and 145r–v. These entries provide a wealth of information on preparing the bones for molding, impressing models into them, and, finally, casting metals into them. They also contain descriptions of techniques by which an artisan can test the temperature of molten metal before casting. These entries particularly highlight the sensory and bodily knowledge needed by an artisan. In carrying out cuttlefish bone molding and casting, students will learn through experience the value of this sensory knowledge.
 
-See also, student project [Cuttlefish in and around Ms. Fr. 640]({{< ref "/resources/student-projects/sp22_donald_maia_final-project_cuttlebone.md" >}}) by Maia Donald.
+See also, student project [Cuttlefish in and around Ms. Fr. 640](/resources/student-projects/sp22_donald_maia_final-project_cuttlebone/) by Maia Donald.
 
 ### Molding Fruits and Animals in Sugar
 **[Molding Fruits and Animals in Sugar](https://edition640.makingandknowing.org/#/essays/ann_017_sp_15) by Celia Durkin and Pamela H. Smith**

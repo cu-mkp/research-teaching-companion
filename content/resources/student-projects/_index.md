@@ -30,59 +30,59 @@ Their exploratory and experimental projects serve as companion pieces to *Secret
 
 ### Summer 2021 Final Student Projects (2021-07-08) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vTdDTbjg3Wo-03RCA7KtszFF-nVyY0ECotExiQK8SnNpBQ_zNC0tBv9f_RUCujxGlTkdFTZiGicbVKO/pub)]
 
--   [Cures in Context: Medicine in Ms. Fr. 640 and Household Recipe Books]({{< ref "su21_branscum_elizabeth_final-project-medicinal" >}}) by Elizabeth Branscum
--   [Was Ms. Fr. 640 Intentionally Disorganized?]({{< ref "su21_fox_mackenzie_final-project-disorganization" >}}) by Mackenzie Fox
--   [Pictures Worth 1,000 Words: Figures and their Uses in Ms. Fr. 640]({{< ref "su21_macomber_sophie_final-project-figures" >}}) by Sophie Macomber
--   [Understanding Natural Things in the World and the Workshop]({{< ref "su21_christensen_anna_final-project-natural-things" >}}) by Anna Christensen
+-   [Cures in Context: Medicine in Ms. Fr. 640 and Household Recipe Books](su21_branscum_elizabeth_final-project-medicinal) by Elizabeth Branscum
+-   [Was Ms. Fr. 640 Intentionally Disorganized?](su21_fox_mackenzie_final-project-disorganization) by Mackenzie Fox
+-   [Pictures Worth 1,000 Words: Figures and their Uses in Ms. Fr. 640](su21_macomber_sophie_final-project-figures) by Sophie Macomber
+-   [Understanding Natural Things in the World and the Workshop](su21_christensen_anna_final-project-natural-things) by Anna Christensen
 -   [Foraging for Pigments: A Making and Knowing Project](/documents/pdf/su21_snyder_mellon_final-project-pigments.pdf) by Mellon Snyder 
      - [[PDF](/documents/pdf/su21_snyder_mellon_final-project-pigments.pdf)]
      - [[PPTX](/documents/student-projects/su21_snyder_mellon_final-project-pigments.pptx)]
 
 ### Fall 2021 Final Student Projects (2022-01-27) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vSwHOvl3vKELpALapOMMPWTRYaTkVxSn6n9243mOpekLYzlzpIbpmjzZjaRcFnj_RCi3iwNKSm5qBHS/pub)]
 
--   [Transcribing, Translating, and Encoding MS Gen, 262: _Sefer Refu'os u-Segulos / Book of Remedies and Incantations_]({{< ref "fa21_steinman_charlie_final-project-ms262" >}}) by Charlie Steinman
+-   [Transcribing, Translating, and Encoding MS Gen, 262: _Sefer Refu'os u-Segulos / Book of Remedies and Incantations_](fa21_steinman_charlie_final-project-ms262) by Charlie Steinman
     -   See also the Github repo dedicated to this project [ms-262-data](https://github.com/cu-mkp/ms-262-data)
--   [Oral Culture in Ms. Fr. 640]({{< ref "fa21_ghoneima_hana_final-project-oral-culture" >}}) by Hana Ghoneima
--   [The Color Red in Ms. Fr. 640]({{< ref "fa21_coutavas_allie_final-project-reds" >}}) by Allie Coutavas
--   [Textual Analysis of Instances of “To Know” in Ms. Fr. 640]({{< ref "fa21_jacobson_beah_final-project-know" >}}) by Beah Jacobson
--   [Regimens, Recipes, and Remedies: Understanding the ‘Cosmetic’ in Early Modern Europe]({{< ref "fa21_lin+sundar_danli+anusha_final-project_regimens-remedies" >}}) by Danli Lin and Anusha Sundar
--   [The Making and Meaning of Intermediates: Workshop and Syllabus for Students of Architecture]({{< ref "fa21_weisgall_benjamin_final-project-architecture-workshop" >}}) by Benjamin Weisgall
+-   [Oral Culture in Ms. Fr. 640](fa21_ghoneima_hana_final-project-oral-culture) by Hana Ghoneima
+-   [The Color Red in Ms. Fr. 640](fa21_coutavas_allie_final-project-reds) by Allie Coutavas
+-   [Textual Analysis of Instances of “To Know” in Ms. Fr. 640](fa21_jacobson_beah_final-project-know) by Beah Jacobson
+-   [Regimens, Recipes, and Remedies: Understanding the ‘Cosmetic’ in Early Modern Europe](fa21_lin+sundar_danli+anusha_final-project_regimens-remedies/) by Danli Lin and Anusha Sundar
+-   [The Making and Meaning of Intermediates: Workshop and Syllabus for Students of Architecture](fa21_weisgall_benjamin_final-project-architecture-workshop) by Benjamin Weisgall
 -  [The Natural History of Ms. Fr. 640: A Visual Exploration](/documents/pdf/fa21_davol_eleanor_final-project-nat-history.pdf) by Eleanor Davol
--  [Instructor Assignment Sheet: Ms. Fr. 640 fol. 43v, “Varied and Transmuted Wine”]({{< ref "fa21_alberts_naomi_final-project_ph-lesson" >}}) by Naomi Alberts
+-  [Instructor Assignment Sheet: Ms. Fr. 640 fol. 43v, “Varied and Transmuted Wine”](fa21_alberts_naomi_final-project_ph-lesson) by Naomi Alberts
 -   [Global Ingredients: The Diverse Origins of Natural Materials in Ms. Fr. 640](https://catapanoth.com/omandka/exhibits/show/global-ingredients--the-divers) (Omeka exhibit with gallery and map) by Elia Zhang and Helena Seo
--  [An Exploration of Humor in Ms. Fr. 640]({{< ref "fa21_atkins+joyce-farley_charlotte+siobhan_pranks" >}}) by Charlotte Atkins and Siobhan Joyce-Farley
+-  [An Exploration of Humor in Ms. Fr. 640](fa21_atkins+joyce-farley_charlotte+siobhan_pranks/) by Charlotte Atkins and Siobhan Joyce-Farley
     -   See their [VIDEO: Funniest Pranks of the 16th Century](https://youtu.be/BFK71x0bvuE)
--  [The Soundscape of Process: An Audio Recreation of Lifecasting in the Workshop]({{< ref "fa21_zayas+waters_elliot+mac_final-project-soundscape" >}}) by Elliot Zayas and Mac Waters
+-  [The Soundscape of Process: An Audio Recreation of Lifecasting in the Workshop](fa21_zayas+waters_elliot+mac_final-project-soundscape/) by Elliot Zayas and Mac Waters
     -   Listen to [Soundscape 1: Creating the Mold](https://vimeo.com/672477385)
     -   Listen to [Soundscape 2: Casting the Metal](https://vimeo.com/672823504)
     -   Listen to [Soundscape 3: Recovering the Final Product](https://vimeo.com/672823543)
 
 ### Spring 2022 Final Student Projects (2022-08-15) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vS_I76a42zOm-GfGNZHl4s385XNFV4pkHqBq_x0op2S8LUlqN_-B5ebEPdNxqJ3-O1wWUiyemMA2zF9/pub)]
 
--   [Herodotus’ ‘Workshop’: A Core (Curriculum) Pathway into Ms. Fr. 640 and its Author-Practitioner]({{< ref "sp22_arocho_alejandra_herodotus-workshop" >}}) by Alejandra Quintana Arocho
+-   [Herodotus’ ‘Workshop’: A Core (Curriculum) Pathway into Ms. Fr. 640 and its Author-Practitioner](sp22_arocho_alejandra_herodotus-workshop) by Alejandra Quintana Arocho
 -   [Discarded Cartographies: Orienting Process Through Waste](/documents/pdf/sp22_dzumala_maciej_discards.pdf) by Maciej Dzumala
--   [Counterproofing: Reproduction and Theft in Early Modern Print Culture]({{< ref "sp22_lang_theodora_counterproofing" >}}) by Theodora Bocanegra Lang
--   [Making and Knowing Pop-up Book]({{< ref "sp22_wei+yang_jianing+luxi_popup" >}}) by Luxi Yang and Jianing Wei
--   [Creating a “Modern” Reconstruction of a Miniature Grotto]({{< ref "sp22_bergen+sabet_jamie+sofia_final-project_grotto" >}}) by Jamie Bergen and Sofia Sabet
--   [Cuttlefish in and around Ms. Fr. 640]({{< ref "sp22_donald_maia_final-project_cuttlebone" >}}) by Maia Donald
--   [Sieves in Ms. Fr. 640]({{< ref "sp22_gardner_schuyler_final-project-sieves" >}}) by Schuyler Gardner
--   [Animal Rationality in Ms. Fr. 640]({{< ref "sp22_nebolsin_victoria_final-project_animal-rationality" >}}) by Victoria Nebolsin
+-   [Counterproofing: Reproduction and Theft in Early Modern Print Culture](sp22_lang_theodora_counterproofing) by Theodora Bocanegra Lang
+-   [Making and Knowing Pop-up Book](sp22_wei+yang_jianing+luxi_popup/) by Luxi Yang and Jianing Wei
+-   [Creating a “Modern” Reconstruction of a Miniature Grotto](sp22_bergen+sabet_jamie+sofia_final-project_grotto/) by Jamie Bergen and Sofia Sabet
+-   [Cuttlefish in and around Ms. Fr. 640](sp22_donald_maia_final-project_cuttlebone) by Maia Donald
+-   [Sieves in Ms. Fr. 640](sp22_gardner_schuyler_final-project-sieves) by Schuyler Gardner
+-   [Animal Rationality in Ms. Fr. 640](sp22_nebolsin_victoria_final-project_animal-rationality) by Victoria Nebolsin
 
 ### Spring 2023 Final Student Projects (2024-01-08) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vS_I76a42zOm-GfGNZHl4s385XNFV4pkHqBq_x0op2S8LUlqN_-B5ebEPdNxqJ3-O1wWUiyemMA2zF9/pub)]
-- [“Flesh Color” and Race Making in Early Modern Painters’ Manuals]({{< ref "sp23_fan_ruilin_final-project_flesh-color" >}}) by Ruilin Fan
--  [Languages and Linguistic Agency in Ms. Fr. 640]({{< ref "sp23_narcy_gilles_final-project_languages" >}}) by Gilles Narcy
--  [Medieval Spirituality and Materiality in Ms. Fr. 640]({{< ref "sp23_lambert-avery_final-project_medieval-spirituality" >}}) by Avery Lambert
+- [“Flesh Color” and Race Making in Early Modern Painters’ Manuals](sp23_fan_ruilin_final-project_flesh-color) by Ruilin Fan
+-  [Languages and Linguistic Agency in Ms. Fr. 640](sp23_narcy_gilles_final-project_languages) by Gilles Narcy
+-  [Medieval Spirituality and Materiality in Ms. Fr. 640](sp23_lambert-avery_final-project_medieval-spirituality) by Avery Lambert
 -  [Kunstkamer: Women at Work](/documents/pdf/sp23_gorup_sophie_final-project_women-at-work.pdf) by Sophie Gorup 
      - [[PDF](/documents/pdf/sp23_gorup_sophie_final-project_women-at-work.pdf)]
      - [[PPTX](/documents/student-projects/sp23_gorup_sophie_final-project_women-at-work.pptx)]
--  [Candles: Making and Breaking Boundaries in Early Modern Jewish and Christian Ritual]({{< ref "sp23_nelkin-nesya_final-project_candles" >}}) by Nesya Nelkin
--  [Puffball Mushrooms and Early Modern Race-Making: A Skin-Whitening Recipe in BnF Ms. Fr. 640]({{< ref "sp23_rao-sumant_final-project_puffball" >}}) by Sumant Rao
--  [European Paintbrushes and Chinese Ink Brushes in the Early Modern World]({{< ref "sp23_shi-jingxian_final-project_paintbrushes" >}}) by Jingxian Shi
--  [Dyeing Textiles with Cochineal - A Workshop]({{< ref "sp23_brown-reece_final-project_dye-workshop" >}}) by Reece Brown
--  [Varnishing, a Craft of Closure]({{< ref "sp23_oberem-lukas_final-project_varnish" >}}) by Lukas Oberem
+-  [Candles: Making and Breaking Boundaries in Early Modern Jewish and Christian Ritual](sp23_nelkin-nesya_final-project_candles) by Nesya Nelkin
+-  [Puffball Mushrooms and Early Modern Race-Making: A Skin-Whitening Recipe in BnF Ms. Fr. 640](sp23_rao-sumant_final-project_puffball) by Sumant Rao
+-  [European Paintbrushes and Chinese Ink Brushes in the Early Modern World](sp23_shi-jingxian_final-project_paintbrushes) by Jingxian Shi
+-  [Dyeing Textiles with Cochineal - A Workshop](sp23_brown-reece_final-project_dye-workshop) by Reece Brown
+-  [Varnishing, a Craft of Closure](sp23_oberem-lukas_final-project_varnish) by Lukas Oberem
   
 ## Making Colors with Students
 
--  [Dyeing with Onion Skins]({{< ref "su22_fld_cunningham_annika_onion-skin-dyeing" >}}) by Annika Cunningham (2022-07-18)
--  [Making Pigment from Madder: a Trio of Recipes]({{< ref "sp22_fld_rosenkranz_naomi_madder-lake-trio" >}}) by Naomi Rosenkranz (2022-07-19) (WIP)
--  [Materials Used for Making Renaissance Dyes and Pigments]({{< ref "materials" >}}) by Naomi Rosenkranz and Megan Lennon (2023-02-28)
+-  [Dyeing with Onion Skins](su22_fld_cunningham_annika_onion-skin-dyeing) by Annika Cunningham (2022-07-18)
+-  [Making Pigment from Madder: a Trio of Recipes](sp22_fld_rosenkranz_naomi_madder-lake-trio) by Naomi Rosenkranz (2022-07-19) (WIP)
+-  [Materials Used for Making Renaissance Dyes and Pigments](materials) by Naomi Rosenkranz and Megan Lennon (2023-02-28)

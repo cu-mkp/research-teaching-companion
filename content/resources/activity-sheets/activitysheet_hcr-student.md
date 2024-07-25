@@ -21,7 +21,7 @@ Fitzpatrick (Aldershot, UK: Ashgate, 2010), pp. 73–88.
 ## Choosing a recipe
 
 Choose a recipe from any historical source. You can start your search
-with this [list of historical recipes and recipe collections.]({{< ref "/resources/activity-sheets/activitysheet_hcr-historical-recipe-collection.md" >}})
+with this [list of historical recipes and recipe collections.](/resources/activity-sheets/activitysheet_hcr-historical-recipe-collection/)
 
 Keep in mind that we are more interested in your process than your
 finished product (although if it is delicious, all the better!) so do

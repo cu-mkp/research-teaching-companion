@@ -69,6 +69,6 @@ Dyestuffs
 ![](/images/sp23_tamu-dyes_textiles-final-02.jpg?raw=true) 
 
 ## See also
-The Making and Knowing Project's [Hands-on Lesson Plans, Activities, Assignments, and Reconstruction Protocols](index-activity-assignments.md)
+The Making and Knowing Project's [Hands-on Lesson Plans, Activities, Assignments, and Reconstruction Protocols](index-activity-assignments/)
 
 

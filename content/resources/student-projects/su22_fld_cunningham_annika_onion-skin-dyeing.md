@@ -29,9 +29,9 @@ having to find rare and expensive ingredients.
 
 ## Notes and pictures - raw data
 - Template and notes used during dyeing processes for calculations and record keeping:
-     -  First Dye Experiment (Summer 2022): [[XLSX]({{< ref "/documents/pdf/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes.pdf" >}})] 
+     -  First Dye Experiment (Summer 2022): [[XLSX](/documents/pdf/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes.pdf)] 
           - [[PDF](/documents/pdf/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes.pdf)]
-     -  Second Dye Experiment (Fall 2022): [[XLSX]({{< ref "/documents/pdf/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes-2-greens.pdf" >}})] 
+     -  Second Dye Experiment (Fall 2022): [[XLSX](/documents/pdf/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes-2-greens.pdf")] 
           - [[PDF](/documents/pdf/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes-2-greens.pdf)]
 - [Flickr Album](https://www.flickr.com/photos/128418753@N06/albums/72177720300558025) with all photos
 
