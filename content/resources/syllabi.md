@@ -5,7 +5,7 @@ weight: 10
 ---
 
 # Making and Knowing Project Syllabi
-Syllabi from the Making and Knowing Project can be used to suggest possible readings, discussion prompts, model the integration of hands-on activities with seminar-style discussion of relevant concepts and texts, and connect instructors to resources for hands-on activities. These syllabi contain links to the edition's approximately 130 [essays](https://edition640.makingandknowing.org/#/essays) which can be used as course readings or to instruct in reconstructions (also useful for this are [field notes](https://fieldnotes.makingandknowing.org)). Making and Knowing Syllabi can also be mined for their [Lesson Plans]({{< ref "activity-sheets" >}}), while the [Student Projects]({{< ref "/resources/student-projects" >}}) from Hands-On History courses can be consulted by instructors and students for inspiration in planning papers and projects, and to consider the many ways to engage with Ms. Fr. 640 and the digital edition.
+Syllabi from the Making and Knowing Project can be used to suggest possible readings, discussion prompts, model the integration of hands-on activities with seminar-style discussion of relevant concepts and texts, and connect instructors to resources for hands-on activities. These syllabi contain links to the edition's approximately 130 [essays](https://edition640.makingandknowing.org/#/essays) which can be used as course readings or to instruct in reconstructions (also useful for this are [field notes](https://fieldnotes.makingandknowing.org)). Making and Knowing Syllabi can also be mined for their [Lesson Plans](activity-sheets), while the [Student Projects](/resources/student-projects/) from Hands-On History courses can be consulted by instructors and students for inspiration in planning papers and projects, and to consider the many ways to engage with Ms. Fr. 640 and the digital edition.
 
 ## HIST GR8906: Craft and Science: Making Objects in the Early Modern World
 
@@ -37,7 +37,7 @@ This Laboratory Seminar is a re-working of the graduate-level *GR8906: Craft and
 - [Summer 2021 HIST GU4962: Hands-on History Syllabus](https://docs.google.com/document/d/e/2PACX-1vTdDTbjg3Wo-03RCA7KtszFF-nVyY0ECotExiQK8SnNpBQ_zNC0tBv9f_RUCujxGlTkdFTZiGicbVKO/pub) (NOTE: this was a six-week intensive course, instructed virtually)
 - [Fall 2021 HIST GU4962: Hands-on History Syllabus](https://docs.google.com/document/d/e/2PACX-1vSwHOvl3vKELpALapOMMPWTRYaTkVxSn6n9243mOpekLYzlzpIbpmjzZjaRcFnj_RCi3iwNKSm5qBHS/pub)
 - Spring 2022 HIST GU4962: Hands-on History Syllabus (TBD)
-- [Spring 2023 HIST GU4962: Hands-on History Syllabus]({{< ref "syllabus_sp23_gu4962-hands-on-history" >}})
+- [Spring 2023 HIST GU4962: Hands-on History Syllabus](syllabus_sp23_gu4962-hands-on-history)
 
 ## HIST GR8975: What is a Book in the 21st Century? Working with Historical Texts in a Digital Environment
 

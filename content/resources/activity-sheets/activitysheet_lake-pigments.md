@@ -101,14 +101,14 @@ Lakes can be made from a variety of natural colorants. Natural colorants can be 
 - [Making Pigment from Madder: a Trio of Recipes](/documents/activity-sheets/sp22_fld_rosenkranz_naomi_madder-lake-trio) - helpful step-by-step fieldnotes  (2022-07-19) (WIP)
 - Pigment cards / pics
 #### Lake-Making in the Classroom: Presentations
-- [Presentation: Cochineal Lake: History, Chemistry, and Preparation]({{< ref "/documents/activity-sheets/presentation_sp23_rosenkranz_naomi_lakes_cochineal-history-chem-prep" >}})
-- [Presentation: Madder Lake: History, Chemistry, and Preparation]({{< ref "/documents/activity-sheets/presentation_sp23_rosenkranz_naomi_lakes_madder-history-chem-prep" >}})
+- [Presentation: Cochineal Lake: History, Chemistry, and Preparation](/documents/activity-sheets/presentation_sp23_rosenkranz_naomi_lakes_cochineal-history-chem-prep/)
+- [Presentation: Madder Lake: History, Chemistry, and Preparation](/documents/activity-sheets/presentation_sp23_rosenkranz_naomi_lakes_madder-history-chem-prep/)
 #### Lake-Making in the Classroom: Reflection Assignments 
-- Pigment-Making Lab Reflection Assignment [DOCX]({{< ref "/documents/docx/uchacz_2024_lab1_reflection-assignment-background.docx" >}}) 
-- - Pigment-Making Lab Reflection Assignment [DOCX]({{< ref "/documents/docx/uchacz-2024-lab1-reflection-assignment-background.docx" >}}) 
-     - [PDF]({{< ref "/documents/pdf/uchacz_2024_lab1_reflection-assignment-background.pdf" >}})
-- Pigment-Making Lab Reflection Assignment Background Document [DOCX]({{< ref "/documents/docx/uchacz_2024_lab1_reflection-assignment.docx" >}}) 
-     - [PDF]({{< ref "/documents/pdf/uchacz_2024_lab1_reflection-assignment.pdf" >}})
+- Pigment-Making Lab Reflection Assignment [DOCX](/documents/docx/uchacz_2024_lab1_reflection-assignment-background.docx) 
+- - Pigment-Making Lab Reflection Assignment [DOCX](/documents/docx/uchacz-2024-lab1-reflection-assignment-background.docx) 
+     - [PDF](/documents/pdf/uchacz_2024_lab1_reflection-assignment-background.pdf)
+- Pigment-Making Lab Reflection Assignment Background Document [DOCX](/documents/docx/uchacz_2024_lab1_reflection-assignment.docx) 
+     - [PDF](/documents/pdf/uchacz_2024_lab1_reflection-assignment.pdf)
 #### Lake-Making in the Classroom: Recipe Handouts
 - Cochineal Standard
 - Cochineal Reversed
@@ -128,5 +128,5 @@ For an essay exploring pigments, including lake pigments, in the manuscript, see
 
 ##### Lakes, Trade, and Labor in Ms. Fr. 640
 Materials for a classroom activity exploring lake pigments in Ms. Fr. 640 (range of use, formats, and associated materials) and their relevance to global trade and labor practices:
-- [Compiled references to "lake" pigments in Ms. Fr. 640]({{< ref "/documents/pdf/lakes-in-Fr-640_2021.pdf" >}})
-- [Classroom Activity: Lakes, Trade, and Labor in Ms. Fr. 640]({{< ref "/documents/pdf/lakes-trade-labor-in-Fr640.pdf" >}})
+- [Compiled references to "lake" pigments in Ms. Fr. 640](/documents/pdf/lakes-in-Fr-640_2021.pdf)
+- [Classroom Activity: Lakes, Trade, and Labor in Ms. Fr. 640](/documents/pdf/lakes-trade-labor-in-Fr640.pdf)
