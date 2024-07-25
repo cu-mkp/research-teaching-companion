@@ -42,9 +42,19 @@ After the front matter, the rest of the page must be formatted as Goldmark-flavo
 
 Headings of levels `## Two` and `### Three` will populate the table of contents on the left side of each document. Headings of level two will also have a thin horizontal rule beneath them.
 
-### Internal links
+### Links to resources and content in this repository
 - make sure you include the full filepath, starting from either `/static/` or `/content/`
      - So if you want to link to [research-teaching-companion/content/resources/activity-sheets/activitysheet_jasper.md](https://github.com/cu-mkp/research-teaching-companion/blob/main/content/resources/activity-sheets/activitysheet_jasper.md?plain=1), use the path `/resources/activity-sheets/activitysheet_jasper/`
+- make sure to include a leading `/`
+     - RIGHT: `/resources/activity-sheets/activitysheet_jasper/`
+     - WRONG: `resources/activity-sheets/activitysheet_jasper/`  
+- for markdown pages, do not include `.md`,  but do include a trailing `/`
+     - So `resources/activity-sheets/activitysheet_jasper.md` becomes `/resources/activity-sheets/activitysheet_jasper/`
+     - RIGHT: `/resources/activity-sheets/activitysheet_jasper/`
+     - WRONG: `/resources/activity-sheets/activitysheet_jasper.md`
+- for static resources, include the file extension and do not include a trailing `/`
+     - RIGHT: `/documents/pdf/activitysheet_Jasper_preparation-of-horn.pdf`
+     - WRONG: `/documents/pdf/activitysheet_Jasper_preparation-of-horn.pdf/`
 
 #### Links to other pages (i.e., `.md` files under `content/`):
 `[Making Varnishes](/resources/activity-sheets/activitysheet_varnishes/)` <br><br>
