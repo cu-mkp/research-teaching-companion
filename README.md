@@ -50,7 +50,7 @@ These work differently from the other internal links. Instead of the `ref` tag, 
 
 ```markdown
 ![stucco-molded](/images/stucco-molded.jpg)
-[PDF (student handout)](/documents/activity-sheets/stucco_assignment_student-handout.pdf)
+[PDF (student handout)](/documents/pdf/stucco_assignment_student-handout.pdf)
 ```
 ### Links to resources and content in this repository
 - make sure you include the full filepath, starting from either `/static/` or `/content/`
