@@ -16,6 +16,8 @@ The resources included in this Companion to the digital edition [*Secrets of Cra
 During the intensive series of collaborative courses, workshops, and conferences through which *Secrets of Craft and Nature* was created, the Making and Knowing Project has had much opportunity to reflect on the challenges and the joys of inserting hands-on work into the text-centered training of the university. We hope the materials we developed through this experience will provide food for thought and action and a guide of sorts for your own experiments. They are intended to be used flexibly, and we invite you to adapt and create your own resources to fit your needs.
 
 For more about the creation of the Companion, and the Making and Knowing Project’s suite of Research and Teaching Resources, see [About M&K](/about).
+
+![sp22_lake-making](/images/sp22_lake-making.jpg)
 ## The Companion's Resources
 ### Making & Knowing Syllabi
 [Syllabi from the Making and Knowing Project's courses](/resources/syllabi/) model the integration of hands-on activities with discussion of relevant concepts and texts, and they can be mined for possible readings, discussion prompts, and hands-on lessons. These syllabi contain links to essays from _Secrets of Craft and Nature_ for use as course readings and suggest how to plan and coordinate hands-on activities. Student Projects created in these courses can be consulted by instructors and students for inspiration and to consider the many ways to engage with Ms. Fr. 640 and its digital edition.
@@ -30,9 +32,9 @@ Why engage in hands-on activities in teaching and research? In this section, the
 ### Digital Making and Knowing
 The Making and Knowing Project has developed open access [digital resources](/resources/digital/), including a publication tool for making your own edition, model projects for using the data of _Secrets of Craft and Nature_, digital literacy tools, syllabi, and ideas for student activities.
 ## Digital Development of the Companion
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Webpage content and navigation for the [Making and Knowing Project](https://makingandknowing.org/)'s Research and Teaching Companion is built on the [Hugo](https://gohugo.io/) framework. The Companion on GitHub: https://cu-mkp.github.io/research-teaching-companion/.
 ## How to Cite the Companion
-Naomi Rosenkranz, Pamela H. Smith, Tianna Helena Uchacz, and Terry Catapano, _Making and Knowing Project Research and Teaching Companion_ (New York: The Making and Knowing Project, 2024), https://teaching640.makingandknowing.org.
+Naomi Rosenkranz, Pamela H. Smith, Tianna Helena Uchacz, and Terry Catapano, _Making and Knowing Project Research and Teaching Companion_ (New York: Making and Knowing Project, 2024), https://teaching640.makingandknowing.org.
 ## Sponsors 
 **The Henry Luce Foundation**
 
