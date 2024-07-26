@@ -16,7 +16,7 @@ Indeed, the overarching theme of the Project and its work on _Secrets of Craft a
 
 <iframe src="https://player.vimeo.com/video/384070384" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-For more about the Project, please explore the Project’s website (www.makingandknowing.org) and [Making the Edition](https://edition640.makingandknowing.org/#/essays/ann_329_ie_19). 
+For more about the Project, explore the Project’s website (www.makingandknowing.org) and [Making the Edition](https://edition640.makingandknowing.org/#/essays/ann_329_ie_19). 
 
 ## The Edition
 [*Secrets of Craft and Nature in Renaissance France*](https://edition640.makingandknowing.org/#/) is a digital critical edition and English translation of the French manuscript Ms. Fr. 640 held by the Bibliothèque nationale de France. This edition presents a rich and unique sixteenth-century technical text in French transcription and English translation for the first time, and situates its contents in their material and historical context.
@@ -38,6 +38,8 @@ In teaching these hands-on research seminars, we tried to balance about 8 weeks 
 
 ### Undergraduate Hands-On History
 With the edition complete, we transitioned in 2021 to a new course, *Making and Knowing in Early Modern Europe: Hands-On History*, in which a mixed cohort of undergraduate and graduate students explore Secrets of Craft and Nature to create sample [Student projects](student-projects)&mdash;involving all kinds of research&mdash;that extends the content of the edition in creative and sometimes surprising ways. The duration of the course period for this class is only about 2 hours/week (in contrast to the 4 hours of _Craft and Science_). Time and scheduling present a serious challenge to integrating hands-on work in the classroom, and it was out of this need to streamline the hands-on work that our step-by-step [Lesson Plans for Hands-On](activity-sheets), emerged. As you can see in the [Making & Knowing Syllabi](/resources/syllabi), the hands-on sessions incorporate many of the skill building activities first formulated for _Craft and Science_. The Lesson Plans and associated teaching resources included in the Companion provide step-by-step guidance in planning, tools and ingredients, and the processes of the hands-on work. These Lesson Plans have been used by instructors from high school to graduate courses, and their experiences and advice can be found in [M&K Resources in Use](/resources/case-studies). Further reflections about teaching hands-on activities can be found in the Project's [Reflections on Hands-On](reflection).
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/710444936?h=b9508dad89" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
 ### Digital Humanities
 During development of the edition, we also taught digital humanities courses that integrated methods and tools of digital scholarship so that the students could help to build, test, and use the prototype of the edition. The syllabi for these courses provide information about minimal computing and the open access technology that underlie the edition and our digital publication tool, [EditionCrafter](LINK). Student projects resulting from these courses are included in this Companion [Digital Making and Knowing](digital), and can also be found on the Project's [Sandbox](https://cu-mkp.github.io/sandbox/), along with many additional digital projects using the data of the edition.
@@ -65,11 +67,7 @@ The Making and Knowing Project is a research cluster of the Center for Science a
 For more information, please visit: <https://www.makingandknowing.org/> and <https://scienceandsociety.columbia.edu/><br>
 
 To report a bug or malfunction in _Secrets of Craft and Nature in Renaissance France_, please send an email to
-<info@makingandknowing.org> with a detailed description or screenshot of the error message or section to be corrected.
-
-Alternatively, log any bugs by contributing to the [Project's Github repository](https://github.com/cu-mkp/m-k-manuscript-data) by opening an issue in our [issue tracker](https://github.com/cu-mkp/m-k-manuscript-data/issues).
-
-Thank you\!
+<info@makingandknowing.org> with a detailed description or screenshot of the error message or section to be corrected. Alternatively, log any bugs by contributing to the [Project's Github repository](https://github.com/cu-mkp/m-k-manuscript-data) by opening an issue in our [issue tracker](https://github.com/cu-mkp/m-k-manuscript-data/issues). Thank you!
 
 <br>
 
