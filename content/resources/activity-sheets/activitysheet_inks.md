@@ -19,15 +19,14 @@ Writing inks are a colored viscous fluid composed of a water-based liquid, a bin
 - Inks: History, Chemistry, and Preparation [[PDF](/documents/pdf/presentation_iron-gall-inks-2023.pdf)]
 
 #### Ink Making: Activity Sheets, Field Notes, and Resources
-- Iron Gall Ink Making: Small Batch (~20 ml) [docx] [PDF] 2023_iron-gall-ink-worksheet_small-batch
-- Iron Gall Ink Making: Large Batch (~150 ml) [docx] [PDF] 2023_iron-gall-ink-worksheet_large-batch
-- Carbon Ink Making [docx] [PDF] carbon-ink-info-and-recipes
-- Iron Gall and Carbon Ink: A Comparison Making Activity [docx] [PDF] inks-recipes_iron-gall-and-carbon
+- Iron Gall Ink Making: Small Batch (~20 ml) [[docx](/documents/docx/2023_iron-gall-ink-worksheet_small-batch.docx)] [[PDF](/documents/pdf/2023_iron-gall-ink-worksheet_small-batch.pdf)]
+- Iron Gall Ink Making: Large Batch (~150 ml) [[docx](/documents/docx/2023_iron-gall-ink-worksheet_large-batch.docx)] [[PDF](/documents/pdf/2023_iron-gall-ink-worksheet_large-batch.pdf)]
+- Carbon Ink Making [[docx](/documents/docx/carbon-ink-info-and-recipes.docx)] [[PDF](/documents/pdf/carbon-ink-info-and-recipes.pdf)]
+- Iron Gall and Carbon Ink: A Comparison Making Activity [[docx](/documents/docx/inks-recipes_iron-gall-and-carbon.docx)] [[PDF](/documents/pdf/inks-recipes_iron-gall-and-carbon.pdf)]
 
 #### The Materiality of Text in Ms. Fr. 640
 - Handout surveying the entries in Ms. Fr. 640 on the materiality of text and on literary culture in Renaissance France
-      -[[DOCX](/documents/docx/uchacz_2023_materialiality-of-text.docx)]
-     - [[PDF](/documents/pdf/uchacz_2023_materialiality-of-text.pdf)]
+[[DOCX](/documents/docx/uchacz_2023_materialiality-of-text.docx)] [[PDF](/documents/pdf/uchacz_2023_materialiality-of-text.pdf)]
 
 #### Inks in Ms. Fr. 640
 There are dozens of entries in Ms. Fr. 640 that address the making and use of varnishes. In fact, "varnish" is one of the categories that M&K has used to classify the various entries in the manuscript, and entries on varnishes account for roughly 5% of the manuscript's contents. These entries can be accessed through the "varnish" category filter in the [List of Entries](https://edition640.makingandknowing.org/#/entries) and by a wildcard search for "[varnish\*](https://edition640.makingandknowing.org/#/search?q=varnish*)" to catch all instances of the term in [_Secrets of Craft and Nature in Renaissance France_](https://edition640.makingandknowing.org/#/).
