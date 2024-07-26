@@ -17,7 +17,8 @@ During the intensive series of collaborative courses, workshops, and conferences
 
 For more about the creation of the Companion, and the Making and Knowing Project’s suite of Research and Teaching Resources, see [About M&K](/about).
 
-![sp22_lake-making](/images/sp22_lake-making.jpg)
+![sp22_azurite](/images/sp22_azurite-session2.jpg)
+
 ## The Companion's Resources
 ### Making & Knowing Syllabi
 [Syllabi from the Making and Knowing Project's courses](/resources/syllabi/) model the integration of hands-on activities with discussion of relevant concepts and texts, and they can be mined for possible readings, discussion prompts, and hands-on lessons. These syllabi contain links to essays from _Secrets of Craft and Nature_ for use as course readings and suggest how to plan and coordinate hands-on activities. Student Projects created in these courses can be consulted by instructors and students for inspiration and to consider the many ways to engage with Ms. Fr. 640 and its digital edition.
