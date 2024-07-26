@@ -7,16 +7,16 @@ weight: 40
 
 ## Introduction
 
-In the development of the Making and Knowing Project's Research and Teaching Companion, many individuals have contributed, including instructors, scholars, students, researchers, practitioners, makers, organizers, advisors, developers, instructors, designers, and supporters. Like [_Secrets of Craft and Nature in Renaissance France: A Digital Edition of BnF Ms. Fr. 640_](https://edition640.makingandknowing.org/#/), the Research and Teaching Companion represents the culmination of many years of iterative, interdisciplinary, and collaborative work by countless dedicated and enthusiastic members, individuals, and networks of the [Making and Knowing Project](https://www.makingandknowing.org/).
+In the development of the Making and Knowing Project's Research and Teaching Companion, many individuals have contributed, including instructors, scholars, students, researchers, practitioners, makers, organizers, advisors, developers, designers, and supporters. Like [_Secrets of Craft and Nature in Renaissance France: A Digital Edition of BnF Ms. Fr. 640_](https://edition640.makingandknowing.org/#/), the Research and Teaching Companion represents the culmination of many years of iterative, interdisciplinary, and collaborative work by countless dedicated and enthusiastic members, individuals, and networks of the [Making and Knowing Project](https://www.makingandknowing.org/).
 
 ![about-credits-wgm15](/images/about-credits-wgm15.png)
 
-The process of creating the edition of Ms. Fr. 640 underpins the structure and content of this Research and Teaching Companion, and it is important to understand how the edition came into being and who was involved. For more about the creation of the edition, see [About the Edition](https://edition640.makingandknowing.org/#/content/about#creation-of-the-edition) and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](https://edition640.makingandknowing.org/#/essays/ann_329_ie_19). For the numerous individuals involved in the creation of the edition, see [Credits](https://edition640.makingandknowing.org/#/content/about#People-and-Credits).
+The process of creating the edition of Ms. Fr. 640 underpins the structure and content of this Research and Teaching Companion; for more about the creation of the edition, see [About the Edition](https://edition640.makingandknowing.org/#/content/about#creation-of-the-edition) and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](https://edition640.makingandknowing.org/#/essays/ann_329_ie_19). For the numerous individuals involved in the creation of the edition, see [Credits](https://edition640.makingandknowing.org/#/content/about#People-and-Credits).
 
 ## Research and Teaching Companion Contributors
 Although not everyone named below worked directly on the Research and Teaching Companion, their research and teaching contributed to its content.
 
-### Project Team and Staff
+### Project Team and Staff for _Secrets of Craft and Nature_
 
   - Founding Director: Pamela H. Smith
   - Assistant Director: Naomi Rosenkranz
@@ -35,14 +35,32 @@ Although not everyone named below worked directly on the Research and Teaching C
   - Digital Lead: Terry Catapano
   - Digital Designer-Developer: Nick Laiacona and team at [Performant Software Solutions](https://www.performantsoftware.com/)
 
-### Senior Editorial Team
-Pamela H. Smith <br><br>Naomi Rosenkranz <br><br>Tianna Helena Uchacz <br><br>Tillmann Taape <br><br>Sophie Pitman <br><br>Donna Bilak <br><br>Terry Catapano 
+### Senior Editorial Team for the Companion
+- Pamela H. Smith 
+- Naomi Rosenkranz
+- Tianna Helena Uchacz
+- Terry Catapano 
 
-### Senior Digital Team
-Terry Catapano <br><br>Nick Laiacona and team at Performant Software Solutions <br><br>Naomi Rosenkranz 
+### Senior Digital Team for the Companion
+- Terry Catapano
+- Nick Laiacona and team at Performant Software Solutions
+- Naomi Rosenkranz 
 
-## Project Managers, Assistants, and Interns
+### Planning and Implementation for the Companion
+- Pamela H. Smith
+- Naomi Rosenkranz
+- Tianna Helena Uchacz
+- Tillmann Taape
+- Sophie Pitman
+- Donna Bilak
+- Terry Catapano
+- Gregory Schare
+  
+![Companion Worksprint](/images/2024_RTC_Worksprint.jpg)
 
+**Research and Teaching Companion WorkSprint, April 2024**
+
+## Making and Knowing Project Managers, Assistants, and Interns
   - Research Associate (2014-15): Claire Sabel
   - Project Manager and Graduate Research Assistant (2014-15): Jef Palframan
   - Research Assistant (2014-15): Miriam Pensack
@@ -99,39 +117,24 @@ Instructors: Pamela Smith with Naomi Rosenkranz and Caroline Surman
 This hybrid laboratory-discussion graduate seminar offered through Columbia’s History Department combined historical research with hands-on skill-building and reconstructions of Ms. Fr. 640’s recipes in the Making and Knowing Laboratory. The teaching and student work in this course was foundational in creating the content for the Research and Teaching Companion.
 
 Each semester of the *Craft and Science* Lab Seminar was driven by a guiding theme to draw together components of the manuscript and provide focus for analysis and activities, as described below.
-
-Instructor: Pamela H. Smith
-
+- Instructor: Pamela H. Smith
 Co-instructors:
-
-Donna Bilak (2014-17)
-
-Jenny Boulboullé (2014-16)
-
-Joel A. Klein (2014-17)
-
-Tianna Helena Uchacz (2016-20)
-
-Sophie Pitman (2017-18)
-
-Tillmann Taape (2017-20)
+- Donna Bilak (2014-17)
+- Jenny Boulboullé (2014-16)
+- Joel A. Klein (2014-17)
+- Tianna Helena Uchacz (2016-20)
+- Sophie Pitman (2017-18)
+- Tillmann Taape (2017-20)
 
 ### Expert Makers
 Invited for their expertise, Expert Makers stayed in residence at Columbia for two weeks to lead students in skill-building activities specific to the year’s theme and consult on students' final project topics.
-
-Tonny Beentjes (Fall 2014)
-
-Andrew Lacey (Spring 2015)
-
-Marjolijn Bol (Fall 2015)
-
-Erma Hermens (Spring 2016)
-
-Divya Anantharaman (Fall 2016-Spring 2017)
-
-Jo Kirby (Fall 2018)
-
-Ad Stijnman and support from the Art and Art Education Program, Teachers College (Fall 2018)
+- Tonny Beentjes (Fall 2014)
+- Andrew Lacey (Spring 2015)
+- Marjolijn Bol (Fall 2015)
+- Erma Hermens (Spring 2016)
+- Divya Anantharaman (Fall 2016-Spring 2017)
+- Jo Kirby (Fall 2018)
+- Ad Stijnman and support from the Art and Art Education Program, Teachers College (Fall 2018)
 
 ### Students by Semester
 
