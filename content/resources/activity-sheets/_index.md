@@ -12,44 +12,44 @@ Making and Knowing Lesson Plans and associated teaching resources provide step-b
 ### Tips for Hands-On Teaching
 Tips for Hands-on Teaching and Learning compiled from Making and Knowing Project experience.
 
-[Tip Sheet for Hands-On Teaching](/resources/activity-sheets/activitysheet_tips-for-instructors)
+[Tip Sheet for Hands-On Teaching](/resources/activity-sheets/activitysheet_tips-for-instructors/)
 
 ### Introduction to *Secrets of Craft and Nature*
 A great way to get started in a class or workshop by familiarizing students with the digital critical edition of Ms. Fr. 640 and the manuscript itself by completing a scavenger hunt of its contents.
-- [Scavenger Hunt: Get to Know *Secrets of Craft and Nature*](scavenger-hunt_secrets-of-craft)
-- [*Secrets of Craft and Nature* Reconnaissance (Directed Scavenger Hunt)](scavenger-hunt-2) 
+- [Scavenger Hunt: Get to Know *Secrets of Craft and Nature*](/resources/activity-sheets/scavenger-hunt_secrets-of-craft/)
+- [*Secrets of Craft and Nature* Reconnaissance (Directed Scavenger Hunt)](/resources/activity-sheets/scavenger-hunt-2/) 
      
 ### Historical Culinary Recipe Reconstruction
 Reconstructing an obscure culinary recipe is especially effective as a first hands-on activity to familiarize students with the textual and material challenges of following past recipes. It is also a wonderful community-building exercise.
-- [Historical Culinary Recipe Reconstruction](/resources/activity-sheets/activitysheet_hcr-instructor)
+- [Historical Culinary Recipe Reconstruction](/resources/activity-sheets/activitysheet_hcr-instructor/)
   
 ### Bread Making, Molding, and Casting
 An intriguing recipe in Ms. Fr. 640 for making molds from bread is the basis for this lesson plan, which begins from the Ms. Fr. 640 recipe and expands to a multi-week series of activities, including learning to make bread, experimenting with different techniques of molding, and, finally, casting wax into bread. The lesson is an effective way to introduce students to embodied experience and knowledge.  
-- [Bread Making, Molding, and Casting](/resources/activity-sheets/breadmolding_resources-for-the-instructor)
+- [Bread Making, Molding, and Casting](/resources/activity-sheets/breadmolding_resources-for-the-instructor/)
   
 ### Making Stucco for Molding
-- [Stucco for Molding](/resources/activity-sheets/activitysheet_stucco)
+- [Stucco for Molding](/resources/activity-sheets/activitysheet_stucco/)
   
 ### Dyeing with Natural Colorants
-- [Dyeing with Natural Colorants](/resources/activity-sheets/activitysheet_dyeing)
+- [Dyeing with Natural Colorants](/resources/activity-sheets/activitysheet_dyeing/)
   
 ### Making Paints from Pigments and Painting Them Out
 #### Transforming Natural Plant and Insect Colorants into Pigments (Lake Pigments)
-- [Making Lake Pigments from Natural Colorants](/resources/activity-sheets/activitysheet_lake-pigments)
+- [Making Lake Pigments from Natural Colorants](/resources/activity-sheets/activitysheet_lake-pigments/)
 #### Mineral Pigments
-- ["Growing" Verdigris Pigment](verdigris-assignment). See also Marie-France Lemay's [“Verdigris” in Traveling Scriptorium: A Teaching Kit by the Yale University Library](https://travelingscriptorium.com/2013/01/17/verdigris/)
-- [Grinding, Levigating, and Painting with Azurite](azurite-assignment)
+- ["Growing" Verdigris Pigment](/resources/activity-sheets/verdigris-assignment/). See also Marie-France Lemay's [“Verdigris” in Traveling Scriptorium: A Teaching Kit by the Yale University Library](https://travelingscriptorium.com/2013/01/17/verdigris/)
+- [Grinding, Levigating, and Painting with Azurite](/resources/activity-sheets/azurite-assignment/)
 #### Making Paint, Preparing Supports, and Painting Test Panels
-- [Making Paints from Pigments and Binding Media and Painting Them Out](/resources/activity-sheets/activitysheet_paintingpigments)
-- [Preparing Panels, Canvases, and Other Supports for Painting, Gilding, and More](/resources/activity-sheets/activitysheet_supportsurfaces)
+- [Making Paints from Pigments and Binding Media and Painting Them Out](/resources/activity-sheets/activitysheet_paintingpigments/)
+- [Preparing Panels, Canvases, and Other Supports for Painting, Gilding, and More](/resources/activity-sheets/activitysheet_supportsurfaces/)
 ### Making Inks
-- [Inks](/resources/activity-sheets/activitysheet_inks)
+- [Inks](/resources/activity-sheets/activitysheet_inks/)
 ### Varnishes and Their Many Uses
-- [Making Varnishes](/resources/activity-sheets/activitysheet_varnishes)
+- [Making Varnishes](/resources/activity-sheets/activitysheet_varnishes/)
 ### Making "Counterfeit" Jasper
-- [Making Jasper](/resources/activity-sheets/activitysheet_jasper)
+- [Making Jasper](/resources/activity-sheets/activitysheet_jasper/)
 ### Materializing Spiritual Practice: Reconstructing Burn Salve 
-- [Reconstruction of a 16th-century Burn Salve Recipe](burnsalve)
+- [Reconstruction of a 16th-century Burn Salve Recipe](/resources/activity-sheets/burnsalve/)
 
 
 ## Hands-on Lesson Plans from Research Essays in *Secrets of Craft and Nature*
