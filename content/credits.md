@@ -54,6 +54,7 @@ Although not everyone named below worked directly on the Research and Teaching C
 - Sophie Pitman
 - Donna Bilak
 - Terry Catapano
+- Caroline Surman
 - Gregory Schare
   
 ![Companion Worksprint](/images/2024_RTC_Worksprint.jpg)
