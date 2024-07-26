@@ -22,9 +22,9 @@ By proposing a shift from textbooks and tests to hands-on work and process, M&K 
 [The Lab Playlist](https://www.youtube.com/watch?v=r5vq6yHF8eg&list=PL9JDAfbqTXnOOXbIAW6dML7kxKsWJFY8B&ab_channel=MakingandKnowingProject)<br>
 - Direction and Editing: Lan Li<br>
 - Production: Tianna Uchacz<br>
-    [Tour the Lab](https://vimeo.com/384070452)<br> 
-    [Introduction to the Making and Knowing Project](https://vimeo.com/384070384)<br>
-    [Skillbuilding in the Lab Seminars](https://vimeo.com/384070302)<br>
+    - [Tour the Lab](https://vimeo.com/384070452)<br> 
+    - [Introduction to the Making and Knowing Project](https://vimeo.com/384070384)<br>
+    - [Skillbuilding in the Lab Seminars](https://vimeo.com/384070302)<br>
     **Project Themes**<br>
     -  [Moldmaking and Metalworking](https://vimeo.com/384070215)<br>
     -  [Colormaking](https://vimeo.com/384070773)<br>
@@ -37,7 +37,7 @@ By proposing a shift from textbooks and tests to hands-on work and process, M&K 
     -  [Metal Casting with Toulouse Sand](https://vimeo.com/384070929)<br>
 
 ## Reflections on Hands-on Learning
-[Tips for Hands-on Teaching and Learning](/resources/activity-sheets/activitysheet_tips-for-instructors) compiled by the Making and Knowing Project.
+[Tips for Hands-on Teaching and Learning](/resources/activity-sheets/activitysheet_tips-for-instructors/) compiled by the Making and Knowing Project.
 
 [A Recipe for Recipe Research: The Making and Knowing Project](https://recipes.hypotheses.org/7430), The Recipes Project, 2016.
 
@@ -81,5 +81,5 @@ See the videos created by Lan Li:<br>
 [Weaving Knowledge: Thinking, Feeling, and Making](https://player.vimeo.com/video/310888539)<br>
 
 ## Bibliography for Hands-on Teaching and Learning
-[Bibliography](/resources/reflection/bibliography)
+[Bibliography](/resources/reflection/bibliography/)
 
