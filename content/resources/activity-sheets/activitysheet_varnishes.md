@@ -28,13 +28,10 @@ In this period, there also existed a third, intermediary category of “mixed”
 ### Teaching Spirit Varnish Making
 
 #### Spirit Varnish Making: Activity Sheets, Field Notes, and Resources
-- Protocol for Spike Lavender Oil Spirit-based Varnish [DOCX](/documents/docx/activitysheet_varnishes-protocol-slsv.docx) 
-     - [PDF](/documents/pdf/activitysheet_varnishes-protocol-slsv.pdf)
-- Protocol for Turpentine Spirit-based Varnish [DOCX](/documents/docx/activitysheet_varnishes-protocol-ttv.docx) 
-     - [PDF](/documents/pdf/activitysheet_varnishes-protocol-ttv.pdf)
+- Protocol for Spike Lavender Oil Spirit-based Varnish [[DOCX](/documents/docx/activitysheet_varnishes-protocol-slsv.docx)] [[PDF](/documents/pdf/activitysheet_varnishes-protocol-slsv.pdf)]
+- Protocol for Turpentine Spirit-based Varnish [[DOCX](/documents/docx/activitysheet_varnishes-protocol-ttv.docx)] [[PDF](/documents/pdf/activitysheet_varnishes-protocol-ttv.pdf)]
 - [M&K field notes from the making of several varnishes for the reconstruction "Varnishes in the Rain"](https://fieldnotes.makingandknowing.org/pre-2018-Fall/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-in-the-rain/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-rain-2/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-rain-2-varnish-making-application.html)
-- Sourcing Materials for Varnish Making [DOCX](/documents/docx/material-sourcing-varnishes-resins.docx) 
-     - [PDF](/documents/pdf/material-sourcing-varnishes-resins.pdf)
+- Sourcing Materials for Varnish Making [[DOCX](/documents/docx/material-sourcing-varnishes-resins.docx)] [[PDF](/documents/pdf/material-sourcing-varnishes-resins.pdf)]
 - [Compiled Description of Common Varnish Materials](/documents/pdf/glossary-turpentine-resins-balsams.pdf)
 
 #### Varnishes in Ms. Fr. 640
@@ -48,3 +45,4 @@ There are also several essays in [_Secrets of Craft and Nature in Renaissance Fr
 - Celine Camps, “[Black Varnish for Armor](https://edition640.makingandknowing.org/#/essays/ann_071_fa_18).”
 - Caroline Marris and Stephanie Pope, “[Varnish for Lutes](https://edition640.makingandknowing.org/#/essays/ann_019_sp_15).”
 - Teresa Soley, “[Imitation Marble](https://edition640.makingandknowing.org/#/essays/ann_040_sp_16).”
+-  Victoria and Albert Museum/Royal College of Art Postgraduate Programme in the History of Design, "[Thinking and Experiencing Techne](https://edition640.makingandknowing.org/#/essays/ann_513_ad_20)."
