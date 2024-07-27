@@ -82,13 +82,9 @@ With support from a [Montague-Center for Teaching Excellence Award](https://pvfa
   - tip: use cheap paintbrushes (the aim is to create a sample card not a masterpiece), and start with egg media so that the paint brushes can be washed and used again for oil media. Dispose of the paintbrushes after using them with the oil paints.
 
 After each lab, I assigned reflection assignments that asked them to consider contextual information, their experiences in the lab, and the relevance of their experiences for their understanding of art history:
-- Pigment-Making Lab Reflection Assignment [[DOCX](/documents/docx/uchacz_2024_lab1_reflection-assignment-background.docx)] 
-- - Pigment-Making Lab Reflection Assignment [[DOCX](/documents/docx/uchacz-2024-lab1-reflection-assignment-background.docx)] 
-     - [[PDF](/documents/pdf/uchacz_2024_lab1_reflection-assignment-background.pdf)]
-- Pigment-Making Lab Reflection Assignment Background Document [[DOCX](/documents/docx/uchacz_2024_lab1_reflection-assignment.docx)] 
-     - [[PDF](/documents/pdf/uchacz_2024_lab1_reflection-assignment.pdf)]
-- Paint-Making Lab Reflection Assignment [[DOCX](/documents/docx/uchacz_2024_lab2_reflection-assignment.docx)] 
-     - [[PDF](/documents/pdf/uchacz_2024_lab2_reflection-assignment.pdf)]
+- Pigment-Making Lab Reflection Assignment [[DOCX](/documents/docx/uchacz_2024_lab1_reflection-assignment-background.docx)] [[PDF](/documents/pdf/uchacz_2024_lab1_reflection-assignment-background.pdf)]
+- Pigment-Making Lab Reflection Assignment Background Document [[DOCX](/documents/docx/uchacz_2024_lab1_reflection-assignment.docx)] [[PDF](/documents/pdf/uchacz_2024_lab1_reflection-assignment.pdf)]
+- Paint-Making Lab Reflection Assignment [[DOCX](/documents/docx/uchacz_2024_lab2_reflection-assignment.docx)] [[PDF](/documents/pdf/uchacz_2024_lab2_reflection-assignment.pdf)]
 
 The results of the reflection assignments were encouraging: the students came to appreciate the material qualities, appearances, and behaviors of various paint media. They gained a better sense of the skill and labor involved in painting, and they had excellent and insightful follow-up questions after the assignemnt. Moreover, their course evaluations routinely mentioned how much they enjoyed the activity, not only for what they learned but for the opportunity it gave them to get to know their classmates in what is otherwise a sizeable lecture course.
 
