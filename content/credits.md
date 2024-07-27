@@ -120,8 +120,8 @@ Instructors: Pamela Smith with Naomi Rosenkranz and Caroline Surman
 This hybrid laboratory-discussion graduate seminar offered through Columbia’s History Department combined historical research with hands-on skill-building and reconstructions of Ms. Fr. 640’s recipes in the Making and Knowing Laboratory. The teaching and student work in this course was foundational in creating the content for the Research and Teaching Companion.
 
 Each semester of the *Craft and Science* Lab Seminar was driven by a guiding theme to draw together components of the manuscript and provide focus for analysis and activities, as described below.
-- Instructor: Pamela H. Smith
-Co-instructors:
+- Instructor: Pamela H. Smith</br>
+Co-instructors:<br>
 - Donna Bilak (2014-17)
 - Jenny Boulboullé (2014-16)
 - Joel A. Klein (2014-17)
