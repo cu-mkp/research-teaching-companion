@@ -62,9 +62,9 @@ food, material culture, craft, medicine.
 
 ## Teaching Materials
 
-[Student activity sheet](/resources/activity-sheets/activitysheet_hcr-student)
+[Student activity sheet](/resources/activity-sheets/activitysheet_hcr-student/)
 
-[Guide to historical recipes and collections](/resources/activity-sheets/activitysheet_hcr-historical-recipe-collection)
+[Guide to historical recipes and collections](/resources/activity-sheets/activitysheet_hcr-historical-recipe-collection/)
 
 ## Finding Recipes
 
@@ -157,8 +157,7 @@ For a discussion about different approaches to historical reconstruction
 
 ### On recipes
 
--   Explore the [<u>Recipes
-    Project</u>](https://recipes.hypotheses.org/) Archive online
+-   Explore the [<u>Recipes Project</u>](https://recipes.hypotheses.org/) Archive online
 
 -   Appelbaum, Robert. *Aguecheek's beef, belch's hiccup, and other
     gastronomic interjections: literature, culture, and food among the
@@ -202,8 +201,8 @@ Video of Making and Knowing Director Pamela Smith introducing “skillbuilding�
 
 ### Sample student reconstructions
 
-[Video](https://vimeo.com/421571358) Amelia Wright, Caleb Mitchell, Magdalena Ramos Mullane (Vassar
-College), “Ryschewys close & fryez”
+[Video: “Ryschewys close & fryez”](https://vimeo.com/421571358) by Amelia Wright, Caleb Mitchell, Magdalena Ramos Mullane (Vassar
+College)
 
 
 Explore the [<u>Making and Knowing Fieldnotes</u>](https://fieldnotes.makingandknowing.org/) site, some good examples
@@ -216,9 +215,8 @@ include:
 
 ### Optional additional assignments: 
 
-Encourage your students to write their reflections on the assignment in a [Historical Culinary Reconstruction
-Discussion Document](activitysheet_sample-hcr-discussion-document)
+Encourage your students to write their reflections on the assignment in a [Historical Culinary Reconstruction Discussion Document](/resources/activity-sheets/activitysheet_sample-hcr-discussion-document/)
 
 
-Ask your students to collaboratively compile a [Reconstruction Template document](activitysheet_reconstruction-template-sample) (i.e. a list of things to keep in mind when doing a reconstruction)
+Ask your students to collaboratively compile a [Reconstruction Template document](/resources/activity-sheets/activitysheet_reconstruction-template-sample/) (i.e. a list of things to keep in mind when doing a reconstruction)
     
