@@ -117,7 +117,7 @@ tape or modeling clay like plasticine
 
 ## Resources
 
-[Bread Making student activity sheet](/resources/activity-sheets/breadmolding-student-activity-sheet)
+[Bread Making student activity sheet](/resources/activity-sheets/breadmolding-student-activity-sheet/)
 
 [Powerpoint presentation showing the process of bread molding](/documents/pdf/breadmoldingreconstruction_visualpresentation.pdf)
 
