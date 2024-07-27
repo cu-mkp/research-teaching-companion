@@ -19,7 +19,7 @@ Hands-on experimental history and experiential learning does not need to be expe
 By proposing a shift from textbooks and tests to hands-on work and process, M&K aims to stress the importance of other ways of knowing—making, experimentation, hand-skills, collaboration, and failure—to foster cross-fertilization between the humanities and sciences, and engage all levels of learners with first-hand experience of how human beings transform natural materials. This aim can be carried out in kitchens, studios, and laboratories, from elementary school through higher education, and we believe it can promote a new kind of material and scientific literacy, not of the content of science, but of its essence as exploration and experimentation with nature.
 
 ## The Making and Knowing Laboratory
-[The Lab Playlist](https://www.youtube.com/watch?v=r5vq6yHF8eg&list=PL9JDAfbqTXnOOXbIAW6dML7kxKsWJFY8B&ab_channel=MakingandKnowingProject)<br>
+[The Lab Video Playlist](https://www.youtube.com/watch?v=r5vq6yHF8eg&list=PL9JDAfbqTXnOOXbIAW6dML7kxKsWJFY8B&ab_channel=MakingandKnowingProject)<br>
 - Direction and Editing: Lan Li<br>
 - Production: Tianna Uchacz<br>
     - [Tour the Lab](https://vimeo.com/384070452)<br> 
