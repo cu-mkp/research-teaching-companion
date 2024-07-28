@@ -31,11 +31,9 @@ Merrifield, Mary P., _Original Treatises Dating from the XIIth to XVIIIth Centur
 
 ## Modern Recipe Resources
 
-Familiarize yourself with growing verdigris by browsing the [From Dirt to Shirt](http://www.vastrepast.net/www.vastrepast.net/From_Dirt_to_Shirt/Entries/2010/5/31_Making_Verdigris.html) blog which details various recipes for verdigris (note that this blogger prepares verdigris in order to eventually use it as a _dye_ while we will be using it as a _pigment_).
+Many experiments in verdigris making can be found on the internet. You will notice that some recipes call for urine in the place of vinegar. Should you want to try to grow verdigris with your own body fluids, consult this [Reconstruction of a verdigris recipe that includes urine](https://books.google.com/books?id=yQKuSOzkLvcC&amp;lpg=PA283&amp;dq=copper%20verdigris%20ammonia%20urine&amp;pg=PA284#v=onepage&amp;q&amp;f=false).
 
-You will notice that some recipes call for urine in the place of vinegar. Should you want to try to grow verdigris with your own body fluids, consult this [Reconstruction of a verdigris recipe that includes urine](https://books.google.com/books?id=yQKuSOzkLvcC&amp;lpg=PA283&amp;dq=copper%20verdigris%20ammonia%20urine&amp;pg=PA284#v=onepage&amp;q&amp;f=false).
-
-For more information about verdigris, please also see these scientific articles:
+For more information about verdigris, also see these articles:
 
 - de la Roja, J.M., V.G. Baonza, and M. San Andrés. “Application of Raman Microscopy to the Characterization of Different Verdigris VARIANTS Obtained Using Recipes from Old Treatises.” _Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy 68_, no. 4 (2007): 1120–25. https://doi.org/10.1016/j.saa.2007.06.053.
 - Chaplin, Tracey D., Robin J. Clark, and David A. Scott. “Study by Raman Microscopy of Nine Variants of the GREEN-BLUE Pigment Verdigris.” _Journal of Raman Spectroscopy_ 37, no. 1-3 (2006): 223–29. https://doi.org/10.1002/jrs.1469. 
