@@ -111,17 +111,14 @@ Preparing your own paints (and mulling, in particular) is something that is easi
   - Additional helpful albums:
     - [Fall 2016 madder lake painting](https://www.flickr.com/photos/128418753@N06/albums/72157674477187162/with/30784536062/)
     - [Google Album on mulling pigments and sample cards](https://photos.app.goo.gl/zZC1eMcy916euAVk8) (note some of the grainier samples - no mulling!)
-    - [SP19 painting out lakes in binding media](https://docs.google.com/presentation/d/1tncT6RHgFlqjv9uYamKNkr637qL4c0J_-9eUZAce5nY/edit?usp=sharing)
+    - [SP19 painting out lakes in binding media](/documents/pdf/SP19_painting-out-lakes-in-binders.pdf)
 
 **Additional resources:**
 
-- Video of Jo Kirby&#39;s talk at the Met Paper Conservation on pigments: [https://www.metmuseum.org/about-the-met/conservation-and-scientific-research/paper-conservation/symposia-and-academic-activities](https://www.metmuseum.org/about-the-met/conservation-and-scientific-research/paper-conservation/symposia-and-academic-activities)
-- [How Make Your Own Water-based Paint](https://www.naturalpigments.com/artist-materials/cat/art-paint-supplies/post/how-to-make-water-based-paint/)
-- [How to make your own Tempera paint](https://www.youtube.com/watch?v=zK0mXF2eXjw)
+- [Video, Jo Kirby, lecture on pigments, Met Paper Conservation](https://youtu.be/RsU3td0k524) in the [Paper Conservation Lecture series](https://www.metmuseum.org/about-the-met/conservation-and-scientific-research/paper-conservation/symposia-and-academic-activities)
 - [Easy, Cheap, DIY, Oil Paint Muller](https://www.youtube.com/watch?v=1bGcEjn2KLk)
 - [Artists Materials - How Make Your Own Waterborne Paint](https://www.naturalpigments.com/artist-materials/how-to-make-water-based-paint/)
 - [Mulling Paint: A beginner-ish guide](https://www.scribalworkshop.com/blog/2019/6/5/mulling-paint-a-beginner-ish-guide)
-- [Working With Pure Artist&#39;s Pigments](https://joyorkart.co.uk/working-with-pure-artists-pigments/)
 - [Hey Artists: Discover How to Make Your Own Paint](https://www.artistsnetwork.com/art-techniques/make-your-own-paint/)
 - [Instructions For Making Egg Tempera](https://www.earthpigments.com/artists-egg-tempera/)
 
@@ -166,18 +163,12 @@ Remember to record your experiences in your field notes.
 - [Technical Art History Website](https://www.artcons.udel.edu/outreach/kress), University of Delaware
 - [CAMEO: Conservation &amp; Art Materials Encyclopedia Online](http://cameo.mfa.org/wiki/Main_Page) (explore, and check &quot;Materials database&quot;)
 - The Fitzwilliam Museum: [Overview of Artists&#39; Materials - ILLUMINATED](https://www.fitzmuseum.cam.ac.uk/illuminated/lab/lab/overview-of-artists-materials)
-- Resources listed in this guide: [Medieval Pigments: Creation and Analysis - Cynthia Turner Camp](https://faculty.franklin.uga.edu/ctcamp/medieval-pigments-creation-and-analysis)
-  - Yale&#39;s [Traveling Scriptorium - A Teaching Kit by the Yale University Library](https://travelingscriptorium.wordpress.com/)
-  - the [COLOUR ConTEXT database](https://arb.mpiwg-berlin.mpg.de/node/1) (it&#39;s a slightly confusing interface, so look for the &quot;search&quot; bar in upper left corner and enter your term there).
+- Yale University [Traveling Scriptorium - A Teaching Kit by the Yale University Library](https://travelingscriptorium.wordpress.com/)
 
 **Practical painting resources from Natural Pigments**
 
-- [Artists Materials - Color for the Artist](https://www.naturalpigments.com/artist-materials/cat/natural-pigments-supplies/post/artist-color-theory-study/)
-- [Artists Materials - Paint Glossary](https://www.naturalpigments.com/artist-materials/cat/natural-pigments-supplies/post/paint-glossary-terminology/)
-- [Artists Materials - Making Your Own Water-Based Paint](https://www.naturalpigments.com/artist-materials/cat/natural-pigments-supplies/post/water-based-paint-pigments/)
 - [Artists Materials - How Make Your Own Water-based Paint](https://www.naturalpigments.com/artist-materials/cat/natural-pigments-supplies/post/how-to-make-water-based-paint/)
 - [Artists Materials - How to Make Your Own Oil Paint](https://www.naturalpigments.com/artist-materials/cat/natural-pigments-supplies/post/tutorial-how-make-paint/)
-- [Artists Materials - Why Some Paints are Transparent and Others Opaque](https://www.naturalpigments.com/artist-materials/cat/natural-pigments-supplies/post/transparent-opaque-paints/)
 
 Remember to record your experiences in your field notes.
 
