@@ -22,10 +22,7 @@ In short: lake pigments are made by extracting a dye from an organic material an
 
 If you are not already familiar with historical pigments and natural colorants, refer to [Presentation: Cochineal Lake: History, Chemistry, and Preparation](/documents/pdf/rosenkranz_2023_lakes_cochineal-history-chem-prep.pdf) for more complete information and further explanation of natural colorants and lake pigments.
 
-[Presentation: Cochineal Lake: History, Chemistry, and Preparation](/documents/pdf/presentation_sp23_rosenkranz_naomi_lakes_cochineal-history-chem-prep.pdf)
-
 See also [Presentation: Introduction to Pigments &amp; Paints](/documents/pdf/introduction-paints-pigments_njr_2021.pdf).
-
 
 ### What are Pigments More Generally?
 
@@ -40,7 +37,7 @@ Pigments are most often encountered as a component of paint. In short: Pigment +
 
 {{< figure src="/images/pigment-particles-in-binding-medium.jpg" alt="pigment-particles-in-binding-medium" >}}
 
-For more on paint making, refer to [Presentation: Introduction to Pigments &amp; Paints](introduction-paints-pigments_njr_2021.pdf)
+For more on paint making, refer to [Presentation: Introduction to Pigments &amp; Paints](/documents/pdf/introduction-paints-pigments_njr_2021.pdf)
 
 {{< figure src="/images/painting-pigment+binding-media.png" alt="painting-pigment+binding-media" >}}
 
@@ -51,9 +48,7 @@ Lake pigments are typically found in top layer of paintings because their partic
 
 In practice, lake glazes could be used to create various subtle effects in painting. For example, the layer of "blush" painted over the cheek of a portrait might be done in a red lake pigment. This might reflect the use of lake pigments in women's cosmetics. [Fol. 58r](https://edition640.makingandknowing.org/#/folios/58r/f/58r/tl) of Ms. Fr. 640, the entry "Painter" includes the following observatino: "And thus they pounce the lake on their cheeks & then, with another clean cotton, they soften it."
 
-
 ### Historical Recipes for Lake Pigments
-
 There are numerous recipes in historical sources from the late medieval period onward for making lake pigments. These include:
 - Cennino Cennini, _Il Libro dell'Arte_(_The Craftsman's Handbook_)
 - Various manuscript sources compiled in Mary P. Merrifield, _Medieval adn Renaissance Treatises on the Arts of Painting_
@@ -95,29 +90,26 @@ Lakes can be made from a variety of natural colorants. Natural colorants can be 
 
 ### Teaching Lake Pigments
 #### Lake-Making in the Classroom: Activities 
-- [Making Lake Pigment from Cochineal](/documents/activity-sheets/pigment-cochineal-lake_assignment/) - hands-on lesson plan and assignment for transforming natural colorants in cochineal insects into a pigment (2021-09-27)
-- [Making Lake Pigment from Madder](/documents/activity-sheets/pigment-madder-lake_assignment/) - hands-on lesson plan and assignment for transforming natural colorants in madder roots into a pigment (2022-01-29)
+- [Making Lake Pigment from Cochineal](/resources/activity-sheets/pigment-cochineal-lake_assignment/) - hands-on lesson plan and assignment for transforming natural colorants in cochineal insects into a pigment
+- [Making Lake Pigment from Madder](/resources/activity-sheets/pigment-madder-lake_assignment/) - hands-on lesson plan and assignment for transforming natural colorants in madder roots into a pigment
 #### Lake-Making in the Classroom: Field Notes
-- [Making Pigment from Madder: a Trio of Recipes](/documents/activity-sheets/sp22_fld_rosenkranz_naomi_madder-lake-trio/) - helpful step-by-step fieldnotes  (2022-07-19) (WIP)
+- [Making Pigment from Madder: a Trio of Recipes](/resources/activity-sheets/sp22_fld_rosenkranz_naomi_madder-lake-trio/) - helpful step-by-step fieldnotes 
 - Pigment cards / pics
 #### Lake-Making in the Classroom: Presentations
-- [Presentation: Cochineal Lake: History, Chemistry, and Preparation](/documents/activity-sheets/presentation_sp23_rosenkranz_naomi_lakes_cochineal-history-chem-prep/)
-- [Presentation: Madder Lake: History, Chemistry, and Preparation](/documents/activity-sheets/presentation_sp23_rosenkranz_naomi_lakes_madder-history-chem-prep/)
+- [Presentation: Cochineal Lake: History, Chemistry, and Preparation](/documents/pdf/2023_dyes_cochineal-history-chem-prep.pdf)
+- [Presentation: Madder Lake: History, Chemistry, and Preparation](/documents/pdf/presentation_sp23_rosenkranz_naomi_lakes_madder-history-chem-prep.pdf/)
 #### Lake-Making in the Classroom: Reflection Assignments 
 - Pigment-Making Lab Reflection Assignment [[DOCX](/documents/docx/uchacz_2024_lab1_reflection-assignment-background.docx)] [[PDF](/documents/pdf/uchacz_2024_lab1_reflection-assignment-background.pdf)]
 - Pigment-Making Lab Reflection Assignment Background Document [[DOCX](/documents/docx/uchacz_2024_lab1_reflection-assignment.docx)] [[PDF](/documents/pdf/uchacz_2024_lab1_reflection-assignment.pdf)]
 #### Lake-Making in the Classroom: Recipe Handouts
-- Cochineal Standard
-- Cochineal Reversed
-- Madder (+ historical recipes)
+- [Cochineal Lake Assignment](/resources/activity-sheets/pigment-cochineal-lake_assignment/) [[PDF](documents/pdf/pigment-cochineal-lake_assignment_downloadable_2021.pdf)]
+- [Madder Lake Assignment](/resources/activity-sheets/pigment-madder-lake_assignment/)
 - Weld (needs checking — double recipe)
 - Logwood (needs fixing — double recipe)
 - Sappanwood (needs handout made)
 - Buckthorn (needs handout made)
 
-
 #### Lakes in Ms. Fr. 640
-
 There are no recipes for making lake pigments in Ms. Fr. 640. There are, however, numerous references to [lake](https://edition640.makingandknowing.org/#/search?q=lake) pigments across the manuscript. 
 
 ##### Pigments and Lakes in Ms. Fr. 640
