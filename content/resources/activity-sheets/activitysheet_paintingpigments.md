@@ -52,7 +52,7 @@ and [Presentation: Preparing Gessoed Test Panels](/documents/pdf/bol_2024_prepar
 - [Presentation: Flower Painting in Oil According to Willem Beurs](/documents/pdf/2024_Hermens_Flower-painting-in-oil.pdf)
 
 #### Making Paint in the Classroom: Activity Sheets
-- Classroom activity sheet for paint making [[pdf](/documents/pdf/painting_assignment_downloadable_2021.pdf)]
+- [Classroom activity sheet for paint making](/resources/activity-sheets/painting-assignment/) [[pdf](/documents/pdf/painting_assignment_downloadable_2021.pdf)]
 - Classroom activity sheet for preparing gessoed test panels to receive paint samples [[DOCX](/documents/docx/bol_2024_preparing-test-panels.docx)] [[PDF](/documents/pdf/bol_2024_preparing-test-panels.pdf)]
 - Classroom activity sheet for stretching canvas to paint on [[PDF](/documents/pdf/hermens_preparing-canvas-supports.pdf)]
 
