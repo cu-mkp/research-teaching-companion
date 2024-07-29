@@ -37,10 +37,13 @@ An intriguing recipe in Ms. Fr. 640 for making molds from bread is the basis for
 #### Transforming Natural Plant and Insect Colorants into Pigments (Lake Pigments)
 - [Making Lake Pigments from Natural Colorants](/resources/activity-sheets/activitysheet_lake-pigments/)
 #### Mineral Pigments
-- ["Growing" Verdigris Pigment](/resources/activity-sheets/verdigris-assignment/). See also Marie-France Lemay's [“Verdigris” in Traveling Scriptorium: A Teaching Kit by the Yale University Library](https://travelingscriptorium.com/2013/01/17/verdigris/)
+- ["Growing" Verdigris Pigment](/resources/activity-sheets/verdigris-assignment/)
+     - See also Marie-France Lemay's [“Verdigris” in Traveling Scriptorium: A Teaching Kit by the Yale University Library](https://travelingscriptorium.com/2013/01/17/verdigris/)
+
 - [Grinding, Levigating, and Painting with Azurite](/resources/activity-sheets/azurite-assignment/)
 #### Making Paint, Preparing Supports, and Painting Test Panels
 - [Making Paints from Pigments and Binding Media and Painting Them Out](/resources/activity-sheets/activitysheet_paintingpigments/)
+
 - [Preparing Panels, Canvases, and Other Supports for Painting, Gilding, and More](/resources/activity-sheets/activitysheet_supportsurfaces/)
 ### Making Inks
 - [Inks](/resources/activity-sheets/activitysheet_inks/)
@@ -90,6 +93,6 @@ Ms. Fr. 640 contains an entry on fol. 43v for “Varied and Transmuted Wine.” 
 See [Sleight of Hand Tricks](https://edition640.makingandknowing.org/#/essays/ann_043_sp_16) by Ann-Sophie Barwich and [Varied and Transmuted Wine](https://edition640.makingandknowing.org/#/essays/ann_512_ad_20) by Sayantani Mukherjee.
 
 ### Making and Using Fish Glue
-The making of an essential material for any early modern workshop.
+The making of an essential material for the early modern workshop.
 
 [Making and Using Fish Glue](https://edition640.makingandknowing.org/#/essays/ann_056_sp_17) by Xinguo (Casa) Wang
