@@ -11,13 +11,16 @@ This activity teaches students how to prepare common supports, namely panels and
 ![panel-composite](/images/supports-panel-composite.png)
 <sup><sub>Images: Gessoing and scraping a panel for painting.</sub></sup>
 
+
 ### Learning Objectives
 The activity of preparing supports has several potential learning outcomes, which can include:
 - understand the behavior of wood and fiber supports under various conditions (e.g., wet/dry; slack/tension)
 - understand how intermediary layers help isolate paint from absorptive supports
 - exprience the time and effort required to complete under-acknowledged yet critical preparatory steps in the art-making process
 - experience how support texture and ground layers affect the application and appearance of paint, metal, etc.
-- gain an appreciation for unseen elements in a finished work of art
+- gain an appreciation for unseen elements in a finished work of art<br>
+<br>
+<br>
 
 
 ![metalpoint-composite](/images/supports-metalpoint-composite.png)
@@ -34,11 +37,12 @@ The terms "support" and "substrate" are often used interchangeably to mean the m
 - [Presentation: Preparing the Canvas Support](/documents/pdf/hermens_preparing-canvas-supports.pdf)
 
 #### Preparing Supports: Activity Sheets & Resources
-- Classroom activity sheet for preparing gessoed test panels to receive paint samples [[DOCX](documents/activity-sheets/bol_2024_preparing-test-panels.docx)] [[PDF](documents/activity-sheets/bol_2024_preparing-test-panels.pdf)]
+- Classroom activity sheet for preparing gessoed test panels to receive paint samples [[DOCX](static/documents/docx/bol_2024_preparing-test-panels.docx)] [[PDF](/documents/pdf/bol_2024_preparing-test-panels.pdf)]
+- Classroom activity sheet for preparing canvas to receive paint [[PDF](/documents/pdf/hermens_preparing-canvas-supports.pdf)]
 - [Handout: Historical recipes for metalpoint ground](/documents/pdf/metalpoint-ground-preparation-recipes.pdf)
 - [Field Notes: Rosenkranz & Uchacz, “Varnishes in the Rain, Part I: Canvas Preparation and Painting”](https://fieldnotes.makingandknowing.org/pre-2018-Fall/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-in-the-rain/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-rain-1/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-rain-1-canvas-prep-paint.html)
 
-#### Follow-up Activities
+#### Follow-up Activities: Making Paint and Using Supports for Painting
 - [Lesson Plan: Making Paints from Pigments and Binding Media and Painting Them Out](/resources/activity-sheets/activitysheet_paintingpigments/)
 - [Presentation: Introduction to Pigments & Paints](/documents/pdf/introduction-paints-pigments_njr_2021.pdf)
 - [Classroom activity sheet for paint making](/resources/activity-sheets/painting-assignment/) [[PDF](/documents/pdf/painting_assignment_downloadable_2021.pdf)]
