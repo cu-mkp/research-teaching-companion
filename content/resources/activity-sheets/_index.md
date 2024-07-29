@@ -12,7 +12,7 @@ Making and Knowing Lesson Plans and associated teaching resources provide step-b
 ### Tips for Hands-On Teaching
 Tips for Hands-on Teaching and Learning compiled from Making and Knowing Project experience.
 
-[Tip Sheet for Hands-On Teaching](/resources/activity-sheets/activitysheet_tips-for-instructors/)
+- [Tip Sheet for Hands-On Teaching](/resources/activity-sheets/activitysheet_tips-for-instructors/)
 
 ### Introduction to *Secrets of Craft and Nature*
 A great way to get started in a class or workshop by familiarizing students with the digital critical edition of Ms. Fr. 640 and the manuscript itself by completing a scavenger hunt of its contents.
@@ -37,8 +37,7 @@ An intriguing recipe in Ms. Fr. 640 for making molds from bread is the basis for
 #### Transforming Natural Plant and Insect Colorants into Pigments (Lake Pigments)
 - [Making Lake Pigments from Natural Colorants](/resources/activity-sheets/activitysheet_lake-pigments/)
 #### Mineral Pigments
-- ["Growing" Verdigris Pigment](/resources/activity-sheets/verdigris-assignment/)
-     - See also Marie-France Lemay's [“Verdigris” in Traveling Scriptorium: A Teaching Kit by the Yale University Library](https://travelingscriptorium.com/2013/01/17/verdigris/)
+- ["Growing" Verdigris Pigment](/resources/activity-sheets/verdigris-assignment/)<br>See also Marie-France Lemay's [“Verdigris” in Traveling Scriptorium: A Teaching Kit by the Yale University Library](https://travelingscriptorium.com/2013/01/17/verdigris/)
 
 - [Grinding, Levigating, and Painting with Azurite](/resources/activity-sheets/azurite-assignment/)
 #### Making Paint, Preparing Supports, and Painting Test Panels
