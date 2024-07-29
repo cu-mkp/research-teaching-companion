@@ -5,7 +5,7 @@ weight: 10
 ---
 
 # Making and Knowing Project Syllabi
-Syllabi from the Making and Knowing Project can be used to suggest possible readings, discussion prompts, model the integration of hands-on activities with seminar-style discussion of relevant concepts and texts, and connect instructors to resources for hands-on activities. These syllabi contain links to the edition's approximately 130 [essays](https://edition640.makingandknowing.org/#/essays) which can be used as course readings or to instruct in reconstructions (also useful for this are [field notes](https://fieldnotes.makingandknowing.org)). Making and Knowing Syllabi can also be mined for their [Lesson Plans](activity-sheets), while the [Student Projects](/resources/student-projects/) from Hands-On History courses can be consulted by instructors and students for inspiration in planning papers and projects, and to consider the many ways to engage with Ms. Fr. 640 and the digital edition.
+Syllabi from the Making and Knowing Project can be used to suggest possible readings, discussion prompts, model the integration of hands-on activities with seminar-style discussion of relevant concepts and texts, and connect instructors to resources for hands-on activities. These syllabi contain links to the edition's approximately 130 [essays](https://edition640.makingandknowing.org/#/essays) which can be used as course readings or to instruct in reconstructions (also useful for this are [field notes](https://fieldnotes.makingandknowing.org)). Making and Knowing Syllabi can also be mined for their [Lesson Plans](/resources/activity-sheets/_index/), while the [Student Projects](/resources/student-projects/) from Hands-On History courses can be consulted by instructors and students for inspiration in planning papers and projects, and to consider the many ways to engage with Ms. Fr. 640 and the digital edition.
 
 ## HIST GR8906: Craft and Science: Making Objects in the Early Modern World
 
@@ -16,18 +16,18 @@ This Lab Seminar course studies the materials, techniques, settings, and meaning
 The course was offered from 2014-18, guided by a different theme each year to help focus research on related techniques described in the manuscript. The syllabi evolved alongside our competence and confidence in working with and thinking through materials, thus the first semesters were quite experimental.
 
 - Moldmaking and Metalworking (e.g., portrait medal casting, sand casting, and box molding)
-     - [Fall 2014 HIST GR8906: Moldmaking and Metalworking Syllabus](/documents/docx/Web_Fall 2014 Craft and Science.docx)
-     - [Spring 2015 HIST GR8906: Moldmaking and Metalworking Syllabus](/documents/docx/Web_Spring 2015 Craft and Science.docx)
+     - [Fall 2014 HIST GR8906: Moldmaking and Metalworking Syllabus](/documents/docx/syllabus_fa14_gr8906-craft-and-science.docx)
+     - [Spring 2015 HIST GR8906: Moldmaking and Metalworking Syllabus](/documents/docx/syllabus_sp15_gr8906-craft-and-science.docx)
 - Colormaking (including dyes, pigments, artificial gems, coloring woods and metals, and varnish making)
-     - [Fall 2015 HIST GR8906: Colormaking Syllabus](/documents/docx/Web_Fall 2015 Craft and Science.docx)
-     - [Spring 2016 HIST GR8906: Colormaking Syllabus](/documents/docx/Web_Spring 2016 Craft and Science.docx)
+     - [Fall 2015 HIST GR8906: Colormaking Syllabus](/documents/docx/syllabus_fa15_gr8906-craft-and-science.docx)
+     - [Spring 2016 HIST GR8906: Colormaking Syllabus](/documents/docx/syllabus_sp16_gr8906-craft-and-science.docx)
 - Practical Knowledge: Vernacular Natural History, Practical Perspective, Optics, Mechanics, and Medicine
-     - [Fall 2016 HIST GR8906: Practical Knowledge Syllabus](/documents/docx/Web_Fall 2106 Craft and Science.docx)
-     - [Spring 2017 HIST GR8906: Practical Knowledge Syllabus](https://docs.google.com/document/d/e/2PACX-1vTfqF4UNMaSLjX-FmXA6vOz6calSfPMMUfGaUpw8CjcUFcBtXXj7b1XLOOSHMVKUDljAcXGzDSCrevx/pub)
+     - [Fall 2016 HIST GR8906: Practical Knowledge Syllabus](/documents/docx/syllabus_fa16_gr8906-craft-and-science.docx)
+     - [Spring 2017 HIST GR8906: Practical Knowledge Syllabus](/documents/docx/syllabus_sp17_gr8906-craft-and-science.docx)
 - Ephemeral Art (such as the creation of artworks that were intended to stand outside (like banners) or that aimed to create the visual effect of a more permanent (and expensive) work of art)
-     - [Fall 2017 HIST GR8906: Ephemeral Art Syllabus](https://docs.google.com/document/d/e/2PACX-1vRvNiZIaubDG_Cb1F8KOF8gV0sFBiGr01W3iXmDJV3yTFgeGp1teBwg2MkwUZ4TCGRglJ6Y1bK3XUMv/pub)
+     - [Fall 2017 HIST GR8906: Ephemeral Art Syllabus](/documents/docx/syllabus_fa17_gr8906-craft-and-science.docx)
 - Printmaking, Inscription and Impression
-     - [Fall 2018 HIST GR8906: Impression Syllabus](https://docs.google.com/document/d/e/2PACX-1vQoa_ox8PAc99ebdx4wxFPULy7aLHSJIyltikSRo7CsNocqS8EfIfCCl9qDIUpaxn0iqsfdmjg9lbpX/pub)
+     - [Fall 2018 HIST GR8906: Impression Syllabus](/documents/docx/syllabus_fa18_gr8906-craft-and-science.docx)
 
 ## HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History
 
