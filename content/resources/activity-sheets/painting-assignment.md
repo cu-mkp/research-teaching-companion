@@ -2,7 +2,7 @@
 
 >_HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History_<br>
 _The Making and Knowing Project, Columbia University_<br>
-_Last updated 2021-05-13 by NJR_<br>
+_Last updated 2024-07-29 by PHS_<br>
 
 A downloadable version of this assignment: [[PDF](/documents/pdf/painting_assignment_downloadable_2021.pdf)]
 
@@ -159,7 +159,7 @@ Remember to record your experiences in your field notes.
 
 ## Additional Resources to Explore
 
-- PIGMENT GLOSSARY Kirby, Jo, Susie Nash and Joanna Cannon (eds.), Trade in Artists’ Materials_ Markets and Commerce in Europe to 1700 (London, 2010).
+- Pigment glossary in Kirby, Jo, Susie Nash and Joanna Cannon (eds.), _Trade in Artists’ Materials: Markets and Commerce in Europe to 1700_ (London, 2010)
 - [Technical Art History Website](https://www.artcons.udel.edu/outreach/kress), University of Delaware
 - [CAMEO: Conservation &amp; Art Materials Encyclopedia Online](http://cameo.mfa.org/wiki/Main_Page) (explore, and check &quot;Materials database&quot;)
 - The Fitzwilliam Museum: [Overview of Artists&#39; Materials - ILLUMINATED](https://www.fitzmuseum.cam.ac.uk/illuminated/lab/lab/overview-of-artists-materials)
