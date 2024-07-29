@@ -37,7 +37,7 @@ The terms "support" and "substrate" are often used interchangeably to mean the m
 - [Presentation: Preparing the Canvas Support](/documents/pdf/hermens_preparing-canvas-supports.pdf)
 
 #### Preparing Supports: Activity Sheets & Resources
-- Classroom activity sheet for preparing gessoed test panels to receive paint samples [[DOCX](static/documents/docx/bol_2024_preparing-test-panels.docx)] [[PDF](/documents/pdf/bol_2024_preparing-test-panels.pdf)]
+- Classroom activity sheet for preparing gessoed test panels to receive paint samples [[DOCX](/documents/docx/bol_2024_preparing-test-panels.docx)] [[PDF](/documents/pdf/bol_2024_preparing-test-panels.pdf)]
 - Classroom activity sheet for preparing canvas to receive paint [[PDF](/documents/pdf/hermens_preparing-canvas-supports.pdf)]
 - [Handout: Historical recipes for metalpoint ground](/documents/pdf/metalpoint-ground-preparation-recipes.pdf)
 - [Field Notes: Rosenkranz & Uchacz, “Varnishes in the Rain, Part I: Canvas Preparation and Painting”](https://fieldnotes.makingandknowing.org/pre-2018-Fall/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-in-the-rain/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-rain-1/sp18_rosenkranz-uchacz_naomi-tianna_varnishes-rain-1-canvas-prep-paint.html)
