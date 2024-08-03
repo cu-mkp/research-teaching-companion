@@ -7,37 +7,12 @@ weight: 40
 
 ## Introduction
 
-In the development of the Making and Knowing Project's Research and Teaching Companion, many individuals have contributed, including instructors, scholars, students, researchers, practitioners, makers, organizers, advisors, developers, designers, and supporters. Like [_Secrets of Craft and Nature in Renaissance France: A Digital Edition of BnF Ms. Fr. 640_](https://edition640.makingandknowing.org/#/), the Research and Teaching Companion represents the culmination of many years of iterative, interdisciplinary, and collaborative work by countless dedicated and enthusiastic members, individuals, and networks of the [Making and Knowing Project](https://www.makingandknowing.org/).
-
-![about-credits-wgm15](/images/about-credits-wgm15.png)
-
-The process of creating the edition of Ms. Fr. 640 underpins the structure and content of this Research and Teaching Companion; for more about the creation of the edition, see [About the Edition](https://edition640.makingandknowing.org/#/content/about#creation-of-the-edition) and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](https://edition640.makingandknowing.org/#/essays/ann_329_ie_19). For the numerous individuals involved in the creation of the edition, see [Credits](https://edition640.makingandknowing.org/#/content/about#People-and-Credits).
+In the development of the Making and Knowing Project's Research and Teaching Companion, many individuals have contributed, including instructors, scholars, students, researchers, practitioners, makers, organizers, advisors, developers, designers, and supporters. The Companion represents the culmination of many years of iterative, interdisciplinary, and collaborative work by countless dedicated and enthusiastic members, individuals, and networks of the [Making and Knowing Project](https://www.makingandknowing.org/).
 
 ## Research and Teaching Companion Contributors
-Although not everyone named below worked directly on the Research and Teaching Companion, their research and teaching contributed to its content.
-
-### Project Team and Staff for _Secrets of Craft and Nature_
-
-  - Founding Director: Pamela H. Smith
-  - Assistant Director: Naomi Rosenkranz
-  - Making and Knowing Project Postdoctoral Scholars:
-      - Senior Postdoctoral Scholar (2016-20): Tianna Helena Uchacz
-      - Postdoctoral Scholar (2017-20): Tillmann Taape
-      - Postdoctoral Scholar (2019-20): Clément Godbarge
-      - Postdoctoral Scholar (2017-18): Sophie Pitman
-      - Postdoctoral Scholar (2014-16): Jenny Boulboullé
-      - Postdoctoral Scholar (2014-17): Joel A. Klein
-      - Postdoctoral Scholar (2014-17): Donna Bilak
-      - Gerda Henkel Postdoctoral Research Scholar (2019-20): Sarah Muñoz
-      - Gerda Henkel Postdoctoral Research Scholar (2017-19): Colin Debuiche
-  - Project and Communications Manager: Caroline Surman
-  - Lead Paleographer: Marc Smith
-  - Digital Lead: Terry Catapano
-  - Digital Designer-Developer: Nick Laiacona and team at [Performant Software Solutions](https://www.performantsoftware.com/)
-
 ### Senior Editorial Team for the Companion
-- Pamela H. Smith 
 - Naomi Rosenkranz
+- Pamela H. Smith 
 - Tianna Helena Uchacz
 - Terry Catapano 
 
@@ -60,6 +35,31 @@ Although not everyone named below worked directly on the Research and Teaching C
 ![Companion Worksprint](/images/2024_RTC_Worksprint.jpg)
 
 **Research and Teaching Companion WorkSprint, April 2024**
+
+### The Making of _Secrets of Craft and Nature in Renaissance France_
+The Making and Knowing Project's creation of the edition of Ms. Fr. 640, [_Secrets of Craft and Nature in Renaissance France: A Digital Edition of BnF Ms. Fr. 640_](https://edition640.makingandknowing.org/#/), underpins the structure and content of this Research and Teaching Companion; for more about the creation of the edition, see [About the Edition](https://edition640.makingandknowing.org/#/content/about#creation-of-the-edition) and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](https://edition640.makingandknowing.org/#/essays/ann_329_ie_19). For the numerous individuals involved in the creation of the edition, see [Credits](https://edition640.makingandknowing.org/#/content/about#People-and-Credits). Although not everyone named below worked directly on the Research and Teaching Companion, their research, teaching, and participation contributed to its content.
+
+
+![about-credits-wgm15](/images/about-credits-wgm15.png)
+
+
+### Project Team and Staff for _Secrets of Craft and Nature_
+  - Founding Director: Pamela H. Smith
+  - Assistant Director: Naomi Rosenkranz
+  - Making and Knowing Project Postdoctoral Scholars:
+      - Senior Postdoctoral Scholar (2016-20): Tianna Helena Uchacz
+      - Postdoctoral Scholar (2017-20): Tillmann Taape
+      - Postdoctoral Scholar (2019-20): Clément Godbarge
+      - Postdoctoral Scholar (2017-18): Sophie Pitman
+      - Postdoctoral Scholar (2014-16): Jenny Boulboullé
+      - Postdoctoral Scholar (2014-17): Joel A. Klein
+      - Postdoctoral Scholar (2014-17): Donna Bilak
+      - Gerda Henkel Postdoctoral Research Scholar (2019-20): Sarah Muñoz
+      - Gerda Henkel Postdoctoral Research Scholar (2017-19): Colin Debuiche
+  - Project and Communications Manager: Caroline Surman
+  - Lead Paleographer: Marc Smith
+  - Digital Lead: Terry Catapano
+  - Digital Designer-Developer: Nick Laiacona and team at [Performant Software Solutions](https://www.performantsoftware.com/)
 
 ## Making and Knowing Project Managers, Assistants, and Interns
   - Research Associate (2014-15): Claire Sabel
@@ -130,7 +130,7 @@ Co-instructors:<br>
 - Tillmann Taape (2017-20)
 
 ### Expert Makers
-Invited for their expertise, Expert Makers stayed in residence at Columbia for two weeks to lead students in skill-building activities specific to the year’s theme and consult on students' final project topics.
+Invited for their expertise, Expert Makers stayed in residence at Columbia for two weeks to lead students in skill-building activities specific to the year’s theme and consult with students on their final project topics.
 - Tonny Beentjes (Fall 2014)
 - Andrew Lacey (Spring 2015)
 - Marjolijn Bol (Fall 2015)
@@ -209,4 +209,4 @@ Staff members of the Libraries’ Digital Scholarship Division helped set the pa
   - Michelle Hall
   - Jonah Bossewitch
 
- For additional collaborators, see [Collaborations](https://www.makingandknowing.org/collaborators/) on the Project's website.
+ For additional Making and Knowing collaborators, see [Collaborations](https://www.makingandknowing.org/collaborators/) on the Project's website.
