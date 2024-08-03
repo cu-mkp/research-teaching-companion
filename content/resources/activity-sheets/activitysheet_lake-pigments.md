@@ -102,12 +102,11 @@ Lakes can be made from a variety of natural colorants. Natural colorants can be 
 - Pigment-Making Lab Reflection Assignment [[DOCX](/documents/docx/uchacz_2024_lab1_reflection-assignment-background.docx)] [[PDF](/documents/pdf/uchacz_2024_lab1_reflection-assignment-background.pdf)]
 - Pigment-Making Lab Reflection Assignment Background Document [[DOCX](/documents/docx/uchacz_2024_lab1_reflection-assignment.docx)] [[PDF](/documents/pdf/uchacz_2024_lab1_reflection-assignment.pdf)]
 #### Lake-Making in the Classroom: Recipe Handouts
-- [Cochineal Lake Assignment](/resources/activity-sheets/pigment-cochineal-lake_assignment/) [[PDF](documents/pdf/pigment-cochineal-lake_assignment_downloadable_2021.pdf)]
-- [Madder Lake Assignment](/resources/activity-sheets/pigment-madder-lake_assignment/)
-- Weld (needs checking — double recipe)
-- Logwood (needs fixing — double recipe)
-- Sappanwood (needs handout made)
-- Buckthorn (needs handout made)
+- Cochineal (standard recipe; yields pink) [DOCX](/documents/docx/lakes_cochineal_standard.docx) [PDF](/documents/pdf/lakes_cochineal_standard.pdf)
+- Cochineal (reversed recipe; yields violet) [DOCX](/documents/docx/lakes_cochineal_reversed.docx) [PDF](/documents/pdf/lakes_cochineal_reversed.pdf)
+- Madder (standard; yields ruddy red) [DOCX](/documents/docx/lakes_madder_standard.docx) [PDF](/documents/pdf/lakes_madder_standard.pdf)
+- Weld (standard; yields pale yellow) [DOCX](/documents/docx/lakes_weld_standard.docx) [PDF](/documents/pdf/lakes_weld_standard.pdf)
+- Logwood (standard; yields smoky purple) [DOCX](/documents/docx/lakes_logwood_standard.docx) [PDF](/documents/pdf/lakes_logwood_standard.pdf)
 
 #### Lakes in Ms. Fr. 640
 There are no recipes for making lake pigments in Ms. Fr. 640. There are, however, numerous references to [lake](https://edition640.makingandknowing.org/#/search?q=lake) pigments across the manuscript. 
