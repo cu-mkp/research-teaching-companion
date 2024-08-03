@@ -47,7 +47,7 @@ An intriguing recipe in Ms. Fr. 640 for making molds from bread is the basis for
 ### Making Inks
 - [Inks](/resources/activity-sheets/activitysheet_inks/)
   
-- [Making Brazilwood "Rosette" Ink](/documents/pdf/2021_Lemay_Ink-Making-rosette-ink.pdf)<br>
+- [Making Brazilwood "Rosette" Ink](/documents/pdf/2021_Lemay_Ink-Making-rosette-ink-rev.pdf)<br>
       - [Brazilwood, Lake, and Ink Recipes](/documents/pdf/2021_Lemay_Brazilwood-Ink-Lake-Recipes.pdf)
 ### Varnishes and Their Many Uses
 - [Making Varnishes](/resources/activity-sheets/activitysheet_varnishes/)
