@@ -27,7 +27,7 @@ The activity of making stucco for molding has several potential learning outcome
 
 
 #### Stucco in Ms. Fr. 640
-There are a handful of entries in Ms. Fr. 640 that refer to stucco, both compositions for varieties of stucco for molding and instructions for constructing a mold appropriate to use with stucco. These entries can be accessed through a search for the term "[stucco](https://edition640.makingandknowing.org/#/search?q=stucco)" in [Secrets of Craft and Nature in Renaissance France](https://edition640.makingandknowing.org/#/).
+There are a handful of entries in Ms. Fr. 640 that refer to stucco, both compositions for varieties of stucco for molding and instructions for constructing a mold appropriate to use with stucco. These entries can be accessed through a search for the term "[stucco](https://edition640.makingandknowing.org/#/search?q=stucco)" in [_Secrets of Craft and Nature in Renaissance France_](https://edition640.makingandknowing.org/#/).
 
 There is also an excellent essay in [_Secrets of Craft and Nature in Renaissance France_](https://edition640.makingandknowing.org/#/) that explores stucco in detail:
 - Nina Elizondo-Garza, “[Stucco for Molding](https://edition640.makingandknowing.org/#/essays/ann_064_fa_17).”
