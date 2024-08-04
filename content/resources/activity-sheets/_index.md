@@ -20,20 +20,23 @@ A great way to get started in a class or workshop by familiarizing students with
 - [*Secrets of Craft and Nature* Reconnaissance (Directed Scavenger Hunt)](/resources/activity-sheets/scavenger-hunt-2/) 
      
 ### Historical Culinary Recipe Reconstruction
-Reconstructing an obscure culinary recipe is especially effective as a first hands-on activity to familiarize students with the textual and material challenges of following past recipes. It is also a wonderful community-building exercise.
+Reconstructing an obscure culinary recipe is especially effective as a first hands-on activity to familiarize students with the textual and material challenges of following past recipes. It is also a wonderful community-building exercise. The students work in groups at home for a week intepreting the recipe, searching for and obtaining ingredients, trying their recipe as many times as possible, and making a powerpoint presentation about their process and questions. Culinary results can be brought into class the next week for group digestion and discussion.
 - [Historical Culinary Recipe Reconstruction](/resources/activity-sheets/activitysheet_hcr-instructor/)
   
 ### Bread Making, Molding, and Casting
-An intriguing recipe in Ms. Fr. 640 for making molds from bread is the basis for this lesson plan, which begins from the Ms. Fr. 640 recipe and expands to a multi-week series of activities, including learning to make bread, experimenting with different techniques of molding, and, finally, casting wax into bread. The lesson is an effective way to introduce students to embodied experience and knowledge.  
+An intriguing recipe in Ms. Fr. 640 for making molds from bread is the basis for this lesson plan, which begins from the Ms. Fr. 640 recipe and expands to a multi-week series of activities, including learning to make bread, experimenting with different techniques of molding, and, finally, casting wax (or the oft-used historical casting material, sulfur) into bread. The lesson is an effective way to introduce students to embodied experience and knowledge.  
 - [Bread Making, Molding, and Casting](/resources/activity-sheets/breadmolding_resources-for-the-instructor/)
   
 ### Making Stucco for Molding
+This stucco activity uses rye flour and/or chalk, mixed with a binder (in the case of Ms. Fr. 640, tragacanth gum). The activity can be messy, but is a great way to learn about the production of low-cost, sometimes temporary ornamentation of walls and other surfaces. It takes one session of mixing and molding, after which the stucco ornaments are dried.
 - [Stucco for Molding](/resources/activity-sheets/activitysheet_stucco/)
   
 ### Dyeing with Natural Colorants
+With some preparation, dyeing can be carried out in two hours or less.
 - [Dyeing with Natural Colorants](/resources/activity-sheets/activitysheet_dyeing/)
   
 ### Making Paints from Pigments and Painting Them Out
+Making paints from pigments is an eye-opening way to get to know substances that are today mostly acquired ready-made. Lake making (i.e., transforming organic materials from dyes [water-soluble] into pigments [particles that can be painted out]), takes about three sessions. With advance preparation, mineral pigments, such as azurite, take just under two hours to prepare (not counting the mussell feast you can have the night before to collect mussell shells!). Verdigris must "grow" slowly over a month or more before sufficient amounts will form which can then be painted out. Painting out the pigments after binding them with different materials (egg yolk, egg white, oils, or gums) can be quite easy and quick, depending on how many binders the students experiment with.
 #### Transforming Natural Plant and Insect Colorants into Pigments (Lake Pigments)
 - [Making Lake Pigments from Natural Colorants](/resources/activity-sheets/activitysheet_lake-pigments/)
 #### Mineral Pigments
@@ -41,19 +44,21 @@ An intriguing recipe in Ms. Fr. 640 for making molds from bread is the basis for
 
 - [Grinding, Levigating, and Painting with Azurite](/resources/activity-sheets/azurite-assignment/)
 #### Making Paint, Preparing Supports, and Painting Test Panels
+Making supports is very satisfying and can be quick (if sewing and stretching canvases) or very, very prolonged (in the case of prepared panels)
 - [Making Paints from Pigments and Binding Media and Painting Them Out](/resources/activity-sheets/activitysheet_paintingpigments/)
 
 - [Preparing Panels, Canvases, and Other Supports for Painting, Gilding, and More](/resources/activity-sheets/activitysheet_supportsurfaces/)
 ### Making Inks
+Making inks is a wonderful addition to thinking about the materiality of texts. Ink making and writing out with the ink can be done in a single session of about 45-60 minutes. Ink-making activities included here are iron gall, carbon-based, and colored organic pigment-based.
 - [Inks](/resources/activity-sheets/activitysheet_inks/)
-  
-- [Making Brazilwood "Rosette" Ink](/documents/pdf/2021_Lemay_Ink-Making-rosette-ink-rev.pdf)<br>
-      - [Brazilwood, Lake, and Ink Recipes](/documents/pdf/2021_Lemay_Brazilwood-Ink-Lake-Recipes.pdf)
 ### Varnishes and Their Many Uses
+Varnishes underwent a significant change in the sixteenth century that resulted in a much more streamlined making process in comparison to the heavy amber and resin varnishes of an earlier period.
 - [Making Varnishes](/resources/activity-sheets/activitysheet_varnishes/)
 ### Making "Counterfeit" Jasper
+Making jasper can be adapted to different class lengths, depending on advance preparation of the materials.
 - [Making Jasper](/resources/activity-sheets/activitysheet_jasper/)
 ### Materializing Spiritual Practice: Reconstructing Burn Salve 
+Reconstructing the burn salve recipe in Ms. Fr. 640 gave the Project significant insights into the meaning of materials. The activity can be done easily in 45 minutes. 
 - [Reconstruction of a 16th-century Burn Salve Recipe](/resources/activity-sheets/burnsalve/)
 
 
