@@ -26,7 +26,7 @@ An intriguing recipe in Ms. Fr. 640 for making molds from bread is the basis for
   
 ### Making Stucco for Molding
 This stucco activity uses rye flour and/or chalk, mixed with a binder (tragacanth gum in Ms. Fr. 640). The activity can be messy, but is a great way to learn about the production of low-cost, often temporary ornamentation of walls and other surfaces. Plan for one session of mixing and molding, after which the stucco ornaments are dried. Allow sufficient time for clean up! 
-- [Stucco for Molding](/resources/activity-sheets/activitysheet_stucco/)
+- [Making Stucco for Molding](/resources/activity-sheets/activitysheet_stucco/)
 - Video: [From Watching to Working: Incorporating Making and Knowing Activities into History of Science Courses](https://vimeo.com/840477199)<br>
 Monique O'Connell reflects on her experiences using the Making and Knowing Project's Hands-on Lesson Plan for stucco-making in a history of science course at Wake Forest University.
   
@@ -57,7 +57,7 @@ The ingredients and making process of varnishes changed significantly in the six
 Making jasper can be adapted to different class lengths, depending on level of advance preparation of the materials required.
 - [Making Jasper](/resources/activity-sheets/activitysheet_jasper/)
 ### Materializing Spiritual Practice: Reconstructing Burn Salve 
-Reconstructing the burn salve recipe in Ms. Fr. 640 gave the Project significant insights into the meanings of materials. The activity can be easily done in 1-2 hours. 
+Reconstructing the burn salve recipe in Ms. Fr. 640 gave the Project significant insights into the meanings of materials. The activity can easily be done in 1-2 hours. 
 - [Reconstruction of a 16th-century Burn Salve Recipe](/resources/activity-sheets/burnsalve/)
 ## Hands-on Lesson Plans from Research Essays in *Secrets of Craft and Nature*
 Many essays in *Secrets of Craft and Nature* describe the reconstruction of a technique in sufficient detail to use the essay itself to formulate a lesson plan that includes hands-on activities. These essays often include lab/field notes that contain even more information for carrying out the process. Each essay discusses themes and includes bibliography that can be integrated into course objectives and class discussion. Suggested essays are listed below, however many more could be explored and adapted for classroom, studio, or lab activities.
@@ -69,7 +69,7 @@ Cuttlefish bone is an ancient material that is still used today by goldsmiths to
 
 Several entries in Ms. Fr. 640 mention cuttlefish bone as a material by which to rapidly produce molds, including fols. 91r–v and 145r–v. These entries provide a wealth of information on preparing the bones for molding, impressing models into them, and, finally, casting metals into them. They also contain descriptions of techniques by which an artisan can test the temperature of molten metal before casting. These entries particularly highlight the sensory and bodily knowledge needed by an artisan. In carrying out cuttlefish bone molding and casting, students will learn through experience the value of this sensory knowledge.
 
-See also, student project [Cuttlefish in and around Ms. Fr. 640](/resources/student-projects/sp22_donald_maia_final-project_cuttlebone/) by Maia Donald.
+See also the student project [Cuttlefish in and around Ms. Fr. 640](/resources/student-projects/sp22_donald_maia_final-project_cuttlebone/) by Maia Donald.
 
 ### Molding Fruits and Animals in Sugar
 **[Molding Fruits and Animals in Sugar](https://edition640.makingandknowing.org/#/essays/ann_017_sp_15) by Celia Durkin and Pamela H. Smith**
@@ -77,6 +77,7 @@ See also, student project [Cuttlefish in and around Ms. Fr. 640](/resources/stud
 A single recipe in Ms. Fr. 640, on fol. 126r, gives instructions for making sugar casts of fresh fruits. Such cast sugar sculpture was a common sight at lavish banquets held in sixteenth-century European courts and cities. The author-practitioner provides practical instruction and tips for making this delicacy, but also frames his instructions within a set of properties that sugar exhibits as it changes from solid to liquid and back to solid. According to the author-practitioner, in its nature, sugar is by turns fatty, brittle, and sour. This essay explains the meaning of these properties within the author-practitioner’s material imaginary, and our reconstruction clarifies how this material imaginary provided a coherent supporting framework for the practical actions described in the recipe.
 
 See also the Oberlin College course, *Ingenious Making in the Early Modern World*, in which each student took a different approach to molding and casting in sugar. Similar to M&K's [Fieldnotes](https://fieldnotes.makingandknowing.org/), these portfolios document the students' hands-on activities, which included Molding Fruits in Sugar, [Ms. Fr. 640, fol. 126r](https://edition640.makingandknowing.org/#/folios/126r/f/126r/tl):
+
      - [Audrey Libatique](https://oberlin.digication.com/audrey-libatique-ingenious-making/home)
      - [Ava Chessum](https://oberlin.digication.com/audrey-libatique-ingenious-making/home)
      - [Sien McFalls](https://oberlin.digication.com/sien-mcfalls-journal-arth295/home)
