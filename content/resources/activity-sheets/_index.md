@@ -5,13 +5,10 @@ weight: 20
 ---
 
 # Lesson Plans for Hands-On
-Making and Knowing Lesson Plans and associated teaching resources provide step-by-step guidance in planning and executing hand-on activities in the classroom, studio, laboratory, or maker space. These Lesson Plans could be integrated into classes for skill building, as one-off sessions for class community building, or to stimulate the students' historical imagination by exposure to past materials and processes. The hands-on activities offered here can also be used as stand-alone activities for public outreach. 
-
+Making and Knowing Lesson Plans and associated teaching resources provide step-by-step guidance in planning and executing hands-on activities in the classroom, studio, laboratory, or maker space. These Lesson Plans could be integrated into classes for skill building, as one-off sessions for group community building, or to stimulate the students' historical imagination by exposure to past materials and processes. The hands-on activities offered here can also be used as stand-alone activities for public outreach. 
 ## Lesson Plans, Assignments, and Hands-On Activity Sheets
-
 ### Tips for Hands-On Teaching
-Tips for Hands-on Teaching and Learning compiled from Making and Knowing Project experience.
-
+Tips for Hands-on Teaching and Learning, compiled from Making and Knowing Project experience.
 - [Tip Sheet for Hands-On Teaching](/resources/activity-sheets/activitysheet_tips-for-instructors/)
 
 ### Introduction to *Secrets of Craft and Nature*
@@ -20,7 +17,7 @@ A great way to get started in a class or workshop by familiarizing students with
 - [*Secrets of Craft and Nature* Reconnaissance (Directed Scavenger Hunt)](/resources/activity-sheets/scavenger-hunt-2/) 
      
 ### Historical Culinary Recipe Reconstruction
-Reconstructing an obscure culinary recipe is especially effective as a first hands-on activity to familiarize students with the textual and material challenges of following past recipes. It is also a wonderful community-building exercise. The students work in groups at home for a week intepreting the recipe, searching for and obtaining ingredients, trying their recipe as many times as possible, and making a powerpoint presentation about their process and questions. Culinary results can be brought into class the next week for group digestion and discussion.
+Reconstructing an obscure culinary recipe is especially effective as a first hands-on activity to familiarize students with the textual and material challenges of following historical recipes. It is also a wonderful community-building exercise. The students work in groups at home for a week intepreting the recipe, searching for and obtaining ingredients, trying their recipe as many times as possible, and making a powerpoint presentation about their process and questions. Culinary results can be brought into class when completed for group digestion and discussion.
 - [Historical Culinary Recipe Reconstruction](/resources/activity-sheets/activitysheet_hcr-instructor/)
   
 ### Bread Making, Molding, and Casting
@@ -44,24 +41,22 @@ Making paints from pigments is an eye-opening way to get to know substances that
 
 - [Grinding, Levigating, and Painting with Azurite](/resources/activity-sheets/azurite-assignment/)
 #### Making Paint, Preparing Supports, and Painting Test Panels
-Making supports is very satisfying and can be quick (if sewing and stretching canvases) or very, very prolonged (in the case of prepared panels)
+Making supports is an excellent means to gain an understanding of the importance of the surface onto which painting is done. This activity can be quick (sewing and stretching canvases) or very, very prolonged (in the case of prepared panels)
 - [Making Paints from Pigments and Binding Media and Painting Them Out](/resources/activity-sheets/activitysheet_paintingpigments/)
 
 - [Preparing Panels, Canvases, and Other Supports for Painting, Gilding, and More](/resources/activity-sheets/activitysheet_supportsurfaces/)
 ### Making Inks
-Making inks is a wonderful addition to thinking about the materiality of texts. Ink making and writing out with the ink can be done in a single session of about 45-60 minutes. Ink-making activities included here are iron gall, carbon-based, and colored organic pigment-based.
+Making inks is an excellent hands-on activity in studying the materiality of texts. Ink making and writing with the ink produced can be done in a single session of about 45-60 minutes. Ink-making activities included here are for iron gall, carbon-based, and colored organic pigment-based inks.
 - [Inks](/resources/activity-sheets/activitysheet_inks/)
 ### Varnishes and Their Many Uses
-Varnishes underwent a significant change in the sixteenth century that resulted in a much more streamlined making process in comparison to the heavy amber and resin varnishes of an earlier period.
+Varnish making underwent a significant change in the sixteenth century that resulted in a more streamlined making process in comparison to the heavy amber and resin varnishes of an earlier period.
 - [Making Varnishes](/resources/activity-sheets/activitysheet_varnishes/)
 ### Making "Counterfeit" Jasper
 Making jasper can be adapted to different class lengths, depending on advance preparation of the materials.
 - [Making Jasper](/resources/activity-sheets/activitysheet_jasper/)
 ### Materializing Spiritual Practice: Reconstructing Burn Salve 
-Reconstructing the burn salve recipe in Ms. Fr. 640 gave the Project significant insights into the meaning of materials. The activity can be done easily in 45 minutes. 
+Reconstructing the burn salve recipe in Ms. Fr. 640 gave the Project significant insights into the meaning of materials. The activity can be easily done in 45 minutes. 
 - [Reconstruction of a 16th-century Burn Salve Recipe](/resources/activity-sheets/burnsalve/)
-
-
 ## Hands-on Lesson Plans from Research Essays in *Secrets of Craft and Nature*
 Many essays in *Secrets of Craft and Nature* describe the reconstruction of a technique in sufficient detail to use the essay itself to formulate a lesson plan that includes hands-on activities. These essays often include lab/field notes that contain even more information for carrying out the process. Each essay discusses themes and includes bibliography that can be integrated into course objectives and class discussion. Suggested essays are listed below, however many more could be explored and adapted for classroom, studio, or lab activities.
 
