@@ -12,7 +12,6 @@ The activity of making inks has several potential learning outcomes, which can i
 ### What is an Ink?
 Writing inks are a colored viscous fluid composed of a water-based liquid, a binding agent, and a colorant. Inks are often liquid, but can also come in the form of pastes, cakes, and sticks.
 
-
 ### Teaching Ink Making
 
 #### Ink Making: Presentations
@@ -23,8 +22,8 @@ Writing inks are a colored viscous fluid composed of a water-based liquid, a bin
 - Iron Gall Ink Making: Large Batch (~150 ml) [[docx](/documents/docx/2023_iron-gall-ink-worksheet_large-batch.docx)] [[PDF](/documents/pdf/2023_iron-gall-ink-worksheet_large-batch.pdf)]
 - Carbon Ink Making [[docx](/documents/docx/carbon-ink-info-and-recipes.docx)] [[PDF](/documents/pdf/carbon-ink-info-and-recipes.pdf)]
 - Iron Gall and Carbon Ink: A Comparison Making Activity [[docx](/documents/docx/inks-recipes_iron-gall-and-carbon.docx)] [[PDF](/documents/pdf/inks-recipes_iron-gall-and-carbon.pdf)]
-- Brazilwood "Rosette" Ink Making [[PDF](/documents/pdf/2021_Lemay_Ink-Making-rosette-ink-rev.pdf) 
-  - Brazilwood Rosette - Ink and Lake Recipes [[PDF](/documents/pdf/2021_Lemay_Brazilwood-Ink-Lake-Recipes.pdf)]
+- Brazilwood "Rosette" Ink Making [[PDF](/documents/pdf/2021_Lemay_Ink-Making-rosette-ink-rev.pdf)]
+  - Brazilwood Rosette: Historical Ink and Lake Recipes [[PDF](/documents/pdf/2021_Lemay_Brazilwood-Ink-Lake-Recipes.pdf)]
 
 #### The Materiality of Text in Ms. Fr. 640
 - Handout surveying the entries in Ms. Fr. 640 on the materiality of text and on literary culture in Renaissance France
