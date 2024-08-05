@@ -49,7 +49,7 @@ Making supports for painting (canvas, panel, prepared paper) helps gain an under
 - [Preparing Panels, Canvases, and Other Supports for Painting, Gilding, and More](/resources/activity-sheets/activitysheet_supportsurfaces/)
 ### Making Inks
 Making inks helps students appreciate the materiality of texts. Making and then writing with the ink produced can be done in a single session of 1-2 hours. Ink-making activities included here produce iron gall ink, carbon-based inks, and colored organic pigment-based inks.
-- [Inks](/resources/activity-sheets/activitysheet_inks/)
+- [Making Inks](/resources/activity-sheets/activitysheet_inks/)
 ### Varnishes and Their Many Uses
 The ingredients and making process of varnishes changed significantly in the sixteenth century, which resulted in a more streamlined making process when compared to the heavy amber and resin varnishes of an earlier period. These new varnishes also changed the appearance of the artworks onto which they were applied. Making varnish is a relatively complex process requiring preparation and is perhaps suited to more advanced classes.
 - [Making Varnishes](/resources/activity-sheets/activitysheet_varnishes/)
@@ -60,7 +60,7 @@ Making jasper can be adapted to different class lengths, depending on level of a
 Reconstructing the burn salve recipe in Ms. Fr. 640 gave the Project significant insights into the meanings of materials. The activity can easily be done in 1-2 hours. 
 - [Reconstruction of a 16th-century Burn Salve Recipe](/resources/activity-sheets/burnsalve/)
 ## Hands-on Lesson Plans from Research Essays in *Secrets of Craft and Nature*
-Many essays in *Secrets of Craft and Nature* describe the reconstruction of a technique in sufficient detail to use the essay itself to formulate a lesson plan that includes hands-on activities. These essays often include lab/field notes that contain even more information for carrying out the process. Each essay discusses themes and includes bibliography that can be integrated into course objectives and class discussion. Suggested essays are listed below, however many more could be explored and adapted for classroom, studio, or lab activities.
+Many [essays](https://edition640.makingandknowing.org/#/essays) in *Secrets of Craft and Nature* describe the reconstruction of a technique in sufficient detail to use the essay itself to formulate a lesson plan that includes hands-on activities. These essays often include lab/field notes that contain even more information for carrying out the process. Each essay discusses themes and includes bibliography that can be integrated into course objectives and class discussion. Suggested essays are listed below, however many more could be explored and adapted for classroom, studio, or lab activities.
 
 ### Molding with Cuttlefish Bone
 **[Molding with Cuttlefish Bone ](https://edition640.makingandknowing.org/#/essays/ann_506_ad_20) by Emily Boyd, Jef Palframan, and Pamela H. Smith**
@@ -71,13 +71,12 @@ Several entries in Ms. Fr. 640 mention cuttlefish bone as a material by which to
 
 See also the student project [Cuttlefish in and around Ms. Fr. 640](/resources/student-projects/sp22_donald_maia_final-project_cuttlebone/) by Maia Donald.
 
-### Molding Fruits and Animals in Sugar
+### Molding Fruits in Sugar
 **[Molding Fruits and Animals in Sugar](https://edition640.makingandknowing.org/#/essays/ann_017_sp_15) by Celia Durkin and Pamela H. Smith**
 
 A single recipe in Ms. Fr. 640, on fol. 126r, gives instructions for making sugar casts of fresh fruits. Such cast sugar sculpture was a common sight at lavish banquets held in sixteenth-century European courts and cities. The author-practitioner provides practical instruction and tips for making this delicacy, but also frames his instructions within a set of properties that sugar exhibits as it changes from solid to liquid and back to solid. According to the author-practitioner, in its nature, sugar is by turns fatty, brittle, and sour. This essay explains the meaning of these properties within the author-practitioner’s material imaginary, and our reconstruction clarifies how this material imaginary provided a coherent supporting framework for the practical actions described in the recipe.
 
-See also the Oberlin College course, *Ingenious Making in the Early Modern World*, in which each student took a different approach to molding and casting in sugar. Similar to M&K's [Fieldnotes](https://fieldnotes.makingandknowing.org/), these portfolios document the students' hands-on activities, which included Molding Fruits in Sugar, [Ms. Fr. 640, fol. 126r](https://edition640.makingandknowing.org/#/folios/126r/f/126r/tl):
-
+See also the Oberlin College course, *Ingenious Making in the Early Modern World*, in which each student took a different approach to molding and casting in sugar. Similar to M&K's [Fieldnotes](https://fieldnotes.makingandknowing.org/), the following portfolios document the students' hands-on activities, which included following the recipe for [Molding Fruits in Sugar](https://edition640.makingandknowing.org/#/folios/126r/f/126r/tl), Ms. Fr. 640, fol. 126r:
      - [Audrey Libatique](https://oberlin.digication.com/audrey-libatique-ingenious-making/home)
      - [Ava Chessum](https://oberlin.digication.com/audrey-libatique-ingenious-making/home)
      - [Sien McFalls](https://oberlin.digication.com/sien-mcfalls-journal-arth295/home)
