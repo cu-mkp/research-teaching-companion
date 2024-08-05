@@ -25,15 +25,17 @@ An intriguing recipe in Ms. Fr. 640 for making molds from bread is the basis for
 - [Bread Making, Molding, and Casting](/resources/activity-sheets/breadmolding_resources-for-the-instructor/)
   
 ### Making Stucco for Molding
-This stucco activity uses rye flour and/or chalk, mixed with a binder (in the case of Ms. Fr. 640, tragacanth gum). The activity can be messy, but is a great way to learn about the production of low-cost, sometimes temporary ornamentation of walls and other surfaces. It takes one session of mixing and molding, after which the stucco ornaments are dried.
+This stucco activity uses rye flour and/or chalk, mixed with a binder (tragacanth gum in Ms. Fr. 640). The activity can be messy, but is a great way to learn about the production of low-cost, often temporary ornamentation of walls and other surfaces. Plan for one session of mixing and molding, after which the stucco ornaments are dried. Allow sufficient time for clean up! 
 - [Stucco for Molding](/resources/activity-sheets/activitysheet_stucco/)
+- Video: [From Watching to Working: Incorporating Making and Knowing Activities into History of Science Courses](https://vimeo.com/840477199)<br>
+Monique O'Connell reflects on her experiences using the Making and Knowing Project's Hands-on Lesson Plan for stucco-making in a history of science course at Wake Forest University.
   
 ### Dyeing with Natural Colorants
-With some preparation, dyeing can be carried out in two hours or less.
+With preparation of the dyeing stations, dyeing can be carried out in two hours or less.
 - [Dyeing with Natural Colorants](/resources/activity-sheets/activitysheet_dyeing/)
   
 ### Making Paints from Pigments and Painting Them Out
-Making paints from pigments is an eye-opening way to get to know substances that are today mostly acquired ready-made. Lake making (i.e., transforming organic materials from dyes [water-soluble] into pigments [particles that can be painted out]), takes about three sessions. With advance preparation, mineral pigments, such as azurite, take just under two hours to prepare (not counting the mussell feast you can have the night before to collect mussell shells!). Verdigris must "grow" slowly over a month or more before sufficient amounts will form which can then be painted out. Painting out the pigments after binding them with different materials (egg yolk, egg white, oils, or gums) can be quite easy and quick, depending on how many binders the students experiment with.
+Making paints from pigments is an eye-opening way to get to know substances that are today mostly acquired readymade. Lake making (i.e., transforming organic materials from dyes, which are water soluble into pigments, which are particles that can be painted out), takes three sessions. With advance preparation, mineral pigments, such as azurite, take just under two hours to prepare (not counting the mussel feast you can hold the night before to collect the mussel shells!). Verdigris must "grow" slowly over a month or more before sufficient amounts will form to make the pigment to be painted out. Painting out the pigments after binding them with different materials (egg yolk, egg white, oils, or gums) can be quite easy and quick, depending on how many binders the students are provided to experiment with.
 #### Transforming Natural Plant and Insect Colorants into Pigments (Lake Pigments)
 - [Making Lake Pigments from Natural Colorants](/resources/activity-sheets/activitysheet_lake-pigments/)
 #### Mineral Pigments
@@ -41,27 +43,27 @@ Making paints from pigments is an eye-opening way to get to know substances that
 
 - [Grinding, Levigating, and Painting with Azurite](/resources/activity-sheets/azurite-assignment/)
 #### Making Paint, Preparing Supports, and Painting Test Panels
-Making supports is an excellent means to gain an understanding of the importance of the surface onto which painting is done. This activity can be quick (sewing and stretching canvases) or very, very prolonged (in the case of prepared panels)
+Making supports for painting (canvas, panel, prepared paper) helps gain an understanding of the crucial importance of the surface for the appearance of the final work of art. This activity can be relatively quick (sewing and stretching canvases) or quite lengthy (preparing panels, which takes nine sessions of applying gesso, allowing it to dry, then scraping and sanding it between each application).
 - [Making Paints from Pigments and Binding Media and Painting Them Out](/resources/activity-sheets/activitysheet_paintingpigments/)
 
 - [Preparing Panels, Canvases, and Other Supports for Painting, Gilding, and More](/resources/activity-sheets/activitysheet_supportsurfaces/)
 ### Making Inks
-Making inks is an excellent hands-on activity in studying the materiality of texts. Ink making and writing with the ink produced can be done in a single session of about 45-60 minutes. Ink-making activities included here are for iron gall, carbon-based, and colored organic pigment-based inks.
+Making inks helps students appreciate the materiality of texts. Making and then writing with the ink produced can be done in a single session of 1-2 hours. Ink-making activities included here produce iron gall ink, carbon-based inks, and colored organic pigment-based inks.
 - [Inks](/resources/activity-sheets/activitysheet_inks/)
 ### Varnishes and Their Many Uses
-Varnish making underwent a significant change in the sixteenth century that resulted in a more streamlined making process in comparison to the heavy amber and resin varnishes of an earlier period.
+The ingredients and making process of varnishes changed significantly in the sixteenth century, which resulted in a more streamlined making process when compared to the heavy amber and resin varnishes of an earlier period. These new varnishes also changed the appearance of the artworks onto which they were applied. Making varnish is a relatively complex process requiring preparation and is perhaps suited to more advanced classes.
 - [Making Varnishes](/resources/activity-sheets/activitysheet_varnishes/)
 ### Making "Counterfeit" Jasper
-Making jasper can be adapted to different class lengths, depending on advance preparation of the materials.
+Making jasper can be adapted to different class lengths, depending on level of advance preparation of the materials required.
 - [Making Jasper](/resources/activity-sheets/activitysheet_jasper/)
 ### Materializing Spiritual Practice: Reconstructing Burn Salve 
-Reconstructing the burn salve recipe in Ms. Fr. 640 gave the Project significant insights into the meaning of materials. The activity can be easily done in 45 minutes. 
+Reconstructing the burn salve recipe in Ms. Fr. 640 gave the Project significant insights into the meanings of materials. The activity can be easily done in 1-2 hours. 
 - [Reconstruction of a 16th-century Burn Salve Recipe](/resources/activity-sheets/burnsalve/)
 ## Hands-on Lesson Plans from Research Essays in *Secrets of Craft and Nature*
 Many essays in *Secrets of Craft and Nature* describe the reconstruction of a technique in sufficient detail to use the essay itself to formulate a lesson plan that includes hands-on activities. These essays often include lab/field notes that contain even more information for carrying out the process. Each essay discusses themes and includes bibliography that can be integrated into course objectives and class discussion. Suggested essays are listed below, however many more could be explored and adapted for classroom, studio, or lab activities.
 
 ### Molding with Cuttlefish Bone
-**[Molding with Cuttlefish Bone ](https://edition640.makingandknowing.org/#/essays/ann_506_ad_20)by Emily Boyd, Jef Palframan, and Pamela H. Smith**
+**[Molding with Cuttlefish Bone ](https://edition640.makingandknowing.org/#/essays/ann_506_ad_20) by Emily Boyd, Jef Palframan, and Pamela H. Smith**
 
 Cuttlefish bone is an ancient material that is still used today by goldsmiths to create small cast objects. Objects can be impressed into the soft core of the cuttlefish’s float bone, after which metal or wax can be cast into the mold. Casting could be done with tin or pewter which have low melting points and liquefy easily in a pan on a stovetop or a hot plate. 
 
