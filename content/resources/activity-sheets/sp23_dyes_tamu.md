@@ -10,14 +10,14 @@ Organized by Tianna Uchacz with Donna Janes and Naomi Rosenkranz
 
 ![](/images/sp23_tamu-dyes-coverpage.jpg?raw=true)
 
-[Presentation: Cochineal Dye: History, Chemistry, and Preparation](2023_dyes_cochineal-history-chem-prep_TAMU-compressed.pdf)
+[Presentation: Cochineal Dye: History, Chemistry, and Preparation](/documents/pdf/2023_dyes_cochineal-history-chem-prep_TAMU-compressed.pdf)
 
 
 ## Handouts
 
-- [Dyeing Instructions - General Process for Mordanting and Dyeing Textiles](sp23_handout_dyeing-textiles_general-process.pdf)
-- [Summary of Dye Samples and Measurements](sp23_printout_samples-amounts.pdf)
-- [Recipe Example: *De' secreti del reverendo signore Alessio Piemontese* (1558)](sp23_printout_recipe-example-piemontese.pdf)
+- [Dyeing Instructions - General Process for Mordanting and Dyeing Textiles](/documents/pdf/sp23_handout_dyeing-textiles_general-process.pdf)
+- [Summary of Dye Samples and Measurements](/documents/pdf/sp23_printout_samples-amounts.pdf)
+- [Recipe Example: *De' secreti del reverendo signore Alessio Piemontese* (1558)](/documents/pdf/sp23_printout_recipe-example-piemontese.pdf)
 
 ## Summary of Materials and Samples
 
@@ -67,8 +67,3 @@ Dyestuffs
 ![](/images/sp23_tamu-dyes_textiles-final-03.jpg?raw=true) 
 
 ![](/images/sp23_tamu-dyes_textiles-final-02.jpg?raw=true) 
-
-## See also
-The Making and Knowing Project's [Hands-on Lesson Plans, Activities, Assignments, and Reconstruction Protocols](index-activity-assignments/)
-
-
