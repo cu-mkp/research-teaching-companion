@@ -221,10 +221,6 @@ Dyestuffs
 - Natural Pigments, <https://www.naturalpigments.com/>. Order online
 - Maiwa <https://maiwa.com/>. Order online or visit retail locations in Vancouver, Canada
 
-## Additional resources
-
-See the Making and Knowing Project’s [Hands-on Lesson Plans, Activities, Assignments, and Reconstruction Protocols](index-activity-assignments.html)
-
 ## Sources of historical evidence 
 - Analysis of existing objects, such as surviving textiles and paintings in museum collections
       - However, it must be kept in mind that these represent only a small part of history. They are items that have been selectively collected by museums or upper class. Many were made for or bought by the elite, were luxury or just generally expensive items
