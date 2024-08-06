@@ -41,6 +41,7 @@ With the edition complete, we transitioned in 2021 to a new course, *Making and 
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/710444936?h=b9508dad89" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
+**Student project from *Hands-On History***
 ### Digital Humanities
 During development of the edition, we also taught digital humanities courses that integrated methods and tools of digital scholarship so that the students could help to build, test, and use the prototype of the edition. The syllabi for these courses provide information about minimal computing and the open access technology that underlie the edition and our digital publication tool, [EditionCrafter](https://editioncrafter.org). Student projects resulting from these courses are included in this Companion [Digital Making and Knowing](/resources/digital/), and can also be found on the Project's [Sandbox](https://cu-mkp.github.io/sandbox/), along with many additional digital projects using the data of the edition.
 
