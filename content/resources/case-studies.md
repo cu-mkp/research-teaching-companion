@@ -76,7 +76,7 @@ With support from a [Montague-Center for Teaching Excellence Award](https://pvfa
 - - 5 stations (tables) of 6 students, where each student has their own glass plate and muller. Each station works with *one* of five pigments made in the previous lab (cochineal, cochineal reversed, madder, weld, logwood), first mulling it in either egg white or egg yolk, and second in either walnut oil or linseed oil. I laid out each station-table according to these templates: first [egg media](/images/sp24_uchacz_tianna_egg-media-arts-150_global-art-history-survey.png), and then [oil media](/images/sp24_uchacz_tianna_oil-media-arts-150_global-art-history-survey.png).
   - limiting factor: need for 30 glass plates and 30 glass mullers as well as table space for this equipment
   - limiting factor: 75 min was barely enough for the seven general stages of this lab: 1) separating eggs and extracting the yolk from the sac, 2) mulling pigment with egg white/yolk, 3) walking around and filling out all 10 sample squares on their card for egg media, 4) washing equipment, 5) mulling pigment with wallnut/linseed oil, 6) walking around and filling out all 10 sample squares on their card for oil media, 7) washing up.
-  - tip: have students prepare their sample cards ahead of time. Here is the [template](images/sp24_uchacz_tianna_paint-grid-arts-150_global-art-history-survey.png) I gave them.
+  - tip: have students prepare their sample cards ahead of time. Here is the [template](/images/sp24_uchacz_tianna_paint-grid-arts-150_global-art-history-survey.png) I gave them.
   - tip: leave enough time for students to go around the stations to fill in samples of all colors in all media on their cards, but do hurry them along, as they can lose time here.
   - tip: have students take photos of their sample card when they finish, and have ziptop bags on hand into which students can (carefully) place their finished and still-wet sample cards to take home
   - tip: use cheap paintbrushes (the aim is to create a sample card not a masterpiece), and start with egg media so that the paint brushes can be washed and used again for oil media. Dispose of the paintbrushes after using them with the oil paints.
@@ -131,7 +131,7 @@ Sponsored by the Center for Science and Society and Genspace
 Naomi Rosenkranz
 
 ### Dyeing with Cochineal - A Short High-School Workshop
-- [Dyeing Textiles with Cochineal - A Short High-School Workshop](sp23_brown-reece_final-project_dye-workshop) by Reece Brown (an undergraduate student in a Making and Knowing course).
+- [Dyeing Textiles with Cochineal - A Short High-School Workshop](/resources/student-projects/sp23_brown-reece_final-project_dye-workshop/) by Reece Brown (an undergraduate student in a Making and Knowing course).
 
 ## Collaborator Research Projects
 Summer 2022
