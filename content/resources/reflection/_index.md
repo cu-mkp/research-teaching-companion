@@ -23,12 +23,13 @@ By proposing a shift from textbooks and tests to hands-on work and process, M&K 
 
 <iframe src="https://player.vimeo.com/video/384070452?h=8236ebe13c" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/384070452">Tour the Making and Knowing Laboratory</a> from <a href="https://vimeo.com/user101162788">The Making and Knowing Project</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 - Direction and Editing: Lan Li<br>
 - Production: Tianna Uchacz<br>
     - [Tour the Lab](https://vimeo.com/384070452)<br> 
     - [Introduction to the Making and Knowing Project](https://vimeo.com/384070384)<br>
     - [Skillbuilding in the Lab Seminars](https://vimeo.com/384070302)<br>
-    **Project Themes**<br>
+**Project Themes**<br>
     -  [Moldmaking and Metalworking](https://vimeo.com/384070215)<br>
     -  [Colormaking](https://vimeo.com/384070773)<br>
     -  [Practical Knowledge](https://vimeo.com/384070632)<br>
