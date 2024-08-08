@@ -7,6 +7,8 @@ weight: 10
 # Making and Knowing Project Syllabi
 Syllabi from the Making and Knowing Project can be used to suggest possible readings, discussion prompts, model the integration of hands-on activities with seminar-style discussion of relevant concepts and texts, and connect instructors to resources for hands-on activities. These syllabi contain links to the edition's approximately 130 [essays](https://edition640.makingandknowing.org/#/essays) which can be used as course readings or to instruct in reconstructions (also useful for this are [field notes](https://fieldnotes.makingandknowing.org)). Making and Knowing Syllabi can also be mined for their [Lesson Plans](/resources/activity-sheets/), while the [Student Projects](/resources/student-projects/) from Hands-On History courses can be consulted by instructors and students for inspiration in planning papers and projects, and to consider the many ways to engage with Ms. Fr. 640 and the digital edition.
 
+![painting display](/images/lab_display_for-webpages-painting.jpg)
+
 ## HIST GR8906: Craft and Science: Making Objects in the Early Modern World
 
 Columbia University, History Department, graduate-level "Lab Seminar"
@@ -55,5 +57,3 @@ Columbia University, cross-listed in the Departments of English, History, and Co
 
 Designed for graduate and advanced undergraduate students in the social sciences, humanities, and computer science, this Spring 2019 hybrid course was situated at the crossroads of historical exploration and computer sciences. Students were exposed to digital literacy tools and computational skills through the lens of the Making and Knowing Project. This course built off the [Spring 2017: What is a Book?](https://www.makingandknowing.org/wp-content/uploads/2019/10/Website-Syllabus_Digital_course.pdf) course described above. For the final project, students collaborated to investigate linguistic features of Ms. Fr. 640 using natural language processing and text mining techniques. These projects shed light on topics of interest within the manuscript and uncover connections within the textual data.
 - [Spring 2019: Transforming Texts Syllabus](https://docs.google.com/document/d/e/2PACX-1vQPLMeJc5B32slPAKIv-4W29hj_G6WR7dVQ7TTbYA7oStHv-Ze7BP5BUkQhUvFgXGXGlylSL6BsL2jT/pub)
-
-![painting display](/images/lab_display_for-webpages-painting.jpg)
