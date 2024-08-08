@@ -99,8 +99,8 @@ Lakes can be made from a variety of natural colorants. Natural colorants can be 
 - [Presentation: Cochineal Lake: History, Chemistry, and Preparation](/documents/pdf/presentation_sp23_rosenkranz_naomi_lakes_cochineal-history-chem-prep.pdf)
 - [Presentation: Madder Lake: History, Chemistry, and Preparation](/documents/pdf/presentation_sp23_rosenkranz_naomi_lakes_madder-history-chem-prep.pdf/)
 #### Lake-Making in the Classroom: Reflection Assignments 
-- Pigment-Making Lab Reflection Assignment [[DOCX](/documents/docx/uchacz_2024_lab1_reflection-assignment-background.docx)] [[PDF](/documents/pdf/uchacz_2024_lab1_reflection-assignment-background.pdf)]
-- Pigment-Making Lab Reflection Assignment Background Document [[DOCX](/documents/docx/uchacz_2024_lab1_reflection-assignment.docx)] [[PDF](/documents/pdf/uchacz_2024_lab1_reflection-assignment.pdf)]
+- Pigment-Making Lab Reflection Assignment [[DOCX](/documents/docx/uchacz_2024_lab1_reflection-assignment.docx)] [[PDF](/documents/pdf/uchacz_2024_lab1_reflection-assignment.pdf)]
+- Pigment-Making Lab Reflection Assignment Background Document [[DOCX](/documents/docx/uchacz_2024_lab1_reflection-assignment-background.docx)] [[PDF](/documents/pdf/uchacz_2024_lab1_reflection-assignment-background.pdf)]
 #### Lake-Making in the Classroom: Recipe Handouts
 - Cochineal (standard recipe; yields pink) [[DOCX](/documents/docx/lakes_cochineal_standard.docx)] [[PDF](/documents/pdf/lakes_cochineal_standard.pdf)]
 - Cochineal (reversed recipe; yields violet) [[DOCX](/documents/docx/lakes_cochineal_reversed.docx)] [[PDF](/documents/pdf/lakes_cochineal_reversed.pdf)]
