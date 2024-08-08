@@ -48,13 +48,13 @@ Making supports for painting (canvas, panel, prepared paper) helps gain an under
 
 - [Preparing Panels, Canvases, and Other Supports for Painting, Gilding, and More](/resources/activity-sheets/activitysheet_supportsurfaces/)
 ### Making Inks
-Making inks helps students appreciate the materiality of texts. Making and then writing with the ink produced can be done in a single session of 1-2 hours. Ink-making activities included here produce iron gall ink, carbon-based inks, and colored organic pigment-based inks.
+Making ink helps students appreciate the materiality of texts. Making and then writing with the ink produced can be done in a single session of 1-2 hours. Ink-making activities included here produce iron gall ink, carbon-based inks, and colored ink made from organic pigment.
 - [Making Inks](/resources/activity-sheets/activitysheet_inks/)
 ### Varnishes and Their Many Uses
-The ingredients and making process of varnishes changed significantly in the sixteenth century, which resulted in a more streamlined making process when compared to the heavy amber and resin varnishes of an earlier period. These new varnishes also changed the appearance of the artworks onto which they were applied. Making varnish is a relatively complex process requiring preparation and is perhaps suited to more advanced classes.
+The ingredients and making process of varnishes changed significantly in the sixteenth century, resulting in a more streamlined making process when compared to the heavy amber and resin varnishes of an earlier period. These new varnishes also changed the appearance of the artworks onto which they were applied. Making varnish is a relatively complex process requiring preparation and is perhaps suited to more advanced classes.
 - [Making Varnishes](/resources/activity-sheets/activitysheet_varnishes/)
 ### Making "Counterfeit" Jasper
-Making jasper can be adapted to different class lengths, depending on level of advance preparation of the materials required.
+Making jasper can be adapted to different class lengths, depending on how much preparation of materials is done in advance.
 - [Making Jasper](/resources/activity-sheets/activitysheet_jasper/)
 ### Materializing Spiritual Practice: Reconstructing Burn Salve 
 Reconstructing the burn salve recipe in Ms. Fr. 640 gave the Project significant insights into the meanings of materials. The activity can easily be done in 1-2 hours. 
