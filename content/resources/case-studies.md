@@ -108,12 +108,12 @@ This 4-day workshop was held in March 2023 at Texas A&M University. It was organ
 
 
 ### Refashioning the Renaissance
-2019
-Naomi Rosenkranz, Dr. Sophie Pitman, Professor Paula Hohti, 
+Naomi Rosenkranz, Dr. Sophie Pitman, Professor Paula Hohti, 2019
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/946353423?h=eb8a55e927" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
 **RESOURCES**
 - **NOTE:** NJR: to upload and link 2 "exchnage" documents that were deleted from static/documents/activity-sheets
-- Also this video: [Refashioning the Renaissance in the M&K Lab](https://vimeo.com/user101162788)
 
 ### Genspace Community Science Workshops
 #### Coloring Textiles with Bugs: Old (Cochineal) and New (Bacteria)
