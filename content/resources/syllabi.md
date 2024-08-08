@@ -30,6 +30,8 @@ The course was offered from 2014-18, guided by a different theme each year to he
      - [Fall 2017 HIST GR8906: Ephemeral Art Syllabus](/documents/docx/syllabus_fa17_gr8906-craft-and-science.docx)
 - Printmaking, Inscription and Impression
      - [Fall 2018 HIST GR8906: Impression Syllabus](/documents/docx/syllabus_fa18_gr8906-craft-and-science.docx)
+ 
+  ![lab display](/images/lab_display_for-webpages.jpg)
 
 ## HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History
 
