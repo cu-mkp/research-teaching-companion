@@ -209,7 +209,7 @@ include:
 
 -   Isabella Lores-Chavez, and Caitlyn Sellar, ["Making Quindiniacks"](https://fieldnotes.makingandknowing.org/mainSpace/Sellar%20-%20Historical%20Culinary%20Reconstruction%20FA16.html)
 
--   Diana Mellon, Michelle Lee, and Yijun Wang, ["Excellent Mustard"](https://fieldnotes.makingandknowing.org/mainSpace/excellent%20mustard,%2048r.html). Also see the essay about the "Excellent Mustard" reconstruction: Diana Mellon, [Excellent Mustard](https://edition640.makingandknowing.org/#/essays/ann_008_fa_14)
+-   Diana Mellon, Michelle Lee, and Yijun Wang, ["Excellent Mustard."](https://fieldnotes.makingandknowing.org/mainSpace/excellent%20mustard,%2048r.html) Also see the essay about the "Excellent Mustard" reconstruction: Diana Mellon, [Excellent Mustard](https://edition640.makingandknowing.org/#/essays/ann_008_fa_14)
 
 
 ### Optional additional assignments: 
