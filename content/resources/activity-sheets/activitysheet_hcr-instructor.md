@@ -132,8 +132,7 @@ material sourcing challenges, which prompts great in-class discussions.
 -   [<u>Syrup of Violets and Science</u>](http://youtu.be/pdEbMBe0aa8)
     video (ca 8 mins).
 
--   “[<u>The Best
-    Medicine,</u>](https://www.wnycstudios.org/podcasts/radiolab/articles/best-medicine)”
+-   “[<u>The Best Medicine,</u>](https://www.wnycstudios.org/podcasts/radiolab/articles/best-medicine)”
     RadioLab podcast (ca 30 mins).
 
 ## Additional readings for more advanced students
@@ -208,9 +207,9 @@ College)
 Explore the [<u>Making and Knowing Fieldnotes</u>](https://fieldnotes.makingandknowing.org/) site, some good examples
 include: 
 
--   Isabella Lores-Chavez and Caitlyn Sellar, ["Making Quindiniacks"](https://fieldnotes.makingandknowing.org/mainSpace/Sellar%20-%20Historical%20Culinary%20Reconstruction%20FA16.html)
+-   Isabella Lores-Chavez, and Caitlyn Sellar, ["Making Quindiniacks"](https://fieldnotes.makingandknowing.org/mainSpace/Sellar%20-%20Historical%20Culinary%20Reconstruction%20FA16.html)
 
--   Michelle Lee, Diana Mellon and Yijun Wang, ["Excellent Mustard"](https://fieldnotes.makingandknowing.org/mainSpace/excellent%20mustard,%2048r.html)
+-   Diana Mellon, Michelle Lee, and Yijun Wang, ["Excellent Mustard"](https://fieldnotes.makingandknowing.org/mainSpace/excellent%20mustard,%2048r.html). Also see the essay about the "Excellent Mustard" reconstruction: Diana Mellon, [Excellent Mustard](https://edition640.makingandknowing.org/#/essays/ann_008_fa_14)
 
 
 ### Optional additional assignments: 
