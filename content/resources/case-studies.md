@@ -135,6 +135,7 @@ Naomi Rosenkranz
 
 ## Collaborator Research Projects
 Annika Cunningham, High School Student, Summer 2022
+
 [Dyeing with Onion Skins](/resources/student-projects/su22_fld_cunningham_annika_onion-skin-dyeing/)
 
 **RESOURCES**
