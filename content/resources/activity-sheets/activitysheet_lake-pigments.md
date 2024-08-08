@@ -20,7 +20,7 @@ In short: lake pigments are made by extracting a dye from an organic material an
 
 > Jo Kirby et al, _Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources_ (Archetype, London, 2014).
 
-If you are not already familiar with historical pigments and natural colorants, refer to [Presentation: Cochineal Lake: History, Chemistry, and Preparation](/documents/pdf/rosenkranz_2023_lakes_cochineal-history-chem-prep.pdf) for more complete information and further explanation of natural colorants and lake pigments.
+If you are not already familiar with historical pigments and natural colorants, refer to [Presentation: Cochineal Lake: History, Chemistry, and Preparation](/documents/pdf/presentation_sp23_rosenkranz_naomi_lakes_cochineal-history-chem-prep.pdf) for more complete information and further explanation of natural colorants and lake pigments.
 
 See also [Presentation: Introduction to Pigments &amp; Paints](/documents/pdf/introduction-paints-pigments_njr_2021.pdf).
 
@@ -96,17 +96,17 @@ Lakes can be made from a variety of natural colorants. Natural colorants can be 
 - [Making Pigment from Madder: a Trio of Recipes](/resources/activity-sheets/sp22_fld_rosenkranz_naomi_madder-lake-trio/) - helpful step-by-step fieldnotes 
 - Pigment cards / pics
 #### Lake-Making in the Classroom: Presentations
-- [Presentation: Cochineal Lake: History, Chemistry, and Preparation](/documents/pdf/2023_dyes_cochineal-history-chem-prep.pdf)
+- [Presentation: Cochineal Lake: History, Chemistry, and Preparation](/documents/pdf/presentation_sp23_rosenkranz_naomi_lakes_cochineal-history-chem-prep.pdf)
 - [Presentation: Madder Lake: History, Chemistry, and Preparation](/documents/pdf/presentation_sp23_rosenkranz_naomi_lakes_madder-history-chem-prep.pdf/)
 #### Lake-Making in the Classroom: Reflection Assignments 
 - Pigment-Making Lab Reflection Assignment [[DOCX](/documents/docx/uchacz_2024_lab1_reflection-assignment-background.docx)] [[PDF](/documents/pdf/uchacz_2024_lab1_reflection-assignment-background.pdf)]
 - Pigment-Making Lab Reflection Assignment Background Document [[DOCX](/documents/docx/uchacz_2024_lab1_reflection-assignment.docx)] [[PDF](/documents/pdf/uchacz_2024_lab1_reflection-assignment.pdf)]
 #### Lake-Making in the Classroom: Recipe Handouts
-- Cochineal (standard recipe; yields pink) [DOCX](/documents/docx/lakes_cochineal_standard.docx) [PDF](/documents/pdf/lakes_cochineal_standard.pdf)
-- Cochineal (reversed recipe; yields violet) [DOCX](/documents/docx/lakes_cochineal_reversed.docx) [PDF](/documents/pdf/lakes_cochineal_reversed.pdf)
-- Madder (standard; yields ruddy red) [DOCX](/documents/docx/lakes_madder_standard.docx) [PDF](/documents/pdf/lakes_madder_standard.pdf)
-- Weld (standard; yields pale yellow) [DOCX](/documents/docx/lakes_weld_standard.docx) [PDF](/documents/pdf/lakes_weld_standard.pdf)
-- Logwood (standard; yields smoky purple) [DOCX](/documents/docx/lakes_logwood_standard.docx) [PDF](/documents/pdf/lakes_logwood_standard.pdf)
+- Cochineal (standard recipe; yields pink) [[DOCX](/documents/docx/lakes_cochineal_standard.docx)] [[PDF](/documents/pdf/lakes_cochineal_standard.pdf)]
+- Cochineal (reversed recipe; yields violet) [[DOCX](/documents/docx/lakes_cochineal_reversed.docx)] [[PDF](/documents/pdf/lakes_cochineal_reversed.pdf)]
+- Madder (standard; yields ruddy red) [[DOCX](/documents/docx/lakes_madder_standard.docx)] [[PDF](/documents/pdf/lakes_madder_standard.pdf)]
+- Weld (standard; yields pale yellow) [[DOCX](/documents/docx/lakes_weld_standard.docx)] [[PDF](/documents/pdf/lakes_weld_standard.pdf)]
+- Logwood (standard; yields smoky purple) [[DOCX](/documents/docx/lakes_logwood_standard.docx)] [[PDF](/documents/pdf/lakes_logwood_standard.pdf)]
 
 #### Lakes in Ms. Fr. 640
 There are no recipes for making lake pigments in Ms. Fr. 640. There are, however, numerous references to [lake](https://edition640.makingandknowing.org/#/search?q=lake) pigments across the manuscript. 
