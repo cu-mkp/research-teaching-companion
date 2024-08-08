@@ -58,8 +58,7 @@ Monique O'Connell reflects on her experiences using the Making and Knowing Proje
 
 
 <iframe src="https://player.vimeo.com/video/942071266?h=8bb5b1b88d" width="640" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/942071266">Christina Neilson, Ingenious Making in the Early Modern World</a> from <a href="https://vimeo.com/user101162788">The Making and Knowing Project</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-Christina Neilson and Heather Galloway speak about their experience using the Making and Knowing Project's Hands-on Lesson Plans in a class at Oberlin College.
+<p><a href="https://vimeo.com/942071266">Christina Neilson, Ingenious Making in the Early Modern World</a> from <a href="https://vimeo.com/user101162788">The Making and Knowing Project</a> on <a href="https://vimeo.com">Vimeo</a>.</p> Christina Neilson and Heather Galloway speak about their experience using the Making and Knowing Project's Hands-on Lesson Plans in a class at Oberlin College.
 
 [Knowing by Making](https://soundcloud.com/user-265326599/2-making-by-knowing-with-pamela-smith?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)<br>
 An episode of the _Refashioning the Renaissance Podcast_ with Sophie Pitman and Pamela Smith.
