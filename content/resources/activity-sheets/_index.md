@@ -25,7 +25,7 @@ An intriguing recipe in Ms. Fr. 640 for making molds from bread is the basis for
 - [Bread Making, Molding, and Casting](/resources/activity-sheets/breadmolding_resources-for-the-instructor/)
   
 ### Making Stucco for Molding
-This stucco activity uses rye flour and/or chalk, mixed with a binder (tragacanth gum in Ms. Fr. 640). The activity can be messy, but is a great way to learn about the production of low-cost, often temporary ornamentation of walls and other surfaces. Plan for one session of mixing and molding, after which the stucco ornaments are dried. Allow sufficient time for clean up! 
+This stucco activity uses rye flour or chalk, mixed with a binder (tragacanth gum in Ms. Fr. 640). The activity can be messy, but is a great way to learn about the production of low-cost, often temporary ornamentation of walls and other surfaces. Plan for one session of mixing and molding, after which the stucco ornaments are dried. Allow sufficient time for clean up! 
 - [Making Stucco for Molding](/resources/activity-sheets/activitysheet_stucco/)
 - Video: [From Watching to Working: Incorporating Making and Knowing Activities into History of Science Courses](https://vimeo.com/840477199)<br>
 Monique O'Connell reflects on her experiences of making stucco with her students in a history of science course at Wake Forest University.
