@@ -134,8 +134,8 @@ Naomi Rosenkranz
 - [Dyeing Textiles with Cochineal - A Short High-School Workshop](/resources/student-projects/sp23_brown-reece_final-project_dye-workshop/) by Reece Brown (an undergraduate student in a Making and Knowing course).
 
 ## Collaborator Research Projects
-Summer 2022
-Annika Cunningham, High School Student
+Annika Cunningham, High School Student, Summer 2022
+[Dyeing with Onion Skins](/resources/student-projects/su22_fld_cunningham_annika_onion-skin-dyeing/)
 
 **RESOURCES**
 - Template for Dyeing Onion Skins + notes 1 [[XLSX](/documents/activity-sheets/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes.xlsx)] 
