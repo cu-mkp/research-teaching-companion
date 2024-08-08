@@ -19,7 +19,10 @@ Hands-on experimental history and experiential learning does not need to be expe
 By proposing a shift from textbooks and tests to hands-on work and process, M&K aims to stress the importance of other ways of knowing—making, experimentation, hand-skills, collaboration, and failure—to foster cross-fertilization between the humanities and sciences, and engage all levels of learners with first-hand experience of how human beings transform natural materials. This aim can be carried out in kitchens, studios, and laboratories, from elementary school through higher education, and we believe it can promote a new kind of material and scientific literacy, not of the content of science, but of its essence as exploration and experimentation with nature.
 
 ## The Making and Knowing Laboratory
-[The Lab Video Playlist](https://www.youtube.com/watch?v=r5vq6yHF8eg&list=PL9JDAfbqTXnOOXbIAW6dML7kxKsWJFY8B&ab_channel=MakingandKnowingProject)<br>
+**The Lab Video Playlist**
+
+<iframe src="https://player.vimeo.com/video/384070452?h=8236ebe13c" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/384070452">Tour the Making and Knowing Laboratory</a> from <a href="https://vimeo.com/user101162788">The Making and Knowing Project</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 - Direction and Editing: Lan Li<br>
 - Production: Tianna Uchacz<br>
     - [Tour the Lab](https://vimeo.com/384070452)<br> 
@@ -54,7 +57,7 @@ Monique O'Connell reflects on her experiences using the Making and Knowing Proje
 
 
 <iframe src="https://player.vimeo.com/video/942071266?h=8bb5b1b88d" width="640" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/942071266">Christina Neilson, Ingenious Making in the Early Modern World</a> from <a href="https://vimeo.com/user101162788">The Making and Knowing Project</a> on <a href="https://vimeo.com">Vimeo</a>.</p><br>
+<p><a href="https://vimeo.com/942071266">Christina Neilson, Ingenious Making in the Early Modern World</a> from <a href="https://vimeo.com/user101162788">The Making and Knowing Project</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 Christina Neilson and Heather Galloway speak about their experience using the Making and Knowing Project's Hands-on Lesson Plans in a class at Oberlin College.
 
 [Knowing by Making](https://soundcloud.com/user-265326599/2-making-by-knowing-with-pamela-smith?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)<br>
