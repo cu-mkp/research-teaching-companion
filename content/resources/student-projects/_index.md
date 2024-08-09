@@ -11,7 +11,7 @@ In all Making and Knowing Project courses students create a final project. Brows
 
 The Spring 2019 course _Transforming Texts: Textual Analysis, Literary Modeling, and Visualization_ built upon M&K's previous Digital and Lab Seminars. Geared towards students from the humanities and computer science, the course encouraged the disciplines to work together to analyze, explore, and understand historical texts. 
 
-### Spring 2019 Final Student Projects (2021-05-06) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vQPLMeJc5B32slPAKIv-4W29hj_G6WR7dVQ7TTbYA7oStHv-Ze7BP5BUkQhUvFgXGXGlylSL6BsL2jT/pub)]
+### Spring 2019 Student Projects [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vQPLMeJc5B32slPAKIv-4W29hj_G6WR7dVQ7TTbYA7oStHv-Ze7BP5BUkQhUvFgXGXGlylSL6BsL2jT/pub)]
 
 -   [Ontologies of Ms. Fr. 640](/documents/pdf/SP19_Camps_Ontologies-of-Ms-Fr-640.pdf) by Celine Camps
 -   [“A View Inside a Messy Workshop”: Unraveling the Possibilities of Textual Analysis with Optical Character Recognition](/documents/pdf/SP19_Bergen_Textual-Analysis-with-Optical-Character-Recognition.pdf) by Katherine Bergen
@@ -28,7 +28,7 @@ In *Making and Knowing in Early Modern Europe: Hands-On History*, undergrad and 
 
 Their exploratory and experimental projects serve as companion pieces to *Secrets of Craft and Nature* or mark out alternative pathways into the edition. Projects range from humorous to scholarly, pedagogical, and public facing. Instructors and students can find in them inspiration and pathways by which to explore Ms. Fr. 640 and its digital edition.
 
-### Summer 2021 Final Student Projects (2021-07-08) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vTdDTbjg3Wo-03RCA7KtszFF-nVyY0ECotExiQK8SnNpBQ_zNC0tBv9f_RUCujxGlTkdFTZiGicbVKO/pub)]
+### Summer 2021 Student Projects [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vTdDTbjg3Wo-03RCA7KtszFF-nVyY0ECotExiQK8SnNpBQ_zNC0tBv9f_RUCujxGlTkdFTZiGicbVKO/pub)]
 
 -   [Cures in Context: Medicine in Ms. Fr. 640 and Household Recipe Books](/resources/student-projects/su21_branscum_elizabeth_final-project-medicinal/) by Elizabeth Branscum
 -   [Was Ms. Fr. 640 Intentionally Disorganized?](/resources/student-projects/su21_fox_mackenzie_final-project-disorganization/) by Mackenzie Fox
@@ -38,7 +38,7 @@ Their exploratory and experimental projects serve as companion pieces to *Secret
      - [[PDF](/documents/pdf/su21_snyder_mellon_final-project-pigments.pdf)]
      - [[PPTX](/documents/student-projects/su21_snyder_mellon_final-project-pigments.pptx)]
 
-### Fall 2021 Final Student Projects (2022-01-27) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vSwHOvl3vKELpALapOMMPWTRYaTkVxSn6n9243mOpekLYzlzpIbpmjzZjaRcFnj_RCi3iwNKSm5qBHS/pub)]
+### Fall 2021 Student Projects [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vSwHOvl3vKELpALapOMMPWTRYaTkVxSn6n9243mOpekLYzlzpIbpmjzZjaRcFnj_RCi3iwNKSm5qBHS/pub)]
 
 -   [Transcribing, Translating, and Encoding MS Gen, 262: _Sefer Refu'os u-Segulos / Book of Remedies and Incantations_](/resources/student-projects/fa21_steinman_charlie_final-project-ms262/) by Charlie Steinman
     -   See also the Github repo dedicated to this project [ms-262-data](https://github.com/cu-mkp/ms-262-data)
@@ -57,7 +57,7 @@ Their exploratory and experimental projects serve as companion pieces to *Secret
     -   Listen to [Soundscape 2: Casting the Metal](https://vimeo.com/672823504)
     -   Listen to [Soundscape 3: Recovering the Final Product](https://vimeo.com/672823543)
 
-### Spring 2022 Final Student Projects (2022-08-15) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vS_I76a42zOm-GfGNZHl4s385XNFV4pkHqBq_x0op2S8LUlqN_-B5ebEPdNxqJ3-O1wWUiyemMA2zF9/pub)]
+### Spring 2022 Student Projects [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vS_I76a42zOm-GfGNZHl4s385XNFV4pkHqBq_x0op2S8LUlqN_-B5ebEPdNxqJ3-O1wWUiyemMA2zF9/pub)]
 
 -   [Herodotus’ ‘Workshop’: A Core (Curriculum) Pathway into Ms. Fr. 640 and its Author-Practitioner](/resources/student-projects/sp22_arocho_alejandra_herodotus-workshop/) by Alejandra Quintana Arocho
 -   [Discarded Cartographies: Orienting Process Through Waste](/documents/pdf/sp22_dzumala_maciej_discards.pdf) by Maciej Dzumala
@@ -68,7 +68,7 @@ Their exploratory and experimental projects serve as companion pieces to *Secret
 -   [Sieves in Ms. Fr. 640](/resources/student-projects/sp22_gardner_schuyler_final-project-sieves/) by Schuyler Gardner
 -   [Animal Rationality in Ms. Fr. 640](/resources/student-projects/sp22_nebolsin_victoria_final-project_animal-rationality/) by Victoria Nebolsin
 
-### Spring 2023 Final Student Projects (2024-01-08) [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vS_I76a42zOm-GfGNZHl4s385XNFV4pkHqBq_x0op2S8LUlqN_-B5ebEPdNxqJ3-O1wWUiyemMA2zF9/pub)]
+### Spring 2023 Student Projects [[Syllabus](https://docs.google.com/document/d/e/2PACX-1vS_I76a42zOm-GfGNZHl4s385XNFV4pkHqBq_x0op2S8LUlqN_-B5ebEPdNxqJ3-O1wWUiyemMA2zF9/pub)]
 - [“Flesh Color” and Race Making in Early Modern Painters’ Manuals](/resources/student-projects/sp23_fan_ruilin_final-project_flesh-color/) by Ruilin Fan
 -  [Languages and Linguistic Agency in Ms. Fr. 640](/resources/student-projects/sp23_narcy_gilles_final-project_languages/) by Gilles Narcy
 -  [Medieval Spirituality and Materiality in Ms. Fr. 640](/resources/student-projects/sp23_lambert-avery_final-project_medieval-spirituality/) by Avery Lambert
@@ -84,5 +84,5 @@ Their exploratory and experimental projects serve as companion pieces to *Secret
 ## Making Colors with Students
 
 -  [Dyeing with Onion Skins](/resources/student-projects/su22_fld_cunningham_annika_onion-skin-dyeing/) by Annika Cunningham (2022-07-18)
--  [Making Pigment from Madder: a Trio of Recipes](/resources/student-projects/sp22_fld_rosenkranz_naomi_madder-lake-trio/) by Naomi Rosenkranz (2022-07-19) (WIP)
+-  [Making Pigment from Madder: a Trio of Recipes](/resources/student-projects/sp22_fld_rosenkranz_naomi_madder-lake-trio/) by Naomi Rosenkranz (2022-07-19)
 -  [Materials Used for Making Renaissance Dyes and Pigments](/resources/student-projects/materials/) by Naomi Rosenkranz and Megan Lennon (2023-02-28)
