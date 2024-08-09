@@ -155,7 +155,7 @@ Invited for their expertise, Expert Makers stayed in residence at Columbia for t
 <tbody>
 <tr>
 <td valign=top>Emily Boyd <br><br> Raymond Carlson <br><br> Emogene Cataldo <br><br> Jordan Katz <br><br> Rozemarijn Landsman <br><br> Michelle Lee <br><br> Diana Mellon <br><br> Jef Palframan <br><br> Jonah Rowen <br><br> Julianna Visco <br><br> Yijun Wang</td>
-<td>Giulia Chiostrini <br><br> Celia Durkin <br><br> Shiye Fu <br><br> Sofia Gans <br><br> Caroline Marris <br><br> Jef Palframan <br><br> Gunthild Peters <br><br> Stephanie Pope <br><br> Zhiqi Zhang</td>
+<td valign=top>Giulia Chiostrini <br><br> Celia Durkin <br><br> Shiye Fu <br><br> Sofia Gans <br><br> Caroline Marris <br><br> Jef Palframan <br><br> Gunthild Peters <br><br> Stephanie Pope <br><br> Zhiqi Zhang</td>
 </tr>
 </tbody>
 </table>
