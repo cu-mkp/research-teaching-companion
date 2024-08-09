@@ -114,9 +114,24 @@ This hybrid laboratory-discussion advanced undergraduate / intro graduate semina
 
 Instructors: Pamela Smith with Naomi Rosenkranz and Caroline Surman
 
-| Summer 2021 (virtual)                                                                                                                                                                                                                                                                                                                               | Fall 2021                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Spring 2022                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Spring 2023                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Elizabeth Branscum (graduate) <br><br> Mackenzie Fox (graduate) <br><br> Mackenzie Fox (graduate) <br><br> Sophia Macomber (undergraduate) <br><br> Julia Tomasson (graduate) <br><br> Madi Whitman (postdoc) <br><br> Ingrid Romero (undergraduate) <br><br> Anna Christensen (graduate) <br><br> Mellon (Vivian) Snyder (undergraduate) <br><br>  | Allie (Alexandra) Coutavas (graduate) <br><br> Anne-Marie Dillon (undergraduate) <br><br> Anne-Marie Dillon (undergraduate) <br><br> Anusha Sundar (graduate) <br><br> Beah (Sarah) Jacobson (graduate) <br><br> Benjamin Weisgall (graduate) <br><br> Charlie Steinman (graduate) <br><br> Charlotte Atkins (undergraduate) <br><br> Danli Lin (graduate) <br><br> Eleanor Davol (undergraduate) <br><br> Elia (Longyu) Zhang (undergraduate) <br><br> Elliot Zayas (undergraduate) <br><br> Eric Mazariegos Jr. (graduate) <br><br> Hana Ghoneima (undergraduate) <br><br> Helena Seo (graduate) <br><br> Juliana Mendelsohn (undergraduate) <br><br> Mac Waters (undergraduate) <br><br> Naomi Alberts (undergraduate) <br><br> Siobhan Joyce-Farley (undergraduate) <br><br>  | Jamie Bergen (undergraduate) <br><br> Jack Chivers (undergraduate) <br><br> Jack Chivers (undergraduate) <br><br> Maia Donald (undergraduate) <br><br> Maciej Dzumala (undergraduate) <br><br> Schuyler Gardner (undergraduate) <br><br> Ally (Alexandra) Johnson (graduate) <br><br> Alina (Lingsi) Kong (graduate) <br><br> Theodora Lang (graduate) <br><br> Kate Miller (undergraduate) <br><br> Victoria Nebolsin (graduate) <br><br> Alejandra Quintana Arocho (undergraduate) <br><br> Sofia Sabet (undergraduate) <br><br> Benjamin Sinvany (graduate) <br><br> Jianing Wei (graduate) <br><br> Aviva Weinbaum (undergraduate) <br><br> Luxi Yang (graduate) <br><br> James Rice (undergraduate) <br><br>  | Elaf Alsibyani (graduate) <br><br> Reece Brown (undergraduate) <br><br> Reece Brown (undergraduate) <br><br> Salih (Mohammed) Cholakkalakath (graduate) <br><br> Ruilin Fan (graduate) <br><br> Molly Forrester (undergraduate) <br><br> Sophie Gorup (undergraduate) <br><br> Avery Lambert (undergraduate) <br><br> Gerold Mannall (undergraduate) <br><br> Nina Nahitchevanksy (graduate) <br><br> Gilles Narcy (graduate) <br><br> Nesya Nelkin (graduate) <br><br> Lukas Oberem (graduate) <br><br> Jermaine Ralliford (undergraduate) <br><br> Sumant Rao (graduate) <br><br> Junaid ur Rehman (graduate) <br><br> Allison Ruman (graduate) <br><br> Jingxian Shi (graduate) <br><br> Shannon Trono (graduate) <br><br> Bhargavi Viswanath (graduate) <br><br> Kuangye Wang (undergraduate) <br><br> Damiana Yousef (graduate) <br><br>  |
+<table border=1>
+<thead>
+<tr>
+<th>Summer 2021 (virtual)</th>
+<th>Fall 2021</th>
+<th>Spring 2022</th>
+<th>Spring 2023</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign=top>Elizabeth Branscum (graduate) <br><br> Mackenzie Fox (graduate) <br><br> Mackenzie Fox (graduate) <br><br> Sophia Macomber (undergraduate) <br><br> Julia Tomasson (graduate) <br><br> Madi Whitman (postdoc) <br><br> Ingrid Romero (undergraduate) <br><br> Anna Christensen (graduate) <br><br> Mellon (Vivian) Snyder (undergraduate) <br><br></td>
+<td valign=top>Allie (Alexandra) Coutavas (graduate) <br><br> Anne-Marie Dillon (undergraduate) <br><br> Anne-Marie Dillon (undergraduate) <br><br> Anusha Sundar (graduate) <br><br> Beah (Sarah) Jacobson (graduate) <br><br> Benjamin Weisgall (graduate) <br><br> Charlie Steinman (graduate) <br><br> Charlotte Atkins (undergraduate) <br><br> Danli Lin (graduate) <br><br> Eleanor Davol (undergraduate) <br><br> Elia (Longyu) Zhang (undergraduate) <br><br> Elliot Zayas (undergraduate) <br><br> Eric Mazariegos Jr. (graduate) <br><br> Hana Ghoneima (undergraduate) <br><br> Helena Seo (graduate) <br><br> Juliana Mendelsohn (undergraduate) <br><br> Mac Waters (undergraduate) <br><br> Naomi Alberts (undergraduate) <br><br> Siobhan Joyce-Farley (undergraduate) <br><br></td>
+<td valign=top>Jamie Bergen (undergraduate) <br><br> Jack Chivers (undergraduate) <br><br> Jack Chivers (undergraduate) <br><br> Maia Donald (undergraduate) <br><br> Maciej Dzumala (undergraduate) <br><br> Schuyler Gardner (undergraduate) <br><br> Ally (Alexandra) Johnson (graduate) <br><br> Alina (Lingsi) Kong (graduate) <br><br> Theodora Lang (graduate) <br><br> Kate Miller (undergraduate) <br><br> Victoria Nebolsin (graduate) <br><br> Alejandra Quintana Arocho (undergraduate) <br><br> Sofia Sabet (undergraduate) <br><br> Benjamin Sinvany (graduate) <br><br> Jianing Wei (graduate) <br><br> Aviva Weinbaum (undergraduate) <br><br> Luxi Yang (graduate) <br><br> James Rice (undergraduate) <br><br></td>
+<td valign=top>Elaf Alsibyani (graduate) <br><br> Reece Brown (undergraduate) <br><br> Reece Brown (undergraduate) <br><br> Salih (Mohammed) Cholakkalakath (graduate) <br><br> Ruilin Fan (graduate) <br><br> Molly Forrester (undergraduate) <br><br> Sophie Gorup (undergraduate) <br><br> Avery Lambert (undergraduate) <br><br> Gerold Mannall (undergraduate) <br><br> Nina Nahitchevanksy (graduate) <br><br> Gilles Narcy (graduate) <br><br> Nesya Nelkin (graduate) <br><br> Lukas Oberem (graduate) <br><br> Jermaine Ralliford (undergraduate) <br><br> Sumant Rao (graduate) <br><br> Junaid ur Rehman (graduate) <br><br> Allison Ruman (graduate) <br><br> Jingxian Shi (graduate) <br><br> Shannon Trono (graduate) <br><br> Bhargavi Viswanath (graduate) <br><br> Kuangye Wang (undergraduate) <br><br> Damiana Yousef (graduate) <br><br></td>
+</tr>
+</tbody>
+</table>
 
 ## *Craft & Science: Making Objects in the Early Modern World*  Laboratory Seminar Participants
 This hybrid laboratory-discussion graduate seminar offered through Columbia’s History Department combined historical research with hands-on skill-building and reconstructions of Ms. Fr. 640’s recipes in the Making and Knowing Laboratory. The teaching and student work in this course was foundational in creating the content for the Research and Teaching Companion.
@@ -160,32 +175,58 @@ Invited for their expertise, Expert Makers stayed in residence at Columbia for t
 </tbody>
 </table>
 
-
-
-
-| 2014 Fall: Moldmaking and Metalworking                                                                                                                                                                                                             | 2015 Spring: Moldmaking and Metalworking                                                                                                                                                            |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Emily Boyd <br><br> Raymond Carlson <br><br> Emogene Cataldo <br><br> Jordan Katz <br><br> Rozemarijn Landsman <br><br> Michelle Lee <br><br> Diana Mellon <br><br> Jef Palframan <br><br> Jonah Rowen <br><br> Julianna Visco <br><br> Yijun Wang | Giulia Chiostrini <br><br> Celia Durkin <br><br> Shiye Fu <br><br> Sofia Gans <br><br> Caroline Marris <br><br> Jef Palframan <br><br> Gunthild Peters <br><br> Stephanie Pope <br><br> Zhiqi Zhang |
-
 **Colormaking**: Participants focused on painting, varnish, colored glass, and dyeing entries in Ms. Fr. 640 and undertook skill-building in historical culinary reconstruction, gem-making, canvas and panel preparation, making lake pigments, verdigris growing, and painting.
 
-| 2015 Fall: Colormaking                                                                                                                                                                                                                                                 | 2016 Spring: Colormaking                                                                                                                                                                                                                               |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Marilyn Bowen <br><br> Danielle Carr <br><br> Ana Estrades <br><br> Emilie Foyer <br><br> Cindy Kok <br><br> Kathryn Kremnitzer <br><br> Tianhe Lou <br><br> David McClure <br><br> Sayantani Mukherjee <br><br> Siddhartha Shah <br><br> Yuan Yi <br><br> Wenrui Zhao | Ann-Sophie Barwich <br><br> Amy Chang <br><br> Olivia Clemens <br><br> Lila Goldenberg <br><br> Njeri Ndungu <br><br> Cleo Nisse <br><br> Sophie Pitman <br><br> Robin Reich <br><br> Yuanxie Shi <br><br> Teresa Soley <br><br> Wenrui Zhao |
+<table border=1>
+<thead>
+<tr>
+<th>2015 Fall: Colormaking</th>
+<th>2016 Spring: Colormaking</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign=top>Marilyn Bowen <br><br> Danielle Carr <br><br> Ana Estrades <br><br> Emilie Foyer <br><br> Cindy Kok <br><br> Kathryn Kremnitzer <br><br> Tianhe Lou <br><br> David McClure <br><br> Sayantani Mukherjee <br><br> Siddhartha Shah <br><br> Yuan Yi <br><br> Wenrui Zhao</td>
+<td valign=top>Ann-Sophie Barwich <br><br> Amy Chang <br><br> Olivia Clemens <br><br> Lila Goldenberg <br><br> Njeri Ndungu <br><br> Cleo Nisse <br><br> Sophie Pitman <br><br> Robin Reich <br><br> Yuanxie Shi <br><br> Teresa Soley <br><br> Wenrui Zhao</td>
+</tr>
+</tbody>
+</table>
 
 **Practical Knowledge**: Participants focused on vernacular natural history, practical optics, mechanics, and medicine entries in Ms. Fr. 640 and undertook skill-building in historical culinary reconstruction, breadmolding, verdigris growing, making lake pigments, and painting.
 
-| 2016 Fall: Practical Knowledge                                                                                                                                                                                       | 2017 Spring: Practical Knowledge                                                                                                                               |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Joslyn DeVinney <br><br> Ana Matisse Donefer-Hickie <br><br> Sau-yi Fong <br><br> Benjamin Hiebert <br><br> Changduk (Charles) Kang <br><br> Emma Le Pouésard <br><br> Isabella Lores-Chavez <br><br> Caitlyn Sellar | Nicole Basile <br><br> Hannah Elmer <br><br> Christopher Eom <br><br> Sasha Grafit <br><br> Xiaomeng Liu <br><br> Ariane van Buren <br><br> Casa (Xinguo) Wang |
+<table border=1>
+<thead>
+<tr>
+<th>2016 Fall: Practical Knowledge</th>
+<th>2017 Spring: Practical Knowledge</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign=top>Joslyn DeVinney <br><br> Ana Matisse Donefer-Hickie <br><br> Sau-yi Fong <br><br> Benjamin Hiebert <br><br> Changduk (Charles) Kang <br><br> Emma Le Pouésard <br><br> Isabella Lores-Chavez <br><br> Caitlyn Sellar</td>
+<td valign=top>Nicole Basile <br><br> Hannah Elmer <br><br> Christopher Eom <br><br> Sasha Grafit <br><br> Xiaomeng Liu <br><br> Ariane van Buren <br><br> Casa (Xinguo) Wang</td>
+</tr>
+</tbody>
+</table>
 
 **Ephemeral Art**: Participants focused on techniques and materials for impromptu decoration in Ms. Fr. 640 and undertook skill-building in historical culinary reconstruction, breadmolding, azurite levigation, verdigris growing, making lake pigments, dyeing, stucco-making, and painting.
 
 **Making Impressions**: Participants focused on techniques for printing, impressing, incising, inscribing, and pinking in Ms. Fr. 640 and undertook skill-building in historical culinary reconstruction, breadmaking, verdigris growing, linocut, woodcut, engraving, and etching.
 
-| 2017 Fall: Ephemeral Art                                                                                                             | 2018 Fall: Making Impressions                                                                                                                                                                                                                                                        |
-|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tenzin Dongchung <br><br> Nina Elizondo Garza <br><br> Carl Garris <br><br> Karen Tompkins <br><br> Reut Ullman <br><br> Sumeyye Yar | Michael Assis <br><br> Katie Bergen <br><br> Nicolle Bertozzi <br><br> Sahar Bostock <br><br> Olivia Branscum <br><br> James Buckley <br><br> Celine Camps <br><br> Amanda Faulkner <br><br> Baris Gokturk <br><br> Angel Jiang <br><br> Lan Li <br><br> Min Lim <br><br> Nancy Olson |
+<table border=1>
+<thead>
+<tr>
+<th>2017 Fall: Ephemeral Art</th>
+<th>2018 Fall: Making Impressions</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign=top>Tenzin Dongchung <br><br> Nina Elizondo Garza <br><br> Carl Garris <br><br> Karen Tompkins <br><br> Reut Ullman <br><br> Sumeyye Yar</td>
+<td valign=top>Michael Assis <br><br> Katie Bergen <br><br> Nicolle Bertozzi <br><br> Sahar Bostock <br><br> Olivia Branscum <br><br> James Buckley <br><br> Celine Camps <br><br> Amanda Faulkner <br><br> Baris Gokturk <br><br> Angel Jiang <br><br> Lan Li <br><br> Min Lim <br><br> Nancy Olson</td>
+</tr>
+</tbody>
+</table>
 
 ### Digital Humanities Seminar Participants
 
@@ -202,9 +243,20 @@ Steven Feiner with Terry Catapano and Carmine Elvezio
 
 Using the Project’s working transcriptions and English translation of Ms. Fr. 640, participants considered issues in the materiality of the book and digital text and prototyped explorations of the manuscript drawing on methods in digital mapping, textual analysis, and augmented reality.
 
-| Spring 2017                                                                                                                                                                                                                                      | Spring 2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sohini Chattopadhyay  (graduate) <br><br> Ben Hiebert (graduate) <br><br> Ben Hiebert (graduate) <br><br> Jiayi Li (graduate) <br><br> Xiaomeng Liu (graduate) <br><br> Nikhil Ramachandran (graduate) <br><br> Wenrui Zhao (graduate) <br><br>  | Katie Bergen (graduate) <br><br> Celine Camps (graduate) <br><br> Celine Camps (graduate) <br><br> Daria Franklin (graduate) <br><br> Henry Gifford (graduate) <br><br> Sandra Goldstein Lehnert (undergraduate) <br><br> Laura Hand (graduate) <br><br> Mahzabin Hasnath (undergraduate) <br><br> Gregory Houser (graduate) <br><br> Jennifer Kaplan  (graduate) <br><br> Chris Klippenstein (graduate) <br><br> Matthew Kumar (undergraduate) <br><br> Max Kwass-Mason (undergraduate) <br><br> Kathleen Lee (undergraduate) <br><br> Vera Senina (graduate) <br><br> Taewan Shim (undergraduate) <br><br> Guillermo Soto (undergraduate) <br><br> Yuhe Zheng (graduate) <br><br>  |
+<table border=1>
+<thead>
+<tr>
+<th>Spring 2017</th>
+<th>Spring 2019</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign=top>Sohini Chattopadhyay  (graduate) <br><br> Ben Hiebert (graduate) <br><br> Ben Hiebert (graduate) <br><br> Jiayi Li (graduate) <br><br> Xiaomeng Liu (graduate) <br><br> Nikhil Ramachandran (graduate) <br><br> Wenrui Zhao (graduate) <br><br></td>
+<td valign=top>Katie Bergen (graduate) <br><br> Celine Camps (graduate) <br><br> Celine Camps (graduate) <br><br> Daria Franklin (graduate) <br><br> Henry Gifford (graduate) <br><br> Sandra Goldstein Lehnert (undergraduate) <br><br> Laura Hand (graduate) <br><br> Mahzabin Hasnath (undergraduate) <br><br> Gregory Houser (graduate) <br><br> Jennifer Kaplan  (graduate) <br><br> Chris Klippenstein (graduate) <br><br> Matthew Kumar (undergraduate) <br><br> Max Kwass-Mason (undergraduate) <br><br> Kathleen Lee (undergraduate) <br><br> Vera Senina (graduate) <br><br> Taewan Shim (undergraduate) <br><br> Guillermo Soto (undergraduate) <br><br> Yuhe Zheng (graduate) <br><br></td>
+</tr>
+</tbody>
+</table>
 
 ### Columbia University Libraries and the Center for Teaching and Learning
 
