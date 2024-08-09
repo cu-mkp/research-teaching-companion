@@ -7,6 +7,8 @@ weight: 60
 # Digital Making and Knowing
 The Making and Knowing Project has developed open access digital resources, including a publication tool for making your own edition, model projects for using the data of *Secrets of Craft and Nature*, digital literacy tools, syllabi, and ideas for student activities.
 
+The markup of Ms. Fr. 640 in *Secrets of Craft and Nature* enables many kinds of exploration and historical insights. For an introduction, see [*Understanding and Analyzing the Categories of the Entries in BnF Ms. Fr. 640*](https://cu-mkp.github.io/sandbox/docs/categories.html) by Naomi Rosenkranz.
+
 Read a reflection on using the data of *Secrets of Craft and Nature*: [A Computational Approach to Ms. Fr. 640](https://edition640.makingandknowing.org/#/essays/ann_301_ie_19) by Clément Godbarge. See also [Clément's blog: Visualizing Semantic Markup in BnF Ms. Fr. 640](https://clementgodbarge.com/post/visualization/).
 
 ## The Making and Knowing Project Sandbox
