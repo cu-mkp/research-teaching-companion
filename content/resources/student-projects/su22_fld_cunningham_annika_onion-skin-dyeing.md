@@ -1,5 +1,5 @@
 # Dyeing with Onion Skins
-> Annika Cunningham, summer and fall 2021
+> Annika Cunningham, summer and fall 2022
 
 ## Introduction
 My name is Annika Cunningham, and I am a high schooler in Boston. I have
