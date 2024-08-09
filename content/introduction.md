@@ -42,3 +42,5 @@ Naomi Rosenkranz, Pamela H. Smith, Tianna Helena Uchacz, and Terry Catapano, eds
 **The Samuel H. Kress Foundation**
 
 **The Gladys Krieble Delmas Foundation**
+
+![2018 printmaking](/images/2018_printmaking_for-webpages.jpg)
