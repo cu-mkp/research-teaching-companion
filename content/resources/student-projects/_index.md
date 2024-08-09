@@ -5,7 +5,7 @@ weight: 40
 ---
 
 # Student Projects
-In all Making and Knowing Project courses students create a final project. Browse their projects for ideas about how to engage with _Secrets of Craft and Nature_.
+In all Making and Knowing courses students create a final project. In _Craft and Science_, students carried out reconstructions of processes in Ms. Fr. 640 and wrote [essays](https://edition640.makingandknowing.org/#/essays), which were published as part of the Ms. Fr. 640 edition, _Secrets of Craft and Nature_. In other Making and Knowing courses, including _Hands-on History_, students create a final project that engages with _Secrets of Craft and Nature_. Browse their projects for ideas about how to engage with _Secrets of Craft and Nature_ and for integrating hands-on activities into your courses.
 
 ## ENGL84031 / HISTGU4031 / COMS4495: _Transforming Texts_ (Spring 2019)
 
