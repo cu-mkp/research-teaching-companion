@@ -23,6 +23,8 @@ The Spring 2019 course _Transforming Texts: Textual Analysis, Literary Modeling,
     -   PowerPoint presentation [[PDF](/documents/pdf/SP19_ARGroup-Presentation.pdf)] 
          - [[PPTX](/documents/student-projects/SP19_ARGroup-Presentation.pptx)]
 
+![2018 Paleography](/images/2018_paleography_toulouse_for-webpages.jpg)
+
 ## GU4962: _Making and Knowing in Early Modern Europe: Hands-On History_ (2021-)
 In *Making and Knowing in Early Modern Europe: Hands-On History*, undergrad and grad students explore *Secrets of Craft and Nature*, carry out hands-on lessons, and develop a project that engages with hands-on activities, materials, techniques, and any number of other themes.
 
@@ -86,3 +88,5 @@ Their exploratory and experimental projects serve as companion pieces to *Secret
 -  [Dyeing with Onion Skins](/resources/student-projects/su22_fld_cunningham_annika_onion-skin-dyeing/) by Annika Cunningham (2022-07-18)
 -  [Making Pigment from Madder: a Trio of Recipes](/resources/student-projects/sp22_fld_rosenkranz_naomi_madder-lake-trio/) by Naomi Rosenkranz (2022-07-19)
 -  [Materials Used for Making Renaissance Dyes and Pigments](/resources/student-projects/materials/) by Naomi Rosenkranz and Megan Lennon (2023-02-28)
+
+![azurite shells](/images/azurite-shells.jpg)
