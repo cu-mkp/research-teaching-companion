@@ -72,13 +72,14 @@ The Making and Knowing Project's creation of the edition of Ms. Fr. 640, [_Secre
       - Christian-Joseph Macahilig (2020-21)
       - Lydia DeFusto (2024)
   - Digital Programming Assistants:
+      - Bingyan Hu (2015-16)
+      - Sharan Suryanarayanan (2016)
       - Philip Cherian (2016-18)
       - Emre Tetik (2016-2018)
-      - Sharan Suryanarayanan (2016)
-      - Bingyan Hu (2015-16)
       - Ludovic Touzé-Peiffer (2017)
       - Matthew Kumar (2019-20)
       - Gregory Schare (2020-24)
+      - Sophia Qureshi (2021)
   - Programming Teaching Assistants:  
       - Atif Ahmed (2016-17)
       - Mehul Kumar (2016-17)
