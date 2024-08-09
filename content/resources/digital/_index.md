@@ -18,6 +18,8 @@ The Sandbox is an online environment for students, scholars, and others to explo
 
 ### View the Sandbox Repository on [Github](https://github.com/cu-mkp/sandbox)
 
+![languages screenshot](/images/webpage_image_digitalMK-page.png)
+
 ## EditionCrafter
 An open source and customizable publishing tool, [EditionCrafter](https://editioncrafter.org) allows users to easily publish digital editions as feature-rich and sustainable static sites, based on the feature set of *Secrets of Craft and Nature*.
  
