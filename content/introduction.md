@@ -15,7 +15,7 @@ The resources included in this Companion to the digital edition [*Secrets of Cra
 
 During the intensive series of collaborative courses, workshops, and conferences through which *Secrets of Craft and Nature* was created, the Making and Knowing Project has had much opportunity to reflect on the challenges and the joys of inserting hands-on work into the text-centered training of the university. We hope the materials we developed through this experience will provide food for thought and action and a guide of sorts for your own experiments. They are intended to be used flexibly, and we invite you to adapt and create your own resources to fit your needs.
 
-For more about the creation of the Companion and the Making and Knowing Project’s suite of Research and Teaching Resources, see [About M&K](/about).
+For more about the creation of the Companion and the Making and Knowing Project’s suite of Research and Teaching Resources, see [About M&K](/about/).
 
 ![sp22_azurite](/images/sp22_azurite-session2.jpg)
 
