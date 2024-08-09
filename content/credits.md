@@ -145,6 +145,24 @@ Invited for their expertise, Expert Makers stayed in residence at Columbia for t
 
 **Moldmaking and Metalworking**: Participants focused on molding and casting materials and techniques in Ms. Fr. 640 and undertook skill-building in historical culinary reconstruction, breadmolding, sugar casting, sand casting, and plaster molding.
 
+<table border=1>
+<thead>
+<tr>
+<th>2014 Fall: Moldmaking and Metalworking</th>
+<th>2015 Spring: Moldmaking and Metalworking</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign=top>Emily Boyd <br><br> Raymond Carlson <br><br> Emogene Cataldo <br><br> Jordan Katz <br><br> Rozemarijn Landsman <br><br> Michelle Lee <br><br> Diana Mellon <br><br> Jef Palframan <br><br> Jonah Rowen <br><br> Julianna Visco <br><br> Yijun Wang</td>
+<td>Giulia Chiostrini <br><br> Celia Durkin <br><br> Shiye Fu <br><br> Sofia Gans <br><br> Caroline Marris <br><br> Jef Palframan <br><br> Gunthild Peters <br><br> Stephanie Pope <br><br> Zhiqi Zhang</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
 | 2014 Fall: Moldmaking and Metalworking                                                                                                                                                                                                             | 2015 Spring: Moldmaking and Metalworking                                                                                                                                                            |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Emily Boyd <br><br> Raymond Carlson <br><br> Emogene Cataldo <br><br> Jordan Katz <br><br> Rozemarijn Landsman <br><br> Michelle Lee <br><br> Diana Mellon <br><br> Jef Palframan <br><br> Jonah Rowen <br><br> Julianna Visco <br><br> Yijun Wang | Giulia Chiostrini <br><br> Celia Durkin <br><br> Shiye Fu <br><br> Sofia Gans <br><br> Caroline Marris <br><br> Jef Palframan <br><br> Gunthild Peters <br><br> Stephanie Pope <br><br> Zhiqi Zhang |
