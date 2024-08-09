@@ -18,7 +18,7 @@ In the development of the Making and Knowing Project's Research and Teaching Com
 
 ### Senior Digital Team for the Companion
 - Terry Catapano
-- Nick Laiacona and team at Performant Software Solutions
+- Nick Laiacona and team at [Performant Software Solutions](https://www.performantsoftware.com/)
 - Naomi Rosenkranz 
 
 ### Planning and Implementation for the Companion
@@ -97,6 +97,8 @@ The Making and Knowing Project's creation of the edition of Ms. Fr. 640, [_Secre
       - Margot Lyautey (2016)
       - Philip Cherian (2016)
       - Ludovic Touzé-Peiffer (2017)
+      - Roni Kaufman (2020)
+      - Dana Chaillard (2020)
   - High School Interns:
       - Christine Hu (2016)
       - Karuna Vikram (2016-2017)
@@ -121,13 +123,13 @@ This hybrid laboratory-discussion graduate seminar offered through Columbia’s 
 
 Each semester of the *Craft and Science* Lab Seminar was driven by a guiding theme to draw together components of the manuscript and provide focus for analysis and activities, as described below.
 - Instructor: Pamela H. Smith</br>
-Co-instructors:<br>
-- Donna Bilak (2014-17)
-- Jenny Boulboullé (2014-16)
-- Joel A. Klein (2014-17)
-- Tianna Helena Uchacz (2016-20)
-- Sophie Pitman (2017-18)
-- Tillmann Taape (2017-20)
+- Co-instructors:<br>
+     - Donna Bilak (2014-17)
+     - Jenny Boulboullé (2014-16)
+     - Joel A. Klein (2014-17)
+     - Tianna Helena Uchacz (2016-20)
+     - Sophie Pitman (2017-18)
+     - Tillmann Taape (2017-20)
 
 ### Expert Makers
 Invited for their expertise, Expert Makers stayed in residence at Columbia for two weeks to lead students in skill-building activities specific to the year’s theme and consult with students on their final project topics.
