@@ -5,7 +5,7 @@ menu: "main"
 weight: 40
 ---
 
-## Introduction
+# Credits
 
 In the development of the Making and Knowing Project's Research and Teaching Companion, many individuals have contributed, including instructors, scholars, students, researchers, practitioners, makers, organizers, advisors, developers, designers, and supporters. The Companion represents the culmination of many years of iterative, interdisciplinary, and collaborative work by countless dedicated and enthusiastic members, individuals, and networks of the [Making and Knowing Project](https://www.makingandknowing.org/).
 
