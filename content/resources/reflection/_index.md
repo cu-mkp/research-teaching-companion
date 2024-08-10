@@ -74,13 +74,14 @@ A panel discussion between scholars, curators, and creators including Deborah Kr
 Science History Institute Online Exhibition (hosted by Google Arts and Culture), 2021, featuring a video about the Making and Knowing Project's collaboration with Refashioning the Renaissance that highlights the importance of hands-on engagement with materials).
 
 ## Experiential Learning
-**Lifecasting in the Making and Knowing Lab**
-
+### Lifecasting in the Making and Knowing Lab
 "Lifecasting" is a central preoccupation of the anonymous author-practitioner of Ms. Fr. 640 and he filled almost 30% of the manuscript with records of his trials in lifecasting plants and animals. The Making and Knowing Project intensively and iteratively researched and reconstructed the processes recorded in these manuscript entries for making molds from (dead) animals and plants, into which metals and other materials were cast.
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/446502711?h=de11adfec8" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<br><br>
 
-For more on Making and Knowing lifecasting, see [Lifecasting in Ms. Fr. 640](https://doi.org/10.7916/ym8m-r917)<br>
+**For more on Making and Knowing lifecasting<br>**
+[Lifecasting in Ms. Fr. 640](https://doi.org/10.7916/ym8m-r917)<br>
 [In Pursuit of Magic](https://doi.org/10.7916/79dn-mn48)<br>
 [Molding Grasshoppers and Things too Thin](https://www.doi.org/10.7916/fdjv-n162)<br>
 [Molding a Rose](https://www.doi.org/10.7916/17zd-7y45)<br>
@@ -89,15 +90,12 @@ For more on Making and Knowing lifecasting, see [Lifecasting in Ms. Fr. 640](htt
 [Molding Fruits and Animals in Sugar](https://www.doi.org/10.7916/sc91-ay82)<br>
 [Animals Dried in an Oven](https://doi.org/10.7916/c46b-1h45).
 
-
-**Weaving Knowledge**
-
-[Weaving Knowledge](https://weavingknowledge.org/)<br>
-In July 2017 and January 2019, Pamela Smith and the Making and Knowing Project worked with Nussara Tiengate and Annapurna Mamidipudi to mount a Weaving Knowledge Workshop at Ban Rai Jai Sook in Chiang Mai, Thailand. These two workshops provided a two-week immersion in traditional Thai weaving for international PhD students. Over two weeks, participants experienced a full immersion in Lanna weaving with help from expert weavers and textile scholars. In 2019, the Making and Knowing Postdoctoral Scholars participated in the workshop.
+### Weaving Knowledge
+In July 2017 and January 2019, Pamela Smith and the Making and Knowing Project worked with Nussara Tiengate and Annapurna Mamidipudi to mount a [Weaving Knowledge Workshop](https://weavingknowledge.org/) at Ban Rai Jai Sook in Chiang Mai, Thailand. These two workshops provided a two-week immersion in traditional Thai weaving for international PhD students. Over two weeks, participants experienced a full immersion in Lanna weaving with help from expert weavers and textile scholars. In 2019, the Making and Knowing Postdoctoral Scholars participated in the workshop.
 
 Participants used indigo, turmeric, stick-lac, and jackfruit bark to dye cotton, prepared and warped their looms, and practiced a variety of techniques, including plain weave, tapestry, and “chok” – a way of creating supplementary patterns which involves the use of a porcupine quill. Visits to Lua and Karen communities near Mae Chaem gave insights into indigenous weaving practice and its context, as well the challenge of articulating embodied craft knowledge
 
-See the videos created by Lan Li:<br>
+**See the videos created by Lan Li<br>**
 [Weaving Knowledge: Banraijaisook](https://player.vimeo.com/video/310724422)<br>
 
 [Weaving Knowledge: The Looms of Banraijaisook](https://player.vimeo.com/video/310728471)<br>
