@@ -17,7 +17,7 @@ During the intensive series of collaborative courses, workshops, and conferences
 
 For more about the creation of the Companion and the Making and Knowing Project’s suite of Research and Teaching Resources, see [About M&K](/about/).
 
-<img src="/images/sp22_azurite-session2.jpg" alt="Making and Knowing Lab azurite session" width="640" height="360"/>
+<img src="/images/sp22_azurite-session2.jpg" alt="Making and Knowing Lab azurite session" width="740" height="460"/>
 
 ## The Companion's Resources
 ### Making & Knowing Syllabi
@@ -47,5 +47,5 @@ The Gladys Krieble Delmas Foundation
 
 The National Science Foundation
 
-<img src="/images/2018_printmaking_for-webpages.jpg" alt="Making and Knowing Lab printmaking" width="640" height="360"/>
+<img src="/images/2018_printmaking_for-webpages.jpg" alt="Making and Knowing Lab printmaking" width="740" height="460"/>
 
