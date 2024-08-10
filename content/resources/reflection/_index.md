@@ -74,6 +74,24 @@ A panel discussion between scholars, curators, and creators including Deborah Kr
 Science History Institute Online Exhibition (hosted by Google Arts and Culture), 2021, featuring a video about the Making and Knowing Project's collaboration with Refashioning the Renaissance that highlights the importance of hands-on engagement with materials).
 
 ## Experiential Learning
+**Lifecasting in the Making and Knowing Lab**
+
+"Lifecasting" is a central preoccupation of the anonymous author-practitioner of Ms. Fr. 640 and he filled almost 30% of the manuscript with records of his trials in lifecasting plants and animals. The Making and Knowing Project intensively and iteratively researched and reconstructed the processes recorded in these manuscript entries for making molds from (dead) animals and plants, into which metals and other materials were cast.
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/446502711?h=de11adfec8" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+
+For more on Making and Knowing lifecasting, see [Lifecasting in Ms. Fr. 640](https://doi.org/10.7916/ym8m-r917)<br>
+[In Pursuit of Magic](https://doi.org/10.7916/79dn-mn48)<br>
+[Molding Grasshoppers and Things too Thin](https://www.doi.org/10.7916/fdjv-n162)<br>
+[Molding a Rose](https://www.doi.org/10.7916/17zd-7y45)<br>
+[Molded Roses in Sixteenth-Century France](https://www.doi.org/10.7916/t9dt-5p13)<br>
+[Molding, Modeling, Repairing](https://doi.org/10.7916/8je7-1124)<br>
+[Molding Fruits and Animals in Sugar](https://www.doi.org/10.7916/sc91-ay82)<br>
+[Animals Dried in an Oven](https://doi.org/10.7916/c46b-1h45).
+
+
+**Weaving Knowledge**
+
 [Weaving Knowledge](https://weavingknowledge.org/)<br>
 In July 2017 and January 2019, Pamela Smith and the Making and Knowing Project worked with Nussara Tiengate and Annapurna Mamidipudi to mount a Weaving Knowledge Workshop at Ban Rai Jai Sook in Chiang Mai, Thailand. These two workshops provided a two-week immersion in traditional Thai weaving for international PhD students. Over two weeks, participants experienced a full immersion in Lanna weaving with help from expert weavers and textile scholars. In 2019, the Making and Knowing Postdoctoral Scholars participated in the workshop.
 
