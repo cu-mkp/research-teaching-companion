@@ -11,15 +11,14 @@ The markup of Ms. Fr. 640 in *Secrets of Craft and Nature* enables many kinds of
 
 Read a reflection on using the data of *Secrets of Craft and Nature*: [A Computational Approach to Ms. Fr. 640](https://edition640.makingandknowing.org/#/essays/ann_301_ie_19) by Clément Godbarge. See also [Clément's blog: Visualizing Semantic Markup in BnF Ms. Fr. 640](https://clementgodbarge.com/post/visualization/).
 
+![languages screenshot](/images/webpage_image_digitalMK-page.png)
+
 ## The Making and Knowing Project Sandbox
 The [Sandbox](https://cu-mkp.github.io/sandbox/) makes available a number of [projects](https://cu-mkp.github.io/sandbox/docs/index-digital-projects.html) that utilize and explore the data underlying [*Secrets of Craft and Nature*](https://edition640.makingandknowing.org/). The Sandbox presents experimental, provisional, and in-progress work that engages with and analyzes the data, topics, and content of _Secrets of Craft and Nature_, as well as the larger themes explored by the Making and Knowing Project. 
 
 The Sandbox is an online environment for students, scholars, and others to explore and experiment with the Project’s data using a variety of digital tools, where others can add and create their own tools, case studies, and add to the resources presented here. This is also a space for sharing teaching resources, exploring methods and processes across disciplines and levels of expertise, and engaging in knowledge exchange wherever possible.
 
 ### View the Sandbox Repository on [Github](https://github.com/cu-mkp/sandbox)
-
-![languages screenshot](/images/webpage_image_digitalMK-page.png)
-
 ## EditionCrafter
 An open source and customizable publishing tool, [EditionCrafter](https://editioncrafter.org) allows users to easily publish digital editions as feature-rich and sustainable static sites, based on the feature set of *Secrets of Craft and Nature*.
  
