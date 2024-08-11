@@ -55,6 +55,7 @@ and [Presentation: Preparing Gessoed Test Panels](/documents/pdf/bol_2024_prepar
 - [Classroom activity sheet for paint making](/resources/activity-sheets/painting-assignment/) [[pdf](/documents/pdf/painting_assignment_downloadable_2021.pdf)]
 - Classroom activity sheet for preparing gessoed test panels to receive paint samples [[DOCX](/documents/docx/bol_2024_preparing-test-panels.docx)] [[PDF](/documents/pdf/bol_2024_preparing-test-panels.pdf)]
 - Classroom activity sheet for stretching canvas to paint on [[PDF](/documents/pdf/hermens_preparing-canvas-supports.pdf)]
+- A sample card painted from lake pigments in various binding media [[PNG](/images/pigment-paint-sample-card.png)]
 
 #### Making Paint in the Classroom: Reflection Assignment
 - Paint-Making Lab Reflection Assignment [[DOCX](/documents/docx/uchacz_2024_lab2_reflection-assignment.docx)] [[PDF](/documents/pdf/uchacz_2024_lab2_reflection-assignment.pdf)]
