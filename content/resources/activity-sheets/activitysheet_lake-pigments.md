@@ -94,7 +94,7 @@ Lakes can be made from a variety of natural colorants. Natural colorants can be 
 - [Making Lake Pigment from Madder](/resources/activity-sheets/pigment-madder-lake_assignment/) - hands-on lesson plan and assignment for transforming natural colorants in madder roots into a pigment
 #### Lake-Making in the Classroom: Field Notes
 - [Making Pigment from Madder: a Trio of Recipes](/resources/activity-sheets/sp22_fld_rosenkranz_naomi_madder-lake-trio/) - helpful step-by-step fieldnotes 
-- Pigment cards / pics
+- A sample card painted from lake pigments in various binding media [[PNG](/images/pigment-paint-sample-card.png)]
 #### Lake-Making in the Classroom: Presentations
 - [Presentation: Cochineal Lake: History, Chemistry, and Preparation](/documents/pdf/presentation_sp23_rosenkranz_naomi_lakes_cochineal-history-chem-prep.pdf)
 - [Presentation: Madder Lake: History, Chemistry, and Preparation](/documents/pdf/presentation_sp23_rosenkranz_naomi_lakes_madder-history-chem-prep.pdf/)
