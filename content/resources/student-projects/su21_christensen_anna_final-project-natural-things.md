@@ -50,19 +50,8 @@ Smith points out, the practices described in this manuscript contain
 uniquely “extensive observations of animal behavior,” often connected to
 its instructions on lifecasting.[^1]
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr class="header">
-![IMAGE](/images/media-christensen/image5.png)
-<p>Attributed to Bernard Palissy (French, about 1510 - 1590), <em>Oval Basin</em>, about 1550, Lead-glazed earthenware, 47.9 × 36.8 cm (18 7/8 × 14 1/2 in.), 88.DE.63, The J. Paul Getty Museum, Los Angeles.</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+![Palissy](/images/media-christensen/image5.png)</p>
+Attributed to Bernard Palissy (French, about 1510 - 1590), <em>Oval Basin</em>, about 1550, Lead-glazed earthenware, 47.9 × 36.8 cm (18 7/8 × 14 1/2 in.), 88.DE.63, The J. Paul Getty Museum, Los Angeles.
 
 In some instances, the author of the manuscript explicitly bases his
 choices about display of animals on practical aesthetic concerns. The
@@ -75,19 +64,8 @@ want to cast “female lizards entwined while biting each other” or
 “snakes bound together in embraces of love” when they are small (folio
 122r).
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>![IMAGE](/images/media-christensen/image3.png)</p>
-<p>Illustration from Ms. Fr. 640, folio 122r, showing the arrangement of snakes for molding</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+![Snakes for Molding](/images/media-christensen/image3.png)</p>
+Illustration from Ms. Fr. 640, folio 122r, showing the arrangement of snakes for molding
 
 While the author explicitly points out how the choice to pose multiple
 lifecast specimens together can be practical in nature, he does often
@@ -102,19 +80,8 @@ one of covering what the author-practitioner refers to as
 “imperfections,” such as wounds in the animals that result from how they
 have been captured or killed.
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>![IMAGE](/images/media-christensen/image1.jpg)</p>
-<p>Snake, lizard, frog and mouse, anonymous, c. 1550 - c. 1599 via Rijksmuseum database, <a href="http://hdl.handle.net/10934/RM0001.COLLECT.474284">http://hdl.handle.net/10934/RM0001.COLLECT.474284</a></p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+![Snake, Lizard, frog, mouse](/images/media-christensen/image1.jpg)</p>
+Snake, lizard, frog and mouse, anonymous, c. 1550 - c. 1599 via Rijksmuseum database, <a href="http://hdl.handle.net/10934/RM0001.COLLECT.474284">http://hdl.handle.net/10934/RM0001.COLLECT.474284</a>
 
 The vision of the natural world that this variety of poses presents is
 one that runs along a spectrum from violent antipathy at one end to
@@ -138,19 +105,8 @@ dipped in food or drink to act against poison. Kemp points to objects
 such as these as “a conscious blurring of the demarcation between the
 products of nature and man.”[^2]
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>![IMAGE](/images/media-christensen/image2.jpg)</p>
-<p>Lifecast snake with plant in its mouth, Peter Kuster, Ewer and Basin, ca. 1550. Gilded silver, cast, chased, and partially painted. Cathedral Treasury, Dubrovnik, Croatia. Photo: Pamela H. Smith.</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+![snake with plant](/images/media-christensen/image2.jpg)</p>
+Lifecast snake with plant in its mouth, Peter Kuster, Ewer and Basin, ca. 1550. Gilded silver, cast, chased, and partially painted. Cathedral Treasury, Dubrovnik, Croatia. Photo: Pamela H. Smith.
 
 In addition to understanding and representing nature, the
 author-practitioner seeks to influence, and even modify, nature. The
@@ -173,19 +129,8 @@ author notes, “One gives it a painted tongue, horns, wings & similar
 fancies. Thus for rats & all animals.” (For more on this entry, see
 Divya Anantharaman’s essay, "[Animals Dried in an Oven](https://edition640.makingandknowing.org/#/essays/ann_502_ad_20).")
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>![IMAGE](/images/media-christensen/image4.png)</p>
-<p>Taxidermied rats with wings, © Making and Knowing Project (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><u>CC BY-NC-SA</u></a>).</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+![rat with wings](/images/media-christensen/image4.png)</p>
+Taxidermied rats with wings, © Making and Knowing Project (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><u>CC BY-NC-SA</u></a>).
 
 Though moving away from representative nature, this practice is still, I
 would argue, a natural historical one. Here the author-practitioner is
