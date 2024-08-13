@@ -4,8 +4,9 @@
 
 **Explore** each menu item.
 
-**Complete** the **scavenger hunt** of the Edition
+**Watch** this [video](https://vimeo.com/998222542) for tips on navigating through _Secrets of Craft and Nature_.
 
+**Complete** the **scavenger hunt** of the Edition
 - Pick three of the following terms (or another term of your choosing), and use the search bar to search the manuscript: 
      - "mercury," 
      - "bread," 
