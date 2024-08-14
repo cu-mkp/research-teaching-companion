@@ -108,32 +108,52 @@ Naomi Rosenkranz, Dr. Tianna Uchacz, Dr. Donna Janes, Dr. Sumeyye Yar
 This 4-day workshop was held in March 2023 at Texas A&M University. It was organized by Tianna Uchacz as a series of guest labs for her graduate course, Art/Craft: Hands-on Global Histories of Materials, Techniques, and Skilled Making. The labs were co-led by Naomi Rosenkranz (M&K) and Donna Janes (Microbiology, Texas A&M) in consultation with Sumeyye Yar. The activities, a 2-day dyeing workshop using cochineal insects, paired with a 2-day painting workshop using bioluminescent bacteria, built on workshops that Rosenkranz and Yar had developed and led at Genspace Community Lab, Brooklyn (described below). 10 faculty and 26 students from the College of Arts and Sciences, the College of Engineering, and the School of Performance, Visualization & Fine Arts took part.
 
 **RESOURCES**
-- [Bio Art Workshop: Dyeing with Cochineal Bugs](/resources/activity-sheets/sp23_dyes_tamu/) - resource page with presentations, handouts, and material sourcing 
+- [Bio Art Workshop: Dyeing with Cochineal Bugs](/resources/activity-sheets/sp23_dyes_tamu/) - resource page with presentations, handouts, and material sourcing
+- [Dyeing with Cochineal: Workshop Plan and Step-by-Step Instructions](/documents/pdf/2023_dyes_step-by-step-process_TAM.pdf)
 - [Presentation: Chemistry of dyeing and history of cochineal as a dyestuff](/documents/pdf/2023_dyes_cochineal-history-chem-prep_TAMU-compressed.pdf)
 - [Handout: mordant and dyestuff amounts for 12 different dyeing stations](/documents/pdf/sp23_printout_samples-amounts.pdf)
 - [Handout: mordanting and dyeing process protocol](/documents/pdf/sp23_handout_dyeing-textiles_general-process.pdf)
 - [News Item: Bio Art Workshops at Texas A&M University](https://pvfa.tamu.edu/news/2023/03/20/bio-art-workshops-to-show-creative-process-using-cochineal-insects-bacteria/)
 - [Poster: Bio Art Workshops at Texas A&M University](/documents/pdf/sp23_poster_bioart.pdf)
 
+![](/images/tamu_cochineal-step-by-step.jpg?raw=true)
 
-### Refashioning the Renaissance
+### Refashioning the Renaissance Reconstruction Exchange
 Naomi Rosenkranz, Dr. Sophie Pitman, Professor Paula Hohti, 2019
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/946353423?h=eb8a55e927" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
+This workshop brought together two projects engaged in hands-on reconstruction to exchange methods and experiences on dyeing between the Making and Knowing Project and the [Refashioning the Renaissance](http://refashioningrenaissance.eu/) in March 2019. The Making and Knowing Project and Refashioning the Renaissance experimented with materials commonly used in the early modern period for dyeing red, including the widespread madder, the expensive kermes, and the potent cochineal.
+
 **RESOURCES**
-- **NOTE:** NJR: to upload and link 2 "exchnage" documents that were deleted from static/documents/activity-sheets
+- [Presentation: Reconstruction Exchange: Case Study in 16th Century Red Dyes](/resources/pdf/rosenkranz_2019_dyes_reconstruction-exchange-case-study-in-16th-century-red-dyes.pdf) - provides an overview of natural dyes as well as discusses the materials, chemistry, recipes, and processes for dyeing in early modern Europe. 
+- [Red Dyes Experiment Page](https://refashioningrenaissance.eu/experiments/red-dyes-with-making-knowing/) by Refashioning the Renaissance
+- [Worksop Blog Post](https://refashioningrenaissance.eu/refashioning-workshop-in-toronto-and-nyc/) by Refashioning the Renaissance
 
 ### Genspace Community Science Workshops
 #### Coloring Textiles with Bugs: Old (Cochineal) and New (Bacteria)
-(SP18, SP19, ___, ____)
-Naomi Rosenkranz & Dr. Sumeyye Yar
-Sponsored by the Center for Science and Society and Genspace
+Naomi Rosenkranz & Dr. Sumeyye Yar, 2018-19
+
+Sponsored by the Center for Science and Society and [Genspace Community Lab](https://www.genspace.org/)
+
+Developed and taught by Sumeyye Yar and Naomi Rosenkranz, a series of workshops were help at Genpace Community Lab in Brooklyn, NY, in May 2018, September 2018, December 2018, and November 2019. Yar and Rosenkranz recieved a Public Outreach grant from Columbia's Center for Science and Society to design and hold workshops exploring colorant sustainability through renewed interest in old methods (dyeing with natural colorants) and new scientific breakthroughs (painting with pigmented bacteria) to combat the pollution and hazards of "fast fashion" and the textile industry. Each workshop was held over two days, 3-4 hours on each day, and combined interactive presentations and discussion, directed making sessions, and open creative time in the lab to create a hybrid textile collage dyed with cochineal dye and printed with pigmented bacteria. In the first offerings, the Public Outreach grant subsidized the cost of participation for students and local residents for expanded impact and reach of the workshops. The workshops were so popular that Genspace asked Yar and Sumeyye to hold additional workshops even after the Public Outreach grant ended and further iterations have been held at Genspace by other instructors. Yar and Rosenkranz have also taken the materials and methodologies developed for these workshops to other settings, courses, and workshops.
+ 
+**Workshop description:** In this hands-on workshop, you will learn both the history and the science of coloring textiles with organisms using historical techniques and new scientific developments. Explore the long tradition of dyeing cloth brilliant shades of red with cochineal insects. Then, discover new cutting-edge techniques of printing textiles with colorful microbes. We will delve into the world of sustainable natural dyes and create artful textile collages.
+In this workshop, you will:
+- Learn about the history and chemistry of natural colorants and dyes
+- Follow 500-year- old recipes from the Renaissance to dye wool and silk yarns with cochineal bugs
+- Learn how genetic engineering and bacterial cultures can be used to replace synthetic dyes in the future
+- Paint with bacteria and then print your designs on cotton
+- At the end, combine your printed microbial designs with your hand-dyed cochineal textiles to create a decorative art piece to take home
+No experience in biology, chemistry, dyeing, or colormaking is necessary and all are welcome! Support for this workshop is made possible by a Public Outreach Grant from Columbia University's Center for Science and Society. Tickets are being offered at a subsidized rate for students, artists, and local Sunset Park residents.
 
 **RESOURCES**
+- [Presentation: The Future of Textile Industry: Bacterial Colorants in Fashion](/documents/pdf/SY_Genspace_textile-coloring-with-cochineal-and-microbial-bugs-dec-2018.pdf)
 - [Presentation: Overview of the history and chemistry of dyeing](/documents/pdf/rosenkranz_2018_dyes_cochineal-workshop_overview-of-dye-chemistry-history.pdf)
 - [Presentation: Dyeing with Cochineal, Step by Step](/documents/pdf/rosenkranz_2018_dyes_cochineal-step-by-step.pdf)
 - [Handout: Mordanting and Dyeing Protocol](/documents/pdf/rosenkranz_2018_dyes_handout_dyeing-with-cochineal.pdf)
+
+![](/images/coloring-textiles-with-bugs.jpg?raw=true)  
 
 #### Dyeing with Natural Colorants 
 (date)
