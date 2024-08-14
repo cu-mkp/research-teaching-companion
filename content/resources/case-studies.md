@@ -35,7 +35,7 @@ Christina Neilson, Associate Professor of Art History
      - [Ava Chessum](https://oberlin.digication.com/audrey-libatique-ingenious-making/home)
      - [Sien McFalls](https://oberlin.digication.com/sien-mcfalls-journal-arth295/home)
 
-### VIZA 689: Art/Craft: Hands-on Global Histories of Materials, Techniques, and Skilled Making [[Syllabus](/documents/pdf/sp23_uchacz_tianna_syllabus-viza-689_art-craft.pdf)]
+### VIZA 689: Art/Craft: Hands-on Global Histories of Materials, Techniques, and Skilled Making
 
 Spring 2023, School of Performance, Visualization & Fine Arts, Texas A&M University
 
