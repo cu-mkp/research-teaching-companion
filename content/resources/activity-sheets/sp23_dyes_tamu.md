@@ -13,6 +13,12 @@ Organized by Tianna Uchacz with Donna Janes and Naomi Rosenkranz
 [Presentation: Cochineal Dye: History, Chemistry, and Preparation](/documents/pdf/2023_dyes_cochineal-history-chem-prep_TAMU-compressed.pdf)
 
 
+## Overview of Workshop Plans
+
+![](/images/tamu_cochineal-step-by-step.jpg?raw=true)
+
+[Dyeing with Cochineal: Workshop Plan and Step-by-Step Instructions](/documents/pdf/2023_dyes_step-by-step-process_TAM.pdf)
+
 ## Handouts
 
 - [Dyeing Instructions - General Process for Mordanting and Dyeing Textiles](/documents/pdf/sp23_handout_dyeing-textiles_general-process.pdf)
