@@ -1,5 +1,7 @@
 {{ define "main" }}
+    {{ if .Params.title }}
     <h1 class="page-title">{{ .Title }}</h1>
+    {{ end }}
     <div class="toc-content-container">
         <div class="toc-bg"></div>
         <aside class="toc">
