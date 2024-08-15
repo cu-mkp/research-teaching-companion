@@ -121,18 +121,27 @@ Building upon the workshop, Coloring Textiles with Bugs, Rosenkranz created anot
 - **Workshop description:** Join Genspace for a hands-on exploration of natural colorants where we will focus on the tiny but powerfully-colorful cochineal bugs. We will look at the fascinating history of cochineal use and the chemistry behind transforming organic matter into usable color, learning about the relationship (and differences) between dyes and pigments, and how you can make them in the lab or at home in your kitchen. Following 500 year old recipes and using modern chemistry, we will learn three different methods for extracting the cochineal color. We will dye textiles and make pigments with bugs, and each participant will walk away with a tube of lab-made paint! 
 
 **RESOURCES**
+- [Presentation: Cochineal history and chemistry - Apr 2019](/documents/pdf/rosenkranz_2019_genspace_cochineal-history.pdf)
+- [Presentation: Lake pigments - Apr 2019](/documents/pdf/rosenkranz_2019_genspace_lake-pigment.pdf)
+- [Presentation: Dye chemistry - Apr 2019](/documents/pdf/rosenkranz_2019_genspace_dye-chemistry.pdf)
+- [Process overview: dye vs. pigment](/documents/pdf/rosenkranz_2019_genspace_process-overview-dye-vs-pigment.pdf)
+- [Dyeing materials and step-by-step instructions - 2019 Apr](/documents/pdf/rosenkranz_2019_genspace_dyeing-materials-step-by-step-instructions.pdf)
+- [Making of lake pigments and step-by-step instructions - 2019 Apr](/documents/pdf/rosenkranz_2019_genspace_lake-making.pdf)
+- [Making lake pigments from dyed silk thread](/documents/pdf/sp19_cochineal-lake-from-silk-thread.pdf)
+- [Dyes: recipes, calculations, and template - Apr 2019 (XLSX)](documents/activity-sheet/rosenkranz_2019_dyes_template-and-recipes_dye-experiments.xlsx)
+
+**HANDOUTS**
+- [Handout: cochineal lake making](/documents/pdf/2019-04-13_handout_cochineal-lake-making.pdf)
+- [Handout: cochineal dyeing process](/documents/pdf/2019-04-13_handout_genspace_dyeing-cochineal.pdf)
+- [Handout: cochineal dye samples summary](/documents/pdf/2019-04-13_handout_cochineal-dye-sample-summary.pdf)
+
+![](/images/2019-genspace-plan.jpg?raw=true)
 
 
 ### Dyeing with Cochineal - A Short High-School Workshop
-- [Dyeing Textiles with Cochineal - A Short High-School Workshop](/resources/student-projects/sp23_brown-reece_final-project_dye-workshop/) by Reece Brown (an undergraduate student in a Making and Knowing course).
+Reece Brown (undergraduate, Columbia University), Spring/Summer 2023
 
-## Collaborator Research Projects
-Annika Cunningham, High School Student, Summer 2022
+Created as her final project in the Making and Knowing Project course, Making and Knowing in Early Modern Europe: Hands-On History (HIST GU4962), Reece Brown designed and taught a workshop on dyeing with cochineal to high school students in an environmental science class.
 
-[Dyeing with Onion Skins](/resources/student-projects/su22_fld_cunningham_annika_onion-skin-dyeing/)
-
-**RESOURCES**
-- Template for Dyeing Onion Skins + notes 1 [[XLSX](/documents/activity-sheets/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes.xlsx)] 
-     - [[PDF](/documents/pdf/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes.pdf)]
-- Template for Dyeing Onion Skins + notes 2 (greens) [[XLSX](/documents/activity-sheets/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes-2-greens.xlsx)] 
-     - [[PDF](/documents/pdf/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes-2-greens.pdf)]
+- **Workshop Description:** This workshop explores cochineal from three different disciplines: biology, chemistry, and history. We will begin by discussing its life cycle and habitat, then pivot to focus on the particular compound for which it is known, i.e., carminic acid. The flow of this lesson follows the transformation of materials during the process of dyeing, turning cochineal from a resource to a material to a product. Every step in the “recipe” will be contextualized briefly prior to the hands-on endeavor, then more fully explored in a conversation as we wait for the materials to heat to the proper temperature. This outline lets the process and material reality come first, then provides more abstract information once students have oriented themselves in the world around them. It also provides productive instruction time during periods of stasis integrated throughout the process of dyeing.
+- See the final project page for her workshop materials and reflection: [Dyeing Textiles with Cochineal - A Short High-School Workshop](/resources/student-projects/sp23_brown-reece_final-project_dye-workshop/).
