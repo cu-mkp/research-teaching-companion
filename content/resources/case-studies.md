@@ -11,17 +11,15 @@ The Making and Knowing Project has many collaborators from K-12 to university, t
 Materials from courses taught by Project collaborators, some using resources from this Companion or developed in consultation with the Making and Knowing Project.
 
 ### "Experiment"
-Spring 2018, University of Oregon, Clark Honors College
-
+Spring 2018, University of Oregon, Clark Honors College<br>
 Vera Keller, Professor of History
 
 - ["Experiment" Syllabus](/documents/pdf/sp18_Keller_Vera_syllabus_experiment.pdf) 
 - **Course description:** The course *Experiment* explores the origins of experimental science in early modern Europe (15th-18th centuries), and incorporates hands-on activities. In 2018, students researched Ms. Fr. 640 then read essays in *Secrets of Craft and Nature*. The class had the chance to Skype with current and former Making and Knowing students, who were able to answer questions and respond to critiques. The course included a number of experimental reconstructions, including a “Boyle’s Law” demonstration and growing of Seignette Salts. Students described the process of these experiments in a period voice (voice of Boyle or voice of the author-practitioner), and discussed what is at stake in the various literary technologies employed. For more on the various literary technologies, see Vera Keller, [Four Manuscripts between the Recipe and the Experimental Essay](https://edition640.makingandknowing.org/#/essays/ann_320_ie_19).
 
-### ARTH 295: Ingenious Making in the Early Modern World
+### Ingenious Making in the Early Modern World (ARTH 29)
 
-Spring 2022, Oberlin College
-
+Spring 2022, Oberlin College<br>
 Christina Neilson, Associate Professor of Art History
 
 - [Ingenious Making in the Early Modern World Syllabus](/documents/pdf/sp22_nielson_christina_syllabus-arth-295_ingenious-making_web-version.pdf) (also available as [DOCX](/documents/docx/sp22_nielson_christina_syllabus-arth-295_ingenious-making_web-version.docx))
@@ -35,12 +33,10 @@ Christina Neilson, Associate Professor of Art History
      - [Ava Chessum](https://oberlin.digication.com/audrey-libatique-ingenious-making/home)
      - [Sien McFalls](https://oberlin.digication.com/sien-mcfalls-journal-arth295/home)
 
-### VIZA 689: Art/Craft: Hands-on Global Histories of Materials, Techniques, and Skilled Making
+### Art/Craft: Hands-on Global Histories of Materials, Techniques, and Skilled Making (VIZA 689)
 
-Spring 2023, School of Performance, Visualization & Fine Arts, Texas A&M University
-
-Graduate Special Topics Seminar  
-
+Spring 2023, School of Performance, Visualization & Fine Arts, Texas A&M University<br>
+Graduate Special Topics Seminar<br>
 Dr. Tianna Helena Uchacz, Assistant Professor of Art History
 
 - [Art/Craft Syllabus](/documents/pdf/documents/pdf/sp23_uchacz_tianna_syllabus-viza-689_art-craft.pdf)
@@ -48,9 +44,8 @@ Dr. Tianna Helena Uchacz, Assistant Professor of Art History
 - **Course Development (Tianna Uchacz):** My aim was to bring the "aha-moments" of M&K's hands-on history of science into an art history seminar. Each class would feature a 40-min discussion of assigned reading followed by a 1-hr hands-on lab. The first decision was to organize the course around a case-study material, and I chose fibers and textiles for the first iteration of this course. I applied for departmental funding to commission workshops from experts in the local [Brazos Spinners and Weavers Guild](https://weavebrazos.org/) to demo table and floor loom weaving (Kay McWilliams), and to instruct in backstrap loom weaving (Toni Wilson), drop-spindle spinning in wool (Debbie Gau) and cotton (Laurie Schlitter), and wet and needle felting (Helen Dewolf). I sought college-level funding to bring M&K's Naomi Rosenkranz to Texas A&M to co-lead workshops on dyeing with cochineal and painting with bioluminescent bacteria (discussed below on this page) in collaboration with a colleague in microbiology, Dr. Donna Janes. Support for this activity, both financial from my own department and in-kind support (lab-space and equipment access) from the Department of Biology, was made possible by opening the activity to faculty and students from across A&M. I then tapped into a variety of A&M's on-campus resources, arranging visits to the [University Art Collections](https://uart.tamu.edu/) to examine Central American textiles, to the [S.M. Tracy Herbarium](https://tracyherbarium.tamu.edu/) to examine samples of vegetal dyestuffs and fibers, to the [Cushing Memorial Library & Archives](https://cushing.library.tamu.edu/) to examine early modern herbals and books on sericulture, to the [Wright Gallery](https://www.arch.tamu.edu/about/facilities/wright-gallery/) to visit an exhibition on tignon head wraps by artist [Chelsea Antoinette](https://cantoinettestudios.com/home.html), and to the [Libraries Preservation Lab](https://library.tamu.edu/research/preservation/index), where my co-instructor Jeanne Goodman led students in activities on rag paper making and mending. Using M&K's skill-building protocols, my students grew [verdigris](/documents/pdf/verdigris_assignment_downloadable_2021.pdf) and then followed medieval Persian recipes to dye paper with verdigris. Drawing on a student reconstruction and essay from M&K's Spring 2017 "Craft and Science" class on [silkworm cultivation](https://edition640.makingandknowing.org/#/essays/ann_059_sp_17), I sourced silkworm eggs from [silkwormshop.com](https://silkwormshop.com/), and students grew silkworms so that we could process cocoons to unravel and reel silk. My colleague Caleb Kicklighter and his student Ryan Applebee gave presentations on approaches to yarn and weave patterns in digital animation. Dr. Sophie Pitman gave excellent suggestions for the reading list and directed me to [HELLO! LOOM](https://helloloom.com/), where I sourced small frame looms for student excercises. Backstrap looms were sourced from [Kakaw Designs](https://kakawdesigns.com/).
 - **In sum:** A hands-on seminar such as this takes an extraordinary amount of time and effort to coordinate finding funds, expert sourcing, materials sourcing, logistics, and communication. Although I led the discussion of the readings and oversaw the students' work and evaluation, the lab work was led almost entirely by collaborators. I had limited knowledge of fibers and textiles beforehand, but in organizing and leading this course, I learned as much if not more than the students did. It was an efficient way to deep-dive into materials-based hands-on learning for instructors and students. I have every intention to run future versions of this course that focus on other case-study materials, such as metal, wood, and earth.
 
-### ARTS 150: Global Art History Survey II (Renaissance to Modern)
-Texas A&M University
-
+### Global Art History Survey II (Renaissance to Modern) (ARTS 150)
+Texas A&M University<br>
 Dr. Tianna Helena Uchacz, Assistant Professor of Art History
 
 - **Course description:** A large lecture survey of architecture, painting, sculpture and the minor arts around the world from the 14th century to the end of the 20th century. ARTS 150 counts toward a Core Curriculum Creative Arts requirement and toward Intercultural Diversity course requirements.
@@ -90,9 +85,8 @@ After each lab, I assigned reflection assignments that asked them to consider co
 
 The results of the reflection assignments were encouraging: the students came to appreciate the material qualities, appearances, and behaviors of various paint media. They gained a better sense of the skill and labor involved in painting, and they had excellent and insightful follow-up questions after the assignment. Moreover, their course evaluations routinely mentioned how much they enjoyed the activity, not only for what they learned but for the opportunity it gave them to get to know their classmates in what is otherwise a sizeable lecture course.
 
-### EAAS W4110: Histories of Science and Technology in East Asia
-Spring 2018, East Asian Languages and Cultures, Columbia University
-
+### Histories of Science and Technology in East Asia (EAAS W4110)
+Spring 2018, East Asian Languages and Cultures, Columbia University<br>
 Lan Li, Lecturer & Presidential Scholar in Society and Neuroscience
 
 - [Histories of Science and Technology in East Asia Syllabus](https://edblogs.columbia.edu/hseaw4110-001-2018-1/2017/10/31/hello-world/)
@@ -102,7 +96,7 @@ Lan Li, Lecturer & Presidential Scholar in Society and Neuroscience
 ## Collaborator Workshops
 
 ### Bio Art Workshops, School of Performance, Visualization & Fine Arts, Texas A&M University
-Spring 2023
+Spring 2023<br>
 Naomi Rosenkranz, Dr. Tianna Uchacz, Dr. Donna Janes, Dr. Sumeyye Yar
 
 This 4-day workshop was held in March 2023 at Texas A&M University. It was organized by Tianna Uchacz as a series of guest labs for her graduate course, Art/Craft: Hands-on Global Histories of Materials, Techniques, and Skilled Making. The labs were co-led by Naomi Rosenkranz (M&K) and Donna Janes (Microbiology, Texas A&M) in consultation with Sumeyye Yar. The activities, a 2-day dyeing workshop using cochineal insects, paired with a 2-day painting workshop using bioluminescent bacteria, built on workshops that Rosenkranz and Yar had developed and led at Genspace Community Lab, Brooklyn (described below). 10 faculty and 26 students from the College of Arts and Sciences, the College of Engineering, and the School of Performance, Visualization & Fine Arts took part.
