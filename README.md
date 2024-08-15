@@ -82,6 +82,29 @@ These work differently from the other internal links. Instead of the `ref` tag, 
 
 For more information about internal links, see the Hugo documentation on [Links and Cross References](https://gohugo.io/content-management/cross-references/).
 
+### Tables
+Instead of using markdown table syntax, use html with the following attributes:
+`<table>` --> `<table border=1>`
+`<td>` --> `<td valign=top>`
+
+For example:
+ ```
+<table border=1>
+<thead>
+<tr>
+<th>2014 Fall: Moldmaking and Metalworking</th>
+<th>2015 Spring: Moldmaking and Metalworking</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign=top>Emily Boyd <br><br> Raymond Carlson <br><br> Emogene Cataldo <br><br> Jordan Katz <br><br> Rozemarijn Landsman <br><br> Michelle Lee <br><br> Diana Mellon <br><br> Jef Palframan <br><br> Jonah Rowen <br><br> Julianna Visco <br><br> Yijun Wang</td>
+<td valign=top>Giulia Chiostrini <br><br> Celia Durkin <br><br> Shiye Fu <br><br> Sofia Gans <br><br> Caroline Marris <br><br> Jef Palframan <br><br> Gunthild Peters <br><br> Stephanie Pope <br><br> Zhiqi Zhang</td>
+</tr>
+</tbody>
+</table>
+```
+
 ### `_index.md` pages
 
 There is a special kind of page at the root of each subfolder called `_index.md`. This represents the category root and can be used to list all the subpages. In RTC, we use them for three purposes:
