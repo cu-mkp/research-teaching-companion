@@ -5,7 +5,7 @@ weight: 30
 ---
 
 # Making and Knowing Resources in Use
-The Making and Knowing Project has many collaborators from K-12 to university, to non-traditional schools and public outreach institutions, who have piloted the Making and Knowing Project's methods, course elements, and lesson plans in their research projects, courses, and student activities. The fruits of their experience, their syllabi, student projects, and making activities are valuable for those seeking to integrate Making and Knowing resources into their teaching and research.
+The Making and Knowing Project has many [collaborators](https://www.makingandknowing.org/collaborators/) from K-12 to university, to non-traditional schools and public outreach institutions, who have piloted the Making and Knowing Project's methods, course elements, and lesson plans in their research projects, courses, and student activities. The fruits of their experience, their syllabi, student projects, and making activities are valuable for those seeking to integrate Making and Knowing resources into their teaching and research.
 
 ## Collaborator Pilot Courses
 Materials from courses taught by Project collaborators, some using resources from this Companion or developed in consultation with the Making and Knowing Project.
@@ -166,6 +166,3 @@ Annika Cunningham, High School Student, Summer 2022
      - [[PDF](/documents/pdf/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes.pdf)]
 - Template for Dyeing Onion Skins + notes 2 (greens) [[XLSX](/documents/activity-sheets/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes-2-greens.xlsx)] 
      - [[PDF](/documents/pdf/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes-2-greens.pdf)]
-
-## Making and Knowing Project Collaborations
-For more [Making and Knowing Collaborations](https://www.makingandknowing.org/collaborators/).
