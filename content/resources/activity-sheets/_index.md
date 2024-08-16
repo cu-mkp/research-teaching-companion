@@ -84,7 +84,7 @@ The recipe “Keeping dry flowers in the same state all year” (fol. 120v–121
 - Essay: [Keeping Dry Flowers in the Same State all Year](https://edition640.makingandknowing.org/#/essays/ann_049_fa_16) by Caitlyn Sellar
 
 ### Sleight of Hand Tricks
-Ms. Fr. 640 contains an entry on fol. 43v for “Varied and Transmuted Wine.” This recipe contains no wine, but transmutes red “wine” into white. This activity is very simple and easy to integrate into any classroom setting. It also raises interesting questions about deception in art making. What is this recipe doing in a compilation of practical techniques?
+Ms. Fr. 640 contains a number of jokes and sleight of hand tricks. One entry on fol. 43v is for “Varied and Transmuted Wine,” which contains no wine, but transmutes red “wine” into white. This activity is very simple and easy to integrate into any classroom setting. It also raises interesting questions about deception in art making. What is this recipe doing in a compilation of practical techniques?
 - Essay: [Sleight of Hand Tricks](https://edition640.makingandknowing.org/#/essays/ann_043_sp_16) by Ann-Sophie Barwich
 - Essay: [Varied and Transmuted Wine](https://edition640.makingandknowing.org/#/essays/ann_512_ad_20) by Sayantani Mukherjee
 
