@@ -29,6 +29,7 @@ The Making and Knowing Project team members were almost never expert in the hand
 - Bring in "expert practitioners" to your class to help with unfamiliar processes. We often found that the historical processes were a learning experience for expert practitioners as well. See Expert Practitioner Tonny Beentjes' [Tutor or Student? An Expert Maker Perspective](https://edition640.makingandknowing.org/#/essays/ann_334_ie_19)
 
 ## Recording
+For a full discussion of the Making and Knowing Project's Field Notes process, please see [Introduction to Field Notes](/resources/activity-sheets/introduction-fieldnotes/)
 - Recording the hands-on process is an integral part of learning and of facilitating reflection on undertaking hands-on work and one's own experience
 - Make a template for student lab notes or field notes as a reminder for what needs to be included
 - Make sure everyone takes as detailed notes as possible on their process, perhaps by recording on their phones or phone voice-to-text programs (to be transcribed later as lab or field notes)
