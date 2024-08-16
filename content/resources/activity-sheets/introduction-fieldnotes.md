@@ -1,4 +1,4 @@
-**Introduction to Field Notes**
+# Introduction to Field Notes
 
 In the early days of what would become the Making and Knowing Project,
 Founding Director Pamela Smith came to a realization: in order to
@@ -44,38 +44,18 @@ personal experience.
 But what should students record? Students in the Making and Knowing
 course are asked to make note of the following:
 
--   Introduction information including the activity’s date, location,
-    > and any lab partners (as needed).
+-   Introduction information including the activity’s date, location, and any lab partners (as needed).
+-   Record of procedures, materials and their amounts, equipment, and results. Making and Knowing students often used the activity sheet as a baseline for recording these points and annotated with the specifics of their individual processes.
+-   General observations of the process, making special note of anything unplanned or unexpected. What surprised the students? What did they expect to see and did the results differ? Did the students hold any assumptions going into the process? Failed experiments generally produce the most fruitful field notes!
+-   Thought process throughout the activity including student reactions, sensory details (sights, sounds, and smells!), and overall impressions.
 
--   Record of procedures, materials and their amounts, equipment, and
-    > results. Making and Knowing students often used the activity sheet
-    > as a baseline for recording these points and annotated with the
-    > specifics of their individual processes.
+-   Written or audio note taking should be supplemented with video or photographs.
 
--   General observations of the process, making special note of anything
-    > unplanned or unexpected. What surprised the students? What did
-    > they expect to see and did the results differ? Did the students
-    > hold any assumptions going into the process? Failed experiments
-    > generally produce the most fruitful field notes!
+In addition to the in-class discussion and introduction to field notes, students were provided with:
 
--   Thought process throughout the activity including student reactions,
-    > sensory details (sights, sounds, and smells!), and overall
-    > impressions.
-
--   Written or audio note taking should be supplemented with video or
-    > photographs.
-
-In addition to the in-class discussion and introduction to field notes,
-students were provided with:
-
--   A template field notes document with the basic structure of what
-    > should be included and the formatting in Google Drive
-
--   Example field notes composed in Google Drive
-
--   The M&K [<u>Field Notes
-    > website</u>](https://fieldnotes.makingandknowing.org/) with field
-    > notes from all previous semesters
+-   A [template field notes](/documents/pdf/fieldnotes-template.pdf) document with the basic structure of what should be included and the formatting in Google Drive
+-   [Example field notes](su21_rtc-rosenkranz-example_naomi_bread-making-and-molding-reduced.pdf) composed in Google Drive
+-   The M&K [Field Notes website](https://fieldnotes.makingandknowing.org/) with field notes from all previous semesters
 
 The initial jottings taken during the activity are just the start. Field
 notes aren’t static, they develop and change over time and require
@@ -139,8 +119,7 @@ compilation of a student’s laboratory work (which amounted for 30% of
 the grade).
 
 Student field notes are archived (first in Google Drive and then in the
-public [<u>Field Notes
-website</u>](https://fieldnotes.makingandknowing.org/)) and frequently
+public [Field Notes website](https://fieldnotes.makingandknowing.org/)) and frequently
 consulted by later students, creating linkages across semesters and
 yearly themes. This form of asynchronous peer-learning offers multiple
 benefits. It enables successive “generations” of students to learn from,
@@ -172,52 +151,24 @@ and amounted to 35% of the student’s final grade. As opposed to
 submitting field notes on each hands-on activity, students were required
 to complete the following:
 
--   Participation and Presence Goals. Students were asked to complete
-    > this after the second class meeting and were encouraged to
-    > frequently return to this document and annotate it with any
-    > updates or insights that could be expanded upon in the midterm and
-    > final reflections. Students detailed
-
+-   Participation and Presence Goals. Students were asked to complete this after the second class meeting and were encouraged to frequently return to this document and annotate it with any updates or insights that could be expanded upon in the midterm and final reflections. Students detailed
     -   What drew them to the course
-
     -   What they hoped/expected to learn
-
     -   What aspects seemed most challenging
-
--   Bread Molding and Making Reflection. Students took field notes over
-    > this multi-week process that began at home and concluded with the
-    > first lab session of semester. Students were asked to contemplate
-
-    -   How their process and procedure changed over the break-making
-        > and molding experience
-
-    -   What they would have done differently (especially given the two
-        > remaining lab sessions in the semester)
-
+-   Bread Molding and Making Reflection. Students took field notes over this multi-week process that began at home and concluded with the first lab session of semester. Students were asked to contemplate
+    -   How their process and procedure changed over the break-making and molding experience
+    -   What they would have done differently (especially given the two remaining lab sessions in the semester)
     -   What was expected
-
-    -   What outside knowledge (either lived experience or academic)
-        > influenced their reconstruction
-
--   Midterm Participation and Presence Reflection. Halfway through the
-    > semester, students returned to their initial reflection. They were
-    > asked to consider
-
+    -   What outside knowledge (either lived experience or academic) influenced their reconstruction
+-   Midterm Participation and Presence Reflection. Halfway through the semester, students returned to their initial reflection. They were asked to consider
     -   How their goals had changed
-
     -   What had been the most challenging
-
     -   What had surprised them about the course
-
-    -   If there was any additional information they wanted to share
-        > with the instruction team
+    -   If there was any additional information they wanted to share with the instruction team
 
 -   Final Participation and Presence Reflection. Students were asked
-
     -   What they would take away from the course
-
     -   If they felt they had reached their identified goals
-
     -   If and how their final project helped to integrate course themes
 
 Field notes have remained a throughline across the many years of Making
@@ -226,12 +177,6 @@ students and faculty to synthesize the reading and hands-on aspects of
 the course and build upon prior insights.
 
 Information is partially sourced from:
+-   The [Office of Research and Compliance and Training and Columbia University](https://research.columbia.edu/sites/default/files/content/RCT%20content/ReaDI%20Program/tutorial_LabNotebook_V9.pdf)
 
--   The [<u>Office of Research and Compliance and Training and Columbia
-    > University</u>](https://research.columbia.edu/sites/default/files/content/RCT%20content/ReaDI%20Program/tutorial_LabNotebook_V9.pdf)
-
--   Emerson, Robert M., Rachel I. Fretz, and Linda L. Shaw. *Writing
-    > Ethnographic Fieldnotes, Second Edition*. Chicago Guides to
-    > Writing, Editing, and Publishing. Chicago, IL: University of
-    > Chicago Press, 2011.
-    > [<u>https://press.uchicago.edu/ucp/books/book/chicago/W/bo12182616.html</u>](https://press.uchicago.edu/ucp/books/book/chicago/W/bo12182616.html)
+-   Emerson, Robert M., Rachel I. Fretz, and Linda L. Shaw. *Writing Ethnographic Fieldnotes, Second Edition*. Chicago Guides to Writing, Editing, and Publishing. Chicago, IL: University of Chicago Press, 2011. [https://press.uchicago.edu/ucp/books/book/chicago/W/bo12182616.html](https://press.uchicago.edu/ucp/books/book/chicago/W/bo12182616.html)
