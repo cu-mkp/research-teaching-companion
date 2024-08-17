@@ -54,7 +54,7 @@ course are asked to make note of the following:
 In addition to the in-class discussion and introduction to field notes, students were provided with:
 
 -   A [template field notes](/documents/pdf/fieldnotes-template.pdf) document with the basic structure of what should be included and the formatting in Google Drive
--   [Example field notes](su21_rtc-rosenkranz-example_naomi_bread-making-and-molding-reduced.pdf) composed in Google Drive
+-   [Example field notes](/documents/pdf/su21_rtc-rosenkranz-example_naomi_bread-making-and-molding-reduced.pdf) composed in Google Drive
 -   The M&K [Field Notes website](https://fieldnotes.makingandknowing.org/) with field notes from all previous semesters
 
 The initial jottings taken during the activity are just the start. Field
