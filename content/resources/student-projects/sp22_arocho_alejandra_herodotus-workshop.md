@@ -5,7 +5,7 @@ Professor Pamela Smith \| Naomi Rosenkranz \| Caroline Surman<br/>
 Making and Knowing in Early Modern Europe: Hands-on History<br/>
 10 May 2022
 
-This project is directed toward Columbia College and General Studies students who have taken the course "Literature Humanities" ([Lit Hum](https://www.college.columbia.edu/core/lithum)) as part of [Columbia's Core Curriculum](https://www.college.columbia.edu/core/core) and want to see how an author/artisan from Renaissance Toulouse participates in their ongoing literary/scholarly conversations.
+This project is directed toward Columbia College and General Studies students who have taken the course "Literature Humanities" ([Lit Hum](https://www.college.columbia.edu/core-curriculum/classes/literature-humanities)) as part of [Columbia's Core Curriculum](https://www.college.columbia.edu/core/core) and want to see how an author/artisan from Renaissance Toulouse participates in their ongoing literary/scholarly conversations.
 
 ![IMAGE](/images/media-arocho/image1.jpg)
 
@@ -288,7 +288,7 @@ arguably upholds that “theory is the most worthy” and that it is
 correlated with what he has “tried out with \[his\] own hand” (Cennini
 1-2). By including among his recipes so many references to Greco-Roman
 thinkers beyond Herodotus (for a comprehensive list, see
-[<u>sp22_editorial-comments</u>](https://docs.google.com/spreadsheets/d/11EZtLlVSwX3auZ0Na5MkB26sl9pCNkwA-yrqtDmYUMk/edit#gid=0)),
+[<u>sp22_editorial-comments</u>](static/documents/pdf/sp22_Arocho_editorial-comments.pdf)),
 he strengthens the ties between knowledge of the mind and knowledge of
 the hand: each reference might be more deliberate than we think, for he
 might have read and interpreted the texts according to his vision for
