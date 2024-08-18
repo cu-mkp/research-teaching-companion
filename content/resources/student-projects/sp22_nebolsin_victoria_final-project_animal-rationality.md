@@ -505,7 +505,7 @@ Josselin, Ralph. *The Diary of Ralph Josselin, 1616–1683*. London: The British
 
 Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano, editors. *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*. New York: Making and Knowing Project, 2020. [https://edition640.makingandknowing.org](https://edition640.makingandknowing.org/).
 
-Meijer, Eva. *When Animals Speak: Toward an Interspecies Democracy.* New York: New York University Press, 2019.
+Meijer, Eva. *When Animals Speak: Toward an Interspecies Democracy*. New York: New York University Press, 2019.
 
 Newmyer, Stephen T. “Just Beasts? Plutarch and Modern Science On the Sense of Fair Play in Animals.” *The Classical Outlook* 74, no. 3 (1997): 85–88.[http://www.jstor.org/stable/43937959](http://www.jstor.org/stable/43937959).
 
@@ -521,7 +521,7 @@ Smith, Pamela. *The Body of the Artisan.* Chicago: University of Chicago Press, 
 
 Smith, Pamela H.. “Lifecasting in Ms. Fr. 640.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [https://edition640.makingandknowing.org/#/essays/ann_511_ad_20](https://edition640.makingandknowing.org/#/essays/ann_511_ad_20).
 
-Thomas, Keith. *Man and the Natural World: Changing Attitudes in England 1500–*1800 (Oxford: Oxford University Press, 1996), 95.
+Thomas, Keith. *Man and the Natural World: Changing Attitudes in England 1500–1800* (Oxford: Oxford University Press, 1996), 95.
 
 [^1]: Pamela H. Smith, “Lifecasting in Ms. Fr. 640,” in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano (New York: Making and Knowing Project, 2020), [https://edition640.makingandknowing.org/#/essays/ann_511_ad_20](https://edition640.makingandknowing.org/#/essays/ann_511_ad_20).
 
