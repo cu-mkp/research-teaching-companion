@@ -15,9 +15,6 @@ Fitzpatrick (Aldershot, UK: Ashgate, 2010), pp. 73–88.
 
 -   ["The Best Medicine"](https://www.wnycstudios.org/podcasts/radiolab/articles/best-medicine) RadioLab podcast (ca. 30 mins).
 
-[INSERT ADDITIONAL READING AS APPROPRIATE – see instructor info]
-
-
 ## Choosing a recipe
 
 Choose a recipe from any historical source. You can start your search
