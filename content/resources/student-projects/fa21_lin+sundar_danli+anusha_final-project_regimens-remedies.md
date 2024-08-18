@@ -538,7 +538,7 @@ Wecker, Johann Jacob, and Nicholas Culpeper. *Arts Master-Piece, or, the Beautif
 
 [^13]: Xiaomeng Liu, “Acid as Dental Cleanser and Tooth-Whitening Practices,” in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, ed. Making and Knowing Project, et al. (New York: Making and Knowing Project, 2020), [<u>https://edition640.makingandknowing.org/#/essays/ann_058_sp_17</u>](https://edition640.makingandknowing.org/#/essays/ann_058_sp_17).
 
-[^14]: Johann Jacob Wecker and Nicholas Culpeper, *Arts Master-Piece, or, the Beautifying Part of Physick* (London: Printed for Nath. Brook at the Angel in Cornhil, 1660). [<u>http://ezproxy.cul.columbia.edu/login?url=https://www.proquest.com/books/cosmeticks-beautifying-part-physick-which-all/docview/2240935566/se-2?accountid=10226</u>](http://ezproxy.cul.columbia.edu/login?url=https://www.proquest.com/books/cosmeticks-beautifying-part-physick-which-all/docview/2240935566/se-2?accountid=10226).
+[^14]: Johann Jacob Wecker and Nicholas Culpeper, *Cosmetick or, the beautifying part of physick. By which all deformities of nature in men and women are corrected, age renewed, youth prolonged, and the least impediment, from a hair to a tooth, fairly amended* (London: 1660); accessed on EEBO through Proquest.
 
 [^15]: David Gentilcore, in *Medical Charlatanism in Early Modern Italy* (Oxford: Oxford Univ. Press, 2006), pp. 190-191.
 
