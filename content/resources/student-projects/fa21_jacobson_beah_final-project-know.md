@@ -60,7 +60,7 @@ functional groups to describe the operation of similar types of
 instances. The four instances that seemed not to bear resemblance to any
 category I have grouped together under “Miscellaneous.” (See Appendix 1
 for the complete data set and the
-[<u>spreadsheet</u>](/documents/pdf/fa21_jacobson_beah_final-project-know_tl_know.pdf)
+[<u>spreadsheet</u>](/documents/student-projects/fa21_jacobson_beah_final-project-know_tl_know.xlsx)
 with my working data.)
 
 Here is the breakdown by frequency of my “types.” Descriptions and
