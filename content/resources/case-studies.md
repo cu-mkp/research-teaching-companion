@@ -108,6 +108,7 @@ Sponsored by the Center for Science and Society and [Genspace Community Lab](htt
 
 **Workshop description:**
 [Genspace Community Lab](https://www.genspace.org/) is a Brooklyn-based community lab that provides an open space for STEAM education, bringing together the arts and sciences in an educational setting, including a host of public workshops and classes. Developed and taught by Sumeyye Yar and Naomi Rosenkranz, a series of workshops were help at Genpace in May 2018, September 2018, December 2018, and November 2019. Yar and Rosenkranz received a Public Outreach grant from Columbia's Center for Science and Society to design and hold workshops exploring colorant sustainability through renewed interest in old methods (dyeing with natural colorants) and new scientific breakthroughs (painting with pigmented bacteria) to combat the pollution and hazards of "fast fashion" and the textile industry. Each workshop was held over two days, 3-4 hours on each day, and combined interactive presentations and discussion, directed making sessions, and open creative time in the lab. Each participant created a hybrid textile collage with cochineal-dyed fabrics and and textiles printed with pigmented bacteria. 
+
 In this workshop, participants
 - Learn about the history and chemistry of natural colorants and dyes
 - Follow 500-year-old recipes from the Renaissance to dye wool and silk yarns with cochineal bugs
