@@ -18,15 +18,15 @@ Vera Keller, Professor of History
 - **Course description:** The course *Experiment* explores the origins of experimental science in early modern Europe (15th-18th centuries), and incorporates hands-on activities. In 2018, students researched Ms. Fr. 640 then read essays in *Secrets of Craft and Nature*. The class had the chance to Skype with current and former Making and Knowing students, who were able to answer questions and respond to critiques. The course included a number of experimental reconstructions, including a “Boyle’s Law” demonstration and growing of Seignette Salts. Students described the process of these experiments in a period voice (voice of Boyle or voice of the author-practitioner), and discussed what is at stake in the various literary technologies employed. For more on the various literary technologies, see Vera Keller, [Four Manuscripts between the Recipe and the Experimental Essay](https://edition640.makingandknowing.org/#/essays/ann_320_ie_19).
 
 ### Making and Knowing in the High School History Classroom
-Video: [Hands-On History: Reconstruction in the High School Classroom](https://vimeo.com/942105196)<br>
 Sofia Gans, PhD, speaks about her experience teaching high school European history through hands-on reconstruction of historical techniques.
+- Video: [Hands-On History: Reconstruction in the High School Classroom](https://vimeo.com/942105196)<br>
 
 ### Science, Magic, and Alchemy (HST 306)
-Spring 2020, Wake Forest University
-Monique O'Connell, Professor of History
+Spring 2020, Wake Forest University<br>
+Monique O'Connell, Professor of History<br>
+- Video [From Watching to Working: Incorporating Making and Knowing Activities into History of Science Courses](https://vimeo.com/840477199)
 
-In the video [From Watching to Working: Incorporating Making and Knowing Activities into History of Science Courses](https://vimeo.com/840477199), Monique O'Connell reflects on her interdisciplinary goals and experiences using the Making and Knowing Project's Hands-on Lesson Plan for stucco-making.
-
+Monique O'Connell reflects on her interdisciplinary goals and experiences using the Making and Knowing Project's Hands-on Lesson Plan for stucco-making. 
 
 ### Ingenious Making in the Early Modern World (ARTH 29)
 
@@ -106,16 +106,14 @@ Naomi Rosenkranz & Dr. Sumeyye Yar, 2018-19
 
 Sponsored by the Center for Science and Society and [Genspace Community Lab](https://www.genspace.org/)
 
-[Genspace Community Lab](https://www.genspace.org/) is a Brooklyn-based community lab that provides an open space for STEAM education, bringing together the arts and sciences in an educational setting, including a host of public workshops and classes. Developed and taught by Sumeyye Yar and Naomi Rosenkranz, a series of workshops were help at Genpace in May 2018, September 2018, December 2018, and November 2019. Yar and Rosenkranz received a Public Outreach grant from Columbia's Center for Science and Society to design and hold workshops exploring colorant sustainability through renewed interest in old methods (dyeing with natural colorants) and new scientific breakthroughs (painting with pigmented bacteria) to combat the pollution and hazards of "fast fashion" and the textile industry. Each workshop was held over two days, 3-4 hours on each day, and combined interactive presentations and discussion, directed making sessions, and open creative time in the lab. Each participant created a hybrid textile collage with cochineal-dyed fabrics and and textiles printed with pigmented bacteria. In the first offerings, the Public Outreach grant subsidized the cost of participation for students and local residents for expanded impact and reach of the workshops. The workshops were so popular that Genspace asked Yar and Sumeyye to hold additional workshops even after the end of the Public Outreach grant, and further iterations have been held at Genspace by other instructors. Yar and Rosenkranz have also taken the materials and methodologies developed for these workshops to other settings, courses, and workshops.
- 
-**Workshop description:** In this hands-on workshop, you will learn both the history and the science of coloring textiles with organisms using historical techniques and new scientific developments. Explore the long tradition of dyeing cloth brilliant shades of red with cochineal insects. Then, discover new cutting-edge techniques of printing textiles with colorful microbes. We will delve into the world of sustainable natural dyes and create artful textile collages.
-In this workshop, you will:
+**Workshop description:**
+[Genspace Community Lab](https://www.genspace.org/) is a Brooklyn-based community lab that provides an open space for STEAM education, bringing together the arts and sciences in an educational setting, including a host of public workshops and classes. Developed and taught by Sumeyye Yar and Naomi Rosenkranz, a series of workshops were help at Genpace in May 2018, September 2018, December 2018, and November 2019. Yar and Rosenkranz received a Public Outreach grant from Columbia's Center for Science and Society to design and hold workshops exploring colorant sustainability through renewed interest in old methods (dyeing with natural colorants) and new scientific breakthroughs (painting with pigmented bacteria) to combat the pollution and hazards of "fast fashion" and the textile industry. Each workshop was held over two days, 3-4 hours on each day, and combined interactive presentations and discussion, directed making sessions, and open creative time in the lab. Each participant created a hybrid textile collage with cochineal-dyed fabrics and and textiles printed with pigmented bacteria. 
+In this workshop, participants
 - Learn about the history and chemistry of natural colorants and dyes
-- Follow 500-year- old recipes from the Renaissance to dye wool and silk yarns with cochineal bugs
+- Follow 500-year-old recipes from the Renaissance to dye wool and silk yarns with cochineal bugs
 - Learn how genetic engineering and bacterial cultures can be used to replace synthetic dyes in the future
 - Paint with bacteria and then print your designs on cotton
-- At the end, combine your printed microbial designs with your hand-dyed cochineal textiles to create a decorative art piece to take home
-No experience in biology, chemistry, dyeing, or colormaking is necessary and all are welcome! Support for this workshop is made possible by a Public Outreach Grant from Columbia University's Center for Science and Society. Tickets are being offered at a subsidized rate for students, artists, and local Sunset Park residents.
+- At the end, combine printed microbial designs with hand-dyed cochineal textiles to create a decorative art piece to take home
 
 **RESOURCES**
 - [Presentation: The Future of Textile Industry: Bacterial Colorants in Fashion](/documents/pdf/SY_Genspace_textile-coloring-with-cochineal-and-microbial-bugs-dec-2018.pdf)
@@ -129,7 +127,7 @@ No experience in biology, chemistry, dyeing, or colormaking is necessary and all
 Naomi Rosenkranz, April 2019
 
 Building upon the workshop, Coloring Textiles with Bugs, Rosenkranz created another Genspace workshop that looked at both dyes and pigments made from cochineal. 
-- **Workshop description:** Join Genspace for a hands-on exploration of natural colorants where we will focus on the tiny but powerfully-colorful cochineal bugs. We will look at the fascinating history of cochineal use and the chemistry behind transforming organic matter into usable color, learning about the relationship (and differences) between dyes and pigments, and how you can make them in the lab or at home in your kitchen. Following 500 year old recipes and using modern chemistry, we will learn three different methods for extracting the cochineal color. We will dye textiles and make pigments with bugs, and each participant will walk away with a tube of lab-made paint! 
+- **Workshop description:** Join Genspace for a hands-on exploration of natural colorants where we will focus on the tiny but powerfully-colorful cochineal bugs. We will look at the fascinating history of cochineal use and the chemistry behind transforming organic matter into usable color, learning about the relationship (and differences) between dyes and pigments, and how you can make them in the lab or at home in your kitchen. Following 500-year-old recipes and using modern chemistry, we will learn three different methods for extracting the cochineal color. We will dye textiles and make pigments with bugs, and each participant will walk away with a tube of lab-made paint! 
 
 **RESOURCES**
 - [Presentation: Cochineal history and chemistry - Apr 2019](/documents/pdf/rosenkranz_2019_genspace_cochineal-history.pdf)
@@ -152,7 +150,7 @@ Building upon the workshop, Coloring Textiles with Bugs, Rosenkranz created anot
 ### Dyeing with Cochineal - A Short High-School Workshop
 Reece Brown (undergraduate, Columbia University), Spring/Summer 2023
 
-Created as her final project in the Making and Knowing Project course, Making and Knowing in Early Modern Europe: Hands-On History (HIST GU4962), Reece Brown designed and taught a workshop on dyeing with cochineal to high school students in an environmental science class.
+Created as her final project in the Making and Knowing Project course, _Making and Knowing in Early Modern Europe: Hands-On History_ (HIST GU4962), Reece Brown designed and taught a workshop on dyeing with cochineal to high school students in an environmental science class.
 
 - **Workshop Description:** This workshop explores cochineal from three different disciplines: biology, chemistry, and history. We will begin by discussing its life cycle and habitat, then pivot to focus on the particular compound for which it is known, i.e., carminic acid. The flow of this lesson follows the transformation of materials during the process of dyeing, turning cochineal from a resource to a material to a product. Every step in the “recipe” will be contextualized briefly prior to the hands-on endeavor, then more fully explored in a conversation as we wait for the materials to heat to the proper temperature. This outline lets the process and material reality come first, then provides more abstract information once students have oriented themselves in the world around them. It also provides productive instruction time during periods of stasis integrated throughout the process of dyeing.
 - See the final project page for her workshop materials and reflection: [Dyeing Textiles with Cochineal - A Short High-School Workshop](/resources/student-projects/sp23_brown-reece_final-project_dye-workshop/).
