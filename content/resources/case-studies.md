@@ -24,7 +24,7 @@ Sofia Gans, PhD, speaks about her experience teaching high school European histo
 ### Science, Magic, and Alchemy (HST 306)
 Spring 2020, Wake Forest University<br>
 Monique O'Connell, Professor of History<br>
-- Video [From Watching to Working: Incorporating Making and Knowing Activities into History of Science Courses](https://vimeo.com/840477199)
+- Video: [From Watching to Working: Incorporating Making and Knowing Activities into History of Science Courses](https://vimeo.com/840477199)
 
 Monique O'Connell reflects on her interdisciplinary goals and experiences using the Making and Knowing Project's Hands-on Lesson Plan for stucco-making. 
 
