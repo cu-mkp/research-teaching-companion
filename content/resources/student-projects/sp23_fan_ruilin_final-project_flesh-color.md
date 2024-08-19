@@ -199,13 +199,13 @@ object-like, but further research is needed to establish this theory.
 
 ## Bibliography
 
-Bindman, David, Henry Louis Gates, and Karen C. C. Dalton, eds. *The > Image of the Black in Western Art*. Vol. 2. 5 vols. Cambridge, MA: Belknap Press of the Harvard University Press, 2010.
+Bindman, David, Henry Louis Gates, and Karen C. C. Dalton, eds. *The Image of the Black in Western Art*. Vol. 2. 5 vols. Cambridge, MA: Belknap Press of the Harvard University Press, 2010.
 
 Blakely, Allison. *Blacks in the Dutch World: The Evolution of Racial Imagery in a Modern Society*. Bloomington: Indiana University Press, 1993.
 
 Cennini, Cennino. *The Craftsman’s Handbook: The Italian “Il Libro Dell’arte.”* Translated by Daniel V. Thompson. New York: Dover Publications, 1960.
 
-Debuiche, Colin, and Sarah Muñoz. “Ms. Fr. 640: The Toulouse Context.” Edited by Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, et al. Translated by Philippe Barré and Christine Julliot de la Morandière. *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, 2020. [<u>https://edition640.makingandknowing.org/#/</u>](https://edition640.makingandknowing.org/#/).
+Debuiche, Colin, and Sarah Muñoz. “Ms. Fr. 640: The Toulouse Context.” Translated by Philippe Barré and Christine Julliot de la Morandière. *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*. Edited by Making and Knowing Project et al. New York, 2020. https://edition640.makingandknowing.org/#/essays/ann_336_ie_19.
 
 Dunkerton, Jill, Marika Spring, Rachel Billinge, Helen Howard, Gabriella Macaro, Rachel Morrison, David Peggie, Ashok Roy, Lesley Stevenson, and Nelly Von Aderkas. “Titian’s Painting Technique from 1540.” *National Gallery Technical Bulletin* 36 (2015): 15–136.
 
@@ -217,7 +217,7 @@ Iyengar, Sujata. “Blackface and Blushface.” In *Shades of Difference: Mythol
 
 Kirby, Jo, Susie Nash, Joanna Cannon, and Barbara Hepburn Berrie, eds. *Trade in Artists’ Materials: Markets and Commerce in Europe to 1700*. London: Archetype Publications, 2010.
 
-Kirby, Jo, and Marika Spring. “Ms. Fr. 640 in the World of Pigments in Sixteenth-Century Europe,” 2020. [<u>https://doi.org/10.7916/VSRT-8R31</u>](https://doi.org/10.7916/VSRT-8R31).
+Kirby, Jo, and Marika Spring. “Ms. Fr. 640 in the World of Pigments in Sixteenth-Century Europe,” *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*. Edited by Making and Knowing Project et al. New York: 2020. [<u>https://doi.org/10.7916/VSRT-8R31</u>](https://doi.org/10.7916/VSRT-8R31).
 
 Langmuir, Erica. “Titian (Active About 1506; Died 1576) Diana and Actaeon, 1556-9 and Diana and Callisto.” In *The National Gallery Companion Guide*. The National Gallery, 2016. [<u>https://search.credoreference.com/content/entry/ngcg/titian_active_about_1506_died_1576_diana_and_actaeon_1556_9\_and_diana_and_callisto/0</u>](https://search.credoreference.com/content/entry/ngcg/titian_active_about_1506_died_1576_diana_and_actaeon_1556_9_and_diana_and_callisto/0).
 
@@ -229,7 +229,7 @@ Ndiaye, Noémie. “Rewriting the Grand Siècle: Blackface in Early Modern Franc
 
  ———. *Scripts of Blackness: Early Modern Performance Culture and the Making of Race*. University of Pennsylvania Press, 2022. [<u>https://doi.org/10.9783/9781512822649</u>](https://doi.org/10.9783/9781512822649).
 
-Nisse, Cleo. “Shadows Beneath the Skin: How to Paint Faces in Distemper.” Edited by Pamela H. Smith, Naomi Rosenkranz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, 2020. [<u>https://doi.org/10.7916/A6BS-0765</u>](https://doi.org/10.7916/A6BS-0765).
+Nisse, Cleo. “Shadows Beneath the Skin: How to Paint Faces in Distemper.” *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*. Edited by Making and Knowing Project et al.  2020. [<u>https://doi.org/10.7916/A6BS-0765</u>](https://doi.org/10.7916/A6BS-0765).
 
 Poitevin, Kimberly. “Inventing Whiteness: Cosmetics, Race, and Women in Early Modern England.” *Journal for Early Modern Cultural Studies* 11, no. 1 (2011): 59–89.
 
@@ -251,7 +251,7 @@ Weststeijn, Thijs. “The Gender of Colors in Dutch Art Theory.” *Nederlands K
 
 [^3]: Noémie Ndiaye, *Scripts of Blackness: Early Modern Performance Culture and the Making of Race* (University of Pennsylvania Press, 2022), [<u>https://doi.org/10.9783/9781512822649</u>](https://doi.org/10.9783/9781512822649), 13.
 
-[^4]: Colin Debuiche and Sarah Muñoz, “Ms. Fr. 640: The Toulouse Context,” ed. Pamela H. Smith et al., trans. Philippe Barré and Christine Julliot de la Morandière, *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, 2020, [<u>https://edition640.makingandknowing.org/#/</u>](https://edition640.makingandknowing.org/#/).
+[^4]: Colin Debuiche and Sarah Muñoz, “Ms. Fr. 640: The Toulouse Context,” trans. Philippe Barré and Christine Julliot de la Morandière, *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, ed. Making and Knowing Project et al., 2020, https://edition640.makingandknowing.org/#/essays/ann_336_ie_19.
 
 [^5]: Colin Debuiche and Sarah Muñoz, “Ms. Fr. 640: The Toulouse Context.”
 
@@ -265,7 +265,7 @@ Weststeijn, Thijs. “The Gender of Colors in Dutch Art Theory.” *Nederlands K
 
 [^10]: For the last of these considerations, see the entry “Painting from Nature” on 31v. The author-practitioner advises that “one ought not to undertake to work on it in overcast weather because you would make your flesh colors browner than one ought to.”
 
-[^11]: Cleo Nisse, “Shadows Beneath the Skin: How to Paint Faces in Distemper,” ed. Pamela H. Smith et al., *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640, 2020* [<u>https://doi.org/10.7916/A6BS-0765</u>](https://doi.org/10.7916/A6BS-0765).
+[^11]: Cleo Nisse, “Shadows Beneath the Skin: How to Paint Faces in Distemper,” *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, ed. Making and Knowing Project et al., 2020, [<u>https://doi.org/10.7916/A6BS-0765</u>](https://doi.org/10.7916/A6BS-0765).
 
 [^12]: Cennino Cennini, *The Craftsman’s Handbook: The Italian “Il Libro Dell’arte,”* trans. Daniel V. Thompson (New York: Dover Publications, 1960), 49.
 
