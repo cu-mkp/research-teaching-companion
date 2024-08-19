@@ -10,12 +10,23 @@ The Making and Knowing Project has many [collaborators](https://www.makingandkno
 ## Collaborator Pilot Courses
 Materials from courses taught by Project collaborators, some using resources from this Companion or developed in consultation with the Making and Knowing Project.
 
-### "Experiment"
+### Experiment
 Spring 2018, University of Oregon, Clark Honors College<br>
 Vera Keller, Professor of History
 
-- ["Experiment" Syllabus](/documents/pdf/sp18_Keller_Vera_syllabus_experiment.pdf) 
+- [Experiment Syllabus](/documents/pdf/sp18_Keller_Vera_syllabus_experiment.pdf) 
 - **Course description:** The course *Experiment* explores the origins of experimental science in early modern Europe (15th-18th centuries), and incorporates hands-on activities. In 2018, students researched Ms. Fr. 640 then read essays in *Secrets of Craft and Nature*. The class had the chance to Skype with current and former Making and Knowing students, who were able to answer questions and respond to critiques. The course included a number of experimental reconstructions, including a “Boyle’s Law” demonstration and growing of Seignette Salts. Students described the process of these experiments in a period voice (voice of Boyle or voice of the author-practitioner), and discussed what is at stake in the various literary technologies employed. For more on the various literary technologies, see Vera Keller, [Four Manuscripts between the Recipe and the Experimental Essay](https://edition640.makingandknowing.org/#/essays/ann_320_ie_19).
+
+### Making and Knowing in the High School History Classroom
+Video: [Hands-On History: Reconstruction in the High School Classroom](https://vimeo.com/942105196)<br>
+Sofia Gans, PhD, speaks about her experience teaching high school European history through hands-on reconstruction of historical techniques.
+
+### Science, Magic, and Alchemy (HST 306)
+Spring 2020, Wake Forest University
+Monique O'Connell, Professor of History
+
+In the video [From Watching to Working: Incorporating Making and Knowing Activities into History of Science Courses](https://vimeo.com/840477199), Monique O'Connell reflects on her interdisciplinary goals and experiences using the Making and Knowing Project's Hands-on Lesson Plan for stucco-making.
+
 
 ### Ingenious Making in the Early Modern World (ARTH 29)
 
