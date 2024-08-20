@@ -98,7 +98,7 @@ This workshop brought together two projects engaged in hands-on reconstruction t
 **RESOURCES**
 - [Presentation: Reconstruction Exchange: Case Study in 16th Century Red Dyes](/resources/pdf/rosenkranz_2019_dyes_reconstruction-exchange-case-study-in-16th-century-red-dyes.pdf) - provides an overview of natural dyes as well as discusses the materials, chemistry, recipes, and processes for dyeing in early modern Europe. 
 - [Red Dyes Experiment Page](https://refashioningrenaissance.eu/experiments/red-dyes-with-making-knowing/) by Refashioning the Renaissance
-- [Worksop Blog Post](https://refashioningrenaissance.eu/refashioning-workshop-in-toronto-and-nyc/) by Refashioning the Renaissance
+- [Workshop Blog Post](https://refashioningrenaissance.eu/refashioning-workshop-in-toronto-and-nyc/) by Refashioning the Renaissance
 
 ### Genspace Community Science/Art Workshops
 #### Coloring Textiles with Bugs: Old (Cochineal) and New (Bacteria)
