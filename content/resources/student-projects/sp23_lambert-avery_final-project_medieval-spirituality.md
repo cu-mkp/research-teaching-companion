@@ -395,6 +395,8 @@ Muir, Edward, *Ritual in Early Modern Europe*. New York: Cambridge University Pr
 
 Pitman, Sophie. “Daily Life and Material Culture in Early Modern Europe.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [<u>https://edition640.makingandknowing.org/#/essays/ann_325_ie_19</u>](https://edition640.makingandknowing.org/#/essays/ann_325_ie_19).
 
+Rosenkranz, Naomi, Pamela H. Smith, Tianna Helena Uchacz, Terry Catapano. “Activity: Reconstruction of a 16th-Century Burn Salve Recipe." In _Research and Teaching Companion_ (New York: Making and Knowing Project, 2024), https://teaching640.makingandknowing.org/resources/activity-sheets/burnsalve/.
+
 Scribner, Bob. “Cosmic Order and Daily Life: Sacred and Secular in Pre-Industrial German Society.” In *Religion and Society in Early Modern Europe 1500-1800*. London: George Allen & Unwin, 1984.
 
 Theophilus. *On Divers Arts*. Translated by John G. Hawthorne and Cyril Stanley Smith. New York: Dover Publications, 1979.
@@ -405,7 +407,7 @@ Thomas, Keith. *Religion and the Decline of Magic*. New York: Charles Scribner�
 
 [^2]: Liu, “An Excellent Salve for Burns.”
 
-[^3]: See the Making and Knowing protocol, “Activity: Reconstruction of a 16th-Century Burn Salve Recipe,” [<u>https://cu-mkp.github.io/sandbox/docs/burnsalve.html</u>](https://cu-mkp.github.io/sandbox/docs/burnsalve.html), and [<u>here</u> <u>for my protocol</u>](/documents/pdf/sp23_lambert-avery_final-project_burnsalve-protocol.pdf).
+[^3]: See the Making and Knowing Project protocol: Naomi Rosenkranz, Pamela H. Smith, Tianna Helena Uchacz, Terry Catapano, “Activity: Reconstruction of a 16th-Century Burn Salve Recipe,” _Research and Teaching Companion_ (New York: Making and Knowing Project, 2024), https://teaching640.makingandknowing.org/resources/activity-sheets/burnsalve/, and [<u>here</u> <u>for my protocol</u>](/documents/pdf/sp23_lambert-avery_final-project_burnsalve-protocol.pdf).
 
 [^4]: Episcopal Church, *The Book of Common Prayer and Administration of the Sacraments and Other Rites and Ceremonies of the Church: Together with the Psalter or Psalms of David According to the Use of the Episcopal Church* (New York: Seabury Press, 1979), 306-7.
 
