@@ -517,7 +517,7 @@ Barwich, Ann-Sophie. “Sleight of Hand Tricks.” In *Secrets of Craft and Natu
 
 Bourdieu, Pierre. *Language and Symbolic Power*. Translated by John B. Thompson. Cambridge, Mass: Harvard University Press, 1991.
 
-Brunet, Serge. “Philippe II et la Ligue parisienne (1588).” *Revue historique* 656, no. 4 (2010): 795–844.[<u>https://doi.org/10.3917/rhis.104.0795</u>](https://doi.org/10.3917/rhis.104.0795).
+Brunet, Serge. “Philippe II et la Ligue parisienne (1588).” *Revue historique* 656, no. 4 (2010): 795–844. [<u>https://doi.org/10.3917/rhis.104.0795</u>](https://doi.org/10.3917/rhis.104.0795).
 
 Chaillard, Dana. “My Work at the Making and Knowing Project,” 2020. [<u>https://cu-mkp.github.io/sandbox/docs/Chaillard_final-report.html</u>](https://cu-mkp.github.io/sandbox/docs/Chaillard_final-report.html).
 
@@ -537,7 +537,7 @@ Liu, Xiaomeng. “An Excellent Salve for Burns.” In *Secrets of Craft and Natu
 
 Mauss, Marcel. *A General Theory of Magic*. London, Boston: Routledge and K. Paul, 1972.
 
-Nebolsin, Victoria. “Animal Rationality in Ms. Fr. 640.” _Research and Teaching Companion_. New York: Making and Knowing Project. https://teaching640.makingandknowing.org/resources/student-projects/sp22_nebolsin_victoria_final-project_animal-rationality/. 
+Nebolsin, Victoria. “Animal Rationality in Ms. Fr. 640.” In Naomi Rosenkranz, Pamela H. Smith, Tianna Helena Uchacz, Terry Catapano, _Research and Teaching Companion_. New York: Making and Knowing Project, 2024. https://teaching640.makingandknowing.org/resources/student-projects/sp22_nebolsin_victoria_final-project_animal-rationality/. 
 
 Palframan, Jef and Emily Boyd. “For Making Very Beautiful Color of Gold.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. <https://edition640.makingandknowing.org/#/essays/ann_507_ad_20>.
 
@@ -567,7 +567,7 @@ Waquet, Françoise. *Latin, or, The Empire of the Sign: From the Sixteenth to th
 
 [^5]: Roger Chartier, Pietro Corsi, and Centre Alexandre Koyré, eds., *Sciences et Langues En Europe* (Paris: Ecole des hautes études en sciences sociales, 1996).
 
-[^6]: Marc Smith, “Making Ms. Fr. 640,” in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano (New York: Making and Knowing Project, 2020), https://edition640.makingandknowing.org/#/essays/ann_326_ie_19. DOI:https://www.doi.org/10.7916/1wmr-2t14.
+[^6]: Marc Smith, “Making Ms. Fr. 640,” in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano (New York: Making and Knowing Project, 2020), https://edition640.makingandknowing.org/#/essays/ann_326_ie_19. DOI: https://www.doi.org/10.7916/1wmr-2t14.
 
 [^7]: Dana Chaillard, “My Work at the Making and Knowing Project,” 2020, [<u>https://cu-mkp.github.io/sandbox/docs/Chaillard_final-report.html</u>](https://cu-mkp.github.io/sandbox/docs/Chaillard_final-report.html); Clément Godbarge, “The Manuscript Seen from Afar: A Computational Approach to Ms. Fr. 640,” in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project et al., <https://edition640.makingandknowing.org/#/essays/ann_301_ie_19>. DOI: <https://www.doi.org/10.7916/nnyc-gd81>; Clément Godbarge, “Visualizing Semantic Markup in BnF Ms. Fr. 640,” *Clément Godbarge* (blog), November 29, 2022, [<u>https://www.clementgodbarge.com/post/visualization/</u>](https://www.clementgodbarge.com/post/visualization/); Roni Kaufman, “My Work at the Making and Knowing Project,” 2020, [<u>https://cu-mkp.github.io/sandbox/docs/Kaufman_final-report.html</u>](https://cu-mkp.github.io/sandbox/docs/Kaufman_final-report.html).
 
