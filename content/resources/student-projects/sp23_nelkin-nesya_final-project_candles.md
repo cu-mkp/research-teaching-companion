@@ -52,7 +52,7 @@ I found more thorough directions for tallow and wax candle making in a book titl
 
 Some logistical issues were evident even before I began actually making the candles. I knew that I could not render tallow or prepare candles from tallow in my own kitchen, because, as discussed above, it is not kosher; following the laws of *kashrut* as I understand them, cooking tallow on my stove would have contaminated both my stove and my cooking utensils. Working out ways to work around this issue raised the question of how early modern Jewish women could have prepared tallow lamps and candles in their homes without running into similar concerns. In some cases, it is possible that they purchased tallow candles that were made elsewhere, however, rabbinic writings from the thirteenth through sixteenth centuries suggest that they were preparing mixtures of tallow and other substances in their own homes, if not necessarily rendering the fat or making candles there.[^51]Another possible explanation is that they had dedicated utensils for candle production. 
 
-![A black and white drawing of a person holding a vase Description automatically generated with low confidence](/images/media-nelkin/image7.gif)
+![A black and white drawing of a person holding a vase Description automatically generated with low confidence](/images/media-nelkin/image7.gif) 
 
 *Figure 1. Woodcut depicting Shabbat candle lighting. This version comes from the Amsterdam Haggadah of 1695, but it is based on a woodcut printed by Giovanni di Gara in Venice in 1593, copies of which appeared in numerous printed books in a variety of Jewish languages in the seventeenth and eighteenth centuries.*
 
@@ -81,7 +81,7 @@ Campbell provided instructions for making tallow candles in two ways: by dipping
 Campbell’s next instruction was that “the Candle-Makers takes one of these Sticks by both Ends, plunges it into the Fat and takes it out again.” My initial attempts to do so were unsuccessful. First of all, the wicks curved significantly when plunged into the tallow; second of all, almost none of the hot liquid tallow was adhering to the wicks, which were getting wet from the water remaining at the bottom of the vat. I separated the tallow from the water and set it aside. Later, by consulting additional sources on eighteenth-century candle making, I learned that I was correct to read Campbell’s instructions to place the
 tallow in boiling water in part as a purification method (though I had not boiled the tallow in the water nearly long enough to effect any purification), and that it was, in fact, necessary to separate the tallow from the water before dipping the wicks into the it.[^59] As I waited for the tallow to cool slightly, I tied small knots at the end of each wick in order to weight them, in an attempt to keep them from curving when dipped; Naomi Rosenkranz suggested this as a way that she had dealt this issue when making dipped candles herself.
 
-<div style="margin: 20px;>"![A hand holding a string Description automatically generated with medium confidence](/images/media-nelkin/image9.jpg)</div>
+![A hand holding a string Description automatically generated with medium confidence](/images/media-nelkin/image9.jpg)
 
 *Figure 4. Adding knots to the bottom of the wicks.*
 
@@ -169,7 +169,7 @@ Isserlein, Yisrael ben Petachiah. *Terumat Hadeshen Hashalem*. Edited by Shmuel 
 
 Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano, eds., *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640* (New York: Making and Knowing Project, 2020), [<u>https://edition640.makingandknowing.org</u>](https://edition640.makingandknowing.org/).
 
-Ms. Add. 196. Folger Shakespeare Library, Washington, DC. Viewed in LUNA: [<u>http://luna.folger.edu/luna/servlet/s/xtpjz5</u>](http://luna.folger.edu/luna/servlet/s/xtpjz5).
+Ms. Add. 196. Folger Shakespeare Library, Washington, DC. Viewed in LUNA.
 
 Mirk, John. *Instructions for Parish Priests*. Edited by Edward Peacock. Paul, Trench, Trubner, 1902.
 
