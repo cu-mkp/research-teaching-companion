@@ -537,7 +537,7 @@ Liu, Xiaomeng. “An Excellent Salve for Burns.” In *Secrets of Craft and Natu
 
 Mauss, Marcel. *A General Theory of Magic*. London, Boston: Routledge and K. Paul, 1972.
 
-Nebolsin, Victoria. “Animal Rationality in Ms. Fr. 640.” [<u>https://cu-mkp.github.io/sandbox/docs/sp22_nebolsin_victoria_final-project_animal-rationality.html</u>](https://cu-mkp.github.io/sandbox/docs/sp22_nebolsin_victoria_final-project_animal-rationality.html).
+Nebolsin, Victoria. “Animal Rationality in Ms. Fr. 640.” _Research and Teaching Companion_. New York: Making and Knowing Project. https://teaching640.makingandknowing.org/resources/student-projects/sp22_nebolsin_victoria_final-project_animal-rationality/. 
 
 Palframan, Jef and Emily Boyd. “For Making Very Beautiful Color of Gold.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. <https://edition640.makingandknowing.org/#/essays/ann_507_ad_20>.
 
@@ -545,7 +545,7 @@ Picot, Emile. *Les Italiens En France Au XVIe Siècle*. Memoria Bibliografica 25
 
 Rosenkranz, Naomi. “Understanding and Analyzing the Categories of the Entries in BnF Ms. Fr. 640,” 2021. [<u>https://cu-mkp.github.io/sandbox/docs/categories.html</u>](https://cu-mkp.github.io/sandbox/docs/categories.html).
 
-Smith, Marc. “Making Ms. Fr. 640.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. [<u>https://edition640.makingandknowing.org/#/essays/ann_326_ie_19_msmith_making-ms</u>](https://edition640.makingandknowing.org/#/essays/ann_326_ie_19_msmith_making-ms).
+Smith, Marc. “Making Ms. Fr. 640.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. https://edition640.makingandknowing.org/#/essays/ann_326_ie_19. DOI: https://www.doi.org/10.7916/1wmr-2t14.
 
 Smith, Pamela H. *From Lived Experience to the Written Word: Reconstructing Practical Knowledge in the Early Modern World*. Chicago: University of Chicago Press, 2022.
 
@@ -567,7 +567,7 @@ Waquet, Françoise. *Latin, or, The Empire of the Sign: From the Sixteenth to th
 
 [^5]: Roger Chartier, Pietro Corsi, and Centre Alexandre Koyré, eds., *Sciences et Langues En Europe* (Paris: Ecole des hautes études en sciences sociales, 1996).
 
-[^6]: Marc Smith, “Making Ms. Fr. 640,” in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano (New York: Making and Knowing Project, 2020), [<u>https://edition640.makingandknowing.org/#/essays/ann_326_ie_19_msmith_making-ms</u>](https://edition640.makingandknowing.org/#/essays/ann_326_ie_19_msmith_making-ms).
+[^6]: Marc Smith, “Making Ms. Fr. 640,” in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano (New York: Making and Knowing Project, 2020), https://edition640.makingandknowing.org/#/essays/ann_326_ie_19. DOI:https://www.doi.org/10.7916/1wmr-2t14.
 
 [^7]: Dana Chaillard, “My Work at the Making and Knowing Project,” 2020, [<u>https://cu-mkp.github.io/sandbox/docs/Chaillard_final-report.html</u>](https://cu-mkp.github.io/sandbox/docs/Chaillard_final-report.html); Clément Godbarge, “The Manuscript Seen from Afar: A Computational Approach to Ms. Fr. 640,” in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project et al., <https://edition640.makingandknowing.org/#/essays/ann_301_ie_19>. DOI: <https://www.doi.org/10.7916/nnyc-gd81>; Clément Godbarge, “Visualizing Semantic Markup in BnF Ms. Fr. 640,” *Clément Godbarge* (blog), November 29, 2022, [<u>https://www.clementgodbarge.com/post/visualization/</u>](https://www.clementgodbarge.com/post/visualization/); Roni Kaufman, “My Work at the Making and Knowing Project,” 2020, [<u>https://cu-mkp.github.io/sandbox/docs/Kaufman_final-report.html</u>](https://cu-mkp.github.io/sandbox/docs/Kaufman_final-report.html).
 
@@ -577,13 +577,13 @@ Waquet, Françoise. *Latin, or, The Empire of the Sign: From the Sixteenth to th
 
 [^10]: Kaufman, “My Work at the Making and Knowing Project, [<u>https://cu-mkp.github.io/sandbox/docs/Kaufman_final-report.html</u>](https://cu-mkp.github.io/sandbox/docs/Kaufman_final-report.html).
 
-[^11]: Smith, “Making Ms. Fr. 640,” [<u>https://edition640.makingandknowing.org/#/essays/ann_326_ie_19_msmith_making-ms</u>](https://edition640.makingandknowing.org/#/essays/ann_326_ie_19_msmith_making-ms).
+[^11]: Smith, “Making Ms. Fr. 640,” https://edition640.makingandknowing.org/#/essays/ann_326_ie_19. https://www.doi.org/10.7916/1wmr-2t14.
 
 [^12]: The translation for most of these terms can be found in the Glossary of *Secrets of Craft and Nature*: [<u>https://edition640.makingandknowing.org/#/folios/1r/f/1r/glossary</u>](https://edition640.makingandknowing.org/#/folios/1r/f/1r/glossary).
 
 [^13]: Françoise Waquet, *Latin, or, The Empire of the Sign: From the Sixteenth to the Twentieth Century* (London;  New York: Verso, 2001).
 
-[^14]: Victoria Nebolsin, “Animal Rationality in Ms. Fr. 640,” [<u>https://cu-mkp.github.io/sandbox/docs/sp22_nebolsin_victoria_final-project_animal-rationality.html</u>](https://cu-mkp.github.io/sandbox/docs/sp22_nebolsin_victoria_final-project_animal-rationality.html).
+[^14]: Victoria Nebolsin, “Animal Rationality in Ms. Fr. 640,” https://teaching640.makingandknowing.org/resources/student-projects/sp22_nebolsin_victoria_final-project_animal-rationality/.
 
 [^15]: Xiaomeng Liu, “An Excellent Salve for Burns,” in *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project et al., <https://edition640.makingandknowing.org/#/essays/ann_080_sp_17>. DOI: <https://www.doi.org/10.7916/58dr-ns42>.
 
