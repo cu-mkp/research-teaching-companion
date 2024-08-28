@@ -219,7 +219,7 @@ Kirby, Jo, Susie Nash, Joanna Cannon, and Barbara Hepburn Berrie, eds. *Trade in
 
 Kirby, Jo, and Marika Spring. “Ms. Fr. 640 in the World of Pigments in Sixteenth-Century Europe,” *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*. Edited by Making and Knowing Project et al. New York: 2020. [<u>https://doi.org/10.7916/VSRT-8R31</u>](https://doi.org/10.7916/VSRT-8R31).
 
-Langmuir, Erica. “Titian (Active About 1506; Died 1576) Diana and Actaeon, 1556-9 and Diana and Callisto.” In *The National Gallery Companion Guide*. The National Gallery, 2016. [<u>https://search.credoreference.com/content/entry/ngcg/titian_active_about_1506_died_1576_diana_and_actaeon_1556_9\_and_diana_and_callisto/0</u>](https://search.credoreference.com/content/entry/ngcg/titian_active_about_1506_died_1576_diana_and_actaeon_1556_9_and_diana_and_callisto/0).
+Langmuir, Erica. “Titian (Active About 1506; Died 1576) Diana and Actaeon, 1556-9 and Diana and Callisto.” In *The National Gallery Companion Guide*. The National Gallery, 2016. 
 
 Lehmann, Ann-Sophie. “Fleshing Out the Body: The ‘Colours of the Naked’ in Workshop Practice and Art Theory, 1400-1600.” *Nederlands Kunsthistorisch Jaarboek (NKJ) / Netherlands Yearbook for History of Art* 58 (2007): 86–109.
 
