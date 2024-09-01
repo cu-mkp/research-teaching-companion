@@ -30,8 +30,8 @@ Their exploratory and experimental projects serve as companion pieces to *Secret
 -   [Herodotus’ ‘Workshop’: A Core (Curriculum) Pathway into Ms. Fr. 640 and its Author-Practitioner](/resources/student-projects/sp22_arocho_alejandra_herodotus-workshop/) by Alejandra Quintana Arocho
 -   [Discarded Cartographies: Orienting Process Through Waste](/documents/pdf/sp22_dzumala_maciej_discards.pdf) by Maciej Dzumala
 -   [Counterproofing: Reproduction and Theft in Early Modern Print Culture](/resources/student-projects/sp22_lang_theodora_counterproofing/) by Theodora Bocanegra Lang
--   [Making and Knowing Pop-up Book](/resources/student-projects/sp22_wei+yang_jianing+luxi_popup/) by Luxi Yang and Jianing Wei
--   [Creating a “Modern” Reconstruction of a Miniature Grotto](/resources/student-projects/sp22_bergen+sabet_jamie+sofia_final-project_grotto/) by Jamie Bergen and Sofia Sabet
+-   [Making and Knowing Pop-up Book](/resources/student-projects/sp22_wei-yang_jianing-luxi_popup/) by Luxi Yang and Jianing Wei
+-   [Creating a “Modern” Reconstruction of a Miniature Grotto](/resources/student-projects/sp22_bergen-sabet_jamie-sofia_final-project_grotto/) by Jamie Bergen and Sofia Sabet
 -   [Cuttlefish in and around Ms. Fr. 640](/resources/student-projects/sp22_donald_maia_final-project_cuttlebone/) by Maia Donald
 -   [Sieves in Ms. Fr. 640](/resources/student-projects/sp22_gardner_schuyler_final-project-sieves/) by Schuyler Gardner
 -   [Animal Rationality in Ms. Fr. 640](/resources/student-projects/sp22_nebolsin_victoria_final-project_animal-rationality/) by Victoria Nebolsin
@@ -43,14 +43,14 @@ Their exploratory and experimental projects serve as companion pieces to *Secret
 -   [Oral Culture in Ms. Fr. 640](/resources/student-projects/fa21_ghoneima_hana_final-project-oral-culture/) by Hana Ghoneima
 -   [The Color Red in Ms. Fr. 640](/resources/student-projects/fa21_coutavas_allie_final-project-reds/) by Allie Coutavas
 -   [Textual Analysis of Instances of “To Know” in Ms. Fr. 640](/resources/student-projects/fa21_jacobson_beah_final-project-know/) by Beah Jacobson
--   [Regimens, Recipes, and Remedies: Understanding the ‘Cosmetic’ in Early Modern Europe](/resources/student-projects/fa21_lin+sundar_danli+anusha_final-project_regimens-remedies/) by Danli Lin and Anusha Sundar
+-   [Regimens, Recipes, and Remedies: Understanding the ‘Cosmetic’ in Early Modern Europe](/resources/student-projects/fa21_lin-sundar_danli-anusha_final-project_regimens-remedies/) by Danli Lin and Anusha Sundar
 -   [The Making and Meaning of Intermediates: Workshop and Syllabus for Students of Architecture](/resources/student-projects/fa21_weisgall_benjamin_final-project-architecture-workshop/) by Benjamin Weisgall
 -  [The Natural History of Ms. Fr. 640: A Visual Exploration](/documents/pdf/fa21_davol_eleanor_final-project-nat-history.pdf) by Eleanor Davol
 -  [Instructor Assignment Sheet: Ms. Fr. 640 fol. 43v, “Varied and Transmuted Wine”](/resources/student-projects/fa21_alberts_naomi_final-project_ph-lesson/) by Naomi Alberts
 -   [Global Ingredients: The Diverse Origins of Natural Materials in Ms. Fr. 640](https://catapanoth.com/omandka/exhibits/show/global-ingredients--the-divers) (Omeka exhibit with gallery and map) by Elia Zhang and Helena Seo
--  [An Exploration of Humor in Ms. Fr. 640](/resources/student-projects/fa21_atkins+joyce-farley_charlotte+siobhan_pranks/) by Charlotte Atkins and Siobhan Joyce-Farley
+-  [An Exploration of Humor in Ms. Fr. 640](/resources/student-projects/fa21_atkins-joyce-farley_charlotte-siobhan_pranks/) by Charlotte Atkins and Siobhan Joyce-Farley
     -   See their [VIDEO: Funniest Pranks of the 16th Century](https://youtu.be/BFK71x0bvuE)
--  [The Soundscape of Process: An Audio Recreation of Lifecasting in the Workshop](/resources/student-projects/fa21_zayas+waters_elliot+mac_final-project-soundscape/) by Elliot Zayas and Mac Waters
+-  [The Soundscape of Process: An Audio Recreation of Lifecasting in the Workshop](/resources/student-projects/fa21_zayas-waters_elliot-mac_final-project-soundscape/) by Elliot Zayas and Mac Waters
     -   Listen to [Soundscape 1: Creating the Mold](https://vimeo.com/672477385)
     -   Listen to [Soundscape 2: Casting the Metal](https://vimeo.com/672823504)
     -   Listen to [Soundscape 3: Recovering the Final Product](https://vimeo.com/672823543)
