@@ -169,3 +169,5 @@ Jean Le Begue, “Experimenta de Coloribus (1431),” and The Bolognese Manuscri
 - Video of lapis lazuli preparation: <https://www.youtube.com/watch?v=JBzEAt_ynvc> 
 
 ![mussel-feast-for-shells](/images/mussel_feast_for-webpages.jpg)
+
+**Class mussel feast for sourcing the shells used for levigating the azurite**
