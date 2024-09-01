@@ -29,10 +29,10 @@ having to find rare and expensive ingredients.
 
 ## Notes and pictures - raw data
 - Template and notes used during dyeing processes for calculations and record keeping:
-     -  First Dye Experiment (Summer 2022): [[XLSX](/documents/student-projects/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes(1).xlsx)] 
-          - [[PDF](/documents/pdf/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes.pdf)]
-     -  Second Dye Experiment (Fall 2022): [[XLSX](/documents/student-projects/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes-2-greens(1).xlsx)] 
-          - [[PDF](/documents/pdf/su22_fld_cunningham_annika_onion-skin-dyeing-template+notes-2-greens.pdf)]
+     -  First Dye Experiment (Summer 2022): [[XLSX](/documents/student-projects/su22_fld_cunningham_annika_onion-skin-dyeing-template-notes(1).xlsx)] 
+          - [[PDF](/documents/pdf/su22_fld_cunningham_annika_onion-skin-dyeing-template-notes.pdf)]
+     -  Second Dye Experiment (Fall 2022): [[XLSX](/documents/student-projects/su22_fld_cunningham_annika_onion-skin-dyeing-template-notes-2-greens(1).xlsx)] 
+          - [[PDF](/documents/pdf/su22_fld_cunningham_annika_onion-skin-dyeing-template-notes-2-greens.pdf)]
 - [Flickr Album](https://www.flickr.com/photos/128418753@N06/albums/72177720300558025) with all photos
 
 ## Summer 2022 First Dye Experiments
