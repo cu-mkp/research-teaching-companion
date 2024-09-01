@@ -170,4 +170,4 @@ Jean Le Begue, “Experimenta de Coloribus (1431),” and The Bolognese Manuscri
 
 ![mussel-feast-for-shells](/images/mussel_feast_for-webpages.jpg)
 
-**Class mussel feast for sourcing the shells used for levigating the azurite**
+**Class mussel feast for sourcing the shells used for levigating azurite**
