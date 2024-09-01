@@ -69,7 +69,7 @@ Their exploratory and experimental projects serve as companion pieces to *Secret
 
 -  [Dyeing with Onion Skins](/resources/student-projects/su22_fld_cunningham_annika_onion-skin-dyeing/) by Annika Cunningham (2022-07-18)
 -  [Making Pigment from Madder: a Trio of Recipes](/resources/activity-sheets/sp22_fld_rosenkranz_naomi_madder-lake-trio/) by Naomi Rosenkranz (2022-07-19)
--  [Materials Used for Making Renaissance Dyes and Pigments](/resources/student-projects/materials/) by Naomi Rosenkranz and Megan Lennon (2023-02-28)
+-  [Materials Used for Making Renaissance Dyes and Pigments](/documents/pdf/2023_dyes-pigments_samples.pdf) by Naomi Rosenkranz and Megan Lennon (2023-02-28)
 
 ![azurite shells](/images/azurite-shells.jpg)
 
