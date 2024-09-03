@@ -217,7 +217,7 @@ Langham, William. *The Garden of Health Conteyning the Sundry Rare and Hidden Ve
 
 Liébault, Jean, and Charles Estienne. *Maison Rustique, or the Covntrey Farme. Compyled in the French Tongue by Charles Stevens, and Iohn Liebavlt...And Translated into English, by Richard Surflet...Now Newly Reuiewed, Corrected, and Augmented, with Diuers Large Additions...By Gervase Markham*. Translated by Gervase Markham and Richard Surflet. 2nd ed. London: Printed by Adam Islip for John Bill, 1616.
 
-Lin, Danli, and Anusha Sundar. “Regimens, Recipes, and Remedies: Understanding the ‘Cosmetic’ in Early Modern Europe.” In *Research and Teaching Companion*, ed. Naomi Rosenkranz, Pamela H. Smith, Tianna Helena Uchacz, Terry Catapano (New York: Making and Knowing Project, 2024), https://teaching640.makingandknowing.org/resources/student-projects/fa21_lin-sundar_danli-anusha_final-project_regimens-remedies.
+Lin, Danli, and Anusha Sundar. “Regimens, Recipes, and Remedies: Understanding the ‘Cosmetic’ in Early Modern Europe.” In *Research and Teaching Companion*, ed. Naomi Rosenkranz, Pamela H. Smith, Tianna Helena Uchacz, Terry Catapano (New York: Making and Knowing Project, 2024), [Project](/resources/student-projects/fa21_lin-sundar_danli-anusha_final-project_regimens-remedies/).
 
 Marshall, Nina L. “Chapter XI: Puffballs.” In *Mushroom Book. A Popular Guide to the Identification and Study of Our Commoner Fungi, with Special Emphasis on the Edible Varieties*, 2nd ed. The New Nature Library 2. Garden City: Doubleday, 1923. [<u>https://doi.org/10.5962/bhl.title.18041</u>](https://doi.org/10.5962/bhl.title.18041).
 
