@@ -16,7 +16,7 @@ Paint = pigment + binder
 
 For more on paint making, refer to [Presentation: Introduction to Pigments &amp; Paints](/documents/pdf/introduction-paints-pigments_njr_2021.pdf).
 
-{{< figure src="/images/painting-pigment+binding-media.png" alt="painting-pigment+binding-media" >}}
+{{< figure src="/images/painting-pigment-binding-media.png" alt="painting-pigment-binding-media" >}}
 
 #### Pigments
 Pigments are colored, insoluble particles that, when combined with a binding medium, create paint that can then be applied to a substrate. Historically, most pigments were sourced from the natural environment, including from plants, insects, stones, and dirt. Since the nineteenth century, the synthesis of pigments in industrial settings has become very common, ensuring consistent quality and new formulations.
