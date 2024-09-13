@@ -9,7 +9,7 @@ HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History<br/>
 <br/><br/>
 [A Visual Presentation of the Pop-up Book \(PDF\)](/documents/pdf/sp22_wei-yang_jianing-luxi_popup-presentation.pdf)
 
-![IMAGE](/images/media-wei+yang/image1.png)
+![IMAGE](/images/media-wei-yang/image1.png)
 
 ## Behind the scenes
 
