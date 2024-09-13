@@ -119,7 +119,7 @@ tape or modeling clay like plasticine
 
 [Bread Making student activity sheet](/resources/activity-sheets/breadmolding-student-activity-sheet/)
 
-[Powerpoint presentation showing the process of bread molding](/documents/pdf/breadmoldingreconstruction_visualpresentation.pdf)
+[Presentation: Step-by-step instructions for bread molding and casting](/documents/pdf/breadmoldingreconstruction_visualpresentation.pdf)
 
 Videos by Vassar College students showing the process and result
 
