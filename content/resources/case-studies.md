@@ -138,7 +138,7 @@ Building upon the workshop, Coloring Textiles with Bugs, Rosenkranz created anot
 - [Dyeing materials and step-by-step instructions - 2019 Apr](/documents/pdf/rosenkranz_2019_genspace_dyeing-materials-step-by-step-instructions.pdf)
 - [Making of lake pigments and step-by-step instructions - 2019 Apr](/documents/pdf/rosenkranz_2019_genspace_lake-making.pdf)
 - [Making lake pigments from dyed silk thread](/documents/pdf/sp19_cochineal-lake-from-silk-thread.pdf)
-- [Dyes: recipes, calculations, and template - Apr 2019 (XLSX)](/documents/activity-sheet/rosenkranz_2019_dyes_template-and-recipes_dye-experiments.xlsx)
+- [Dyes: recipes, calculations, and template - Apr 2019 (XLSX)](/documents/activity-sheets/rosenkranz_2019_dyes_TEMPLATE-AND-RECIPES_dye-experiments.xlsx)
 
 **HANDOUTS**
 - [Handout: cochineal lake making](/documents/pdf/2019-04-13_handout_cochineal-lake-making.pdf)
