@@ -302,13 +302,13 @@ our present daily life to see what has changed.
 <tr class="odd">
 <th>Ms. Fr. 640 recipes</th>
 <th><a href="https://edition640.makingandknowing.org/#/folios/46r/tl"><u>Fol. 46r</u></a>, “For the teeth, oil of sulfur:” oil of sulfur, clove oil, rose honey</th>
-<th><p><img src="/images/media-lin+sundar/image7.jpg" alt="Scooper filled with dried clove next to brown glass vial"/></p>
+<th><p><img src="/images/media-lin-sundar/image7.jpg" alt="Scooper filled with dried clove next to brown glass vial"/></p>
 <p>clove oil</p></th>
 </tr>
 <tr class="header">
 <th>Contemporary remedy</th>
 <th>Toothpaste with hydrogen peroxide</th>
-<th><img src="/images/media-lin+sundar/image6.jpg" alt="Cardboard box for tube of toothpaste"/></th>
+<th><img src="/images/media-lin-sundar/image6.jpg" alt="Cardboard box for tube of toothpaste"/></th>
 </tr>
 </thead>
 <tbody>
@@ -332,14 +332,14 @@ our present daily life to see what has changed.
 <tr class="odd">
 <th>Ms. Fr. 640 recipes</th>
 <th><a href="https://edition640.makingandknowing.org/#/folios/77r/f/77r/tl"><u>Fol. 77r</u></a>, “Against redness of the face:” lead (likely a lead compound)</th>
-<th><p><img src="/images/media-lin+sundar/image4.jpg" alt="Ceramic pot filled with white pucks"/></p>
+<th><p><img src="/images/media-lin-sundar/image4.jpg" alt="Ceramic pot filled with white pucks"/></p>
 <p>(Venetian ceruse - lead carbonate)</p>
 <p>Makeup pot with molded tablets of white lead found in a tomb from the fifth c. BC; at the Kerameikos Archaeological Museum.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p></th>
 </tr>
 <tr class="header">
 <th>Contemporary remedy</th>
 <th>Soothing products such as creams and lotions containing ingredients such as niacinamide, sulfur, allantoin, caffeine, licorice root, chamomile, aloe, and cucumber</th>
-<th><img src="/images/media-lin+sundar/image9.jpg" alt="Green tub of lotion"/>Aloderma Soothing &amp; Repairing Cream, <a href="https://aloderma.com/"><u>https://aloderma.com/</u></a></th>
+<th><img src="/images/media-lin-sundar/image9.jpg" alt="Green tub of lotion"/>Aloderma Soothing &amp; Repairing Cream, <a href="https://aloderma.com/"><u>https://aloderma.com/</u></a></th>
 </tr>
 </thead>
 <tbody>
@@ -369,13 +369,13 @@ our present daily life to see what has changed.
 <tr class="odd">
 <th>Ms. Fr. 640 recipes</th>
 <th><a href="https://edition640.makingandknowing.org/#/folios/20v/f/20v/tl"><u>Fol. 20v</u></a>, “For whitening the face:” Puffball and water, or wheat starch and water</th>
-<th><p><img src="/images/media-lin+sundar/image3.jpg" alt="Glass bowl containing milky-translucent paste"/></p>
+<th><p><img src="/images/media-lin-sundar/image3.jpg" alt="Glass bowl containing milky-translucent paste"/></p>
 <p>Wheat starch and water</p></th>
 </tr>
 <tr class="header">
 <th>Contemporary remedy</th>
 <th>Niacinamide, Vitamin C (usually contained in skin care products to brighten skin tone)</th>
-<th><p><img src="/images/media-lin+sundar/image1.jpg" alt="Vial with dropper"/></p>
+<th><p><img src="/images/media-lin-sundar/image1.jpg" alt="Vial with dropper"/></p>
 <p>Niacinamide serum</p></th>
 </tr>
 </thead>
@@ -387,8 +387,8 @@ our present daily life to see what has changed.
 
 | **Recipe Source**   | **Ingredients**                                                                                                                                                                            | **Image**                                                                 |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| Ms. Fr. 640 recipes | [<u>Fol. 11v</u>](https://edition640.makingandknowing.org/#/folios/11v/f/11v/tl), “For getting rid of the redness of eyes or bruising:” sliced raw mutton flesh (applied to the skin/eyes) | <img src="/images/media-lin+sundar/image8.jpg" alt="Thin slices of raw meat in container"/> |
-| Contemporary remedy | Ice (leave an ice pack in place for 10-20 min), or cool compresses over closed eyes                                                                                                        | <img src="/images/media-lin+sundar/image11.jpg" alt="Ice cubes"/>  |
+| Ms. Fr. 640 recipes | [<u>Fol. 11v</u>](https://edition640.makingandknowing.org/#/folios/11v/f/11v/tl), “For getting rid of the redness of eyes or bruising:” sliced raw mutton flesh (applied to the skin/eyes) | <img src="/images/media-lin-sundar/image8.jpg" alt="Thin slices of raw meat in container"/> |
+| Contemporary remedy | Ice (leave an ice pack in place for 10-20 min), or cool compresses over closed eyes                                                                                                        | <img src="/images/media-lin-sundar/image11.jpg" alt="Ice cubes"/>  |
 
 ### Table 5: Against burns
 
@@ -407,13 +407,13 @@ our present daily life to see what has changed.
 <tr class="odd">
 <th>Ms. Fr. 640 recipes</th>
 <th><a href="https://edition640.makingandknowing.org/#/folios/20v/f/20v/tl"><u>Fol. 20v</u></a>, “Against burn:” onion and verjuice, or black soap</th>
-<th><p><img src="/images/media-lin+sundar/image12.png" alt="Stacked blocks of soap"/></p>
+<th><p><img src="/images/media-lin-sundar/image12.png" alt="Stacked blocks of soap"/></p>
 <p>Raw natural black soap</p></th>
 </tr>
 <tr class="header">
 <th>Contemporary remedy</th>
 <th>For minor burns: petroleum jelly or aloe vera</th>
-<th><p><img src="/images/media-lin+sundar/image5.jpg" alt="Tub of petroleum jelly ointment"/></p>
+<th><p><img src="/images/media-lin-sundar/image5.jpg" alt="Tub of petroleum jelly ointment"/></p>
 <p>Petroleum jelly</p></th>
 </tr>
 </thead>
@@ -438,13 +438,13 @@ our present daily life to see what has changed.
 <tr class="odd">
 <th>Ms. Fr. 640 recipes</th>
 <th><a href="https://edition640.makingandknowing.org/#/folios/55r/f/55r/tl"><u>Fol. 55r</u></a>, “Against wounds:” sap, pestled semperviva plant</th>
-<th><p><img src="/images/media-lin+sundar/image2.jpg" alt="Dried yellow flowers and plant matter in bowl"/></p>
+<th><p><img src="/images/media-lin-sundar/image2.jpg" alt="Dried yellow flowers and plant matter in bowl"/></p>
 <p>Semperviva herb</p></th>
 </tr>
 <tr class="header">
 <th>Contemporary remedy</th>
 <th>Antibiotic ointment or petroleum jelly</th>
-<th><p><img src="/images/media-lin+sundar/image10.jpg" alt="Cardboard box for tube of ointment"/></p>
+<th><p><img src="/images/media-lin-sundar/image10.jpg" alt="Cardboard box for tube of ointment"/></p>
 <p>Antibiotic ointment</p></th>
 </tr>
 </thead>
