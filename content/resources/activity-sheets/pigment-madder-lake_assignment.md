@@ -9,7 +9,7 @@ If you are not already familiar with historical pigments and natural colorants, 
 
 Refer also to:
 - [Presentation: Introduction to Pigments &amp; Paints](/documents/pdf/introduction-paints-pigments_njr_2021.pdf) - a general introduction to colorants
-- [Making Pigment from Madder: a Trio of Recipes](documents/sp22_fld_rosenkranz_naomi_madder-lake-trio/) - helpful step-by-step fieldnotes for all three madder pigment recipes described below
+- [Making Pigment from Madder: a Trio of Recipes](/resources/activity-sheets/sp22_fld_rosenkranz_naomi_madder-lake-trio/) - helpful step-by-step fieldnotes for all three madder pigment recipes described below
 
 ## Lake Pigments
 Lake pigments are a type of pigment prepared from organic natural colorants: plant and animal sources. As most organic natural colorants are soluble, they cannot be mixed directly with a binding medium and therefore cannot be used as a pigment. These colorants must therefore be extracted and then made insoluble in order to use them as pigments.
