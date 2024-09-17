@@ -3,12 +3,13 @@
 >_The Making and Knowing Project, Columbia University_<br>
 _Last updated 2022-01-29 by NJR_
 
-Refer (insert something like "refer to the assignment sheet" instead of what's here, keep jo kirby info though) also to [<u>Presentation: Cochineal Lake: History, Chemistry, and Preparation</u>](/documents/pdf/rosenkranz_2021_lakes_cochineal-history-chem-prep.pdf) - while this is for a different colorant (cochineal), the chemistry of lakes is the same.
-(this was an experiment to try all three different recipes, each of which is listed below)
+As summarized in [Activity Sheet: Making Lake Pigment with Madder](/resources/activity-sheets/pigment-madder-lake_assignment/), there are three historical recipe types for making lake pigment from madder. In Spring 2022, Naomi Rosenkranz and Charlotte Atkins undertook all three versions at once to make direct comparisons between them. Their field notes, working from the activity sheet, are presented below with extensive images of the process. They show the Making and Knowing Project's method for reconstruction of the process of lake pigment making from madder roots in the M&K lab.
 
-> Jo Kirby et al, _Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources_ (Archetype, London, 2014).
+Refer to:
+- [Activity Sheet: Making Lake Pigment with Madder](/resources/activity-sheets/pigment-madder-lake_assignment/) for the activity sheet with recipes and background information
+- [<u>Presentation: Madder Lake: History, Chemistry, and Preparation</u>](/documents/pdf/presentation_sp23_rosenkranz_naomi_lakes_madder-history-chem-prep.pdf) for more complete information and further explanation of natural colorants and lake pigments
 
-The recipes provided here are adapted from the ones provided by Kirby et. al.
+The recipes provided here are adapted from the ones provided in o Kirby et al, _Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources_ (Archetype, London, 2014).
 
 ## Modernized recipes, adapted for the laboratory (or kitchen) 
 
