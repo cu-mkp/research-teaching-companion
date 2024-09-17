@@ -5,7 +5,7 @@ _Last updated 2023-09-29 by NJR_
 
 If you are not already familiar with historical pigments and natural colorants, refer to [<u>Presentation: Madder Lake: History, Chemistry, and Preparation</u>](/documents/pdf/presentation_sp23_rosenkranz_naomi_lakes_madder-history-chem-prep.pdf) for more complete information and further explanation of natural colorants and lake pigments.
 
-[![Presentation: Cochineal Lake: History, Chemistry, and Preparation](/images/madder-lake-presentation.jpg?raw=true)](/documents/pdf/presentation_sp23_rosenkranz_naomi_lakes_madder-history-chem-prep.pdf)
+[![Presentation: Madder Lake: History, Chemistry, and Preparation](/images/madder-lake-presentation.jpg?raw=true)](/documents/pdf/presentation_sp23_rosenkranz_naomi_lakes_madder-history-chem-prep.pdf)
 
 Refer also to:
 - [Presentation: Introduction to Pigments &amp; Paints](/documents/pdf/introduction-paints-pigments_njr_2021.pdf) - a general introduction to colorants
