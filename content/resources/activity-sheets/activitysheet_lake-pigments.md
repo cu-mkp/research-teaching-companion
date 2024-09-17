@@ -39,7 +39,7 @@ Pigments are most often encountered as a component of paint. In short: Pigment +
 
 For more on paint making, refer to [Presentation: Introduction to Pigments &amp; Paints](/documents/pdf/introduction-paints-pigments_njr_2021.pdf)
 
-{{< figure src="/images/painting-pigment+binding-media.png" alt="painting-pigment+binding-media" >}}
+{{< figure src="/images/painting-pigment-binding-media.png" alt="painting-pigment+binding-media" >}}
 
 
 ### Lake Pigments in Use
