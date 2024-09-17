@@ -9,7 +9,7 @@ Refer to:
 - [Activity Sheet: Making Lake Pigment with Madder](/resources/activity-sheets/pigment-madder-lake_assignment/) for the activity sheet with recipes and background information
 - [<u>Presentation: Madder Lake: History, Chemistry, and Preparation</u>](/documents/pdf/presentation_sp23_rosenkranz_naomi_lakes_madder-history-chem-prep.pdf) for more complete information and further explanation of natural colorants and lake pigments
 
-The recipes provided here are adapted from the ones provided in o Kirby et al, _Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources_ (Archetype, London, 2014).
+The recipes provided here are adapted from the ones provided in Jo Kirby et al, _Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources_ (Archetype, London, 2014).
 
 ## Modernized recipes, adapted for the laboratory (or kitchen) 
 
