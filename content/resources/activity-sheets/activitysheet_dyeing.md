@@ -18,9 +18,9 @@ The activity of dyeing with natural colorants following modernized historical re
 
 A dye is "a compound that absorbs into and colors another material" and "is generally a complex organic material" ([Conservation and Art Materials Encyclopedia Online (CAMEO)](http://cameo.mfa.org/wiki/Dye)). Until the onset of synthetic dyes in the mid-nineteenth century, most dyes were sourced from natural colorants such as plants, insects, lichens, and shellfish. 
 
-In order to dye materials (typically textiles, but also wood, paper, and ivory, for example), the natural colorant must first be extracted from the dyestuffs (the plant, insect, etc.). This is most usually done by placing the dyestuffs in water and using either time (soaking) or heat (bringing to a simmer) to extract the soluble colorant into the water. The materials can then be placed into this dye bath to take on color.
+In order to dye materials (typically textiles, but also wood, paper, leather, and ivory, for example), the natural colorant must first be extracted from the dyestuffs (the plant, insect, etc.). This is most usually done by placing the dyestuffs in water and using either time (soaking) or heat (bringing to a simmer) to extract the soluble colorant into the water. The materials can then be placed into this dye bath to take on color.
 
-Natural dyes can be categorized into one of three processes used to extracted the colorant and dye materials: 
+Natural dyes can be categorized into one of three processes used to extract the colorant and dye materials: 
 1. Direct dyes
 2. Mordant dyes
 3. Vat dyes
