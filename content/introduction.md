@@ -37,7 +37,7 @@ The Making and Knowing Project has pioneered an approach to "[minimal computing]
 
 The Companion relies upon a common and well-established technology stack: HTML/HTML5 with CSS and JavaScript served statically from a webserver. The site is built using the static site generator [Hugo](https://gohugo.io/) and maintained in the [Research and Teaching Companion Github repository](https://cu-mkp.github.io/research-teaching-companion/).
 ## How to Cite the Companion
-Naomi Rosenkranz, Pamela H. Smith, Tianna Helena Uchacz, and Terry Catapano, eds. _Making and Knowing Project Research and Teaching Companion_ (New York: Making and Knowing Project, 2024), https://teaching640.makingandknowing.org.
+Making and Knowing Project, Naomi Rosenkranz, Pamela H. Smith, Tianna Helena Uchacz, and Terry Catapano, eds. _Making and Knowing Project Research and Teaching Companion_ (New York: Making and Knowing Project, 2024), https://teaching640.makingandknowing.org.
 ## Sponsors 
 The Henry Luce Foundation
 
