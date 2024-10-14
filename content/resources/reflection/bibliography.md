@@ -17,6 +17,8 @@ Bycroft, Michael, and Alexander Wragge-Morley. “Introduction: Science and Conn
 
 Casadio, Francesca, Marc Walton, and Giovanni Verri. “An Ecosystem for Diagnosis: Creating Synergies in Academic and Museum Research.” CONSERVATION 360o, no. 2 (June 30, 2022). https://monografias.editorial.upv.es/index.php/con_360/article/view/389.
 
+Chang, Hasok. "How Historical Experiments Can Improve Scientific Knowledge and Science Education: The Cases of Boiling Water and Electrochemistry." _Science & Education_ 20.3-4 (2011): 317–341. DOI: 10.1007/s11191-010-9301-8.
+
 Creager, Angela NH, Mathias Grote, and Elaine Leong. “Learning by the Book: Manuals and Handbooks in the History of Science.” BJHS Themes 5 (2020): 1–13. https://doi.org/10.1017/bjt.2020.1.
 
 Demeter, Béla Jozsef. “Reappraising Piero Di Cosimo’s Serpents: The Role of Vipers in Renaissance Florence.” Renaissance Studies 32, no. 4 (2018): 638–59. https://doi.org/10.1111/rest.12359.
@@ -81,7 +83,7 @@ Smith, Kate, and Leonie Hannan. “Return and Repetition: Methods for Material C
 
 Smith, Pamela H. From Lived Experience to the Written Word: Reconstructing Practical Knowledge in the Early Modern World. University of Chicago Press, 2022. https://press.uchicago.edu/ucp/books/book/chicago/F/bo133038690.html.
 
-Smith, Pamela H. and Tonny Beentjes, “Nature and Art, Making and Knowing: Reconstructing Sixteenth-Century Life Casting Techniques,” Renaissance Quarterly, 63 (2010): 128-179. https://press.uchicago.edu/ucp/books/book/chicago/F/bo133038690.html.
+Smith, Pamela H. and Tonny Beentjes, “Nature and Art, Making and Knowing: Reconstructing Sixteenth-Century Life Casting Techniques,” Renaissance Quarterly, 63 (2010): 128-179.
 
 Smith, Pamela H. “In the Workshop of History: Making, Writing, and Meaning.” Shaping Objects: Art, Materials, Making, and Meanings in the Early Modern World, an article series of West 86th: A Journal of Decorative Arts, Design History, and Material Culture, 19 (2012): 4-31.
 
@@ -99,7 +101,7 @@ Smith, Pamela H., Joslyn DeVinney, Sasha Grafit, and Xiaomeng Liu. “Smoke and 
 
 Smith, Pamela H. and Isabella Lores-Chavez. “Counterfeiting Materials, Imitating Nature,” in Marjolijn Bol and Emma Spary, eds.. The Matter of Mimesis: Studies of Mimesis and Materials in Nature, Art and Science. Leiden: Brill, 2023, pp. 27-53, https://brill.com/display/book/9789004515413/BP000011.xml?language=en.
 
-Smith, Pamela H., Tianna Helena Uchacz, Sophie Pitman, Tillmann Taape, and Colin Debuiche.“The Matter of Ephemeral Art: Craft, Spectacle, and Power in Early Modern Europe.” Renaissance Quarterly, Volume 73, Issue 1 (2020), 78-131. https://www.cambridge.org/core/journals/renaissance-quarterly/article/matter-of-ephemeral-art-craft-spectacle-and-power-in-early-modern-europe/45366084D72E61713504E59F4AC59E88
+Smith, Pamela H., Tianna Helena Uchacz, Sophie Pitman, Tillmann Taape, and Colin Debuiche.“The Matter of Ephemeral Art: Craft, Spectacle, and Power in Early Modern Europe.” Renaissance Quarterly, Volume 73, Issue 1 (2020), 78-131. https://www.cambridge.org/core/journals/renaissance-quarterly/article/matter-of-ephemeral-art-craft-spectacle-and-power-in-early-modern-europe/45366084D72E61713504E59F4AC59E88.
 
 Smith, Pamela H., Tianna Helena Uchacz, Naomi Rosenkranz, and Claire Conklin Sabel. “The Making of Empirical Knowledge: Recipes, Craft, and Scholarly Communication.” In Reassembling Scholarly Communications: Histories, Infrastructures, and Global Politics of Open Access, ed. Martin Paul Eve and Jonathan Gray. Cambridge, MA: The MIT Press, 2020, pp. 125-144. https://doi.org/10.7551/mitpress/11885.003.0014.
 
