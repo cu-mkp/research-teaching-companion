@@ -1,8 +1,12 @@
 # The Making and Knowing Project: Research and Teaching Companion
 
-https://cu-mkp.github.io/research-teaching-companion/
+[![DOI](https://zenodo.org/badge/348055533.svg)](https://doi.org/10.5281/zenodo.14042567)
 
-Webpage content and navigation for the [Making and Knowing Project](https://makingandknowing.org/)'s Research and Teaching Companion (RTC), built on the [Hugo](https://gohugo.io/) framework.
+**DEPLOYED TO: https://teaching640.makingandknowing.org/**
+
+DEVELOPMENT SITE: https://cu-mkp.github.io/research-teaching-companion/
+
+Webpage content and navigation for the [Making and Knowing Project](https://makingandknowing.org/)'s [Research and Teaching Companion](https://teaching640.makingandknowing.org/) (RTC), built using the [Hugo](https://gohugo.io/) framework.
 
 For Making and Knowing Editors, see also [Publishing to the RTC](https://github.com/cu-mkp/research-teaching-companion/blob/main/how-tos/publishing-to-rtc.md).
 
