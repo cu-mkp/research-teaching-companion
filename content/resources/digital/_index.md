@@ -29,7 +29,7 @@ A platform for collaborative research and for pedagogy, EditionCrafter provides 
 Editions are published through well-established technologies and workflows and can be maintained with minimal costs and resources, helping to address issues of sustainability and longevity.
 
 ## Data Management Plan
-M&K's [Data Management Plan](/resources/digital/2024-data-management-plan) has guided all digital publications and project management areas. 
+M&K's [Data Management Plan](/resources/digital/2024-data-management-plan/) has guided all digital publications and project management areas. 
 
 ## Assessment and Evaluation Tools
 Tools for assessing digital literacy, developed in collaboration with Columbia University’s Center for Teaching and Learning.
