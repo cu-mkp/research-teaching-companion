@@ -25,7 +25,7 @@ It is important to remember that there is a difference between pigments and pain
 - [Presentation: Introduction to Pigments &amp; Paints](/documents/pdf/introduction-paints-pigments_njr_2021.pdf)
 - [Assignment: Making Paints from Pigments and Painting Them Out](../painting-assignment)
 
- ![pigment and binding media equals paint](/images/painting-pigment+binding-media.png?raw=true)
+ ![pigment and binding media equals paint](/images/painting-pigment-binding-media.png?raw=true)
 
 ## Azurite
 
