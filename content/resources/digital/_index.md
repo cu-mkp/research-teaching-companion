@@ -28,6 +28,9 @@ A platform for collaborative research and for pedagogy, EditionCrafter provides 
 
 Editions are published through well-established technologies and workflows and can be maintained with minimal costs and resources, helping to address issues of sustainability and longevity.
 
+## Data Management Plan
+M&K's [Data Management Plan](/resources/digital/2024-data-management-plan) has guided all digital publications and project management areas. 
+
 ## Assessment and Evaluation Tools
 Tools for assessing digital literacy, developed in collaboration with Columbia University’s Center for Teaching and Learning.
 - [The Digital Literacy Competency Calculator (DLCC)](https://ccnmtl.github.io/digital-literacy/), a web-based tool for representing the connection between digital literacy competencies and the teaching and learning practices that produce them. This tool was developed in collaboration with Columbia's Center for Teaching and Learning as part of the course offering, [Spring 2017: [_What is a Book in the 21st Century? Working with Historical Texts in a Digital Environment_](https://www.makingandknowing.org/wp-content/uploads/2019/10/Website-Syllabus_Digital_course.pdf).
