@@ -1,13 +1,11 @@
-## The Making and Knowing Project
-
-## 
+# The Making and Knowing Project
+> Last updated 2023 by NJR and THC
+> The Making and Knowing Project
 
 ## Data Management Plan
 
-This proposal has no significant digital products; nevertheless, data
-management is a responsibility upheld by all participants of the
-Research Workshop and overseen by the Making and Knowing Project (PI
-Smith). The methodologies, decisions, and data management strategies
+Data management is a responsibility upheld by all participants of the
+the Making and Knowing Project and overseen by the Project Director, Assistant Director, and Digital Lead. The methodologies, decisions, and data management strategies
 described below have been developed by the Making and Knowing Project in
 the creation of [*<u>Secrets of Craft and Nature in Renaissance France.
 A Digital Critical Edition of BnF Ms. Fr.
