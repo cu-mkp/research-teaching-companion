@@ -23,7 +23,7 @@ This skillbuilding assignment will introduce you to one of the most common blue 
  
 It is important to remember that there is a difference between pigments and paints. A pigment is an insoluble colored particle; in other words, it is usually a dry powder of a certain color that will not dissolve when added to a desired medium or liquid. To create paint, one combines the pigment with a binding medium to create a paste that can be applied to a surface. A binding medium will help the pigment adhere to the surface on which it is applied. Common binding media include linseed and walnut oils (for oil painting), gum arabic (watercolor and ink), egg yolk (tempera), egg white (glair), and animal glues (distemper). For more information:
 - [Presentation: Introduction to Pigments &amp; Paints](/documents/pdf/introduction-paints-pigments_njr_2021.pdf)
-- [Assignment: Making Paints from Pigments and Painting Them Out](../painting-assignment)
+- [Assignment: Making Paints from Pigments and Painting Them Out](/resources/activity-sheets/painting-assignment)
 
  ![pigment and binding media equals paint](/images/painting-pigment-binding-media.png?raw=true)
 
@@ -91,11 +91,11 @@ To prepare azurite from the mineral ore, one uses water to remove impurities and
 
 The process is open to your experimentation! To get started, however, here are some useful illustrations:
 - The dedicated slides towards the middle of [Presentation: Preparing and Painting Blue Pigment in the Renaissance](/documents/pdf/fa22_skillbuilding-azurite-presentation-full.pdf)
-- [Fieldnotes (with step-by-step pictures) by Naomi Rosenkranz, SU17 Azurite](../su17_rosenkranz_azurite-preparation-cambridge)
+- [Fieldnotes (with step-by-step pictures) by Naomi Rosenkranz, SU17 Azurite](/resources/activity-sheets/su17_rosenkranz_azurite-preparation-cambridge)
 - “Experiments with Azurite on the History of Design MA Course” by students of the V&A/RCA History of Design MA 
      - [Part 1](https://www.vam.ac.uk/blog/news/experiments-with-azurite-on-the-history-of-design-ma-course) 
      - [Part 2](https://www.vam.ac.uk/blog/projects/thinking-and-experiencing-techne-making-azurite-part-2)
-- For painting out, refer to [Assignment: Making Paints from Pigments and Painting Them Out](../painting-assignment)
+- For painting out, refer to [Assignment: Making Paints from Pigments and Painting Them Out](/resources/activity-sheets/painting-assignment)
 
 ### Questions for Consideration
 - Observation:
