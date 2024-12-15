@@ -1,5 +1,13 @@
 # Tip Sheet for Hands-on Teaching
 
+## Skill
+The Making and Knowing Project team members were almost never expert in the hands-on activities they included in courses.
+- Accustom yourself to not being an expert, but instead, a co-learner. Explore alongside your students
+- Make sure you try the activity before you assign it
+- Have students and instructor(s) work together or in groups — use an "apprenticeship" model, ideally with participants of different skill levels
+- Work around a table or together at a bench so participants can watch each other's process, and discuss and reflect together
+- Bring in "expert practitioners" to your class to help with unfamiliar processes. We often found that the historical processes were a learning experience for expert practitioners as well. See Expert Practitioner Tonny Beentjes' [Tutor or Student? An Expert Maker Perspective](https://edition640.makingandknowing.org/#/essays/ann_334_ie_19) Expert practitioners may be closwer than you think — members of the local community and even your own students (ask them about their hands-on experience(s).
+  
 ## Teaching Scenario Building
 Hands-on activities are great for teaching and learning scenario building. Plan ahead and design the activity:
 - Write out protocols for yourself and any other instructors for the experiment or activity
@@ -12,22 +20,20 @@ Hands-on activities are great for teaching and learning scenario building. Plan 
     - What is our cleanup plan?
  
 ## Time
-- Hands-on teaching is so much more time-consuming than you can ever imagine
+- Hands-on teaching is much more time-consuming than discussion-based learning and challenges norms of most institution's course schedules.
 - Think about and plan minutely for the time you have in one class period
-- Be creative if possible with your institution's course schedule — a four-hour class period is ideal
+- Be creative if possible with your institution's course schedule — a four-hour class period is ideal for many of the activities provided here.
 - If possible, ask students or participants to review materials before the hands-on session (e.g., read over the historical recipe, look over representative art objects, read a related article, view a making video, come up with their own interpretation of the process, or look up key terms and materials)
-- Leave plenty of time for setup and cleanup — ideally, you should try to have your students help with both
+- Leave plenty of time for setup and cleanup — ideally, you should have your students help with both
 - Make time in class or in the lab/studio for student discussion about their experiences
 - Make time for summary discussion and formulating takeaways, which can take place at the following class meeting
- 
-## Skill
-The Making and Knowing Project team members were almost never expert in the hands-on activities they included in courses.
-- Accustom yourself to not being an expert, but instead, a co-learner. Explore alongside your students
-- Make sure you try the activity before you assign it
-- Have students and instructor(s) work together or in groups — use an "apprenticeship" model, ideally with participants of different skill levels
-- Work around a table or together at a bench so participants can watch each other's process, and discuss and reflect together
-- Bring in "expert practitioners" to your class to help with unfamiliar processes. We often found that the historical processes were a learning experience for expert practitioners as well. See Expert Practitioner Tonny Beentjes' [Tutor or Student? An Expert Maker Perspective](https://edition640.makingandknowing.org/#/essays/ann_334_ie_19)
 
+## Adaptation and Flexibility
+- If things don’t go as planned (as they frequently don't), it’s okay. Often, the best learning comes from failure, reflection, and trying again
+- Facilitate a discussion with your students about what they would want to do differently if they did the process again; what have they learned or wished they knew before?
+- This is experimental learning, so process is more important than outcome
+- Seek feedback on how to improve the activity, its flow, set up, etc. for next time
+ 
 ## Recording
 For a full discussion of the Making and Knowing Project's Field Notes process, please see [Introduction to Field Notes](/resources/activity-sheets/introduction-fieldnotes/)
 - Recording the hands-on process is an integral part of learning and of facilitating reflection on undertaking hands-on work and one's own experience
@@ -35,16 +41,10 @@ For a full discussion of the Making and Knowing Project's Field Notes process, p
 - Make sure everyone takes as detailed notes as possible on their process, perhaps by recording on their phones or phone voice-to-text programs (to be transcribed later as lab or field notes)
 - Have the students take plenty of photos and videos as they work (and integrate them later into their lab or field notes or have them create an annotated slide deck/powerpoint in place of lab/field notes)
 - Remind them to work together on recording their experience (e.g., one person can take photos while the other does a step of the process, then they can switch)
-- In addition to recording by participants, it can be really useful to have an additional person who can take photos or videos who is not actively working on the activity (but this should not take the place of participants' own note- and photo-taking!)
-
-## Adaptation and Flexibility
-- If things don’t go as planned, it’s okay. Sometimes the best learning comes from failure, reflection, and trying again
-- Facilitate a discussion with your students about what they would want to do differently if they did the process again; what have they learned or wished they knew before?
-- This is experimental learning, so process is more important than outcome
-- Seek feedback on how to improve the activity, its flow, set up, etc. for next time
+- In addition to recording by participants, it can be really useful to have an additional person who can take photos or videos who is not actively working on the process (but this should not take the place of participants' own note- and photo-taking!)
 
 ## Why Devote All This Time and Effort to Hands-On Teaching?
-- We have found hands-on activities to be terrifically motivating for students (and instructors), with student creativity and enthusiasm exceeding all expectations
+- We have found hands-on activities to be terrifically motivating for students (and instructors), with student creativity and enthusiasm regularly exceeding all expectations
 - Students learn to learn in a new way
 - You and your students will ask new questions
 - New skills will humble and empower your students
