@@ -6,18 +6,25 @@ weight: 20
 
 # Lesson Plans for Hands-On
 Making and Knowing Lesson Plans and associated teaching resources provide step-by-step guidance in planning and executing hands-on activities in the classroom, studio, laboratory, maker space, or kitchen. These Lesson Plans could be integrated into classes for skill building, as one-off sessions for group community building, or to stimulate students' historical imagination by exposure to past materials and processes. The hands-on activities offered here can also be used as stand-alone activities for public outreach. 
-## Lesson Plans, Assignments, and Hands-On Activity Sheets
 ### Tips for Hands-On Teaching
 Tips for Hands-on Teaching and Learning, compiled from Making and Knowing Project experience.
 - [Tip Sheet for Hands-On Teaching](/resources/activity-sheets/activitysheet_tips-for-instructors/)
-- [Introduction to Field Notes](/resources/activity-sheets/introduction-fieldnotes/) - a full discussion of how the Making and Knowing Project asks students to record and reflect upon their hands-on work
-- [Ideas, Resources, and Assignment handout for Hands-On Student Projects](/documents/pdf/SP24-Final-Projects_RTC-Version.pdf) - all Making and Knowing classes require projects of the students' own devising, assigned early in the term with this handout. Also in [docx](/documents/docx/SP24-Final-Projects_RTC-Version.docx) for editing and adapting to your own needs
 
-### Introduction to *Secrets of Craft and Nature*
-A great way to get started in a class or workshop by familiarizing students with the digital critical edition of Ms. Fr. 640 and the manuscript itself by completing a scavenger hunt of its contents.
-- [Scavenger Hunt: Get to Know *Secrets of Craft and Nature*](/resources/activity-sheets/scavenger-hunt_secrets-of-craft/) - version 1
-- [*Secrets of Craft and Nature* Reconnaissance (Directed Scavenger Hunt)](/resources/activity-sheets/scavenger-hunt-2/) - version 2
-     
+## Lesson Plans, Assignments, and Hands-On Activity Sheets
+The following lesson plans are listed in order of hands-on activities with familiar and accessible materials and processes (foods, cooking) to somewhat more involved and potentially unfamiliar (varnish, mold-making). Each lesson plan offers
+-  learning objectives
+-  detailed instructions about materials and process for instructors
+-  informational resources (explanatory presentations as pdfs; class reading suggestions) that can form the core of instructor lectures or of preparatory student reading, watching, discussion, and reflection
+-  safety considerations, if applicable
+-  downloadable, adaptable student assignments ("activity sheets") as linked documents.
+-  resources for the lesson from _Secrets of Craft and Nature_ and Ms. Fr. 640.
+-  Tip: skip to the end of the lesson plan for a list of all linked resources in the lesson.
+
+### Hunting for Secrets in *Secrets of Craft and Nature*
+A great way to get started in a class or workshop by familiarizing students with the digital critical edition of Ms. Fr. 640 and the manuscript itself through a scavenger hunt of its contents.
+- [Scavenger Hunt: Get to Know *Secrets of Craft and Nature*](/resources/activity-sheets/scavenger-hunt_secrets-of-craft/) - a simple exploration of intriguing elements in Ms. Fr. 640.
+- [*Secrets of Craft and Nature* Reconnaissance (Directed Scavenger Hunt)](/resources/activity-sheets/scavenger-hunt-2/) - a structured scavenger hunt to introduce important features of _Secrets of Craft and Nature_.
+  
 ### Historical Culinary Recipe Reconstruction
 Reconstructing an obscure culinary recipe is especially effective as a first hands-on activity to familiarize students with the textual and material challenges of following historical recipes. It is also a wonderful community-building exercise. The students work in groups at home for a week intepreting the recipe, searching for and obtaining ingredients, trying their recipe as many times as possible, and making a powerpoint presentation about their process and questions. Culinary results can be brought into class when completed for group digestion and discussion.
 - [Historical Culinary Recipe Reconstruction](/resources/activity-sheets/activitysheet_hcr-instructor/)
@@ -57,7 +64,7 @@ The ingredients and making process of varnishes changed significantly in the six
 Imitating the texture and visual appearance of jasper stone raises questions about knowledge systems of the past and how artisans and scientists explored and explained the precious materials of the natural world. Making jasper involves a number of different processes and can be adapted to different class lengths, depending on how much preparation of materials is done in advance.
 - [Making Jasper](/resources/activity-sheets/activitysheet_jasper/)
 ### Materializing Spiritual Practice: Reconstructing Burn Salve 
-Reconstructing the burn salve recipe in Ms. Fr. 640 gave the Project significant insights into the meanings of materials. The activity can easily be done in 1-2 hours. 
+Reconstructing the burn salve recipe in Ms. Fr. 640 gave the Project significant insights into the meanings and agency of materials. The activity can easily be completed in 1-2 hours. 
 - [Reconstruction of a 16th-century Burn Salve Recipe](/resources/activity-sheets/burnsalve/)
 ## Hands-on Lesson Plans from Research Essays in *Secrets of Craft and Nature*
 Many [essays](https://edition640.makingandknowing.org/#/essays) in *Secrets of Craft and Nature* describe the reconstruction of a technique in sufficient detail to use the essay itself to formulate a lesson plan that includes hands-on activities. These essays often include lab/field notes that contain even more information for carrying out the process. Each essay discusses themes and includes bibliography that can be integrated into course objectives and class discussion. Suggested essays are listed below, however many more could be explored and adapted for classroom, studio, or lab activities.
@@ -93,3 +100,11 @@ Ms. Fr. 640 contains a number of jokes and sleight of hand tricks. One entry on 
 ### Making and Using Fish Glue
 The making of an essential material for the early modern workshop.
 - Essay: [Making and Using Fish Glue](https://edition640.makingandknowing.org/#/essays/ann_056_sp_17) by Xinguo (Casa) Wang
+
+## Making and Knowing Assignments for Hands-on Process
+All Making and Knowing courses require students to keep records of their hands-on processes, reflections, and learning,  conceived as a combination of lab and field notes. 
+- [Introduction to Field Notes](/resources/activity-sheets/introduction-fieldnotes/) - a full discussion of how the Making and Knowing Project asks students to record and reflect upon their hands-on work
+  
+Making and Knowing courses also require projects of the students' own devising, assigned early in the term. 
+- [Handout: Ideas, Resources, and Assignment Sheet for Hands-On Student Projects](/documents/pdf/SP24-Final-Projects_RTC-Version.pdf). Also in [docx](/documents/docx/SP24-Final-Projects_RTC-Version.docx) for editing and adapting to your own needs
+- See [Student Projects](/resources/student-projects/) for examples from Making and Knowing courses.
