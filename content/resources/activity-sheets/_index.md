@@ -6,7 +6,8 @@ weight: 20
 
 # Lesson Plans for Hands-On
 Making and Knowing Lesson Plans and associated teaching resources provide step-by-step guidance in planning and executing hands-on activities in the classroom, studio, laboratory, maker space, or kitchen. These Lesson Plans could be integrated into classes for skill building, as one-off sessions for group community building, or to stimulate students' historical imagination by exposure to past materials and processes. The hands-on activities offered here can also be used as stand-alone activities for public outreach. 
-### Tips for Hands-On Teaching
+
+## Tips for Hands-On Teaching
 Tips for Hands-on Teaching and Learning, compiled from Making and Knowing Project experience.
 - [Tip Sheet for Hands-On Teaching](/resources/activity-sheets/activitysheet_tips-for-instructors/)
 
@@ -17,7 +18,7 @@ The following lesson plans are listed in order of hands-on activities with famil
 -  informational resources (explanatory presentations as pdfs; class reading suggestions) that can form the core of instructor lectures or of preparatory student reading, watching, discussion, and reflection
 -  safety considerations, if applicable
 -  downloadable, adaptable student assignments ("activity sheets") as linked documents.
--  resources for the lesson from _Secrets of Craft and Nature_ and Ms. Fr. 640.
+-  resources for the lesson from *Secrets of Craft and Nature* and Ms. Fr. 640.
 -  Tip: skip to the end of the lesson plan for a list of all linked resources in the lesson.
 
 ### Hunting for Secrets in *Secrets of Craft and Nature*
