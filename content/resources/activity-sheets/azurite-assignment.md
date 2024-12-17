@@ -9,8 +9,8 @@ A downloadable version of this assignment: [[PDF](/documents/pdf/azurite_assignm
 
 ## Presentations & Handouts
 
-- [Presentation: Preparing and Painting Blue Pigment in the Renaissance](/documents/pdf/fa22_skillbuilding-azurite-presentation-full.pdf)
-- See also a [short version of this presentation](/documents/pdf/fa22_skillbuilding-azurite-presentation-short.pdf)
+- [Presentation: Preparing and Painting Blue Pigments in the Renaissance](/documents/pdf/fa22_skillbuilding-azurite-presentation-full.pdf)
+- See also a [short version of this presentation focused on azurite](/documents/pdf/fa22_skillbuilding-azurite-presentation-short.pdf)
 - [Student Handout](/documents/pdf/azurite_assignment_handout_2022.pdf) (to have while doing the hands-on reconstruction) 
 
 <p><a href="/documents/pdf/fa22_skillbuilding-azurite-presentation-full.pdf"><img src="/images/preparing-painting-blue.png" alt="Preparing and Painting Blue Pigment in the Renaissance"/></a></p>
@@ -23,7 +23,7 @@ This skillbuilding assignment will introduce you to one of the most common blue 
  
 It is important to remember that there is a difference between pigments and paints. A pigment is an insoluble colored particle; in other words, it is usually a dry powder of a certain color that will not dissolve when added to a desired medium or liquid. To create paint, one combines the pigment with a binding medium to create a paste that can be applied to a surface. A binding medium will help the pigment adhere to the surface on which it is applied. Common binding media include linseed and walnut oils (for oil painting), gum arabic (watercolor and ink), egg yolk (tempera), egg white (glair), and animal glues (distemper). For more information:
 - [Presentation: Introduction to Pigments &amp; Paints](/documents/pdf/introduction-paints-pigments_njr_2021.pdf)
-- [Assignment: Making Paints from Pigments and Painting Them Out](/resources/activity-sheets/painting-assignment)
+- [Lesson Plan: Making Paints from Pigments and Painting Them Out](/resources/activity-sheets/activitysheet_paintingpigments/)
 
  ![pigment and binding media equals paint](/images/painting-pigment-binding-media.png?raw=true)
 
@@ -91,11 +91,11 @@ To prepare azurite from the mineral ore, one uses water to remove impurities and
 
 The process is open to your experimentation! To get started, however, here are some useful illustrations:
 - The dedicated slides towards the middle of [Presentation: Preparing and Painting Blue Pigment in the Renaissance](/documents/pdf/fa22_skillbuilding-azurite-presentation-full.pdf)
-- [Fieldnotes (with step-by-step pictures) by Naomi Rosenkranz, SU17 Azurite](/resources/activity-sheets/su17_rosenkranz_azurite-preparation-cambridge)
+- [Fieldnotes (with step-by-step pictures) by Naomi Rosenkranz, SU17 Azurite](/resources/activity-sheets/su17_rosenkranz_azurite-preparation-cambridge/)
 - “Experiments with Azurite on the History of Design MA Course” by students of the V&A/RCA History of Design MA 
      - [Part 1](https://www.vam.ac.uk/blog/news/experiments-with-azurite-on-the-history-of-design-ma-course) 
      - [Part 2](https://www.vam.ac.uk/blog/projects/thinking-and-experiencing-techne-making-azurite-part-2)
-- For painting out, refer to [Assignment: Making Paints from Pigments and Painting Them Out](/resources/activity-sheets/painting-assignment)
+- For painting out, refer to [Assignment: Making Paints from Pigments and Painting Them Out](/resources/activity-sheets/painting-assignment/)
 
 ### Questions for Consideration
 - Observation:
