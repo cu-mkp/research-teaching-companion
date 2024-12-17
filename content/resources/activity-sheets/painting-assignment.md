@@ -12,7 +12,7 @@ A downloadable version of this assignment: [[PDF](/documents/pdf/painting_assign
 
 Refer to [Presentation: Introduction to Pigments &amp; Paints](/documents/pdf/introduction-paints-pigments_njr_2021.pdf)
 
-![painting-pigment-binding-media](images/painting-pigment-binding-media.png)
+![painting-pigment-binding-media](/images/painting-pigment-binding-media.png) 
 
 ## Overview of Activity
 
