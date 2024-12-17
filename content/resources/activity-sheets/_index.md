@@ -12,7 +12,7 @@ Tips for Hands-on Teaching and Learning, compiled from Making and Knowing Projec
 - [Tip Sheet for Hands-On Teaching](/resources/activity-sheets/activitysheet_tips-for-instructors/)
 
 ## Lesson Plans, Assignments, and Hands-On Activity Sheets
-The following lesson plans are listed in order of hands-on activities with familiar and accessible materials and processes (foods, cooking) to somewhat more involved and potentially unfamiliar (varnish, mold-making). Each lesson plan offers
+The lesson plans below are listed in order, starting out with activities that involve familiar and accessible materials and processes (e.g., foods and cooking), and progressing to somewhat more complex and potentially unfamiliar hands-on work (varnish, mold-making). Each lesson plan offers:
 -  learning objectives
 -  detailed instructions about materials and process for instructors
 -  informational resources (explanatory presentations as pdfs; class reading suggestions) that can form the core of instructor lectures or of preparatory student reading, watching, discussion, and reflection
@@ -35,12 +35,12 @@ An intriguing recipe in Ms. Fr. 640 for making molds from bread is the basis for
 - [Bread Making, Molding, and Casting](/resources/activity-sheets/breadmolding_resources-for-the-instructor/)
   
 ### Making Stucco for Molding
-This stucco activity uses rye flour or chalk, mixed with a binder (tragacanth gum in Ms. Fr. 640). The activity can be messy, but is a great way to learn about the production of low-cost, often temporary ornamentation of walls and other surfaces. Plan for one session of mixing and molding, after which the stucco ornaments are dried. Allow sufficient time for clean up! 
+This stucco activity uses rye flour or chalk, mixed with a binder (tragacanth gum in Ms. Fr. 640), materials that can prove very sticky and messy, but this activity is a great way to learn about the production of low-cost, often temporary ornamentation of walls and other surfaces. Plan for one session of mixing and molding, after which the stucco ornaments are dried. Allow sufficient time for clean up! 
 - [Making Stucco for Molding](/resources/activity-sheets/activitysheet_stucco/)
 - Video: [From Watching to Working: Incorporating Making and Knowing Activities into History of Science Courses](https://vimeo.com/840477199) - Monique O'Connell reflects on her experiences of making stucco with her students in a history of science course at Wake Forest University.
 
 ### Dyeing with Natural Colorants
-Exploring the world of color is an incredibly engaging way to introduce hands-on work and material literacy. Dyeing with natural colorants takes this a step further by looking at how textiles were imbued with color from plants (roots, bark, flowers, leaves, and berries) and animals (insects and shellfish) before the advent of synthetic dyes in the nineteenth century. Textiles (and, by extension, dyes) have and continue to be one of the largest industries in the world. Their complex history, global reach and ubiquity, intricate chemistry, and transformative craft process provide multiple points of engagement. Dyeing can also be paired with lake pigment making described below, as the colorants are extracted from the same organic materials using similar chemical processes. The Making and Knowing Project and collaborators have adapted these activities in a number of settings, from chemistry labs to home kitchens. With the preparation of dyeing stations, dyeing can be carried out in two hours or less.
+Exploring the world of color is an wonderfully engaging way to introduce hands-on work and material literacy. Dyeing with natural colorants takes this a step further by looking at how textiles were imbued with color from plants (roots, bark, flowers, leaves, and berries) and animals (insects and shellfish) before the advent of synthetic dyes in the nineteenth century. Textiles (and, by extension, dyes) have and continue to be one of the largest industries in the world. Their complex history, global reach and ubiquity, complex chemistry, and transformative craft process provide multiple points of engagement. Dyeing can also be paired with lake pigment making described below, as the colorants are extracted from the same organic materials using similar chemical processes. The Making and Knowing Project and collaborators have adapted these activities in a number of settings, from chemistry labs to public events to home kitchens. With the preparation of dyeing stations, simple dyeing can be carried out in two hours or less.
 - [Dyeing with Natural Colorants](/resources/activity-sheets/activitysheet_dyeing/)
   
 ### Making Paints from Pigments and Painting Them Out
@@ -52,17 +52,17 @@ Making paints from pigments is an eye-opening way to get to know substances that
      - See also Marie-France Lemay's [“Verdigris” in Traveling Scriptorium: A Teaching Kit by the Yale University Library](https://travelingscriptorium.com/2013/01/17/verdigris/)
 - [Grinding, Levigating, and Painting with Azurite](/resources/activity-sheets/azurite-assignment/)
 #### Making Paint, Preparing Supports, and Painting Test Panels
-Pigments (colored particles) must be combined with binding materials such as egg yolk, egg white, oils, or gums in order to create paint. While you can make your own pigments (see above), painting out even ready-made pigments is a crowd-pleasing (and educational!) activity. Making supports for painting (canvas, panel, prepared paper) helps gain an understanding of the crucial importance of the surface for the appearance of the final work of art. This activity can be relatively quick (sewing and stretching canvases) or quite lengthy (preparing panels, which takes nine sessions of applying gesso, allowing it to dry, then scraping and sanding it between each application).
+Pigments (colored particles) must be combined with binding materials such as egg yolk, egg white, oils, or gums in order to create paint. While you can make your own pigments (see above), painting out even ready-made pigments is a crowd-pleasing (and educational!) activity. Making supports for painting (canvas, panel, prepared paper) helps gain an understanding of the crucial importance of the surface for the appearance of the final work of art. This activity can be relatively quick (sewing and stretching canvases) or quite lengthy (preparing panels, which involves nine sessions of applying gesso, allowing it to dry, then scraping and sanding it between each application).
 - [Making Paints from Pigments and Binding Media and Painting Them Out](/resources/activity-sheets/activitysheet_paintingpigments/)
 - [Preparing Panels, Canvases, and Other Supports for Painting, Gilding, and More](/resources/activity-sheets/activitysheet_supportsurfaces/)
 ### Making Inks
-Making ink helps students appreciate the materiality of texts. Making and then writing with the ink produced can be done in a single session of 1-2 hours. Ink-making activities included here produce iron gall ink, carbon-based inks, and colored ink made from organic pigment.
+Making ink helps students appreciate the materiality of texts. Making the ink and then writing with it can be done in a single session of 1-2 hours. Ink-making activities included here produce iron gall ink, carbon-based inks, and colored ink made from organic pigment.
 - [Making Inks](/resources/activity-sheets/activitysheet_inks/)
 ### Varnishes and Their Many Uses
 The ingredients and making process of varnishes changed significantly in the sixteenth century, resulting in a more streamlined making process when compared to the heavy amber and resin varnishes of an earlier period. These new varnishes also changed the appearance of the artworks onto which they were applied. Making varnish is a relatively complex process requiring preparation and is perhaps suited to more advanced classes.
 - [Making Varnishes](/resources/activity-sheets/activitysheet_varnishes/)
 ### Making "Counterfeit" Jasper
-Imitating the texture and visual appearance of jasper stone raises questions about knowledge systems of the past and how artisans and scientists explored and explained the precious materials of the natural world. Making jasper involves a number of different processes and can be adapted to different class lengths, depending on how much preparation of materials is done in advance.
+Imitating the texture and visual appearance of jasper stone raises questions about knowledge systems of the past, the historical meaning of imitation and "counterfeit," and how artisans and scientists explored and explained the precious materials of the natural world. Making jasper involves a number of different processes and can be adapted to different class lengths, depending on how much preparation of materials is done in advance.
 - [Making Jasper](/resources/activity-sheets/activitysheet_jasper/)
 ### Materializing Spiritual Practice: Reconstructing Burn Salve 
 Reconstructing the burn salve recipe in Ms. Fr. 640 gave the Project significant insights into the meanings and agency of materials. The activity can easily be completed in 1-2 hours. 
@@ -78,7 +78,7 @@ Several entries in Ms. Fr. 640 mention cuttlefish bone as a material by which to
 - See also the student project [Cuttlefish in and around Ms. Fr. 640](/resources/student-projects/sp22_donald_maia_final-project_cuttlebone/) by Maia Donald
 
 ### Molding Fruits in Sugar
-A single recipe in Ms. Fr. 640, on fol. 126r, gives instructions for making sugar casts of fresh fruits. Such cast sugar sculpture was a common sight at lavish banquets held in sixteenth-century European courts and cities. The author-practitioner provides practical instruction and tips for making this delicacy, but also frames his instructions within a set of properties that sugar exhibits as it changes from solid to liquid and back to solid. According to the author-practitioner, in its nature, sugar is by turns fatty, brittle, and sour. This essay explains the meaning of these properties within the author-practitioner’s material imaginary, and our reconstruction clarifies how this material imaginary provided a coherent supporting framework for the practical actions described in the recipe.
+A single recipe in Ms. Fr. 640, on fol. 126r, gives instructions for making sugar casts of fresh fruits. Such cast sugar sculpture was a common sight at lavish banquets held in sixteenth-century European courts and cities. The author-practitioner provides practical instruction and tips for making this delicacy, but also frames his instructions within a set of properties that sugar exhibits as it changes from solid to liquid and back to solid. According to the author-practitioner, in its nature, sugar is by turns fatty, brittle, and sour. This essay explains the meaning of these properties within the author-practitioner’s material imaginary, and the reconstruction clarifies how this material imaginary provided a coherent supporting framework for the practical actions described in the recipe.
 - Essay: [Molding Fruits and Animals in Sugar](https://edition640.makingandknowing.org/#/essays/ann_017_sp_15) by Celia Durkin and Pamela H. Smith
 - See also the Oberlin College course, *Ingenious Making in the Early Modern World*, in which each student took a different approach to molding and casting in sugar. Similar to M&K's [Fieldnotes](https://fieldnotes.makingandknowing.org/), the following portfolios document the students' hands-on activities, which included following the recipe for "Molding Fruits in Sugar," Ms. Fr. 640, fol. 126r:
      - [Audrey Libatique](https://oberlin.digication.com/audrey-libatique-ingenious-making/home)
@@ -90,7 +90,7 @@ A reconstruction of the rather confusingly titled entry “Varnish for distemper
 - Essay: [Imitation Marble](https://edition640.makingandknowing.org/#/essays/ann_040_sp_16) by Teresa Soley
 
 ### Keeping Dry Flowers in the Same State all Year 
-The recipe “Keeping dry flowers in the same state all year” (fol. 120v–121r) reflects the author-practitioner’s wider preoccupation with the preservation of flora and fauna for display. In this recipe, he provides instructions for drying flowers in sand and in vinegar. A reconstruction of the recipe demonstrates that extensive knowledge of the materials is important not only to the outcome but to their handling. 
+The recipe “Keeping dry flowers in the same state all year” (fol. 120v–121r) reflects the author-practitioner’s wider preoccupation with the preservation of flora and fauna for display. In this recipe he provides instructions for drying flowers in sand and in vinegar. A reconstruction of the recipe demonstrates that extensive knowledge of the materials is important not only to the outcome but to their handling. 
 - Essay: [Keeping Dry Flowers in the Same State all Year](https://edition640.makingandknowing.org/#/essays/ann_049_fa_16) by Caitlyn Sellar
 
 ### Sleight of Hand Tricks
@@ -104,8 +104,8 @@ The making of an essential material for the early modern workshop.
 
 ## Making and Knowing Assignments for Hands-on Process
 All Making and Knowing courses require students to keep records of their hands-on processes, reflections, and learning,  conceived as a combination of lab and field notes. 
-- [Introduction to Field Notes](/resources/activity-sheets/introduction-fieldnotes/) - a full discussion of how the Making and Knowing Project asks students to record and reflect upon their hands-on work
+- [Introduction to Field Notes](/resources/activity-sheets/introduction-fieldnotes/) - a full discussion of how the Making and Knowing Project asks students to record and reflect upon their hands-on work.
   
 Making and Knowing courses also require projects of the students' own devising, assigned early in the term. 
-- [Handout: Ideas, Resources, and Assignment Sheet for Hands-On Student Projects](/documents/pdf/SP24-Final-Projects_RTC-Version.pdf). Also in [docx](/documents/docx/SP24-Final-Projects_RTC-Version.docx) for editing and adapting to your own needs
-- See [Student Projects](/resources/student-projects/) for examples from Making and Knowing courses.
+- Handout: [Ideas, Resources, and Assignment Sheet for Hands-On Student Projects](/documents/pdf/SP24-Final-Projects_RTC-Version.pdf). Also in [docx](/documents/docx/SP24-Final-Projects_RTC-Version.docx) for editing and adapting to your own needs.
+- See [Student Projects](/resources/student-projects/) for projects created by students in Making and Knowing courses.
