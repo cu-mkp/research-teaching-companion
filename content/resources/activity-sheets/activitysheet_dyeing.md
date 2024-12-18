@@ -1,6 +1,6 @@
 ## Dyeing
 
-The Making and Knowing Project has undertaken experiments in dyeing with natural colorants as a way to engage with various entries in Ms. Fr. 640 and as a preliminary step to [making lake pigments](/resources/activity-sheets/activitysheet_lake-pigments). Additionally, M&K has led several community outreach activites on dyeing with natural colorants that can be ported directly into the classroom. These activities and their contexts are also described on the [Making and Knowing Resources in Use](/resources/case-studies) section of the Companion.
+The Making and Knowing Project has undertaken experiments in dyeing with natural colorants as a way to engage with various entries in Ms. Fr. 640 and as a preliminary step to [making lake pigments](/resources/activity-sheets/activitysheet_lake-pigments/). Additionally, M&K has led several community outreach activites on dyeing with natural colorants that can be ported directly into the classroom. These activities and their contexts are also described on the [Making and Knowing Resources in Use](/resources/case-studies/) section of the Companion.
 
 If you are already familiar with historical dyes and natural colorants, you might want to explore the presentation [Cochineal Dye: History, Chemistry, and Preparation](/documents/pdf/2023_dyes_cochineal-history-chem-prep.pdf) which offers more extensive information than is offered in summary on this page.
 
@@ -91,11 +91,11 @@ To know how much of the mordant, water, cochineal, and optional additive are nee
 
 
 #### Activity Sheets and Handouts
-- [Dyeing Textiles with Cochineal: A Historical Reconstruction](/resources/activity-sheets/dyes-cochineal_assignment/) 
+- [Student Assignment: Dyeing Textiles with Cochineal: A Historical Reconstruction](/resources/activity-sheets/dyes-cochineal_assignment/) 
 - (also available as a [PDF](/documents/pdf/dyes-cochineal_assignment_downloadable_2023.pdf))
-- [Dyeing Instructions: General Mordant and Dye Process](/documents/pdf/sp23_handout_dyeing-textiles_general-process.pdf)
-- [Piemontese Cochineal Dye Historical Recipe](/documents/pdf/sp23_printout_recipe-example-piemontese.pdf) (2 copies per printed page)
-- [Dyeing with Natural Colorants: Resources and Activity Sheets](/resources/activity-sheets/dyes-assignment/)
+- [Handout: One-page Instruction Sheet for Mordant and Dye Process](/documents/pdf/sp23_handout_dyeing-textiles_general-process.pdf)
+- [Handout: Historical Cochineal Dye Recipe - Piemontese](/documents/pdf/sp23_printout_recipe-example-piemontese.pdf) (2 copies per page for printing as a student handout)
+- [Dyeing with Natural Colorants: List of All Resources and Activity Sheets](/resources/activity-sheets/dyes-assignment/)
 
 
 #### Dyeing in Ms. Fr. 640
