@@ -68,8 +68,7 @@ food, material culture, craft, medicine.
 
 ## Finding Recipes
 
-If you are working with advanced students, such as graduate students or specialist undergraduates, we recommend you invite your students to explore the resources suggested
-in the above “Guide to historical recipes and collections” and select a
+If you are working with advanced students, such as graduate students or specialist undergraduates, we recommend you invite your students to explore the resources suggested in the above “Guide to historical recipes and collections” and select a
 recipe themselves. However, if working with less experienced students, you may wish to offer them a few suggestions. Here are some examples that have worked well for us by dint of being interesting and somewhat obscure:
 
 Wellcome MS 213
@@ -140,9 +139,9 @@ material sourcing challenges, which prompts great in-class discussions.
 For a discussion about different approaches to historical reconstruction
 (a different point of view from Albala’s strict call for “authenticity”)
 
--   Fors, Hjalmar, Lawrence M. Principe, and H. Otto Sibum. ‘From the
+-   Fors, Hjalmar, Lawrence M. Principe, and H. Otto Sibum. "From the
     Library to the Laboratory and Back Again: Experiment as a Tool for
-    Historians of Science.’ Ambix 63, no. 2 (2016): 85–97
+    Historians of Science." *Ambix* 63, no. 2 (2016): 85–97
 
 -   Lawrence Principe, “Chymical Exotica in the Seventeenth Century, or,
     How to Make the Bologna Stone” *Ambix* 63 (2016): 118-44.
@@ -163,7 +162,7 @@ For a discussion about different approaches to historical reconstruction
     early moderns.* Chicago: University of Chicago Press, 2006.
 
 -   Goldstein, David B. *Eating and Ethics in Shakespeare’s England*.
-    Cambridge: Cambridge UP, 2013. (E-book but also available in
+    Cambridge: Cambridge UP, 2013. (E-book, also available in
     print)
 
 -   Leong, Elaine. *Recipes and Everyday Knowledge: Medicine, Science
@@ -179,11 +178,11 @@ For a discussion about different approaches to historical reconstruction
     part of rare receipts of cookery, with certain useful traditions :
     with a book of preserving, conserving and candying, after the most
     exquisite and newest manner …* 1661, 1673 and 1682 editions
-    available in CLIO via EEBO:
+    available via EEBO.
 
 -   Tomasik, Timothy J. *At the Table: Metaphorical and Material
     Cultures of Food in Medieval and Early Modern Europe*. Turnhout:
-    Brepols, 2007. (E-book but also available in print)
+    Brepols, 2007. (E-book, also available in print)
 
 -   Willan, Anne. *The cookbook library : four centuries of the cooks,
     writers, and recipes that made the modern cookbook*. Berkeley:
