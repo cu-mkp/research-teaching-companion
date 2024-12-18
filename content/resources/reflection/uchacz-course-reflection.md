@@ -8,7 +8,7 @@ Spring 2023, School of Performance, Visualization & Fine Arts, Texas A&M Univers
 Graduate Special Topics Seminar<br>
 Dr. Tianna Helena Uchacz, Assistant Professor of Art History
 
-[Art/Craft Syllabus](/documents/pdf/documents/pdf/sp23_uchacz_tianna_syllabus-viza-689_art-craft.pdf)
+[Art/Craft Syllabus](/documents/pdf/sp23_uchacz_tianna_syllabus-viza-689_art-craft.pdf)
 
 **Course description:** This course investigates the materials, techniques, and meanings of craft through hands-on engagement with historical making practices. Classes combine seminar-style discussion of primary sources and contemporary scholarship with site visits and laboratory exercises in making skills, research skills, and writing skills. The course encourages students to consider relationships between making and thinking, nature and artifice, and art/craft and science by exploring issues related to textual, oral, and tacit knowledge, the significance of skill, and global histories of materials, tools, and practice. **In Spring 2023, the Art/Craft seminar will focus on fibers and textiles as case-study materials.**
 
