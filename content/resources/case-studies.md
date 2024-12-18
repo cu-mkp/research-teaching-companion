@@ -50,7 +50,8 @@ Spring 2023, School of Performance, Visualization & Fine Arts, Texas A&M Univers
 Graduate Special Topics Seminar<br>
 Dr. Tianna Helena Uchacz, Assistant Professor of Art History
 
-- [Art/Craft Syllabus](/documents/pdf/documents/pdf/sp23_uchacz_tianna_syllabus-viza-689_art-craft.pdf)
+- [Art/Craft Syllabus](/documents/pdf/documents/sp23_uchacz_tianna_syllabus-viza-689_art-craft.pdf)
+
 - **Course description:** This course investigates the materials, techniques, and meanings of craft through hands-on engagement with historical making practices. Classes combine seminar-style discussion of primary sources and contemporary scholarship with site visits and laboratory exercises in making skills, research skills, and writing skills. The course encourages students to consider relationships between making and thinking, nature and artifice, and art/craft and science by exploring issues related to textual, oral, and tacit knowledge, the significance of skill, and global histories of materials, tools, and practice. **In Spring 2023, the Art/Craft seminar will focus on fibers and textiles as case-study materials.**
 - [Teaching Reflections and Tips from Texas A&M - Tianna Uchacz](/resources/reflection/uchacz-course-reflection/) - course development and further reflection.
 
@@ -96,7 +97,7 @@ Naomi Rosenkranz, Dr. Sophie Pitman, Professor Paula Hohti, 2019
 This workshop brought together two projects engaged in hands-on reconstruction to exchange methods and experiences on dyeing between the Making and Knowing Project and the [Refashioning the Renaissance](http://refashioningrenaissance.eu/) in March 2019. The Making and Knowing Project and Refashioning the Renaissance experimented with materials commonly used in the early modern period for dyeing red, including the widespread madder, the expensive kermes, and the potent cochineal.
 
 **RESOURCES**
-- [Presentation: Reconstruction Exchange: Case Study in 16th Century Red Dyes](/resources/pdf/rosenkranz_2019_dyes_reconstruction-exchange-case-study-in-16th-century-red-dyes.pdf) - provides an overview of natural dyes as well as discusses the materials, chemistry, recipes, and processes for dyeing in early modern Europe. 
+- [Presentation: Reconstruction Exchange: Case Study in 16th Century Red Dyes](/documents/pdf/rosenkranz_2019_dyes_reconstruction-exchange-case-study-in-16th-century-red-dyes.pdf) - provides an overview of natural dyes as well as discusses the materials, chemistry, recipes, and processes for dyeing in early modern Europe. 
 - [Red Dyes Experiment Page](https://refashioningrenaissance.eu/experiments/red-dyes-with-making-knowing/) by Refashioning the Renaissance
 - [Workshop Blog Post](https://refashioningrenaissance.eu/refashioning-workshop-in-toronto-and-nyc/) by Refashioning the Renaissance
 
