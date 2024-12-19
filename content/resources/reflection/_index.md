@@ -48,8 +48,7 @@ By proposing a shift from textbooks and tests to hands-on work and process, M&K 
 [Around the Table: The Making and Knowing Project](https://recipes.hypotheses.org/17539), The Recipes Project, October 2020.
 
 <iframe src="https://player.vimeo.com/video/957244396?h=4008aa3303" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/957244396">Science and Art in a Sixteenth Century Workshop: Hands On History in the Making and Knowing Project</a> from <a href="https://vimeo.com/user101162788">The Making and Knowing Project</a> on <a href="https://vimeo.com">Vimeo</a>.</p><br>
-Pamela H. Smith discusses hands-on teaching and learning in the Elizabeth B. McNab Lecture in the History of Science, McGill University, 2021.
+<p><a href="https://vimeo.com/957244396">Science and Art in a Sixteenth Century Workshop: Hands On History in the Making and Knowing Project</a> from <a href="https://vimeo.com/user101162788">The Making and Knowing Project</a> on <a href="https://vimeo.com">Vimeo</a>.</p> Pamela H. Smith discusses hands-on teaching and learning in the Elizabeth B. McNab Lecture in the History of Science, McGill University, 2021.
 
 [Hands-On History: Reconstruction in the High School Classroom](https://vimeo.com/942105196)<br>
 Sofia Gans, PhD, speaks about her experience teaching high school European history through hands-on reconstruction of historical techniques.
