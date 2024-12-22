@@ -31,28 +31,26 @@ cookery (1658).](https://www.google.com/books/edition/Archimagirus_Anglo_Gallicu
 
 Le Menagier de Paris (1393). 
 - [original French](https://archive.org/details/lemnagierdepari03renagoog)
-- [translation by Janet Hinson](http://www.daviddfriedman.com/Medieval/Cookbooks/Menagier/Menagier.html#BEVERAGES%20FOR%20INVALIDS) (make sure to check the original French).
+- [translation by Janet Hinson](http://www.daviddfriedman.com/Medieval/Cookbooks/Menagier/Menagier.html#BEVERAGES%20FOR%20INVALIDS) (be sure to check the original French).
 
 [Le Thresor de santé, ou mesnage de la vie humaine divisé en dix
 livres (Lyon, 1607).](http://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?cote=39201&do=chapitre)
 
 ## Online collections of recipes and culinary texts
 
--   [Monumenta Culinaria et Diaetetica Historica.](https://www.uni-giessen.de/de/fbz/fb05/germanistik/absprache/sprachverwendung/gloning/kobu.htm)
-Corpus of culinary & dietetic texts of Europe from the Middle Ages to 1800 with a Focus on German texts, but also some other European texts, including in English.
+-   [Monumenta Culinaria et Diaetetica Historica.](https://www.uni-giessen.de/de/fbz/fb05/germanistik/absprache/sprachverwendung/gloning/kobu.htm): A corpus of culinary and dietetic texts of Europe from the Middle Ages to 1800 with a Focus on German texts, but also some other European texts, including in English.
 
 -   [Kookhistorie.](http://www.kookhistorie.nl/index.htm) Dutch Cooking History (with some English content).
 
--   See also the [Rijksmuseum recipe book collection](http://library.rijksmuseum.nl/cgi-bin/koha/opac-shelves.pl?viewshelf=135&sortfield=) (a work in progress that already includes 583 titles), you can find the list [here](http://library.rijksmuseum.nl/cgi-bin/koha/opac-shelves.pl?viewshelf=135&sortfield=)   
-    > - click "lists" in the top right and then "receptuurboeken"
+-   See also the [Rijksmuseum recipe book collection](http://library.rijksmuseum.nl/cgi-bin/koha/opac-shelves.pl?viewshelf=135&sortfield=). Search for "receptuurboeken."
 
 -   For images of kitchen set up and implements,see Bartolomeo Scappi's culinary treatise [*Opera* (1570)](https://archive.org/stream/operavenetiascap00scap#page/n935/mode/thumb), which includes illustrations of kitchen set-up, equipment, and techniques (scroll to the end of the book).
 
 ## Other Databases
 
--   You may also wish to search for period recipes on EEBO (English printed books), Gallica (for French sources), VD17 (for German sources), Europeana, Wellcome (mainly medical sources), ECCO (eighteenth century), Google Books, Archive.org, and Worldcat.
+-   You may also wish to search for period recipes on EEBO (early English printed books), Gallica (for French sources), VD17 (for German sources), Europeana, Wellcome (mainly medical sources), ECCO (eighteenth century), Google Books, Archive.org, and Worldcat.
 
--   The digital database of the US National Library of Medicine (NLM). To find recipes in their online catalogue, see the [interview with NLM staff](http://recipes.hypotheses.org/category/food-and-drink)
+-   The digital database of the US National Library of Medicine (NLM). To find recipes in their online catalogue, see the [interview with NLM staff](https://recipes.hypotheses.org/3853).
 
 -   [Universal Short Title Catalogue](http://www.ustc.ac.uk/), including digitized editions.
 
@@ -64,8 +62,8 @@ Corpus of culinary & dietetic texts of Europe from the Middle Ages to 1800 with 
 
 -   [Ken Albala’s blog](http://kenalbala.blogspot.nl/)
 
--   [The Recipes Project](https://recipes.hypotheses.org/)
+-   [The Recipes Project](https://recipes.hypotheses.org/). Search the Category "Food and Drink."
 
     -   [Interview with the key organizer](http://recipes.hypotheses.org/3216)
 
--   See also historic food recreations by [culinary historian Ivan Day](http://foodhistorjottings.blogspot.com/)
+-   See also historic food recreations by [culinary historian Ivan Day](http://foodhistorjottings.blogspot.com/). This website may at times be unavailable.
