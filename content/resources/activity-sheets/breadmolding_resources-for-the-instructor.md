@@ -13,8 +13,7 @@ used to take an impression of another object quickly and neatly. This impression
 can be used as a mold into which sulfur or wax is cast. It is an example
 of the kind of intermediate process that artists must have relied on
 in the sixteenth century, akin to making a 3D printed prototype in resin
-before casting in gold for a modern jeweler, but for which very little
-evidence survives.
+before casting in gold for a modern jeweler, but for which very little historical evidence survives.
 
 There are two entries for breadmolding on [<u>fol. 140v</u>](https://edition640.makingandknowing.org/#/folios/140v/f/140v/tl). Another on [<u>fol. 156r</u>](https://edition640.makingandknowing.org/#/folios/156r/f/156r/tl) mentions breadmolding as an alternative process for “Molding promptly.”
 
@@ -65,9 +64,9 @@ will make your <em>noyau</em>.</p></td>
 
 This activity takes up relatively little class time and uses familiar
 materials such as bread and wax (the sulfur is optional and requires
-access to a fume hood or well-ventilated space). The results are quick
+access to a fume hood or an open air space). The results are quick
 to achieve and are striking; this can be a very easy and successful
-hands-on activity to encourage confidence and shows how hands-on making
+hands-on activity to encourage confidence and it illustrates how hands-on making
 raises new questions. It can be done as a one-off activity in person or
 remotely, or works well as a skillbuilding exercise early in a longer
 course.
@@ -75,7 +74,7 @@ course.
 ## Learning Objectives
 The activity introduces students to hands-on historical reconstruction
 and performative interpretation of texts. It is a good exercise to
-jump-start discussions of tacit/embodied knowledge in arts and sciences. It is also an instructive introduction to the principles of molding. More generally, it encourages students to think differently about historical
+jump-start discussions of tacit/embodied knowledge in the arts and sciences. It is also an instructive introduction to the principles of molding. More generally, it encourages students to think differently about historical
 materials and processes, by de-familiarizing something we take for
 granted as food, and exploring its varied uses in everyday life,
 medicine, artistic practice, and the workshop.
@@ -85,7 +84,7 @@ asynchronously in advance of the in-class activity:
 
 1\) The students are asked to explore historical recipes for bread, bake their own bread, and impress a small object into the pith. They are also asked to develop a protocol for step 2 - the pour. See the [Bread Making student activity sheet](/resources/activity-sheets/breadmolding-student-activity-sheet/).
 
-2\) Part 2 takes place together in class (or can be done online). There is no worksheet, because part of the assignment is for the students to closely read the manuscript and develop their own experimental protocol. See the sample class plan below.
+2\) Part 2 takes place together in class (or can be done remotely). There is no worksheet, because part of the assignment is for the students to closely read the manuscript and develop their own experimental protocol. See the sample class plan below.
 
 **Themes:** Embodied knowledge, everyday life, food, material culture, ephemeral art, art, sculpture, decorative arts, craft
 
@@ -135,13 +134,13 @@ Video of Making and Knowing Director Pamela Smith introducing “skillbuilding�
 
 
 ### Suggested reading on Historical Breads (to assign for class and/or further information)
-- If you only assign one piece of reading, we suggest Le Pouésard, “Pain, Ostie, Rostie” (see below).
+- If you only assign one piece of reading on breads in European history, we suggest Le Pouésard, Emma. ["Pain, Ostie, Rostie: Bread in Early Modern Europe."](https://edition640.makingandknowing.org/#/essays/ann_046_fa_16).
 ### Suggested reading on Embodied Knowledge
 - Tillmann Taape, [“The Body and the Senses in Ms. Fr. 640: Towards a ‘Material Sensorium’.”](https://edition640.makingandknowing.org/#/essays/ann_302_ie_19)
 - Emma Le Pouésard, [“Bread as Mediating Material: Tactile Memory and Touch in Ms. Fr. 640.”](https://edition640.makingandknowing.org/#/essays/ann_050_fa_16)
 - Ann-Sophie Lehmann, “Wedging, Throwing, Dipping and Dragging – How Motions, Tools and Materials Make Art,” *Folded Stones*, eds. Barbara Baert and Trees de Mits (Institute for Practice-based Research in the Arts: Ghent 2009), pp. 41-60.
 - Raymond Tallis, “Grasping the Hand,” in *The Hand: A Philosophical Inquiry into Human Being* (Edinburgh: Edinburgh University Press, 2003), 21–43
-#### Further reading (perhaps for more advanced students)
+#### Further reading on Embodied Knowledge (perhaps for more advanced students)
 - Erin O’Connor, “Embodied knowledge in glassblowing: the experience of meaning and the struggle towards proficiency,” *Sociological Review* (2007): 126-141.
 - Julian Thomas, “Phenomenology and Material Culture,” in *Handbook of Material Culture*, ed. Christopher Tilley et al. (Sage 2006), 43-59.
 - Tim Ingold, *The Perception of the Environment: Essays in Livelihood, Dwelling and Skill* (London and New York: Routledge, 2000), chs. 18-19 (pp. 339-361).
@@ -162,8 +161,7 @@ York: Making and Knowing Project, 2020.
     -   Landsman/Rowen, [“Uses of Sulfur for Casting.”](http://edition640.makingandknowing.org/#/essays/ann_007_fa_14)
     -   Kang, [“Black Sulfured Wax.”](http://edition640.makingandknowing.org/#/essays/ann_051_fa_16)
 
-Note: for additional help and resources, try following the field notes
-links in the essays above.
+Note: for additional help and resources, try following the linked field notes in the essays above.
 
 ### Sources on Making Sixteenth-century Bread
 
@@ -189,8 +187,7 @@ to 1800:
 [<u>http://www.kookhistorie.nl/index.htm</u>](http://www.kookhistorie.nl/index.htm)
 
 ### Primary sources on the uses of bread in the early modern workshop
-If you have time, search in other sources for other uses are made of
-bread in the workshop:
+If you have time, search in additional primary sources for other uses for bread in the workshop:
 -   Alessio Piemontese, *Book of Secrets* (1555); various English
 versions on EEBO; French versions on Gallica; Italian versions...
 -   (For English: Search for Ruscelli, Girolamo, *The secretes of the
@@ -213,7 +210,7 @@ C. R. Dodwell (Oxford: Clarendon Press, 1986).
 2006).
 
 ### Explaining the Processes of Molding and Casting
-- The difference between molding and casting from the *Getty Art and Architecture Thesaurus*: Molding is giving form to something by use of a mold; usually refers to pressing a material into the mold, as distinct from pouring liquid material into the mold, which refers to "casting."
+- The difference between molding and casting (according to the *Getty Art and Architecture Thesaurus*): Molding is giving form to something by use of a mold, and usually refers to pressing a material into the mold, as distinct from pouring liquid material into the mold, which is referred to as "casting."
 - For an illustration of molding and casting, watch [VIDEO: Making a Medal Using the Sand Casting Process from the Frick Collection in collaboration with M&K.](https://www.youtube.com/embed/TL919mY28fk)
 
 ### On Historical Reconstruction as Historical Method
@@ -248,7 +245,7 @@ C. R. Dodwell (Oxford: Clarendon Press, 1986).
 ### About Teaching Bread Making and Molding
 - Sophie Pitman, [“Baking and Knowing: Iterative Processes and Iterative Teaching in a Historical Laboratory,”](https://detoursjournal.org/index.php/detours/article/view/61) *Detours: Social Science Education Research Journal* 2 (1), 2021, 33-41.
 
-## Sample class plan
+## Sample Class Plan
 
 ### Discussion: Recipe Research and Making Bread
 
@@ -269,10 +266,10 @@ recommend you discuss these with the group, and invite experimentation.
 However, for a successful and safe activity, we recommend that any
 protocol should include these essential steps:
 
--   melt wax on low heat on a hotplate
+-   melt wax at low heat on a hotplate
 -   (optional) brush the hollow of the breadmold with vegetable oil to
     make the unmolding easier. If students omit this step, they may
-    have to soak the breadmold in order to remove all the pith from
+    have to soak the breadmold in order to remove all the bread pith from
     the cast object.
 -   place the mold on a surface covered with newsprint, paper plates, or similar to catch any spillages
 -   the molds can be fixed in place with masking tape
@@ -281,10 +278,10 @@ protocol should include these essential steps:
 
 ### Discussion: Breadmolding, and bread as a material in the workshop
 Suggested questions:
-- Who might benefit from this process? I.e., why would you need to make a temporary mold of a small object?
+- To whom might this process be useful? I.e., why would you need to make a temporary mold of a small object?
 - What do you learn by doing it yourself that you would not consider
 when just reading through the instructions?
 - Does this raise further research questions you might like to pursue?
 - Based on your experience of breadmolding, what can we (as historians
-of art/science/material culture / etc.) learn from historical
+of art/science/material culture/etc.) learn from historical
 reconstruction?
