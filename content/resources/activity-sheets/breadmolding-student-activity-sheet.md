@@ -1,4 +1,4 @@
-# Class Activity: Making and Molding Bread
+# Class Activity: Making Bread and Making Molds from Bread
 
 ## Objectives
 
@@ -12,7 +12,7 @@ This activity has two parts
 
 -   Part 1 (at home before class): learn to bake bread and produce loaves to use as molds for a small object
 
--   Part 2 (in class): pour wax (and/or sulfur) into your molds, unmold
+-   Part 2 (in class): pour wax (and/or sulfur) into your molds, then unmold
 
 ## Source text
 
@@ -130,14 +130,10 @@ of Evelyn’s recipes by Reut Ullman, Columbia University
 manuscripts. You can search the library here:
 [<u>http://wellcomelibrary.org/</u>](http://wellcomelibrary.org/)
 
--  Monumenta Culinaria et Diaetetica Historica
+-  Monumenta Culinaria et Diaetetica Historica: a corpus of culinary and dietetic texts of Europe from the Middle Ages
+to 1800: [<u>https://www.staff.uni-giessen.de/gloning/kobu.htm</u>](https://www.staff.uni-giessen.de/gloning/kobu.htm)
 
--  Corpus of culinary & dietetic texts of Europe from the Middle Ages
-to 1800:
-[<u>https://www.staff.uni-giessen.de/gloning/kobu.htm</u>](https://www.staff.uni-giessen.de/gloning/kobu.htm)
-
--  Dutch Cooking History (with some English content):
-[<u>http://www.kookhistorie.nl/index.htm</u>](http://www.kookhistorie.nl/index.htm)
+-  Dutch Cooking History (with some English content): [<u>http://www.kookhistorie.nl/index.htm</u>](http://www.kookhistorie.nl/index.htm)
 
 ### A few tips 
 
@@ -195,9 +191,9 @@ to 1800:
 
 ### Additional sources to explore on the uses of bread in the early modern workshop
 
-If you have time, search in other sources for other uses made of bread in the workshop:
+If you have time, search in additional primary sources for other uses of bread in the workshop:
 
--   Alessio Piemontese, *Book of Secrets* (1555); various English versions on EEBO; French versions on Gallica; Italian versions...
+-   Alessio Piemontese, *Book of Secrets* (1555); various English versions on EEBO; French versions on Gallica; Italian versions in rare book collections
 
 -   (For English: Search for Ruscelli, Girolamo, *The secretes of the reuerende Maister Alexis of Piemount Containyng excellent remedies against diuers diseases, woundes, and other accidents, with the manner to make distillations, parfumes, confitures, diynges, colours, fusions and meltynges. ... Translated out of Frenche into Englishe, by Wyllyam Warde* (1558).
 
