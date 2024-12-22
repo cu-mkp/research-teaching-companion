@@ -179,17 +179,16 @@ of Evelyn’s recipes by Reut Ullman, Columbia University
 -  The Wellcome Library has digitized nearly all its recipe
 manuscripts. You can search the library here:
 [<u>http://wellcomelibrary.org/</u>](http://wellcomelibrary.org/)
--  Monumenta Culinaria et Diaetetica Historica
-Corpus of culinary & dietetic texts of Europe from the Middle Ages
+-  Monumenta Culinaria et Diaetetica Historica: a corpus of culinary & dietetic texts of Europe from the Middle Ages
 to 1800:
 [<u>https://www.staff.uni-giessen.de/gloning/kobu.htm</u>](https://www.staff.uni-giessen.de/gloning/kobu.htm)
 -  Dutch Cooking History (with some English content):
 [<u>http://www.kookhistorie.nl/index.htm</u>](http://www.kookhistorie.nl/index.htm)
 
 ### Primary sources on the uses of bread in the early modern workshop
-If you have time, search in additional primary sources for other uses for bread in the workshop:
+If you have time, search in additional primary sources for other uses of bread in the workshop:
 -   Alessio Piemontese, *Book of Secrets* (1555); various English
-versions on EEBO; French versions on Gallica; Italian versions...
+versions on EEBO; French versions on Gallica; Italian versions in rare book collections.
 -   (For English: Search for Ruscelli, Girolamo, *The secretes of the
 reuerende Maister Alexis of Piemount Containyng excellent remedies
 against diuers diseases, woundes, and other accidents, with the manner
