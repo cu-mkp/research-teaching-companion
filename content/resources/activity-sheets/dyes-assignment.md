@@ -1,5 +1,5 @@
-# Dyeing with Natural Colorants: Resources and Activity Sheets
-Resources for dyeing textiles with natural colorants (including cochineal, madder, weld, and redwoods) following historical dye recipes. Recipes and procedure adapted from Jo Kirby et al, *Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources* (Archetype, London, 2014) (2022-06-17)
+# Dyeing with Natural Colorants: Teaching Resources, Activity Sheets, and Dye Samples
+Resources for dyeing textiles with natural colorants (including cochineal, madder, weld, and redwoods) following historical dye recipes. Recipes and procedure adapted from Jo Kirby et al, *Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources* (London: Archetype, 2014)
 
 - [Presentation: Cochineal Dye: History, Chemistry, and Preparation](/documents/pdf/2023_dyes_cochineal-history-chem-prep.pdf) - an overview of historical natural colorants and dyes, details about common red colorants, a deep-dive into the history of cochineal insects as a dye and pigment source, the preparation of mordant dyes, and explanation of the chemistry of these natural colorants
 - [Presentation: Dyeing: Step-by-Step Instructions](/documents/pdf/rosenkranz_2018_dyes_cochineal-step-by-step.pdf) with information about sourcing materials 
