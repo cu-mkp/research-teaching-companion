@@ -1,5 +1,5 @@
 # Reconstruction Template Sample
-*This was compiled by students from discussions of their reconstruction experience. It is shared here not as a model for you to follow, but as an example of the kinds of responses that you might receive from students when they are asked to reflect on how to conduct reconstruction experiments.*
+*This was compiled by students during discussions of their reconstruction experience. It is shared here both as a list questions you might discuss with students and as an example of the kinds of responses that you might receive from students when they are asked to reflect on how to conduct reconstruction experiments.*
 
 ## Projected Outcome
 -   What are the goals of your reconstruction?
@@ -18,7 +18,7 @@
     -   What kind of (historical) questions do you think you can open up through this reconstruction?
     -   E.g., yield - how much are you making? How much is needed to meet your goals?
         -   This can be especially important when qualitative assessments are still unknown
-        -   This is part of **scenario-building** (i.e., imagining the step-by-step process and potential outcomes of your     reconstruction)
+        -   This is part of **scenario-building** (i.e., thinking ahead about and writing down the step-by-step process and potential outcomes of your reconstruction)
         -   Why are there quantities in the recipe as big/small as they are?
 
 -   How can reconstruction lead you to a closer reading—raising questions that you otherwise would not have considered?
@@ -48,11 +48,11 @@
 -   Where do we start with a given reconstruction? Can we identify steps that can be skipped over? What are the consequences of moving around a step?
 
 ## Process
--   Need to think about process - is it possible (proof-of-concept)?
+-   Need to think about process - is it possible to follow a historical process authentically (or is the aim simply proof-of-concept)?
 
--   Emotional investment - how does this shape your approach, and what you end up focusing on?
+-   Emotional investment - how does this shape your approach and what you end up focusing on?
 
--   How does the readiness of materials today affect the kind of plans and compromises we make in reconstruction?
+-   How does the ready-made nature of materials today affect the kind of plans and compromises we make in reconstruction?
 
 -   Quantitative precision? Can an overemphasis on precision get in the way of a more historical approach to making? Are there unanticipated markers, tacit, implicit, or otherwise, for precision that emerge as you undertake your reconstruction? Are there useful markers of consistency that can help you evaluate your progress?
 
