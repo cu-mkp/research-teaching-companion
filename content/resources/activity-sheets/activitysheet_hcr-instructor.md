@@ -15,7 +15,7 @@ institutional kitchen.
 ## Learning Objectives 
 
 The Historical Culinary Recipe activity was conceived as one session (with the students working in their kitchens) at
-the start of a semester-long course. (See the [Craft and Science syllabus](/documents/docx/syllabus_sp16_gr8906-craft-and-science.docx) and the [Hands-On History syllabus](/documents/docx/syllabus_fall-2021_hands-on-history.docx).) This assignment works well as a way
+the start of a semester-long course. (See the [Craft and Science syllabus](/documents/docx/syllabus_sp16_gr8906-craft-and-science.docx) and the [Hands-On History syllabus](/documents/docx/syllabus_fa21_gu4962-hands-on-history.docx).) This assignment works well as a way
 into the methodology, but could be expanded into a series of sessions on
 different kinds of food, cookbooks across time, or the material culture
 and textual world of cookery. It raises questions about tacit knowledge,
