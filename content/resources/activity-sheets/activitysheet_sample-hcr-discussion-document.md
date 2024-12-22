@@ -4,7 +4,7 @@
 
 # Discussion Document
 
-nb. These are real, unedited, student comments. This document is
+nb. These are real, unedited student comments. This document is
 shared to give you a sense of the kinds of responses this activity can
 elicit. Names have been redacted.
 
