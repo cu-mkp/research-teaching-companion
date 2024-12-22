@@ -95,7 +95,7 @@ To know how much of the mordant, water, cochineal, and optional additive are nee
 - (also available as a [PDF](/documents/pdf/dyes-cochineal_assignment_downloadable_2023.pdf))
 - [Handout: One-page Instruction Sheet for Mordant and Dye Process](/documents/pdf/sp23_handout_dyeing-textiles_general-process.pdf)
 - [Handout: Historical Cochineal Dye Recipe - Piemontese](/documents/pdf/sp23_printout_recipe-example-piemontese.pdf) (2 copies per page for printing as a student handout)
-- [Dyeing with Natural Colorants: List of All Resources and Activity Sheets](/resources/activity-sheets/dyes-assignment/)
+- [Dyeing with Natural Colorants: All Essential Teaching Resources and Activity Sheets](/resources/activity-sheets/dyes-assignment/)
 
 
 #### Dyeing in Ms. Fr. 640
