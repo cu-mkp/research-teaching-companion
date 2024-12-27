@@ -1,4 +1,4 @@
-# VERDIGRIS PIGMENT "GROWING" RECONSTRUCTION
+# "GROWING" VERDIGRIS
 
 >_HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History_<br>
 _The Making and Knowing Project, Columbia University_<br>
