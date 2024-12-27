@@ -50,7 +50,7 @@ Making paints from pigments is an eye-opening way to get to know substances that
 #### Mineral Pigments
 - ["Growing" Verdigris Pigment](/resources/activity-sheets/verdigris-assignment/)
      - See also Marie-France Lemay's [“Verdigris” in Traveling Scriptorium: A Teaching Kit by the Yale University Library](https://travelingscriptorium.com/2013/01/17/verdigris/)
-- [Grinding, Levigating, and Painting with Azurite](/resources/activity-sheets/azurite-assignment/)
+- [Azurite: Grinding, Washing, and Painting](/resources/activity-sheets/azurite-assignment/)
 #### Making Paint, Preparing Supports, and Painting Test Panels
 Pigments (colored particles) must be combined with binding materials such as egg yolk, egg white, oils, or gums in order to create paint. While you can make your own pigments (see above), painting out even ready-made pigments is a crowd-pleasing (and educational!) activity. Making supports for painting (canvas, panel, prepared paper) helps gain an understanding of the crucial importance of the surface for the appearance of the final work of art. This activity can be relatively quick (sewing and stretching canvases) or quite lengthy (preparing panels, which involves nine sessions of applying gesso, allowing it to dry, then scraping and sanding it between each application).
 - [Making Paints from Pigments and Binding Media and Painting Them Out](/resources/activity-sheets/activitysheet_paintingpigments/)
