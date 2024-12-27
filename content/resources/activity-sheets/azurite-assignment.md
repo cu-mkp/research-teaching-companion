@@ -1,4 +1,4 @@
-# Skillbuilding: Preparing and Painting with Azurite
+# Azurite: Grinding, Washing, and Painting
 
 >_The Making and Knowing Project, Columbia University_<br>
 _Last updated 2022-11-30 by NJR_<br>
@@ -10,14 +10,14 @@ A downloadable version of this assignment: [[PDF](/documents/pdf/azurite_assignm
 ## Presentations & Handouts
 
 - [Presentation: Preparing and Painting Blue Pigments in the Renaissance](/documents/pdf/fa22_skillbuilding-azurite-presentation-full.pdf)
-- See also a [short version of this presentation focused on azurite](/documents/pdf/fa22_skillbuilding-azurite-presentation-short.pdf)
+- See also a [short version of this presentation focused on azurite](/documents/pdf/fa22_skillbuilding-azurite-presentation-short.pdf) (with additional information on Ms. Fr. 640)
 - [Student Handout](/documents/pdf/azurite_assignment_handout_2022.pdf) (to have while doing the hands-on reconstruction) 
 
 <p><a href="/documents/pdf/fa22_skillbuilding-azurite-presentation-full.pdf"><img src="/images/preparing-painting-blue.png" alt="Preparing and Painting Blue Pigment in the Renaissance"/></a></p>
 
 ## Introduction
 
-This skillbuilding assignment will introduce you to one of the most common blue pigments in the Renaissance, azurite. You will learn about what azurite is and how it is used in works of art. Following sixteenth-century instructions, you will prepare azurite as a pigment from the mineral ore by purifying it, and then use the pigment to create paint.
+This assignment will introduce you to one of the most common blue pigments in the Renaissance, azurite. You will learn about what azurite is and how it is used in works of art. Following sixteenth-century instructions, you will prepare azurite as a pigment from the mineral ore by purifying it, and then use the pigment to create paint.
 
 ## Pigments and Paints
  
