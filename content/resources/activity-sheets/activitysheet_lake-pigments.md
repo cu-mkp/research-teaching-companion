@@ -1,9 +1,9 @@
-## Making Lake Pigments
+# Making Lake Pigments
 
 The Making and Knowing Project has used lake pigment making as a core skill-building exercise for its students. M&K has often assigned lake pigment making alongside [verdigris growing](/resources/activity-sheets/verdigris-assignment/), which were then followed up by a [paint making and testing](/resources/activity-sheets/activitysheet_paintingpigments/) activity. Nevertheless, lake pigment making can be done on its own.
 
 
-### Learning Objectives
+## Learning Objectives
 The activity of making lake pigments from modernized historical recipes has several potential learning outcomes, which can include:
 - consider the relationship between historical and modern materials and tools
 - understand how units of measure were communicated before the age of standardization
@@ -11,7 +11,7 @@ The activity of making lake pigments from modernized historical recipes has seve
 - consider the labor involved in the production of historical art materials and artworks
 
 
-### What are Lake Pigments?
+## What are Lake Pigments?
 
 Lake pigments are a type of pigment prepared from organic natural colorants: plant and animal sources. As most organic natural colorants are soluble, they cannot be mixed directly with a binding medium and therefore cannot be used as a pigment. To be used as a pigment,
 these colorants must therefore be extracted as a solulble dye and then made insoluble by precipitating (or adsorbing) the dye onto a colorless or white, insoluble, relatively inert substrate. 
@@ -24,7 +24,7 @@ If you are not already familiar with historical pigments and natural colorants, 
 
 See also [Presentation: Introduction to Pigments &amp; Paints](/documents/pdf/introduction-paints-pigments_njr_2021.pdf).
 
-### What are Pigments More Generally?
+## What are Pigments More Generally?
 
 Pigments are colored, insoluble particles that, when combined with a binding medium, create paint that can then be applied to a substrate. Pigments can either be natural or synthetic. Historically, most pigments were sourced from the natural environment. Since the nineteenth century, the synthesis of pigments in industrial settings has become very common, ensuring consistent quality and new formulations.
 
@@ -42,13 +42,13 @@ For more on paint making, refer to [Presentation: Introduction to Pigments &amp;
 {{< figure src="/images/painting-pigment-binding-media.png" alt="painting-pigment+binding-media" >}}
 
 
-### Lake Pigments in Use
+## Lake Pigments in Use
 
 Lake pigments are typically found in top layer of paintings because their particles are translucent and are thus conducive to being used as thin glazes. As the entry "Glazing" on [fol. 66r](https://edition640.makingandknowing.org/#/folios/66r/f/66r/tl) of Ms. Fr. 640 notes, "one commonly glazes with colors that do not have body, such as lake & veridigris." 
 
 In practice, lake glazes could be used to create various subtle effects in painting. For example, the layer of "blush" painted over the cheek of a portrait might be done in a red lake pigment. This might reflect the use of lake pigments in women's cosmetics. [Fol. 58r](https://edition640.makingandknowing.org/#/folios/58r/f/58r/tl) of Ms. Fr. 640, the entry "Painter" includes the following observatino: "And thus they pounce the lake on their cheeks & then, with another clean cotton, they soften it."
 
-### Historical Recipes for Lake Pigments
+## Historical Recipes for Lake Pigments
 There are numerous recipes in historical sources from the late medieval period onward for making lake pigments. These include:
 - Cennino Cennini, _Il Libro dell'Arte_(_The Craftsman's Handbook_)
 - Various manuscript sources compiled in Mary P. Merrifield, _Medieval adn Renaissance Treatises on the Arts of Painting_
@@ -78,43 +78,43 @@ These steps are illustrated in the picture below:
 
 Lakes can be made from a variety of natural colorants. Natural colorants can be extracted from plants, such as madder roots, buckthorn berries, weld stems, logwood bark, and animals, such as cochineal insects and mollusk secretions. 
 
-#### Cochineal | Brazilwood | Weld | Green (Unripe) Buckthorn Berries
+### Cochineal | Brazilwood | Weld | Green (Unripe) Buckthorn Berries
 {{< figure src="/images/materials-cbwg-collection-5.png" alt="materials-cbwg-collection-5" >}}
 
-#### Ripe Buckthorn Berries | Sumac | Dyer's Broom | Turmeric
+### Ripe Buckthorn Berries | Sumac | Dyer's Broom | Turmeric
 {{< figure src="/images/materials-rsdt-collection-2.png" alt="materials-rsdt-collection-2" >}}
 
-#### Walnut Hulls | Logwood | Madder | Oak Galls
+### Walnut Hulls | Logwood | Madder | Oak Galls
 {{< figure src="/images/materials-wlmg-collection-5.png" alt="materials-wlmg-collection-5" >}}
 
 
-### Teaching Lake Pigments
-#### Lake-Making in the Classroom: Activities 
+## Teaching Lake Pigments
+### Lake-Making in the Classroom: Activities 
 - [Making Lake Pigment from Cochineal](/resources/activity-sheets/pigment-cochineal-lake_assignment/) - hands-on lesson plan and assignment for transforming natural colorants in cochineal insects into a pigment
 - [Making Lake Pigment from Madder](/resources/activity-sheets/pigment-madder-lake_assignment/) - hands-on lesson plan and assignment for transforming natural colorants in madder roots into a pigment
-#### Lake-Making in the Classroom: Field Notes
+### Lake-Making in the Classroom: Field Notes
 - [Making Pigment from Madder: a Trio of Recipes](/resources/activity-sheets/sp22_fld_rosenkranz_naomi_madder-lake-trio/) - helpful step-by-step fieldnotes 
 - A sample card painted from lake pigments in various binding media [[PNG](/images/pigment-paint-sample-card.png)]
-#### Lake-Making in the Classroom: Presentations
+### Lake-Making in the Classroom: Presentations
 - [Presentation: Cochineal Lake: History, Chemistry, and Preparation](/documents/pdf/presentation_sp23_rosenkranz_naomi_lakes_cochineal-history-chem-prep.pdf)
 - [Presentation: Madder Lake: History, Chemistry, and Preparation](/documents/pdf/presentation_sp23_rosenkranz_naomi_lakes_madder-history-chem-prep.pdf)
-#### Lake-Making in the Classroom: Reflection Assignments 
+### Lake-Making in the Classroom: Reflection Assignments 
 - Pigment-Making Lab Reflection Assignment [[DOCX](/documents/docx/uchacz_2024_lab1_reflection-assignment.docx)] [[PDF](/documents/pdf/uchacz_2024_lab1_reflection-assignment.pdf)]
 - Pigment-Making Lab Reflection Assignment Background Document [[DOCX](/documents/docx/uchacz_2024_lab1_reflection-assignment-background.docx)] [[PDF](/documents/pdf/uchacz_2024_lab1_reflection-assignment-background.pdf)]
-#### Lake-Making in the Classroom: Recipe Handouts
+### Lake-Making in the Classroom: Recipe Handouts
 - Cochineal (standard recipe; yields pink) [[DOCX](/documents/docx/lakes_cochineal_standard.docx)] [[PDF](/documents/pdf/lakes_cochineal_standard.pdf)]
 - Cochineal (reversed recipe; yields violet) [[DOCX](/documents/docx/lakes_cochineal_reversed.docx)] [[PDF](/documents/pdf/lakes_cochineal_reversed.pdf)]
 - Madder (standard; yields ruddy red) [[DOCX](/documents/docx/lakes_madder_standard.docx)] [[PDF](/documents/pdf/lakes_madder_standard.pdf)]
 - Weld (standard; yields pale yellow) [[DOCX](/documents/docx/lakes_weld_standard.docx)] [[PDF](/documents/pdf/lakes_weld_standard.pdf)]
 - Logwood (standard; yields smoky purple) [[DOCX](/documents/docx/lakes_logwood_standard.docx)] [[PDF](/documents/pdf/lakes_logwood_standard.pdf)]
 
-#### Lakes in Ms. Fr. 640
+### Lakes in Ms. Fr. 640
 There are no recipes for making lake pigments in Ms. Fr. 640. There are, however, numerous references to [lake](https://edition640.makingandknowing.org/#/search?q=lake) pigments across the manuscript. 
 
-##### Pigments and Lakes in Ms. Fr. 640
+### Pigments and Lakes in Ms. Fr. 640
 For an essay exploring pigments, including lake pigments, in the manuscript, see Jo Kirby and Marika Spring, [*Ms. Fr. 640 in the World of Pigments in Sixteenth-Century Europe*](https://edition640.makingandknowing.org/#/essays/ann_321_ie_19). 
 
-##### Lakes, Trade, and Labor in Ms. Fr. 640
+### Lakes, Trade, and Labor in Ms. Fr. 640
 Materials for a classroom activity exploring lake pigments in Ms. Fr. 640 (range of use, formats, and associated materials) and their relevance to global trade and labor practices:
 - [Compiled references to "lake" pigments in Ms. Fr. 640](/documents/pdf/lakes-in-Fr-640_2021.pdf)
 - [Classroom Activity: Lakes, Trade, and Labor in Ms. Fr. 640](/documents/pdf/lakes-trade-labor-in-Fr640.pdf)
