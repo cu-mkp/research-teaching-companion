@@ -1,4 +1,4 @@
-# Class Activity: Making Bread and Making Molds from Bread
+# Making Bread and Making Molds from Bread
 
 ## Objectives
 
