@@ -19,11 +19,9 @@ while best facilitating the multifaceted collaborative research process;
 and to ensure commitment to open access and open source standards
 wherever possible. Data management will comply with Columbia policies
 for [<u>Research and Data
-Integrity</u>](http://research.columbia.edu/ReaDI-Program) as well as
+Integrity</u>](http://research.columbia.edu/ReaDI-Program) as well as with
 guidelines and standards for the social sciences and humanities,
-including the [*<u>Sustaining Digital Resources: A Briefing Paper for
-Leaders of Projects with Scholarly
-Content</u>*](https://sca.jiscinvolve.org/wp/files/2009/10/sca_bp_projects_scholarly_content_sep09_v1-02.pdf)
+including the [*<u>Ithaka S+R Sustainability Implementation Toolkit</u>*](https://sr.ithaka.org/publications/sustainability-implementation-toolkit/)
 and the [*<u>Socio-Technical Sustainability
 Roadmap</u>*](https://sites.haa.pitt.edu/sustainabilityroadmap/).
 
