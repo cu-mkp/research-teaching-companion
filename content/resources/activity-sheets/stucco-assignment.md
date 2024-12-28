@@ -9,7 +9,7 @@ _Last updated 2021-09-24 by NJR_<br>
 A downloadable version of this assignment: [[**PDF**](/documents/pdf/stucco_assignment_downloadable_2021.pdf)]
 
 **NOTE TO INSTRUCTORS:** Rather than providing the full instructions, one may want to provide students only with the original recipe and the materials, allowing them to interpret the entry for themselves. A "student handout" is available:
-- [webpage (student handout)](/resources/activity-sheets/stucco_assignment_student-handout)
+- [webpage (student handout)](/resources/activity-sheets/stucco_assignment_student-handout/)
 - [PDF (student handout)](/documents/pdf/stucco_assignment_student-handout.pdf)
 
 ## Ephemeral Art in BnF Ms. Fr. 640
@@ -87,7 +87,7 @@ ________________________________________________________________________________
 A downloadable version of this assignment: [[**PDF**](/documents/pdf/stucco_assignment_downloadable_2021.pdf)]
 
 **NOTE TO INSTRUCTORS:** Rather than providing the full instructions, one may want to provide students only with the original recipe and the materials, allowing them to interpret the entry for themselves. A "student handout" is available:
-- [webpage (student handout)](/resources/activity-sheets/stucco_assignment_student-handout)
+- [webpage (student handout)](/resources/activity-sheets/stucco_assignment_student-handout/)
 - [PDF (student handout)](/documents/pdf/stucco_assignment_student-handout.pdf)
 
 
