@@ -7,23 +7,24 @@ A downloadable version of this assignment: [[PDF](/documents/pdf/azurite_assignm
 
 ![azurite in shells](/images/azurite-shells.jpg?raw=true)
 
-## Presentations & Handouts
+## Introduction
 
-- [Presentation: Preparing and Painting Blue Pigments in the Renaissance](/documents/pdf/fa22_skillbuilding-azurite-presentation-full.pdf)
-- See also a [short version of this presentation focused on azurite](/documents/pdf/fa22_skillbuilding-azurite-presentation-short.pdf) (with additional information on Ms. Fr. 640)
-- [Student Handout](/documents/pdf/azurite_assignment_handout_2022.pdf) (to have while doing the hands-on reconstruction) 
+This assignment will introduce you to one of the most common blue pigments in the Renaissance, azurite. You will learn about what azurite is and how it is used in works of art. Following sixteenth-century instructions, you will prepare azurite as a pigment from the mineral ore by purifying it (levigation), and then use the pigment to create paint.
 
 <p><a href="/documents/pdf/fa22_skillbuilding-azurite-presentation-full.pdf"><img src="/images/preparing-painting-blue.png" alt="Preparing and Painting Blue Pigment in the Renaissance"/></a></p>
 
-## Introduction
+## Presentations & Handouts - Preparing Azurite
 
-This assignment will introduce you to one of the most common blue pigments in the Renaissance, azurite. You will learn about what azurite is and how it is used in works of art. Following sixteenth-century instructions, you will prepare azurite as a pigment from the mineral ore by purifying it, and then use the pigment to create paint.
+- [Presentation: Preparing and Painting Blue Pigments in the Renaissance](/documents/pdf/fa22_skillbuilding-azurite-presentation-full.pdf)
+- See also a [short version of this presentation focused on azurite](/documents/pdf/fa22_skillbuilding-azurite-presentation-short.pdf) (with additional information on Ms. Fr. 640)
+- [Student Handout](/documents/pdf/azurite_assignment_handout_2022.pdf) (to have at hand while doing azurite grinding and washing) 
 
 ## Pigments and Paints
  
 It is important to remember that there is a difference between pigments and paints. A pigment is an insoluble colored particle; in other words, it is usually a dry powder of a certain color that will not dissolve when added to a desired medium or liquid. To create paint, one combines the pigment with a binding medium to create a paste that can be applied to a surface. A binding medium will help the pigment adhere to the surface on which it is applied. Common binding media include linseed and walnut oils (for oil painting), gum arabic (watercolor and ink), egg yolk (tempera), egg white (glair), and animal glues (distemper). For more information:
 - [Presentation: Introduction to Pigments &amp; Paints](/documents/pdf/introduction-paints-pigments_njr_2021.pdf)
 - [Lesson Plan: Making Paints from Pigments and Painting Them Out](/resources/activity-sheets/activitysheet_paintingpigments/)
+- [Student Assignment: Making Paints from Pigments and Painting Them Out](/resources/activity-sheets/painting-assignment/)
 
  ![pigment and binding media equals paint](/images/painting-pigment-binding-media.png?raw=true)
 
@@ -68,7 +69,7 @@ If we consider the way that azurite is prepared by separating out the different 
 > ... The main thing is to grind it well on marble, and before that, to have washed it thoroughly...<br/><br/>
 > ... Wash it in clear water & with a sponge remove the colored water after it starts to go to the bottom, and in this manner you will extract the very delicate flower, which will be easy to work with...
 
-## Reconstruction: Preparing Azurite 
+## Reconstruction: Preparing and Painting Azurite 
 
 To prepare azurite from the mineral ore, one uses water to remove impurities and to separate the different sizes of particles and obtain different grades of pigment. Any small containers that would allow successive pouring off of water can be used, but one historical tool - that is incredibly effective! - is a mussel shell. During the Renaissance, shells were also used to mix and store small amounts of paint similar to wells in an artist's paint palette.
 
@@ -89,13 +90,18 @@ To prepare azurite from the mineral ore, one uses water to remove impurities and
 
 ### Process
 
-The process is open to your experimentation! To get started, however, here are some useful step-by-step illustrations:
+The process is open to your experimentation! To get started, however, here are some useful resources and step-by-step illustrations:
 - The dedicated slides towards the middle of [Presentation: Preparing and Painting Blue Pigment in the Renaissance](/documents/pdf/fa22_skillbuilding-azurite-presentation-full.pdf)
+- [Short version of this presentation focused on azurite](/documents/pdf/fa22_skillbuilding-azurite-presentation-short.pdf) (with additional information on Ms. Fr. 640)
 - [Fieldnotes (with step-by-step pictures) by Naomi Rosenkranz, SU17 Azurite](/resources/activity-sheets/su17_rosenkranz_azurite-preparation-cambridge/)
+- [Student Handout](/documents/pdf/azurite_assignment_handout_2022.pdf) (to have at hand while doing azurite grinding and washing) 
 - “Experiments with Azurite in the History of Design MA Course” by students of the V&A/RCA History of Design MA 
      - [Part 1](https://www.vam.ac.uk/blog/news/experiments-with-azurite-on-the-history-of-design-ma-course) 
      - [Part 2](https://www.vam.ac.uk/blog/projects/thinking-and-experiencing-techne-making-azurite-part-2)
-- For painting out, see [Lesson Plan: Making and Testing Paints from Pigments](/resources/activity-sheets/activitysheet_paintingpigments/) and [Student Assignment: Making Paints from Pigments and Painting Them Out](/resources/activity-sheets/painting-assignment/)
+       
+For painting out
+- [Lesson Plan: Making and Testing Paints from Pigments](/resources/activity-sheets/activitysheet_paintingpigments/)
+- [Student Assignment: Making Paints from Pigments and Painting Them Out](/resources/activity-sheets/painting-assignment/)
 
 ### Questions for Consideration
 - Observation:
