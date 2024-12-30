@@ -45,7 +45,7 @@ The Samuel H. Kress Foundation
 
 The Gladys Krieble Delmas Foundation
 
-The National Science Foundation
+The _Research and Teaching Companion_ is based upon work supported by the National Science Foundation under SES Award No. 1734596. Any opinions, findings and conclusions or recommendations expressed in this _Companion_ are those of the authors and do not necessarily reflect the views of the National Science Foundation.
 
 <img src="/images/2018_printmaking_for-webpages.jpg" alt="Making and Knowing Lab printmaking" width="740" height="460"/>
 
