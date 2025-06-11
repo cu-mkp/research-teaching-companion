@@ -42,7 +42,7 @@ This Laboratory Seminar is a re-working of the graduate-level *GR8906: Craft and
 - [Fall 2021 HIST GU4962: Hands-on History Syllabus](/documents/pdf/syllabus_fa21_gu4962-hands-on-history.pdf) (also available as [DOCX](/documents/docx/syllabus_fa21_gu4962-hands-on-history.docx))
 - [Spring 2022 HIST GU4962: Hands-on History Syllabus](/documents/pdf/syllabus_sp22_gu4962-hands-on-history.pdf) (also available as [DOCX](/documents/docx/syllabus_sp22_gu4962-hands-on-history.docx))
 - [Spring 2023 HIST GU4962: Hands-on History Syllabus](/documents/pdf/syllabus_sp23_gu4962-hands-on-history.pdf) (also available as [DOCX](/documents/docx/syllabus_sp23_gu4962-hands-on-history.docx))
-- [Fall 2024 HIST GU4962: Hands-on History Syllabus](/documents/pdf/syllabus_fa24_gu4962-hands-on-history.pdf) (also available as [DOCX](/documents/docx/syllabus_fa24_gu4962-hands-on-history.docx))
+- [Fall 2024 HIST GU4962: Hands-on History Syllabus](/documents/pdf/syllabus_fa24_gu4962-hands-on-history.pdf) (also available as [DOCX](/documents/docx/syllabus_fa24-gu4962-hands-on-history.docx))
 
 ## What is a Book in the 21st Century? Working with Historical Texts in a Digital Environment (HIST GR8975)
 
