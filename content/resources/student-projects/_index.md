@@ -12,6 +12,8 @@ In *Making and Knowing in Early Modern Europe: Hands-On History*, undergrad and 
 
 Their exploratory and experimental projects serve as companion pieces to *Secrets of Craft and Nature* or mark out alternative pathways into the edition. Projects range from humorous to scholarly, pedagogical, and public facing. Instructors and students can find in them inspiration and pathways by which to explore Ms. Fr. 640 and its digital edition.
 
+### Fall 2024 Student Projects [[Syllabus](/documents/pdf/syllabus_fa24_gu4962-hands-on-history.pdf)]
+
 ### Spring 2023 Student Projects [[Syllabus](/documents/pdf/syllabus_sp23_gu4962-hands-on-history.pdf)]
 - [“Flesh Color” and Race Making in Early Modern Painters’ Manuals](/resources/student-projects/sp23_fan_ruilin_final-project_flesh-color/) by Ruilin Fan
 -  [Languages and Linguistic Agency in Ms. Fr. 640](/resources/student-projects/sp23_narcy_gilles_final-project_languages/) by Gilles Narcy
@@ -26,7 +28,6 @@ Their exploratory and experimental projects serve as companion pieces to *Secret
 -  [Varnishing, a Craft of Closure](/resources/student-projects/sp23_oberem-lukas_final-project_varnish/) by Lukas Oberem
 
 ### Spring 2022 Student Projects [[Syllabus](/documents/pdf/syllabus_sp22_gu4962-hands-on-history.pdf)]
-
 -   [Herodotus’ ‘Workshop’: A Core (Curriculum) Pathway into Ms. Fr. 640 and its Author-Practitioner](/resources/student-projects/sp22_arocho_alejandra_herodotus-workshop/) by Alejandra Quintana Arocho
 -   [Discarded Cartographies: Orienting Process Through Waste](/documents/pdf/sp22_dzumala_maciej_discards.pdf) by Maciej Dzumala
 -   [Counterproofing: Reproduction and Theft in Early Modern Print Culture](/resources/student-projects/sp22_lang_theodora_counterproofing/) by Theodora Bocanegra Lang
