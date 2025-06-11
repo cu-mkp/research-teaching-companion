@@ -13,8 +13,8 @@ In *Making and Knowing in Early Modern Europe: Hands-On History*, undergrad and 
 Their exploratory and experimental projects serve as companion pieces to *Secrets of Craft and Nature* or mark out alternative pathways into the edition. Projects range from humorous to scholarly, pedagogical, and public facing. Instructors and students can find in them inspiration and pathways by which to explore Ms. Fr. 640 and its digital edition.
 
 ### Fall 2024 Student Projects [[Syllabus](/documents/pdf/syllabus_fa24_gu4962-hands-on-history.pdf)]
-- [Red: Experiments in Cochineal Dyeing Techniques with Varying Mordants](/documents/student-projects/fa24_bunger-lily_final-project_cochineal.pdf) by Lily Bunger
-- [Dying Azur: The Death of Blue in Ms. Fr. 640](documents/student-projects/fa24_mckeever-sheena_final-project_azur.pdf) by Sheena McKeever
+- [Red: Experiments in Cochineal Dyeing Techniques with Varying Mordants](/documents/pdf/fa24_bunger-lily_final-project_cochineal.pdf) by Lily Bunger
+- [Dying Azur: The Death of Blue in Ms. Fr. 640](/documents/pdf/fa24_mckeever-sheena_final-project_azur.pdf) by Sheena McKeever
 
 ### Spring 2023 Student Projects [[Syllabus](/documents/pdf/syllabus_sp23_gu4962-hands-on-history.pdf)]
 - [“Flesh Color” and Race Making in Early Modern Painters’ Manuals](/resources/student-projects/sp23_fan_ruilin_final-project_flesh-color/) by Ruilin Fan
