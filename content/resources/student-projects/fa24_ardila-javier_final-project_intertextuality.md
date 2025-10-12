@@ -306,8 +306,8 @@ style="width:1.42639in;height:0.15833in" /><img src="./media-ardila/image3.png"
 style="width:1.42639in;height:0.15833in" /><img src="./media-ardila/image10.png"
 style="width:2.04861in;height:0.15833in" />
 
-**Source**: Making and Knowing Project. Digital Critical Edition, fol.
-170v. Digital highlight by the author: title (blue), author (green),
+> **Source**: Making and Knowing Project. Digital Critical Edition, fol.
+> 170v. Digital highlight by the author: title (blue), author (green),
 
 ## Contents of the list
 
@@ -709,8 +709,8 @@ related to the Gallic region (Fig. 7).
 <img src="./media-ardila/image2.png" style="width:5.98991in;height:4.99549in"
 alt="A colorful chart with text Description automatically generated with medium confidence" />
 
-Created by Javier Ardila based on the Making and Knowing Project.
-*Secrets of Craft and Nature*, fols. 1r, 2r, 35r, 53r, 170v.
+> Created by Javier Ardila based on the Making and Knowing Project.
+> *Secrets of Craft and Nature*, fols. 1r, 2r, 35r, 53r, 170v.
 
 ## Considerations
 
