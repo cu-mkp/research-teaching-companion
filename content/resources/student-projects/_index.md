@@ -55,7 +55,7 @@ In fall 2024, the Making and Knowing Project hosted dyer-weaver Bertha Estrada H
 -   [The Making and Meaning of Intermediates: Workshop and Syllabus for Students of Architecture](/resources/student-projects/fa21_weisgall_benjamin_final-project-architecture-workshop/) by Benjamin Weisgall
 -  [The Natural History of Ms. Fr. 640: A Visual Exploration](/documents/pdf/fa21_davol_eleanor_final-project-nat-history.pdf) by Eleanor Davol
 -  [Instructor Assignment Sheet: Ms. Fr. 640 fol. 43v, “Varied and Transmuted Wine”](/resources/student-projects/fa21_alberts_naomi_final-project_ph-lesson/) by Naomi Alberts
--   [Global Ingredients: The Diverse Origins of Natural Materials in Ms. Fr. 640](https://catapanoth.com/omandka/exhibits/show/global-ingredients--the-divers) (Omeka exhibit with gallery and map) by Elia Zhang and Helena Seo
+-   [Global Ingredients: The Diverse Origins of Natural Materials in Ms. Fr. 640](/documents/pdf/fa21_seo-zhang_pdf-archive-full_global-ingredients-omeka.pdf) (Omeka exhibit with gallery and map) by Elia Zhang and Helena Seo
 -  [An Exploration of Humor in Ms. Fr. 640](/resources/student-projects/fa21_atkins-joyce-farley_charlotte-siobhan_pranks/) by Charlotte Atkins and Siobhan Joyce-Farley
     -   See their [VIDEO: Funniest Pranks of the 16th Century](https://youtu.be/BFK71x0bvuE)
 -  [The Soundscape of Process: An Audio Recreation of Lifecasting in the Workshop](/resources/student-projects/fa21_zayas-waters_elliot-mac_final-project-soundscape/) by Elliot Zayas and Mac Waters
