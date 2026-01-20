@@ -172,8 +172,7 @@ individual entry’s appearance and the list’s overall contents and forms.
 
 **List A**
 
-<img src="./media-ardila/image8.png" style="width:4.85448in;height:3.24966in"
-alt="A close-up of a handwritten letter Description automatically generated" />
+ ![Image](/images/media-ardila/image8.png)
 
 > **Source**: Making and Knowing Project. Digital Critical Edition, fol.
 > 170v. Digital highlight by the author: title (blue), author (green),
@@ -183,8 +182,7 @@ alt="A close-up of a handwritten letter Description automatically generated" />
 
 **List A**
 
-<img src="./media-ardila/image11.png" style="width:4.68537in;height:2.59447in"
-alt="A close up of a document Description automatically generated" />
+ ![Image](/images/media-ardila/image11.png)
 
 > **Source**: Making and Knowing Project. Digital Critical Edition, fol.
 > 170v. Digital highlight by the author: title (blue), author (green),
@@ -237,8 +235,7 @@ possibility that List B represents an ideal recollection of references.
 
 **List B**
 
-<img src="./media-ardila/image14.png" style="width:5.63042in;height:6.01781in"
-alt="A document with text and writing Description automatically generated with medium confidence" />
+ ![Image](/images/media-ardila/image14.png)
 
 > **Source**: Making and Knowing Project. Digital Critical Edition, fol.
 > 170v. Digital highlight by the author: title (blue), author (green),
@@ -293,18 +290,14 @@ contents.
 
 **List C**
 
-<img src="./media-ardila/image12.png" style="width:6.5in;height:3.32014in"
-alt="A close-up of a letter Description automatically generated" /><img src="./media-ardila/image9.png"
-style="width:1.58194in;height:0.15972in" /><img src="./media-ardila/image6.png"
-style="width:0.78125in;height:0.15833in" /><img src="./media-ardila/image13.png"
-style="width:1.01736in;height:0.15833in" /><img src="./media-ardila/image5.png"
-style="width:1.17361in;height:0.15833in" /><img src="./media-ardila/image1.png"
-style="width:1.01389in;height:0.15833in" /><img src="./media-ardila/image3.png"
-style="width:1.42639in;height:0.15833in" /><img src="./media-ardila/image3.png"
-style="width:1.42639in;height:0.15833in" /><img src="./media-ardila/image3.png"
-style="width:1.42639in;height:0.15833in" /><img src="./media-ardila/image3.png"
-style="width:1.42639in;height:0.15833in" /><img src="./media-ardila/image10.png"
-style="width:2.04861in;height:0.15833in" />
+ ![Image](/images/media-ardila/image12.png)
+ ![Image](/images/media-ardila/image9.png)
+ ![Image](/images/media-ardila/image6.png)
+ ![Image](/images/media-ardila/image13.png)
+ ![Image](/images/media-ardila/image5.png)
+ ![Image](/images/media-ardila/image1.png)
+ ![Image](/images/media-ardila/image3.png)
+ ![Image](/images/media-ardila/image10.png)
 
 > **Source**: Making and Knowing Project. Digital Critical Edition, fol.
 > 170v. Digital highlight by the author: title (blue), author (green),
@@ -512,8 +505,7 @@ Gembloux’s *Chronicon* (Ms640.R62C), Giacomo Filippo Foresti’s
 
 **Thematic Division**
 
-<img src="./media-ardila/image4.png" style="width:6.26788in;height:4.19198in"
-alt="A colorful squares with black text Description automatically generated with medium confidence" />
+ ![Image](/images/media-ardila/image4.png)
 
 > Created by Javier Ardila based on Making and Knowing Project, *Secrets
 > of Craft and Nature*, fols. 1r, 2r, 35r, 53r, 170v.
@@ -624,8 +616,7 @@ history and chronicles (Ms640.R66C).
 
 **Chronological Distribution (Authors)**
 
-<img src="./media-ardila/image7.png" style="width:6.5in;height:6.10208in"
-alt="A circular chart with names Description automatically generated" />
+ ![Image](/images/media-ardila/image7.png)
 
 > Created by Javier Ardila based on Making and Knowing Project, *Secrets
 > of Craft and Nature*, fols. 1r, 2r, 35r, 53r, 170v.
@@ -706,8 +697,7 @@ related to the Gallic region (Fig. 7).
 
 **Geographic Concentration (Authors)**
 
-<img src="./media-ardila/image2.png" style="width:5.98991in;height:4.99549in"
-alt="A colorful chart with text Description automatically generated with medium confidence" />
+ ![Image](/images/media-ardila/image2.png)
 
 > Created by Javier Ardila based on the Making and Knowing Project.
 > *Secrets of Craft and Nature*, fols. 1r, 2r, 35r, 53r, 170v.
