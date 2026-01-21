@@ -278,7 +278,7 @@ does he determine which materials and processes can be subject to this
 language of animated colors? In a recipe for softening iron for
 engraving, for example, he only gives instructions to “make it \[iron\]
 *reheat* until it is very *red*” (*“le fais* recuire *jusques à ce qu’il
-soict bien* rouge*”*) \[fol.
+soict bien* rouge”) \[fol.
 [<u>149r</u>](https://edition640.makingandknowing.org/folios/149r/f/149r/tl)\].
 In contrast, he applies *rougir* generously when he describes the
 heating of molds in the manuscript’s impressive collection of metal
