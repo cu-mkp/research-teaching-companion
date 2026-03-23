@@ -144,62 +144,14 @@ this experiment because only cotton handkerchiefs were dyed.
 
 *Table 1: Conditions for Experimental Setup*
 
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<thead>
-<tr>
-<th><strong>Condition</strong></th>
-<th><strong>Modifier</strong></th>
-<th><strong>Water Type</strong></th>
-<th><strong>Notation</strong></th>
-</tr>
-<tr>
-<th><strong>Acidic Soft</strong></th>
-<th>1 g Vinegar</th>
-<th>Tap</th>
-<th>A</th>
-</tr>
-<tr>
-<th><strong>Acidic Hard</strong></th>
-<th><p>1 g Vinegar +</p>
-<p>1 g Epsom</p></th>
-<th>Tap</th>
-<th>AH</th>
-</tr>
-<tr>
-<th><strong>Neutral Soft</strong></th>
-<th></th>
-<th>Tap</th>
-<th>N</th>
-</tr>
-<tr>
-<th><strong>Neutral Hard</strong></th>
-<th>1 g Epsom</th>
-<th>Tap</th>
-<th>NH</th>
-</tr>
-<tr>
-<th><strong>Basic Soft</strong></th>
-<th>1 g Baking Soda</th>
-<th>Tap</th>
-<th>B</th>
-</tr>
-<tr>
-<th><strong>Basic Hard</strong></th>
-<th><p>1 g Baking Soda +</p>
-<p>1 g Epsom</p></th>
-<th>Tap</th>
-<th>BH</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+|   Condition  |           Modifier          | Water Type | Notation |
+|:------------:|:---------------------------:|:----------:|:--------:|
+|  Acidic Soft |         1 g Vinegar         |     Tap    |     A    |
+|  Acidic Hard |   1 g Vinegar + 1 g Epsom   |     Tap    |    AH    |
+| Neutral Soft |             \               |     Tap    |     N    |
+| Neutral Hard |          1 g Epsom          |     Tap    |    NH    |
+|  Basic Soft  |       1 g Baking Soda       |     Tap    |     B    |
+|  Basic Hard  | 1 g Baking Soda + 1 g Epsom |     Tap    |    BH    |
 
 <img src="./media-kumar/image3.jpg"
 style="width:4.54167in;height:2.82292in" />
