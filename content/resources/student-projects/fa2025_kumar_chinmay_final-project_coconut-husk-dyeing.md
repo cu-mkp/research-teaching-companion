@@ -173,9 +173,7 @@ this experiment because only cotton handkerchiefs were dyed.
 </tr>
 <tr>
 <th><strong>Neutral Soft</strong></th>
-<th><ul>
-<li></li>
-</ul></th>
+<th></th>
 <th>Tap</th>
 <th>N</th>
 </tr>
