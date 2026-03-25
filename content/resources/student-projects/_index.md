@@ -15,7 +15,7 @@ Their exploratory and experimental projects serve as companion pieces to *Secret
 ### Fall 2025 Student Projects [[Syllabus](/documents/pdf/syllabus_fa25_gu4962-hands-on-history.pdf)]
 In fall 2025, the Making and Knowing Project once again hosted dyer-weaver Bertha Estrada Huipe and her son and assistant Mateo Estrada Rodriguez from Ahuirán, Mexico. Students worked alongside Bertha and Mateo, learning to weave, making natural dyes from brazilwood, indigo, marigold flowers, oak bark, and cochineal, and learning about the many forms of knowledge (environmental, cultural, and tacit) that are embedded in Purépecha dyeing techniques.. Students built on this experience in their projects.
 - [Reconstructing Heather-Reinforced Earth: Material Understanding and Embodied Knowledge in Ms. Fr. 640](/resources/student-projects/fa25_gao_xin_final-project_heather-reinforced-earth/) by Xin Gao
-- [Color, Chemistry, and Craft: Investigating the Effects of pH and Water Hardness on Coconut-Husk Natural Dyeing](/resources/student-projects/fa25_fa25_kumar_chinmay_final-project_coconut-husk-dyeing/) by Chinmay Kumar
+- [Color, Chemistry, and Craft: Investigating the Effects of pH and Water Hardness on Coconut-Husk Natural Dyeing](/resources/student-projects/fa25_kumar_chinmay_final-project_coconut-husk-dyeing/) by Chinmay Kumar
 - [Exhibition: Making and Knowing: An Exploration in Craft](/resources/student-projects/fa25_riddle_emma_final-project_craft-exhibit/) by Emma Riddle
 - More soon!
 
