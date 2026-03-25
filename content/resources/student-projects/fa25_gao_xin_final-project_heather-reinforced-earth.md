@@ -451,25 +451,15 @@ loose particles or exposed heathers.
 
 Figure 6: Forming and ramming
 
-<span class="mark">Videos</span>
+<div style="padding:177.78% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1176597683?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Reconstructing Heather Video 02_Making Soil Even"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-<span class="mark">1. [<u>Make the soil
-evenly</u>](https://drive.google.com/file/d/1ozUe59sweGFzDQ3HtR4xWpsyGBXXO8It/view?usp=sharing)</span>
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1176598199?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Reconstructing Heather Video 03_Tamping Sound"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-<span class="mark">2. [<u>Initial tamping sound without
-heather</u>](https://drive.google.com/file/d/14hrwPgbCP0q7EDUQ_MgTL_5c6PERdeje/view?usp=sharing);
-[<u>with
-heather</u>](https://drive.google.com/file/d/1DY19bXLae0QKej13amJ8HLiW-Lb43lhX/view?usp=sharing)</span>
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1176598730?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Reconstructing Heather Video 04_Edge Compaction"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-<span class="mark">3. [<u>Edge compaction with pointed
-tool</u>](https://drive.google.com/file/d/17SkSOWG7IFJx6-xXpAv-PacH43DPiSab/view?usp=sharing)</span>
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1176599185?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Reconstructing Heather Video 05_Cohesive Mixture"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-<span class="mark">4. [<u>Transition from loose to cohesive mixture
-sound</u>](https://drive.google.com/file/d/12cDQux9cjtcfQmXy37N6Oj60f4Y5pbFj/view?usp=sharing)</span>
-
-<span class="mark">5.</span> [<span class="mark"><u>Final surface
-beating with the</u></span>
-<span class="mark"><u>bat</u></span>](https://drive.google.com/file/d/1ScwBot5h6fPTv43s93RhrQ_gbJVwL8Wr/view?usp=sharing)
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1176599636?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Reconstructing Heather Video 06_Final Surface Beating"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 #### 3.2.5 Demolding
 
