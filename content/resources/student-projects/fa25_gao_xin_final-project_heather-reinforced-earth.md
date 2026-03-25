@@ -186,7 +186,7 @@ label "B."*
 *\[4\] Though none of the instruments in the margin is marked "C," the
 author-practitioner is presumably referring to the bottom drawing.*
 
-<img src="./images/media-gao/image6.png" style="width:0.78886in;height:2.2066in" />
+![IMAGE](/images/media-gao/image6.png)
 
 ---
 
@@ -278,7 +278,7 @@ triangular tool (functioning alternately as a pointed edge tool and a
 triangular beater), and additional flat beating implements (see Figure
 1).
 
-<img src="./images/media-gao/image7.png" style="width:6.5in;height:3.98611in" />
+![IMAGE](/images/media-gao/image7.png)
 
 Figure 1: Materials and tools 
 
@@ -303,7 +303,7 @@ transformed the initially irregular and heterogeneous soil into a finer,
 more uniform material that was more workable for the subsequent stages
 of mixing and compaction.
 
-<img src="./images/media-gao/image3.png"
+![IMAGE](/images/media-gao/image3.png"
 style="width:6.40761in;height:3.63021in" />
 
 Figure 2: Soil preparation process
@@ -322,7 +322,7 @@ approximately 30 mm. This length approximates the structural role
 implied by the term “branches” in the manuscript while ensuring adequate
 dispersibility within a small-scale model.
 
-<img src="./images/media-gao/image9.png" style="width:6.43681in;height:3.8988in" />
+![IMAGE](/images/media-gao/image9.png)
 
 Figure 3: Heather preparation process
 
@@ -344,7 +344,7 @@ addition of water and repeatedly kneading and pressing the material, I
 brought the mixture into a cohesive, plastic, and non-sticky state (see
 Figure 4).
 
-<img src="./images/media-gao/image8.png" style="width:6.5in;height:3.25in" />
+![IMAGE](/images/media-gao/image8.png)
 
 Figure 4: Moisture content and test
 
@@ -379,7 +379,7 @@ ratio of components was 4:2:1 (clay-rich soil : sandier soil : water).
 The quantity of heather was set at roughly one quarter of the mass of
 the clay-rich base soil (see Figure 5).
 
-<img src="./images/media-gao/image5.png" style="width:6.5in;height:4.08333in" />
+![IMAGE](/images/media-gao/image5.png)
 
 Figure 5: Mixture ratio for the reconstruction
 
@@ -447,7 +447,7 @@ After completing tamping across all layers, the surface of the material
 presented a continuous, level, and visibly compacted finish, with no
 loose particles or exposed heathers.
 
-<img src="./images/media-gao/image4.png" style="width:6.5in;height:2.66667in" />
+![IMAGE](/images/media-gao/image4.png)
 
 Figure 6: Forming and ramming
 
@@ -478,7 +478,7 @@ This process also reinforced the importance of using pointed tools
 during compaction, as adequate densification at the corners directly
 affected the stability of the block during demolding.
 
-<img src="./images/media-gao/image1.png" style="width:6.5in;height:3.41667in" />
+![IMAGE](/images/media-gao/image1.png)
 
 Figure 7: Demolding process (left: group a; right: group b–with heather)
 
@@ -497,7 +497,7 @@ underscores the importance of understanding earthen construction as a
 sequence of interrelated stages. It also suggests that controlling water
 required historical builders to rely on their experiences.
 
-<img src="./images/media-gao/image2.png" style="width:6.5in;height:3.01389in" />
+![IMAGE](/images/media-gao/image2.png)
 
 Figure 8: Drying process
 
