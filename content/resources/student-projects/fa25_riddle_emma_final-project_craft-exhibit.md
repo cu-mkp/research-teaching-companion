@@ -1,7 +1,7 @@
 # Exhibition: Making and Knowing: An Exploration in Craft 
 
-Emma Riddle<br>
-Fall 2025<br>
+Emma Riddle
+Fall 2025
 HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History
 
 ## Explore *Making and Knowing: An Exploration in Craft*
@@ -18,7 +18,7 @@ src="[<u>https://player.vimeo.com/api/player.js</u>](https://urldefense.com/v3/_
 
 ## Exhibition Proposal - Overview 
 
-<img src="./images/media-riddle/image14.jpg" style="width:3.6in;height:3.6in" />
+![IMAGE](/images/media-riddle/image14.jpg)
 
 ### Exhibition Statement
 
@@ -132,7 +132,7 @@ src="[<u>https://player.vimeo.com/api/player.js</u>](https://urldefense.com/v3/_
   design of salmon pink (taken from one of the colors in the end pages
   of the physical manuscript) and black text in the font XB Niloofar.
 
-<img src="./images/media-riddle/image7.jpg" style="width:6.3in;height:3.843in" />
+![IMAGE](/images/media-riddle/image7.jpg)
 
 - There are also texts placed under other materials in a black,
   sixteen-point, Times New Roman font. These are listed below:
@@ -154,8 +154,8 @@ src="[<u>https://player.vimeo.com/api/player.js</u>](https://urldefense.com/v3/_
     you to take a few minutes to look through it. What are some things
     you notice? What is most interesting? (Under the first digital item)
 
-<img src="./images/media-riddle/image5.jpg" style="width:3.6in;height:3.6in" />
-<img src="./images/media-riddle/image19.png" style="width:3.6in;height:5.55in" />
+![IMAGE](/images/media-riddle/image5.jpg)
+![IMAGE](/images/media-riddle/image19.png)
 
 3.  This is a short video examining the physical manuscript and some of
     its features. What are some things you noticed about the physical
@@ -178,9 +178,9 @@ src="[<u>https://player.vimeo.com/api/player.js</u>](https://urldefense.com/v3/_
     the city important in understanding the manuscript? (Located under
     storymap)
 
-<img src="./images/media-riddle/image21.png" style="width:6.3in;height:3.486in" />
+![IMAGE](/images/media-riddle/image21.png)
 
-<img src="./images/media-riddle/image3.jpg" style="width:3.6in;height:3.6in" />
+![IMAGE](/images/media-riddle/image3.jpg)
 
 5.  Making is knowing, and an important aspect of making is doing. This
     video game has little instructions; however, as you learn how to
@@ -188,8 +188,8 @@ src="[<u>https://player.vimeo.com/api/player.js</u>](https://urldefense.com/v3/_
     knowledge is gained through the process of making. (Under the video
     game image)
 
-<img src="./images/media-riddle/image6.jpg" style="width:3.6in;height:3.018in" />
-<img src="./images/media-riddle/image2.jpg" style="width:3.6in;height:3.6in" />
+![IMAGE](/images/media-riddle/image6.jpg)
+![IMAGE](/images/media-riddle/image2.jpg)
 
 6.  If you had to guess, how much longer does the sourdough loaf need to
     stay in the oven? You could most likely make an educated guess based
@@ -200,14 +200,14 @@ src="[<u>https://player.vimeo.com/api/player.js</u>](https://urldefense.com/v3/_
     observation through your senses and repeated interaction with
     materials. (Under the image of the bread)
 
-<img src="./images/media-riddle/image8.jpg" style="width:6.3in;height:4.2105in" />
-<img src="./images/media-riddle/image4.jpg" style="width:3.6in;height:3.6in" />
+![IMAGE](/images/media-riddle/image8.jpg)
+![IMAGE](/images/media-riddle/image4.jpg)
 
 7.  This is a short [<u>four-minute tour of the Making and Knowing
     Project Lab</u>](https://vimeo.com/384070452) located at Columbia
     University. (Under the video of the lab tour)
 
-<img src="./images/media-riddle/image1.jpg" style="width:3.6in;height:3.6in" />
+![IMAGE](/images/media-riddle/image1.jpg)
 
 - Photos: There are three photos included in the section of the exhibit
   focusing on the author-practitioner and manuscript. The first is a
@@ -224,20 +224,20 @@ src="[<u>https://player.vimeo.com/api/player.js</u>](https://urldefense.com/v3/_
   rose is the most recognizable out of context. Furthermore, the
   materials used are easily identifiable.
 
-<img src="./images/media-riddle/image12.jpg" style="width:3.6in;height:3.6in" />
+![IMAGE](/images/media-riddle/image12.jpg)
 
-<img src="./images/media-riddle/image15.png" style="width:3.6in;height:5.25981in" />
+![IMAGE](/images/media-riddle/image15.png)
 
-<img src="./images/media-riddle/image13.jpg" style="width:3.6in;height:3.6in" />
+![IMAGE](/images/media-riddle/image13.jpg)
 
-<img src="./images/media-riddle/image11.png" style="width:6.5in;height:4.33333in" />
+![IMAGE](/images/media-riddle/image11.png)
 
-<img src="./images/media-riddle/image9.jpg" style="width:3.6in;height:3.6in" />
+![IMAGE](/images/media-riddle/image9.jpg)
 
-<img src="./images/media-riddle/image20.png" style="width:3.6in;height:5.49358in" />
+![IMAGE](/images/media-riddle/image20.png)
 
-<img src="./images/media-riddle/image16.jpg" style="width:3.6in;height:3.6in" />
-<img src="./images/media-riddle/image10.jpg" style="width:3.6in;height:3.6in" />
+![IMAGE](/images/media-riddle/image16.jpg)
+![IMAGE](/images/media-riddle/image10.jpg)
 
 - Videos: There are two videos included in the exhibit section that
   discuss the author-practitioner and the manuscript. The first video is
@@ -283,8 +283,8 @@ src="[<u>https://player.vimeo.com/api/player.js</u>](https://urldefense.com/v3/_
 - Programming Poster: A programming poster for the first event in the
   programming cycle.
 
-<img src="./images/media-riddle/image18.jpg" style="width:3.6in;height:5.0979in" />
-<img src="./images/media-riddle/image17.jpg" style="width:3.6in;height:5.0979in" />
+![IMAGE](/images/media-riddle/image18.jpg)
+![IMAGE](/images/media-riddle/image17.jpg)
 
 ## Works Cited 
 
