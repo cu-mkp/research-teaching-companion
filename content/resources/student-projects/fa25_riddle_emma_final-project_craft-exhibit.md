@@ -1,7 +1,7 @@
 # Exhibition: Making and Knowing: An Exploration in Craft 
 
-Emma Riddle
-Fall 2025
+Emma Riddle<br>
+Fall 2025<br>
 HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History
 
 ## Explore *Making and Knowing: An Exploration in Craft*
