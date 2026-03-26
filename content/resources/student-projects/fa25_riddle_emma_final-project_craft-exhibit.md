@@ -1,20 +1,12 @@
 # Exhibition: Making and Knowing: An Exploration in Craft 
 
-Emma Riddle
-Fall 2025
+Emma Riddle<br>
+Fall 2025<br>
 HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History
 
 ## Explore *Making and Knowing: An Exploration in Craft*
 
-\<div style="padding:55.53% 0 0 0;position:relative;"\>\<iframe
-src="[<u>https://player.vimeo.com/video/1176285136?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479</u>](https://urldefense.com/v3/__https://player.vimeo.com/video/1176285136?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479__;!!BDUfV1Et5lrpZQ!SVU2_rtxuVHG8S4I3EWMBCR8tygi1_B90KAlPdUq66nl3_wgn_wOrvT1lZE4-KcKxoioo0t511uiOVRzuKJubdIh1Q$)"
-frameborder="0" allow="autoplay; fullscreen; picture-in-picture;
-clipboard-write; encrypted-media; web-share"
-referrerpolicy="strict-origin-when-cross-origin"
-style="position:absolute;top:0;left:0;width:100%;height:100%;"
-title="Virtual Exhibition Tour of Making and Knowing: An Exploration in
-Craft"\>\</iframe\>\</div\>\<script
-src="[<u>https://player.vimeo.com/api/player.js</u>](https://urldefense.com/v3/__https://player.vimeo.com/api/player.js__;!!BDUfV1Et5lrpZQ!SVU2_rtxuVHG8S4I3EWMBCR8tygi1_B90KAlPdUq66nl3_wgn_wOrvT1lZE4-KcKxoioo0t511uiOVRzuKJrf1y7DQ$)"\>\</script\>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1176285136?h=6db9051c42" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
 ## Overview 
 
@@ -139,15 +131,7 @@ src="[<u>https://player.vimeo.com/api/player.js</u>](https://urldefense.com/v3/_
 1.  Dr. Pamela Smith shares a brief introduction of the Making and
     Knowing project. 
 
-\<div style="padding:55.53% 0 0 0;position:relative;"\>\<iframe
-src="https://player.vimeo.com/video/384070384?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
-frameborder="0" allow="autoplay; fullscreen; picture-in-picture;
-clipboard-write; encrypted-media; web-share"
-referrerpolicy="strict-origin-when-cross-origin"
-style="position:absolute;top:0;left:0;width:100%;height:100%;"
-title="Introduction to the Making and Knowing
-Project"\>\</iframe\>\</div\>\<script
-src="[<u>https://player.vimeo.com/api/player.js</u>](https://urldefense.com/v3/__https://player.vimeo.com/api/player.js__;!!BDUfV1Et5lrpZQ!SVU2_rtxuVHG8S4I3EWMBCR8tygi1_B90KAlPdUq66nl3_wgn_wOrvT1lZE4-KcKxoioo0t511uiOVRzuKJrf1y7DQ$)"\>\</script\>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/384070384?h=474f5dc00d" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
 2.  This is an interactive digital copy of the manuscript. We would like
     you to take a few minutes to look through it. What are some things
@@ -160,14 +144,7 @@ src="[<u>https://player.vimeo.com/api/player.js</u>](https://urldefense.com/v3/_
     its features. What are some things you noticed about the physical
     copy? What aspects of the manuscript do you find most intriguing?
 
-\<div style="padding:55.53% 0 0 0;position:relative;"\>\<iframe
-src="https://player.vimeo.com/video/389763699?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
-frameborder="0" allow="autoplay; fullscreen; picture-in-picture;
-clipboard-write; encrypted-media; web-share"
-referrerpolicy="strict-origin-when-cross-origin"
-style="position:absolute;top:0;left:0;width:100%;height:100%;"
-title="Paging through BnF Ms. Fr. 640"\>\</iframe\>\</div\>\<script
-src="[<u>https://player.vimeo.com/api/player.js</u>](https://urldefense.com/v3/__https://player.vimeo.com/api/player.js__;!!BDUfV1Et5lrpZQ!SVU2_rtxuVHG8S4I3EWMBCR8tygi1_B90KAlPdUq66nl3_wgn_wOrvT1lZE4-KcKxoioo0t511uiOVRzuKJrf1y7DQ$)"\>\</script\>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/389763699?h=0250d2889a" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
 4.  Below is an interactive storymap that walks through Toulouse as
     mentioned in the manuscript. As you look through the different
