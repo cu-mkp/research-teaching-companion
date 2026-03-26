@@ -16,7 +16,7 @@ title="Virtual Exhibition Tour of Making and Knowing: An Exploration in
 Craft"\>\</iframe\>\</div\>\<script
 src="[<u>https://player.vimeo.com/api/player.js</u>](https://urldefense.com/v3/__https://player.vimeo.com/api/player.js__;!!BDUfV1Et5lrpZQ!SVU2_rtxuVHG8S4I3EWMBCR8tygi1_B90KAlPdUq66nl3_wgn_wOrvT1lZE4-KcKxoioo0t511uiOVRzuKJrf1y7DQ$)"\>\</script\>
 
-## Exhibition Proposal - Overview 
+## Overview 
 
 ![IMAGE](/images/media-riddle/image14.jpg)
 
@@ -36,8 +36,7 @@ src="[<u>https://player.vimeo.com/api/player.js</u>](https://urldefense.com/v3/_
 - The exhibit explores the manuscript itself, the author-practitioner,
   craft as a form of knowledge, and the lab component of the [<u>Making
   and Knowing Project</u>](https://www.makingandknowing.org/). Drawing
-  on [<u>research
-  essays</u>](https://edition640.makingandknowing.org/essays) and other
+  on [<u>research essays</u>](https://edition640.makingandknowing.org/essays) and other
   content published on the [*<u>Secrets of Craft and Nature in
   Renaissance France: A Digital Critical Edition of BnF Ms. Fr.
   640</u>*](https://edition640.makingandknowing.org/) site, I hope to
@@ -134,11 +133,11 @@ src="[<u>https://player.vimeo.com/api/player.js</u>](https://urldefense.com/v3/_
 
 ![IMAGE](/images/media-riddle/image7.jpg)
 
-- There are also texts placed under other materials in a black,
+- There are also captions placed near the materials in a black,
   sixteen-point, Times New Roman font. These are listed below:
 
 1.  Dr. Pamela Smith shares a brief introduction of the Making and
-    Knowing project. (Under the Introduction video)
+    Knowing project. 
 
 \<div style="padding:55.53% 0 0 0;position:relative;"\>\<iframe
 src="https://player.vimeo.com/video/384070384?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
@@ -152,15 +151,14 @@ src="[<u>https://player.vimeo.com/api/player.js</u>](https://urldefense.com/v3/_
 
 2.  This is an interactive digital copy of the manuscript. We would like
     you to take a few minutes to look through it. What are some things
-    you notice? What is most interesting? (Under the first digital item)
+    you notice? What is most interesting? 
 
 ![IMAGE](/images/media-riddle/image5.jpg)
 ![IMAGE](/images/media-riddle/image19.png)
 
-3.  This is a short video examining the physical manuscript and some of
+3.  Here is a short video examining the physical manuscript and some of
     its features. What are some things you noticed about the physical
     copy? What aspects of the manuscript do you find most intriguing?
-    (Under the video paging through the physical manuscript)
 
 \<div style="padding:55.53% 0 0 0;position:relative;"\>\<iframe
 src="https://player.vimeo.com/video/389763699?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
@@ -171,12 +169,11 @@ style="position:absolute;top:0;left:0;width:100%;height:100%;"
 title="Paging through BnF Ms. Fr. 640"\>\</iframe\>\</div\>\<script
 src="[<u>https://player.vimeo.com/api/player.js</u>](https://urldefense.com/v3/__https://player.vimeo.com/api/player.js__;!!BDUfV1Et5lrpZQ!SVU2_rtxuVHG8S4I3EWMBCR8tygi1_B90KAlPdUq66nl3_wgn_wOrvT1lZE4-KcKxoioo0t511uiOVRzuKJrf1y7DQ$)"\>\</script\>
 
-4.  Above is an interactive storymap that walks through Toulouse as
+4.  Below is an interactive storymap that walks through Toulouse as
     mentioned in the manuscript. As you look through the different
     locations, what can you infer about Toulouse's cultural and
     historical context? Why is the cultural and historical context of
-    the city important in understanding the manuscript? (Located under
-    storymap)
+    the city important in understanding the manuscript? 
 
 ![IMAGE](/images/media-riddle/image21.png)
 
@@ -185,8 +182,7 @@ src="[<u>https://player.vimeo.com/api/player.js</u>](https://urldefense.com/v3/_
 5.  Making is knowing, and an important aspect of making is doing. This
     video game has little instructions; however, as you learn how to
     complete the levels, you move to the next. This represents how
-    knowledge is gained through the process of making. (Under the video
-    game image)
+    knowledge is gained through the process of making. 
 
 ![IMAGE](/images/media-riddle/image6.jpg)
 ![IMAGE](/images/media-riddle/image2.jpg)
@@ -198,14 +194,14 @@ src="[<u>https://player.vimeo.com/api/player.js</u>](https://urldefense.com/v3/_
     an almost definite answer. This is embodied knowledge, the ability
     to understand materials based on your previous experience gained by
     observation through your senses and repeated interaction with
-    materials. (Under the image of the bread)
+    materials. 
 
 ![IMAGE](/images/media-riddle/image8.jpg)
 ![IMAGE](/images/media-riddle/image4.jpg)
 
-7.  This is a short [<u>four-minute tour of the Making and Knowing
+7.  Here is a short [<u>four-minute tour of the Making and Knowing
     Project Lab</u>](https://vimeo.com/384070452) located at Columbia
-    University. (Under the video of the lab tour)
+    University. 
 
 ![IMAGE](/images/media-riddle/image1.jpg)
 
