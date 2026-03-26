@@ -9,7 +9,6 @@ HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/1176285136?h=6db9051c42" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
 ## Overview 
-
 ![IMAGE](/images/media-riddle/image14.jpg)
 
 ### Exhibition Statement
@@ -171,18 +170,17 @@ HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History
     an almost definite answer. This is embodied knowledge, the ability
     to understand materials based on your previous experience gained by
     observation through your senses and repeated interaction with
-    materials. 
+    materials.
 
 ![IMAGE](/images/media-riddle/image8.jpg)
 ![IMAGE](/images/media-riddle/image4.jpg)
 
-7.  Here is a short [<u>four-minute tour of the Making and Knowing
-    Project Lab</u>](https://vimeo.com/384070452) located at Columbia
-    University. 
+7. The Making and Knowing Lab at Columbia University
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/384070452?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Tour the Making and Knowing Laboratory"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ![IMAGE](/images/media-riddle/image1.jpg)
 
-- The Author-Practitioner 
+8. The Author-Practitioner 
  
 Photos included in the section of the exhibit
   focusing on the author-practitioner and manuscript include a
@@ -205,12 +203,9 @@ Photos included in the section of the exhibit
 
 ![IMAGE](/images/media-riddle/image16.jpg)
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/710444936?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Making and Knowing Pop-up Book"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-[<u>Making and Knowing pop-up
-  book</u>](https://teaching640.makingandknowing.org/resources/student-projects/sp22_wei-yang_jianing-luxi_popup/),
-  a student project from Spring 2022. The pop-up book is an incredible
-  art project that features multiple aspects of the Making and Knowing
-  Project. 
+  The Making and Knowing pop-up book - a student project from Spring 2022. The pop-up book is an incredible art project that features multiple aspects of the Making and Knowing Project. 
  
   A student project from Fall 2021. The soundscape provides an immersive experience of metalworking and the sounds of working within the lab.  [<u>a soundscape of casting metal into
   a prepared mold</u>](https://vimeo.com/672823504), 
