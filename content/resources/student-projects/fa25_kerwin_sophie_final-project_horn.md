@@ -64,10 +64,10 @@ Translation of BnF Ms. Fr. 640* (New York: Making and Knowing Project,
 </colgroup>
 <thead>
 <tr>
-<th style="text-align: left;"><strong><mark>Ramolir
-la corne</mark></strong></th>
+<th style="text-align: left;">Ramolir
+la corne</th>
 <th
-style="text-align: left;"><strong><mark>Softening horn</mark></strong></th>
+style="text-align: left;">Softening horn</th>
 </tr>
 <tr>
 <th style="text-align: left;"><mark>Ceulx qui <u>acou </u>mectent en
@@ -466,49 +466,45 @@ the sheet over the mandrel. The horn cooled rather quickly and returned
 to its hardened state, so it did not allow for extended manipulation and
 became harder to cut as time passed.
 
-<table>
-<colgroup>
-<col style="width: 44%" />
-<col style="width: 55%" />
-</colgroup>
-<thead>
-<tr>
-<th>1. Assemble materials.</th>
-<th><p>![A pot on a stove with utensils on it](/images/media-kerwin/image30.jpg)</p>
-<p>From left to right: hotplate, pot, small bovine horn, flattened
+**Process**
+1. Assemble materials.
+![A pot on a stove with utensils on it](/images/media-kerwin/image30.jpg)
+
+From left to right: hotplate, pot, small bovine horn, flattened
 bovine horn sheet, Japanese pull saw, tongs, and oval-shaped
-mandrel.</p></th>
-</tr>
-<tr>
-<th>2. Bring water to boil, remove pot from heat, and place horn sheet
-and small horn inside.</th>
-<th><p>![A close up of a pot](/images/media-kerwin/image16.jpg)</p>
-<p>Soaking small horn and flattened horn sheet.</p></th>
-</tr>
-<tr>
-<th>3. After twenty minutes, remove and test for pliability and ease of
-cutting.</th>
-<th><p>![IMAGE](/images/media-kerwin/image28.jpg)</p>
-<p>The horn sheet warped from soaking.</p>
-<p>![A person in a lab coat cutting something on a tray](/images/media-kerwin/image23.png)</p>
-<p>VIDEO - <a
+mandrel.
+
+2. Bring water to boil, remove pot from heat, and place horn sheet
+and small horn inside.
+![A close up of a pot](/images/media-kerwin/image16.jpg)
+
+Soaking small horn and flattened horn sheet.
+
+3. After twenty minutes, remove and test for pliability and ease of
+cutting.
+![IMAGE](/images/media-kerwin/image28.jpg)
+
+The horn sheet warped from soaking.
+
+![A person in a lab coat cutting something on a tray](/images/media-kerwin/image23.png)
+
+VIDEO - <a
 href="https://drive.google.com/open?id=1wJ_1QwwCsTo5IrbOIASnWE40HsHbNfjp"><u>Cutting
 horn sheet, made somewhat softer and more pliable through
-soaking.</u></a></p>
-<p>![A hand holding a piece of horn](/images/media-kerwin/image29.png)</p>
-<p>VIDEO - <a
+soaking.</u></a>
+
+![A hand holding a piece of horn](/images/media-kerwin/image29.png)
+
+VIDEO - <a
 href="https://drive.google.com/open?id=1JXfZ7lDrgq6Ge4EeCKgodaLYaZMD277X"><u>Demonstrating
-pliability of horn sheet while cutting.</u></a></p>
-<p>![A person holding a knife over a metal container](/images/media-kerwin/image31.png)</p>
-<p>VIDEO - <a
+pliability of horn sheet while cutting.</u></a>
+
+![A person holding a knife over a metal container](/images/media-kerwin/image31.png)
+
+VIDEO - <a
 href="https://drive.google.com/open?id=1InHjszWmOWrjVQ6-3zAaOd_bU8WGrHMc"><u>Cutting
 small horn, made somewhat softer and more pliable through
-soaking.</u></a></p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+soaking.</u></a>
 
 **Part B: Boiling in Water**
 
@@ -532,46 +528,47 @@ completely. I experimented with holding the bent horn in place over the
 mandrel using pliers and left it to cool. Using this method, the horn
 successfully hardened into a bent position and maintained this shape.
 
-<table>
-<colgroup>
-<col style="width: 32%" />
-<col style="width: 67%" />
-</colgroup>
-<thead>
-<tr>
-<th>1. Bring water to boil and place horn sheet and small horn inside
-pot.</th>
-<th><p>![Horn in a pot of water](/images/media-kerwin/image22.jpg)</p>
-<p>Horn and small sheet boiling.</p></th>
-</tr>
-<tr>
-<th>2. Boil continually, removing periodically to test for
-pliability.</th>
-<th><p>![A hand in blue glove holding a round object](/images/media-kerwin/image32.jpg)</p>
-<p>Demonstrating pliability of horn sheet after two hours of
-boiling.</p>
-<p>![A hand in blue glove holding a round object](/images/media-kerwin/image27.png)</p>
-<p>VIDEO - <a
+**Process**
+1. Bring water to boil and place horn sheet and small horn inside
+pot.
+
+![Horn in a pot of water](/images/media-kerwin/image22.jpg)
+
+Horn and small sheet boiling
+
+2. Boil continually, removing periodically to test for
+pliability.
+
+![A hand in blue glove holding a round object](/images/media-kerwin/image32.jpg)
+
+Demonstrating pliability of horn sheet after two hours of
+boiling.
+
+![A hand in blue glove holding a round object](/images/media-kerwin/image27.png)
+
+VIDEO - <a
 href="https://drive.google.com/open?id=1ToELP-wjQbaYGkIpPsHOzu4etxZTjqFw"><u>Demonstrating
-pliability of small horn after two hours of boiling</u></a></p></th>
-</tr>
-<tr>
-<th>3. When pliability is achieved, experiment with cutting and shaping
-on mandrel.</th>
-<th style="text-align: left;"><p>![A person wearing blue gloves holding a piece of horn](/images/media-kerwin/image33.jpg)</p>
-<p>Successful cut from horn sheet after two hours of boiling.</p>
-<p>![A hand in glove holding a horn](/images/media-kerwin/image34.jpg)</p>
-<p>Successful cut from small horn after two hours of boiling.</p>
-<p>![Curved horn sheet over wood](/images/media-kerwin/image37.jpg)</p>
-<p>Attempted shaping of horn sheet on mandrel after two hours of
-boiling, held in place by pliers to cool and harden.</p>
-<p>![A curved piece of wood](/images/media-kerwin/image24.jpg)</p>
-<p>Horn sheet maintaining curved shape after cooling.</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+pliability of small horn after two hours of boiling</u></a>
+
+3. When pliability is achieved, experiment with cutting and shaping
+on mandrel.
+
+![A person wearing blue gloves holding a piece of horn](/images/media-kerwin/image33.jpg)
+
+Successful cut from horn sheet after two hours of boiling.
+
+![A hand in glove holding a horn](/images/media-kerwin/image34.jpg)
+
+Successful cut from small horn after two hours of boiling.
+
+![Curved horn sheet over wood](/images/media-kerwin/image37.jpg)
+
+Attempted shaping of horn sheet on mandrel after two hours of
+boiling, held in place by pliers to cool and harden.
+
+![A curved piece of wood](/images/media-kerwin/image24.jpg)
+
+Horn sheet maintaining curved shape after cooling.
 
 #### 3.3.2. Trial 2: Another Way: Recreating Girolamo Cardano’s Recipe to “Amollir les cornes”
 
@@ -608,60 +605,61 @@ longer for the horn to dry out, but when it did, it also fully hardened
 and maintained the curved shape. However, the color had darkened, and
 the horn was cracking at its bend.
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr>
-<th>1. Assemble materials.</th>
-<th><p>![A pot and a bag of ash](/images/media-kerwin/image2.jpg)</p>
-<p>From top left to bottom right: Live oak wood ash, small horn, horn
+**Process**
+1. Assemble materials.
+
+![A pot and a bag of ash](/images/media-kerwin/image2.jpg)
+
+From top left to bottom right: Live oak wood ash, small horn, horn
 sheet, pot for soaking (later transferred to a plastic
-container).</p></th>
-</tr>
-<tr>
-<th>2. Mix 5 oz of wood ash and 50 oz of water and test pH of
-mixture.</th>
-<th><p>![A pot and a bag of material](/images/media-kerwin/image9.jpg)</p>
-<p>Results of pH test: 12–13.</p></th>
-</tr>
-<tr>
-<th>3. Add horn sheet and small horn. Monitor and test for pliability
-after 8 hours.</th>
-<th><p>![A bowl of liquid with a few small white balls](/images/media-kerwin/image6.jpg)</p>
-<p>After eight hours, the ash had settled and the water had turned a
-brown hue, but the horn was not noticeably softened.</p></th>
-</tr>
-<tr>
-<th>4. Continue to let soak, monitor, and test periodically for
-pliability.</th>
-<th><p>![A hand in a yellow glove holding a piece of horn](/images/media-kerwin/image13.jpg)</p>
-<p>The profile of the horn sheet after six days, noticeably thicker.</p>
-<p>![A piece of horn with a brown stain on it](/images/media-kerwin/image8.jpg)</p>
-<p>The face of the horn sheet after six days, showing its opacity and
-discoloration</p>
-<p>where it came into contact with the ash.</p>
-<p>![A gloved hand holding a piece of horn](/images/media-kerwin/image10.jpg)</p>
-<p>Demonstrating pliability of horn after six days.</p></th>
-</tr>
-<tr>
-<th>5. Remove horn from bath and attempt shaping and drying, using
-pliers to maintain shape.</th>
-<th><p>![A pair of scissors cutting pieces of horn](/images/media-kerwin/image5.jpg)</p>
-<p>Attempted shaping and drying of horn from Trial 2 at left and top
-right.</p>
-<p>![A close up of a piece of plastic](/images/media-kerwin/image14.jpg)</p>
-<p>A comparison of the shaped horn from Trial 1 and Trial 2.</p>
-<p>![A person holding a piece of horn](/images/media-kerwin/image35.jpg)</p>
-<p>A detail of the shaped horn from Trial 2 showing breakage from
-bending.</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+container).
+
+2. Mix 5 oz of wood ash and 50 oz of water and test pH of
+mixture.
+![A pot and a bag of material](/images/media-kerwin/image9.jpg)
+
+Results of pH test: 12–13.
+
+3. Add horn sheet and small horn. Monitor and test for pliability
+after 8 hours.
+
+![A bowl of liquid with a few small white balls](/images/media-kerwin/image6.jpg)
+
+After eight hours, the ash had settled and the water had turned a
+brown hue, but the horn was not noticeably softened.
+
+4. Continue to let soak, monitor, and test periodically for
+pliability.
+
+![A hand in a yellow glove holding a piece of horn](/images/media-kerwin/image13.jpg)
+
+The profile of the horn sheet after six days, noticeably thicker.
+
+![A piece of horn with a brown stain on it](/images/media-kerwin/image8.jpg)
+
+The face of the horn sheet after six days, showing its opacity and
+discoloration where it came into contact with the ash.
+
+![A gloved hand holding a piece of horn](/images/media-kerwin/image10.jpg)
+
+Demonstrating pliability of horn after six days.
+
+5. Remove horn from bath and attempt shaping and drying, using
+pliers to maintain shape.
+
+![A pair of scissors cutting pieces of horn](/images/media-kerwin/image5.jpg)
+
+Attempted shaping and drying of horn from Trial 2 at left and top
+right.
+
+![A close up of a piece of plastic](/images/media-kerwin/image14.jpg)
+
+A comparison of the shaped horn from Trial 1 and Trial 2.
+
+![A person holding a piece of horn](/images/media-kerwin/image35.jpg)
+
+A detail of the shaped horn from Trial 2 showing breakage from
+bending.
 
 #### 3.3.3. Trial 3: Yet Another Way: Soaking Horn in Woodash Lye
 
@@ -731,60 +729,60 @@ it would fully harden as it dried. Again, I was surprised to find that
 while it took longer to dry than the horn had in either Trial 1 or 2, it
 did eventually return to a totally hardened state.
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr>
-<th>1. Prepare lye by boiling a mixture of water and wood ash. Note that
+**Process**
+1. Prepare lye by boiling a mixture of water and wood ash. Note that
 while I began with equal parts water and wood ash, I found that I needed
 to add more water to the mixture. Leave to boil for approximately thirty
-minutes.</th>
-<th><p>![Shallow pot on stove](/images/media-kerwin/image11.jpg)</p>
-<p>The water and wood ash mixture boiling.</p></th>
-</tr>
-<tr>
-<th>2. Leave until ash has settled at the bottom of the pot</th>
-<th><p>![Pot of boiling liquid](/images/media-kerwin/image25.jpg)</p>
-<p>The mixture after the wood ash had settled.</p></th>
-</tr>
-<tr>
-<th>3. Repeat procedure until you have a sufficient amount of liquid for
-soaking horn.</th>
-<th></th>
-</tr>
-<tr>
-<th>4. Test the pH of the mixture using pH test strips and feather
-test.</th>
-<th><p>![A hand holding a pH paper with a color chart](/images/media-kerwin/image1.jpg)</p>
-<p>Results of the pH test: 12–13</p></th>
-</tr>
-<tr>
-<th>5. Add horn to mixture and leave to soak, monitoring progress and
-testing pliability.</th>
-<th><p>![A hand in a yellow glove holding the horn](/images/media-kerwin/image15.jpg)</p>
-<p>![Horn on counter](/images/media-kerwin/image19.jpg)</p>
-<p>After one night, the horn was already darkened, opaque, and
-saturated.</p>
-<p>![A person wearing yellow gloves](/images/media-kerwin/image21.jpg)</p>
-<p>Demonstrating pliability of horn after one night.</p>
-<p>![Horn sheet in pieces](/images/media-kerwin/image17.jpg)</p>
-<p>Horn broken into pieces from handling.</p></th>
-</tr>
-<tr>
-<th>6. Remove horn from mixture and test if it will fully dry and
-harden.</th>
-<th><p>![A pair of scissors cutting pieces of horn](/images/media-kerwin/image5.jpg)</p>
-<p>Attempted drying of horn from Trial 3 at bottom left.</p>
-<p>![Horn pieces](/images/media-kerwin/image7.jpg)</p>
-<p>Dried pieces, also showing breakages and flaking.</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+minutes.
+
+![Shallow pot on stove](/images/media-kerwin/image11.jpg)
+
+The water and wood ash mixture boiling.
+
+2. Leave until ash has settled at the bottom of the pot
+
+![Pot of boiling liquid](/images/media-kerwin/image25.jpg)
+
+The mixture after the wood ash had settled.
+
+3. Repeat procedure until you have a sufficient amount of liquid for
+soaking horn.
+
+4. Test the pH of the mixture using pH test strips and feather
+test.
+
+![A hand holding a pH paper with a color chart](/images/media-kerwin/image1.jpg)
+
+Results of the pH test: 12–13
+
+5. Add horn to mixture and leave to soak, monitoring progress and
+testing pliability.
+
+![A hand in a yellow glove holding the horn](/images/media-kerwin/image15.jpg)
+
+![Horn on counter](/images/media-kerwin/image19.jpg)
+
+After one night, the horn was already darkened, opaque, and
+saturated.
+
+![A person wearing yellow gloves](/images/media-kerwin/image21.jpg)
+
+Demonstrating pliability of horn after one night.
+
+![Horn sheet in pieces](/images/media-kerwin/image17.jpg)
+
+Horn broken into pieces from handling.
+
+6. Remove horn from mixture and test if it will fully dry and
+harden.
+
+![A pair of scissors cutting pieces of horn](/images/media-kerwin/image5.jpg)
+
+Attempted drying of horn from Trial 3 at bottom left.
+
+![Horn pieces](/images/media-kerwin/image7.jpg)
+
+Dried pieces, also showing breakages and flaking.
 
 ## 4. Reflection and Conclusions
 
