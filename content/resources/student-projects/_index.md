@@ -17,6 +17,7 @@ In fall 2025, the Making and Knowing Project once again hosted dyer-weaver Berth
 - [Reconstructing Heather-Reinforced Earth: Material Understanding and Embodied Knowledge in Ms. Fr. 640](/resources/student-projects/fa25_gao_xin_final-project_heather-reinforced-earth/) by Xin Gao
 - [Color, Chemistry, and Craft: Investigating the Effects of pH and Water Hardness on Coconut-Husk Natural Dyeing](/resources/student-projects/fa25_kumar_chinmay_final-project_coconut-husk-dyeing/) by Chinmay Kumar
 - [Exhibition: Making and Knowing: An Exploration in Craft](/resources/student-projects/fa25_riddle_emma_final-project_craft-exhibit/) by Emma Riddle
+- [“Seulement” Soaking Horn: Ms. Fr. 640’s Recipe for Softening Horn](/resources/student-projects/fa25_kerwin_sophie_final-project_horn/) by Sophie Kerwin
 - More soon!
 
 ### Fall 2024 Student Projects [[Syllabus](/documents/pdf/syllabus_fa24_gu4962-hands-on-history.pdf)]
