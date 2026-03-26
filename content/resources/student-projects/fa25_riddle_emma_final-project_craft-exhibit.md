@@ -205,21 +205,15 @@ src="[<u>https://player.vimeo.com/api/player.js</u>](https://urldefense.com/v3/_
 
 ![IMAGE](/images/media-riddle/image1.jpg)
 
-- Photos: There are three photos included in the section of the exhibit
-  focusing on the author-practitioner and manuscript. The first is a
+- The Author-Practitioner 
+ 
+Photos included in the section of the exhibit
+  focusing on the author-practitioner and manuscript include a
   black silhouette of a man placed over the cover of Ms.Fr 640. The
   image conveys the author's anonymity. Similarly, the second image is
   of a black silhouette of a man and a woman facing each other. This
-  conveys a similar message of the anonymity of the author’s identity.
-  The third image is an image from the digital manuscript detailing the
-  different languages featured throughout the manuscript. The image
-  helps audience members visualize the author-practitioner's potential
-  as a scholar. There is one photo located in the second section of the
-  exhibit. The photo is of the finished lifecast rose from the research
-  project, "Molding a Rose." Among all the research projects, a lifecast
-  rose is the most recognizable out of context. Furthermore, the
-  materials used are easily identifiable.
-
+  conveys a similar message of the anonymity of the author’s identity. Other photos treat other aspects of the author-practitioner's identity
+  
 ![IMAGE](/images/media-riddle/image12.jpg)
 
 ![IMAGE](/images/media-riddle/image15.png)
@@ -233,7 +227,25 @@ src="[<u>https://player.vimeo.com/api/player.js</u>](https://urldefense.com/v3/_
 ![IMAGE](/images/media-riddle/image20.png)
 
 ![IMAGE](/images/media-riddle/image16.jpg)
+
+
+[<u>Making and Knowing pop-up
+  book</u>](https://teaching640.makingandknowing.org/resources/student-projects/sp22_wei-yang_jianing-luxi_popup/),
+  a student project from Spring 2022. The pop-up book is an incredible
+  art project that features multiple aspects of the Making and Knowing
+  Project. 
+ 
+  A student project from Fall 2021. The soundscape provides an immersive experience of metalworking and the sounds of working within the lab.  [<u>a soundscape of casting metal into
+  a prepared mold</u>](https://vimeo.com/672823504), 
+  
 ![IMAGE](/images/media-riddle/image10.jpg)
+
+A lifecast rose from the research
+  essay, "Molding a Rose." Among all the research projects, a lifecast
+  rose is the most recognizable out of context. Furthermore, the
+  materials used are easily identifiable.
+
+![IMAGE](/images/media-riddle/image22.jpg)
 
 - Videos: There are two videos included in the exhibit section that
   discuss the author-practitioner and the manuscript. The first video is
@@ -249,15 +261,7 @@ src="[<u>https://player.vimeo.com/api/player.js</u>](https://urldefense.com/v3/_
   of the exhibit. The first is the [<u>lab tour
   video</u>](https://vimeo.com/384070452) from the introductory article
   about the manuscript. This gives visitors a deeper look into the lab
-  and seminar class of the Making and Knowing project. The second video
-  is of the [<u>Making and Knowing pop-up
-  book</u>](https://teaching640.makingandknowing.org/resources/student-projects/sp22_wei-yang_jianing-luxi_popup/),
-  a student project from Spring 2022. The pop-up book is an incredible
-  art project that features multiple aspects of the Making and Knowing
-  Project. The third video is of [<u>a soundscape of casting metal into
-  a prepared mold</u>](https://vimeo.com/672823504), another student
-  project from Fall 2021. The soundscape provides an immersive
-  experience of metalworking and the sounds of working within the lab.
+  and seminar class of the Making and Knowing project. 
 
 - Digital Materials: The first digital item is a video of the digital
   manuscript. The video is a screen recording, paging through the
