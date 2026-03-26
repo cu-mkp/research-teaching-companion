@@ -303,8 +303,7 @@ transformed the initially irregular and heterogeneous soil into a finer,
 more uniform material that was more workable for the subsequent stages
 of mixing and compaction.
 
-![IMAGE](/images/media-gao/image3.png"
-style="width:6.40761in;height:3.63021in" />)
+![IMAGE](/images/media-gao/image3.png)
 
 Figure 2: Soil preparation process
 
@@ -368,7 +367,7 @@ The initial hydration for testing was too high. During ramming, soil
 adhered to the wooden rammer, forming lumps on the tool surface. This
 indicates over-saturation, reducing compaction efficiency.
 
-<div style="padding:177.78% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1176596144?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Reconstructing Heather Video 01_Moisture Testing"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe width="560" height="315" src="https://player.vimeo.com/video/1176596144?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Reconstructing Heather Video 01_Moisture Testing"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 For the final reconstruction, I adopted a volumetric ratio of 1:1/2
 (clay-rich soil to sandier soil) to balance plasticity with reduced
