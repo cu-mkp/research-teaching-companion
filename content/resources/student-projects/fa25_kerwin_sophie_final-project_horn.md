@@ -1,10 +1,8 @@
 # “Seulement” Soaking Horn: Ms. Fr. 640’s Recipe for Softening Horn
 
-Sophie Kerwin
-
-Fall 2025
-
-HIST GU4962: Making and Knowing in Early Modern Europe
+Sophie Kerwin<br>
+Fall 2025<br>
+HIST GU4962: Making and Knowing in Early Modern Europe<br>
 
 ## 1. Introduction
 
@@ -47,8 +45,7 @@ by specialized practitioners and designed for very specific ends.
 
 ## 2. The Recipe: Ms. Fr. 640’s Recipe to “Ramolir La Corne”
 
-![IMAGE](/images/media-kerwin/image20.png)
-
+![IMAGE](/images/media-kerwin/image20.png)<br>
 **Figure 1:** Recipe to “Ramolir La Corne.” Making and Knowing Project,
 Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape,
 Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna
@@ -157,8 +154,7 @@ therefore be referring to a slightly different type of mounting or
 encasing, but I have not yet found any examples of agnus dei pendants
 with rounded elements or other mentions of their preparation.
 
-![IMAGE](/images/media-kerwin/image4.jpg)
-
+![IMAGE](/images/media-kerwin/image4.jpg)<br>
 **Figure 2:** Agnus Dei pendant, ca. 1400–1450, German artist. Silver,
 silver gilt, wax, and horn, 5.8 cm diameter. Victoria and Albert Museum,
 London, 833-1891.
@@ -186,17 +182,17 @@ of the word “certaines” (certain), which he employs throughout the
 manuscript to describe highly specific materials, processes, actors, and
 properties, again implies a very particular and limited production.[^18]
 
-![A group of objects on a white surface](/images/media-kerwin/image12.jpg)
+![A group of objects on a white surface](/images/media-kerwin/image12.jpg)<br>
 **Figure 3:** Selection of 19<sup>th</sup> century horn snuff boxes,
 including round and oval examples. Private
 collection. 
 
-![IMAGE](/images/media-kerwin/image3.jpg)
+![IMAGE](/images/media-kerwin/image3.jpg)<br>
 **Figure 4:** Oval pressed horn box ‘Lumbar Troop.’ Signed F. Baker.
 Mid-eighteenth-century English. Horners’ Co.
 Collection.
 
-![IMAGE](/images/media-kerwin/image18.png)
+![IMAGE](/images/media-kerwin/image18.png)<br>
 **Figure 5:** Inkpot with saints, late 15<sup>th</sup>-16<sup>th</sup>
 century. Pressed horn. Height: 4.5 cm, diameter 3.8 cm. Museum of
 London,
@@ -232,14 +228,14 @@ mention of such a tool in the manuscript, which seems to suggest that
 this information has been communicated to the author and recorded here
 rather than carried out himself with his own tools.
 
-![IMAGE](/images/media-kerwin/image26.png)
+![IMAGE](/images/media-kerwin/image26.png)<br>
 **Figure 6:** Tabletier Cornetier, Préparation de la Corne, in Denis and
 Jean le Rond d’Alembert, eds. *Encyclopédie ou Dictionnaire raisonné des
 sciences, des arts et des métiers, Planches,* vol. 9 (Paris, 1765),
 plate
 I.
 
-![IMAGE](/images/media-kerwin/image36.png)
+![IMAGE](/images/media-kerwin/image36.png)<br>
 **Figure 7:** Tabletier Cornetier, Préparation de la Corne, in Denis
 Diderot and Jean le Rond d’Alembert, eds. *Encyclopédie ou Dictionnaire
 raisonné des sciences, des arts et des métiers, Planches,* vol. 9
@@ -383,14 +379,14 @@ or other artisans. For my additional trials, I also procured wood ash
 for making my lye and feathers in order to test the strength of the lye
 through period means.
 
-1\. Pre-prepared horn sheets (3 in. x 7 in. x 2 mm) and small horns (6–9
+1. Pre-prepared horn sheets (3 in. x 7 in. x 2 mm) and small horns (6–9
 in. long)
 
-2\. Water
+2. Water
 
-3\. Wood ash (pure live oak wood ash)
+3. Wood ash (pure live oak wood ash)
 
-4\. Feathers (pheasant)
+4. Feathers (pheasant)
 
 ### 3.2. Tools
 
@@ -405,21 +401,21 @@ that I needed to employ a pair of pliers to hold the softened horn in
 place as it cooled in order for it to retain the desired shape and pH
 test strips to test the pH of my lye baths.
 
-1\. Hotplate or burner
+1. Hotplate or burner
 
-2\. Non-aluminum pot
+2. Non-aluminum pot
 
-3\. Plastic containers
+3. Plastic containers
 
-3\. Tongs
+4. Tongs
 
-4\. Oval-shaped triblet
+5. Oval-shaped triblet
 
-5\. Japanese pull saw
+6. Japanese pull saw
 
-6\. Pliers
+7. Pliers
 
-7\. pH test strips
+8. pH test strips
 
 ### 3.3. My Procedure and Initial Observations
 
@@ -440,39 +436,37 @@ to its hardened state, so it did not allow for extended manipulation and
 became harder to cut as time passed.
 
 **Process**
-1. Assemble materials.
-![A pot on a stove with utensils on it](/images/media-kerwin/image30.jpg)
-
+1. Assemble materials.<br>
+![A pot on a stove with utensils on it](/images/media-kerwin/image30.jpg)<br>
 From left to right: hotplate, pot, small bovine horn, flattened
 bovine horn sheet, Japanese pull saw, tongs, and oval-shaped
 mandrel.
 
 2. Bring water to boil, remove pot from heat, and place horn sheet
-and small horn inside.
-![A close up of a pot](/images/media-kerwin/image16.jpg)
-
+and small horn inside.<br>
+![A close up of a pot](/images/media-kerwin/image16.jpg)<br>
 Soaking small horn and flattened horn sheet.
 
 3. After twenty minutes, remove and test for pliability and ease of
-cutting.
-![IMAGE](/images/media-kerwin/image28.jpg)
+cutting.<br>
+![IMAGE](/images/media-kerwin/image28.jpg)<br>
 
-The horn sheet warped from soaking.
+The horn sheet warped from soaking.<br>
 
-![A person in a lab coat cutting something on a tray](/images/media-kerwin/image23.png)
+![A person in a lab coat cutting something on a tray](/images/media-kerwin/image23.png)<br>
 
 VIDEO - <a
 href="https://drive.google.com/open?id=1wJ_1QwwCsTo5IrbOIASnWE40HsHbNfjp"><u>Cutting
 horn sheet, made somewhat softer and more pliable through
-soaking.</u></a>
+soaking.</u></a><br>
 
-![A hand holding a piece of horn](/images/media-kerwin/image29.png)
+![A hand holding a piece of horn](/images/media-kerwin/image29.png)<br>
 
 VIDEO - <a
 href="https://drive.google.com/open?id=1JXfZ7lDrgq6Ge4EeCKgodaLYaZMD277X"><u>Demonstrating
-pliability of horn sheet while cutting.</u></a>
+pliability of horn sheet while cutting.</u></a><br>
 
-![A person holding a knife over a metal container](/images/media-kerwin/image31.png)
+![A person holding a knife over a metal container](/images/media-kerwin/image31.png)<br>
 
 VIDEO - <a
 href="https://drive.google.com/open?id=1InHjszWmOWrjVQ6-3zAaOd_bU8WGrHMc"><u>Cutting
@@ -503,43 +497,41 @@ successfully hardened into a bent position and maintained this shape.
 
 **Process**
 1. Bring water to boil and place horn sheet and small horn inside
-pot.
-
-![Horn in a pot of water](/images/media-kerwin/image22.jpg)
+pot.<br>
+![Horn in a pot of water](/images/media-kerwin/image22.jpg)<br>
 
 Horn and small sheet boiling
 
 2. Boil continually, removing periodically to test for
-pliability.
-
-![A hand in blue glove holding a round object](/images/media-kerwin/image32.jpg)
+pliability.<br>
+![A hand in blue glove holding a round object](/images/media-kerwin/image32.jpg)<br>
 
 Demonstrating pliability of horn sheet after two hours of
-boiling.
+boiling.<br>
 
-![A hand in blue glove holding a round object](/images/media-kerwin/image27.png)
+![A hand in blue glove holding a round object](/images/media-kerwin/image27.png)<br>
 
 VIDEO - <a
 href="https://drive.google.com/open?id=1ToELP-wjQbaYGkIpPsHOzu4etxZTjqFw"><u>Demonstrating
-pliability of small horn after two hours of boiling</u></a>
+pliability of small horn after two hours of boiling</u></a><br>
 
 3. When pliability is achieved, experiment with cutting and shaping
-on mandrel.
+on mandrel.<br>
 
-![A person wearing blue gloves holding a piece of horn](/images/media-kerwin/image33.jpg)
+![A person wearing blue gloves holding a piece of horn](/images/media-kerwin/image33.jpg)<br>
 
-Successful cut from horn sheet after two hours of boiling.
+Successful cut from horn sheet after two hours of boiling.<br>
 
-![A hand in glove holding a horn](/images/media-kerwin/image34.jpg)
+![A hand in glove holding a horn](/images/media-kerwin/image34.jpg)<br>
 
-Successful cut from small horn after two hours of boiling.
+Successful cut from small horn after two hours of boiling.<br>
 
-![Curved horn sheet over wood](/images/media-kerwin/image37.jpg)
+![Curved horn sheet over wood](/images/media-kerwin/image37.jpg)<br>
 
 Attempted shaping of horn sheet on mandrel after two hours of
-boiling, held in place by pliers to cool and harden.
+boiling, held in place by pliers to cool and harden.<br>
 
-![A curved piece of wood](/images/media-kerwin/image24.jpg)
+![A curved piece of wood](/images/media-kerwin/image24.jpg)<br>
 
 Horn sheet maintaining curved shape after cooling.
 
@@ -579,57 +571,57 @@ and maintained the curved shape. However, the color had darkened, and
 the horn was cracking at its bend.
 
 **Process**
-1. Assemble materials.
+1. Assemble materials.<br>
 
-![A pot and a bag of ash](/images/media-kerwin/image2.jpg)
+![A pot and a bag of ash](/images/media-kerwin/image2.jpg)<br>
 
 From top left to bottom right: Live oak wood ash, small horn, horn
 sheet, pot for soaking (later transferred to a plastic
 container).
 
 2. Mix 5 oz of wood ash and 50 oz of water and test pH of
-mixture.
-![A pot and a bag of material](/images/media-kerwin/image9.jpg)
+mixture.<br>
+![A pot and a bag of material](/images/media-kerwin/image9.jpg)<br>
 
 Results of pH test: 12–13.
 
 3. Add horn sheet and small horn. Monitor and test for pliability
-after 8 hours.
+after 8 hours.<br>
 
-![A bowl of liquid with a few small white balls](/images/media-kerwin/image6.jpg)
+![A bowl of liquid with a few small white balls](/images/media-kerwin/image6.jpg)<br>
 
 After eight hours, the ash had settled and the water had turned a
 brown hue, but the horn was not noticeably softened.
 
 4. Continue to let soak, monitor, and test periodically for
-pliability.
+pliability.<br>
 
-![A hand in a yellow glove holding a piece of horn](/images/media-kerwin/image13.jpg)
+![A hand in a yellow glove holding a piece of horn](/images/media-kerwin/image13.jpg)<br>
 
-The profile of the horn sheet after six days, noticeably thicker.
+The profile of the horn sheet after six days, noticeably thicker.<br>
 
-![A piece of horn with a brown stain on it](/images/media-kerwin/image8.jpg)
+![A piece of horn with a brown stain on it](/images/media-kerwin/image8.jpg)<br>
 
 The face of the horn sheet after six days, showing its opacity and
-discoloration where it came into contact with the ash.
+discoloration where it came into contact with the ash.<br>
 
-![A gloved hand holding a piece of horn](/images/media-kerwin/image10.jpg)
+![A gloved hand holding a piece of horn](/images/media-kerwin/image10.jpg)<br>
 
 Demonstrating pliability of horn after six days.
 
 5. Remove horn from bath and attempt shaping and drying, using
-pliers to maintain shape.
+pliers to maintain shape.<br>
 
-![A pair of scissors cutting pieces of horn](/images/media-kerwin/image5.jpg)
+![A pair of scissors cutting pieces of horn](/images/media-kerwin/image5.jpg)<br>
 
 Attempted shaping and drying of horn from Trial 2 at left and top
-right.
+right.<br>
 
-![A close up of a piece of plastic](/images/media-kerwin/image14.jpg)
+![A close up of a piece of plastic](/images/media-kerwin/image14.jpg)<br>
 
-A comparison of the shaped horn from Trial 1 and Trial 2.
+A comparison of the shaped horn from Trial 1 and Trial 2.<br>
 
-![A person holding a piece of horn](/images/media-kerwin/image35.jpg)
+![A person holding a piece of horn](/images/media-kerwin/image35.jpg)<br>
 
 A detail of the shaped horn from Trial 2 showing breakage from
 bending.
@@ -643,9 +635,9 @@ bending.
 </colgroup>
 <thead>
 <tr>
-<th><strong>To make horn soft</strong></th>
-<th><strong>To soften horn so much that it can be worked into
-forms</strong></th>
+<th>To make horn soft</th>
+<th>To soften horn so much that it can be worked into
+forms</th>
 </tr>
 <tr>
 <th><p>Take the urine of a man which has stood covered for four weeks,
@@ -706,15 +698,15 @@ did eventually return to a totally hardened state.
 1. Prepare lye by boiling a mixture of water and wood ash. Note that
 while I began with equal parts water and wood ash, I found that I needed
 to add more water to the mixture. Leave to boil for approximately thirty
-minutes.
+minutes.<br>
 
-![Shallow pot on stove](/images/media-kerwin/image11.jpg)
+![Shallow pot on stove](/images/media-kerwin/image11.jpg)<br>
 
 The water and wood ash mixture boiling.
 
-2. Leave until ash has settled at the bottom of the pot
+2. Leave until ash has settled at the bottom of the pot.<br>
 
-![Pot of boiling liquid](/images/media-kerwin/image25.jpg)
+![Pot of boiling liquid](/images/media-kerwin/image25.jpg)<br>
 
 The mixture after the wood ash had settled.
 
@@ -722,38 +714,38 @@ The mixture after the wood ash had settled.
 soaking horn.
 
 4. Test the pH of the mixture using pH test strips and feather
-test.
+test.<br>
 
-![A hand holding a pH paper with a color chart](/images/media-kerwin/image1.jpg)
+![A hand holding a pH paper with a color chart](/images/media-kerwin/image1.jpg)<br>
 
 Results of the pH test: 12–13
 
 5. Add horn to mixture and leave to soak, monitoring progress and
-testing pliability.
+testing pliability.<br>
 
-![A hand in a yellow glove holding the horn](/images/media-kerwin/image15.jpg)
+![A hand in a yellow glove holding the horn](/images/media-kerwin/image15.jpg)<br>
 
-![Horn on counter](/images/media-kerwin/image19.jpg)
+![Horn on counter](/images/media-kerwin/image19.jpg)<br>
 
 After one night, the horn was already darkened, opaque, and
-saturated.
+saturated.<br>
 
-![A person wearing yellow gloves](/images/media-kerwin/image21.jpg)
+![A person wearing yellow gloves](/images/media-kerwin/image21.jpg)<br>
 
-Demonstrating pliability of horn after one night.
+Demonstrating pliability of horn after one night.<br>
 
-![Horn sheet in pieces](/images/media-kerwin/image17.jpg)
+![Horn sheet in pieces](/images/media-kerwin/image17.jpg)<br>
 
 Horn broken into pieces from handling.
 
 6. Remove horn from mixture and test if it will fully dry and
-harden.
+harden.<br>
 
-![A pair of scissors cutting pieces of horn](/images/media-kerwin/image5.jpg)
+![A pair of scissors cutting pieces of horn](/images/media-kerwin/image5.jpg)<br>
 
-Attempted drying of horn from Trial 3 at bottom left.
+Attempted drying of horn from Trial 3 at bottom left.<br>
 
-![Horn pieces](/images/media-kerwin/image7.jpg)
+![Horn pieces](/images/media-kerwin/image7.jpg)<br>
 
 Dried pieces, also showing breakages and flaking.
 
@@ -833,7 +825,7 @@ Manchester. [<u>https://www.digitalcollections.manchester.ac.uk/view/MS-GASTER-
 Boileau, Étienne. *Réglemens sur les arts et métiers de Paris*. Edited
 by G.-B  Depping. Paris, 1837.
 
-Cardano*,* Girolamo. *Les Livres de Hierosme Cardanus medecin milannois.
+Cardano, Girolamo. *Les Livres de Hierosme Cardanus medecin milannois.
 intitules de la * *Subtilité, et subtiles inventions, ensemble les
 causes occultes, et raisons d'icelles.* Translated by Richard le Blanc.
 Paris, 1556.
@@ -843,7 +835,7 @@ Dictionnaire raisonné des sciences, des arts et des métiers, Planches.*
 Vol. 9. Paris, 1765.
 
 Edelstein, Sidney M. “The Allerley Matkel (1532): Facsimile Text,
-Translation, and Critical  Study of the Earliest Printed Book on Spot
+Translation, and Critical Study of the Earliest Printed Book on Spot
 Removing and Dyeing.” *Technology and Culture* 5, no. 3 (Summer 1964):
 297–321.
 
@@ -872,14 +864,10 @@ London, 1720.
 ### Secondary Sources:
 
 Baker, Katherine. *A Merchant of Ivory in 16<sup>th</sup>-Century Paris:
-The Estate Inventory of Chicart *
-
-*Bailly.* Brill, 2023.
+The Estate Inventory of Chicart Bailly.* Brill, 2023.
 
 Guérin, Sarah. *French Gothic Ivories: Material Theologies and the
-Sculptor’s Craft.* Cambridge 
-
-University Press, 2022.
+Sculptor’s Craft.* Cambridge University Press, 2022.
 
 Hardwick, Paula. *Discovering Horn*. Lutterworth Press, 1981.
 
@@ -981,7 +969,7 @@ Medieval Sculpture" in *Ivory, Bone, and Horn*. The State University of New Jer
 
 [^15]: Hardwick, *Discovering Horn*, 96.
 
-[^16]: Girolamo Cardano*, Les Livres de Hierosme Cardanus medecin
+[^16]: Girolamo Cardano, *Les Livres de Hierosme Cardanus medecin
     milannois. intitules de la Subtilité, et subtiles inventions,
     ensemble les causes occultes, et raisons d'icelles,* trans. from
     Latin to French by Richard le Blanc (Paris, 1556), 339.
@@ -1008,7 +996,7 @@ Medieval Sculpture" in *Ivory, Bone, and Horn*. The State University of New Jer
     second heating, when flattened horn is shaped into spoon bowls,
     shoehorns, or box shapes, a lower temperature is required.
 
-[^21]: Cardano*,* *Les Livres,* 339.
+[^21]: Cardano, *Les Livres,* 339.
 
 [^22]: Sidney M. Edelstein, “The Allerley Matkel (1532): Facsimile Text,
     Translation, and Critical Study of the Earliest Printed Book on Spot
@@ -1026,9 +1014,7 @@ Medieval Sculpture" in *Ivory, Bone, and Horn*. The State University of New Jer
     P. Vander, 1685), 168.
 
 [^25]: Nicolas Lémery, *Modern Curiosities of Art & Nature Extracted Out
-    of the Cabinets of the Most Eminent*
-
-    *Personages of the French Court*: *together with the choicest
+    of the Cabinets of the Most Eminent Personages of the French Court: together with the choicest
     secrets in mechanicks, communicated by the most approved artists of
     France / composed and experimented by the Sieur Lemery, apothecary
     to the French king ; made English from the original French.* London:
@@ -1054,9 +1040,7 @@ Medieval Sculpture" in *Ivory, Bone, and Horn*. The State University of New Jer
 [^29]: See Chapter 4 “Artisanship, Alchemy, and a Vernacular Science of
     Matter,” in Pamela H. Smith, *The Body of the Artisan: Art and
     Experience in the Scientific Revolution* (The University of Chicago
-    Press, 2004), 129–54.
-
-    On the transformation of materials as a fundamental part of artistic
+    Press, 2004), 129–54. On the transformation of materials as a fundamental part of artistic
     practice, including liquifying solid materials like stone or horn,
     also see Pamela H. Smith, Tianna Helena Uchacz, Sophie Pitman,
     Tillmann Taape, and Colin Debuiche, “The Matter of Ephemeral Art:
@@ -1064,7 +1048,7 @@ Medieval Sculpture" in *Ivory, Bone, and Horn*. The State University of New Jer
     Quarterly* 73, no. 1 (2020): 82, 125.
 
 [^30]: Pamela H. Smith, *From Lived Experience to the Written Word:
-    Reconstructing Practical Knowledge in the Early Modern World *(The
+    Reconstructing Practical Knowledge in the Early Modern World* (The
     University of Chicago Press, 2022), 127, 133.
 
 [^31]: See for example the recipes concerning horn in Lamour, *Nouveau
