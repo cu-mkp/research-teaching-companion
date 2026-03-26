@@ -50,7 +50,7 @@ Methodologically, the project integrates three complementary components:
 1.  Textual analysis, which translates, contextualizes, and interprets
     the recipe within the framework of early modern craft theory;
 
-2.  Experimental reconstruction, using soil and dried heather to
+.  Experimental reconstruction, using soil and dried heather to
     reproduce the operational sequence and observe the material
     behaviors; and
 
@@ -66,12 +66,12 @@ Situated within the interrelations among text, material behavior, and
 embodied practice, this study demonstrates that reconstruction serves
 not only to recover historical techniques but also to reconstruct the
 epistemic modes through which early modern craftsmen understood and
-transformed the natural world.[^2] In doing so, it brings into view the
+transformed the natural world.[^] In doing so, it brings into view the
 traditional intelligence embedded in early modern earth construction,
 wherein human sensories, natural materials, and environmental conditions
 jointly constitute the technical system.
 
-## 2. Textual Analysis of the Recipe
+## . Textual Analysis of the Recipe
 
 ### 2.1 Material logic and regional practice in sixteenth-century Europe
 
@@ -304,7 +304,7 @@ more uniform material that was more workable for the subsequent stages
 of mixing and compaction.
 
 ![IMAGE](/images/media-gao/image3.png"
-style="width:6.40761in;height:3.63021in" />
+style="width:6.40761in;height:3.63021in" />)
 
 Figure 2: Soil preparation process
 
