@@ -57,36 +57,9 @@ Nature in Renaissance France. A Digital Critical Edition and English
 Translation of BnF Ms. Fr. 640* (New York: Making and Knowing Project,
 2020), f. 15v. \[**<u><https://edition640.makingandknowing.org>\]</u>**
 
-<table>
-<colgroup>
-<col style="width: 53%" />
-<col style="width: 46%" />
-</colgroup>
-<thead>
-<tr>
-<th style="text-align: left;">Ramolir
-la corne</th>
-<th
-style="text-align: left;">Softening horn</th>
-</tr>
-<tr>
-<th style="text-align: left;"><mark>Ceulx qui <u>acou </u>mectent en
-oeuvre les agnus dei  &amp; font des cercles<br />
-de corne pour certaines petites boictes
-ramolissent <del>ladicte</del>lesdicts<br />
-cercles les mectant seulem{ent} tremper dans l'eau chaulde&amp; les
-façonnent aprés<br />
-sur un triboulet en rond ou faict en ovale.</mark></th>
-<th style="text-align: left;"><mark>Those
-who <em><del>acou</del></em> mount Agnus Dei &amp; make circles from
-horn for certain little boxes soften <del><em>ladicte</em> </del>the
-said circles simply by soaking them in hot water and next fashion them
-on a round or oval-shaped triblet.</mark></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+| Ramolir la corne                                                                                                                                                                                                                                                | Softening horn                                                                                                                                                                                                |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Ceulx qui acou mectent en oeuvre les agnus dei  & font des cerclesde corne pour certaines petites boictes ramolissent ladictelesdictscercles les mectant seulem{ent} tremper dans l'eau chaulde& les façonnent apréssur un triboulet en rond ou faict en ovale. | Those who acou mount Agnus Dei & make circles from horn for certain little boxes soften ladicte the said circles simply by soaking them in hot water and next fashion them on a round or oval-shaped triblet. |
 
 ### 2.1. Who: “Ceulx qui…”
 
