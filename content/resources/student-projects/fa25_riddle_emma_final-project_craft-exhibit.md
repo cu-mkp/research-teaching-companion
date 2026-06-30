@@ -156,18 +156,18 @@ HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History
 ![IMAGE](/images/media-riddle/image3.jpg)
 
 5.  Making is knowing, and an important aspect of making is doing. This
-    video game has little instructions; however, as you learn how to
+    video game has few instructions; however, as you learn how to
     complete the levels, you move to the next. This represents how
     knowledge is gained through the process of making. 
 
 ![IMAGE](/images/media-riddle/image6.jpg)
 ![IMAGE](/images/media-riddle/image2.jpg)
 
-6.  If you had to guess, how much longer does the sourdough loaf need to
+If you had to guess, how much longer does the sourdough loaf need to
     stay in the oven? You could most likely make an educated guess based
     on the appearance, temperature of the oven, and your prior knowledge
     of baking. However, if you were to ask a baker, they would provide
-    an almost definite answer. This is embodied knowledge, the ability
+    an almost definitive answer. This is embodied knowledge, the ability
     to understand materials based on your previous experience gained by
     observation through your senses and repeated interaction with
     materials.
@@ -175,15 +175,16 @@ HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History
 ![IMAGE](/images/media-riddle/image8.jpg)
 ![IMAGE](/images/media-riddle/image4.jpg)
 
-7. The Making and Knowing Lab at Columbia University
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/384070452?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Tour the Making and Knowing Laboratory"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+6. The Making and Knowing Lab at Columbia University
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/384070452?h=0250d2889a" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe> 
 
 ![IMAGE](/images/media-riddle/image1.jpg)
 
-8. The Author-Practitioner 
+7. The Author-Practitioner
  
 Photos included in the section of the exhibit
-  focusing on the author-practitioner and manuscript include a
+  focusing on the author-practitioner and the manuscript include a
   black silhouette of a man placed over the cover of Ms.Fr 640. The
   image conveys the author's anonymity. Similarly, the second image is
   of a black silhouette of a man and a woman facing each other. This
@@ -203,22 +204,24 @@ Photos included in the section of the exhibit
 
 ![IMAGE](/images/media-riddle/image16.jpg)
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/710444936?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Making and Knowing Pop-up Book"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/710444936?h=0250d2889a" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe> 
 
-  The Making and Knowing pop-up book - a student project from Spring 2022. The pop-up book is an incredible art project that features multiple aspects of the Making and Knowing Project. 
- 
-  A student project from Fall 2021. The soundscape provides an immersive experience of metalworking and the sounds of working within the lab.  [<u>a soundscape of casting metal into
-  a prepared mold</u>](https://vimeo.com/672823504), 
-  
+8. Student Projects
+
 ![IMAGE](/images/media-riddle/image10.jpg)
 
-A lifecast rose from the research
-  essay, "Molding a Rose." Among all the research projects, a lifecast
-  rose is the most recognizable out of context. Furthermore, the
-  materials used are easily identifiable.
-
+Luxi Yang and Jianing Wei, The Making and Knowing pop-up book - a student project from Spring 2022. The pop-up book is an incredible art project that features multiple aspects of the Making and Knowing Project, [<u>Pop-up Book Project</u>](https://teaching640.makingandknowing.org/resources/student-projects/sp22_wei-yang_jianing-luxi_popup/).
+ 
+Elliot Zayas and Mac Waters 2021 soundscape provides an immersive experience of the sounds of casting metals in an early modern workshop: [<u>a soundscape of casting metal into
+  a prepared mold</u>](https://vimeo.com/672823504).
+  
+9. Student Research Projects
 ![IMAGE](/images/media-riddle/image22.jpg)
 
+  A lifecast rose from the student-authored essay, [<u>Molding a Rose</u>](https://edition640.makingandknowing.org/essays/ann_022_sp_15). Among all the research projects, the lifecast
+  rose might be the most recognizable out of context. Furthermore, the materials used are easily identifiable.
+  
+**Notes on Exhibition Materials**
 - Videos: There are two videos included in the exhibit section that
   discuss the author-practitioner and the manuscript. The first video is
   an introduction video that gives a [<u>short overview of the Making
@@ -226,7 +229,7 @@ A lifecast rose from the research
   taken from the article, "An Introduction to Ms. Fr. 640 and its
   Author-Practitioner," located on the [<u>Secrets of Craft and
   Nature</u>](https://edition640.makingandknowing.org/) website. The
-  second video [<u>walks through the physical
+  second video [<u>pages through the physical
   manuscript</u>](https://vimeo.com/389763699) and highlights its
   features. This video is also taken from the landing page of *Secrets
   of Craft and Nature*. There are three videos within the second section
