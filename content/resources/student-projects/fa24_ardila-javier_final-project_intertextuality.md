@@ -10,15 +10,14 @@ this volume. An interdisciplinary team has used historical
 reconstruction to explore the early modern debates surrounding natural
 science, philosophy, alchemy, medicine, arts, and crafts, all while
 following the recipes of an unknown author-practitioner.[^1] Despite the
-project’s substantial evidence indicating that this author was not just
+project’s substantial evidence indicating that the author was not just
 an educated scribe but also a practitioner of the recipes he documented,
 his identity remains a mystery. Additionally, the sources he relied on
 to create the volume and the purpose of his laborious endeavor are still
 unclear. Another enigma appears at both the beginning and the end of the
-codex: a list of authors and book titles.
+codex: a list of names.
 
-The author-practitioner began a manuscript book with a list of titles
-and authors. A recipe of herbs and opioids to work against the plague.
+The author-practitioner began the manuscript with a recipe of herbs and opioids to work against the plague.
 By the recipe, on the left margin, he wrote what seems to be a
 reference: *Othonis episcopi Frisigensis ab orbe condito.* This loose
 allusion points toward Otto Frisingensis (ca. 1114–1158), bishop of
@@ -39,7 +38,7 @@ working from the back of the blank book. The list of references
 continues with another sixty titles at the back (now front) of the
 book.[^3]
 
-The list has provoked several possible interpretations, from the
+The list has provoked several interpretations, from the
 representation of a possible physical collection of books to an ideal
 list of references. Still, this document section has not yet been
 analyzed in depth. Following Andrew Hui’s very provocative invitation:
@@ -51,15 +50,15 @@ take a critical gaze at our own day-to-day practice of scholarly work. A
 historical investigation into the personal library would very much
 inform our present habits of mind.”[^4]
 
-This paper examines a list of eighty references included in the
+This essay examines a list of eighty references included in the
 manuscript. My central argument is that, despite various uncertainties
 regarding the meaning or authorship of this list, it provides insight
 into the cultural and intellectual landscapes of the sixteenth century.
-Compiling authors and titles is not merely an intellectual exercise in
+Compiling authors and titles is not merely an exercise in
 organizing scattered elements but also reflects processes of inclusion
 and exclusion within a semantic field.[^5] The list is a piece of
 evidence about the debates surrounding the production of the manuscript
-Ms. Fr. 640. If the numerous recipes of crafts collected by the
+Ms. Fr. 640. If the numerous recipes collected by the
 author-practitioner show a world where practical knowledge is crucial
 for interpreting the external, inner, and social worlds, the list of
 titles is also a window that pushes out of the manuscript and the
@@ -69,8 +68,7 @@ process of joining and union with a broader context, as well as one for
 rupture and seclusion.[^6] The interplay between reception and
 appropriation leads to the idea that the list of authors and titles
 serves as both pieces of a puzzle and a bridge to the intellectual
-environment in which Ms. Fr. 640 was created. It also connects to
-simultaneous bibliographical debates.
+environment in which Ms. Fr. 640 was created.
 
 This essay serves a descriptive purpose rather than an argumentative
 one. As previously noted, the connection between the list (presumably of
@@ -119,7 +117,7 @@ in this list of books, however, a more comprehensive understanding of
 the list is needed before establishing possible connections between it
 and the rest of the document.
 
-## Four Lists of Titles. 
+## Four Lists of Titles
 
 In his influential work, Jack Goody analyzed the impact of writing on
 cognitive practices. His goal was to examine how literacy affects
@@ -302,7 +300,7 @@ contents.
 > **Source**: Making and Knowing Project. Digital Critical Edition, fol.
 > 170v. Digital highlight by the author: title (blue), author (green),
 
-## Contents of the list
+## Contents of the Lists
 
 After characterizing and distinguishing how the author-practitioner
 presented bibliographical information in the manuscript, this section
@@ -310,8 +308,7 @@ provides an overview of the general contents of these records. The lists
 have no apparent classification system, as the scribe did not include
 any subject headings. Nevertheless, a close analysis reveals some
 similarities between neighboring entries. To explore the thematic nature
-of the list, this investigation compared three circulating
-classification systems during the Renaissance, though there is no
+of the list, this investigation compared three classification systems circulating during the Renaissance, though there is no
 certainty that the author-practitioner was directly aware of or applied
 them. However, two of these three systems appeared in authors included
 in the lists found in Ms. Fr. 640, which increases the suitability and
@@ -1663,7 +1660,7 @@ poinct de dangier Voy Mathiol</th>
 [^5]: Jack Goody, *The Domestication of the Savage Mind* (Cambridge
     University Press, 1977), 103.
 
-[^6]: Chartier, *The Order of Books: Readers, Authors, and Libraries in
+[^6]: Roger Chartier, *The Order of Books: Readers, Authors, and Libraries in
     Europe Between the Fourteenth and Eighteenth Centuries* (Stanford,
     CA.: Stanford University Press, 1994), viii. Anthony Grafton,
     *Commerce with the Classics: Ancient Books and Renaissance Readers*
@@ -1766,7 +1763,7 @@ poinct de dangier Voy Mathiol</th>
     the Wars of Religion: A View of France in 1581,” *The Sixteenth
     Century Journal* 15, 2 (1984): 132.
 
-[^25]: Tyler. Smith, “Josephus’s Jewish Antiquities in Competition with
+[^25]: Tyler Smith, “Josephus’s Jewish Antiquities in Competition with
     Nicolaus of Damascus’s Universal History,” *Journal of ancient
     Judaism* 13, 1 (2022): 52-54; John R. Bartlett, *Jews in the
     Hellenistic world: Josephus, Aristeas, the Sibylline oracles,
@@ -1851,7 +1848,7 @@ poinct de dangier Voy Mathiol</th>
     dressé par le libraire Denis Duval (1595)* (Paris : École des
     Chartes ; Villeurbanne : Éditions de l’ENSSIB, 1998), 96-100.
 
-[^38]: Pamela Smith, *From Lived Experience to the Written Word.
+[^38]: Pamela H. Smith, *From Lived Experience to the Written Word.
     Reconstructing Practical Knowledge in the Early Modern World*
     (Chicago: Chicago University Press, 2022), 164-166.
 
