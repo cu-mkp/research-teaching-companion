@@ -5,8 +5,7 @@ $header-bg: linear-gradient(
         rgba(230, 224, 193, 0.9),
         rgba(242, 230, 217, 0.9)
     ),
-//    url("{{ .Site.BaseURL }}/img/text-bg.png");
-      url("/img/text-bg.png");
+      url("{{ "img/text-bg.png" | absURL }}");
         
 // imports
 @import "base/animation";
