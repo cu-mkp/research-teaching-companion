@@ -737,7 +737,7 @@ Walnut Oil, Juglans Regia (walnut) seed oil, CAS No. 8024-09-7:
 > not require classification and labelling as hazardous according to
 > CLP/GHS.
 
-<img src="./media-mckeever/image19.png" style="width:6.93958in;height:2.29722in"
+<img src="/images/media-mckeever/image19.png" style="width:6.93958in;height:2.29722in"
 alt="A close-up of a document Description automatically generated" />
 
 **Figure 1.** Detail of Fol. 58v, Ms. Fr. 640, in Pamela H. Smith et
@@ -751,20 +751,20 @@ Translation of BnF Ms. Fr. 640*
 **  
 Figure. 2.** Azurite (Kremer \#10200) sample card, azur-grinding
 experiment 2018, The Making and Knowing Laboratory, Columbia
-University.<img src="./media-mckeever/image35.jpg" style="width:7.34028in;height:2.75694in"
+University.<img src="/images/media-mckeever/image35.jpg" style="width:7.34028in;height:2.75694in"
 alt="A row of colored strips of paint Description automatically generated with medium confidence" />
 
 Photo: Sheena McKeever.
 
 **Figure 3.** Detail of minute 10, Azurite (Kremer \#10200) sample card,
 azur-grinding experiment 2018.
-<img src="./media-mckeever/image23.jpg" style="width:3.87014in;height:2.90208in"
+<img src="/images/media-mckeever/image23.jpg" style="width:3.87014in;height:2.90208in"
 alt="A close-up of a blue and white background Description automatically generated" />
 
 Photo: by Sheena McKeever using Dino-Lite Edge / 5MP AM7515 Series,
 Dino-Lite Edge computer software.
 
-<img src="./media-mckeever/image13.jpg" style="width:3.86992in;height:2.90244in"
+<img src="/images/media-mckeever/image13.jpg" style="width:3.86992in;height:2.90244in"
 alt="A close-up of a blue and white background Description automatically generated" />
 
 **Figure 4.** Detail of minute 16, Azurite (Kremer \#10200) sample card,
@@ -773,7 +773,7 @@ azur-grinding experiment 2018.
 Photo: by Sheena McKeever using Dino-Lite Edge / 5MP AM7515 Series,
 Dino-Lite Edge computer software.
 
-<img src="./media-mckeever/image31.jpg" style="width:3.87014in;height:2.90278in"
+<img src="/images/media-mckeever/image31.jpg" style="width:3.87014in;height:2.90278in"
 alt="A close-up of a grey and white background Description automatically generated" />
 
 **Figure 5.** Detail of minute 45, Azurite (Kremer \#10200) sample card,
@@ -784,12 +784,12 @@ Dino-Lite Edge computer software.
 
 **Figure 6.** Lapis Lazuli (Kremer \#1056020) sample card, azur-grinding
 experiment 2018, The Making and Knowing Laboratory, Columbia
-University.<img src="./media-mckeever/image36.jpg" style="width:7.75764in;height:2.58333in"
+University.<img src="/images/media-mckeever/image36.jpg" style="width:7.75764in;height:2.58333in"
 alt="A white board with different colors of paint on it Description automatically generated" />
 
 Photo: by Sheena McKeever.
 
-<img src="./media-mckeever/image28.jpg" style="width:3.48194in;height:2.61111in"
+<img src="/images/media-mckeever/image28.jpg" style="width:3.48194in;height:2.61111in"
 alt="A close-up of a blue and white background Description automatically generated" />
 
 **Figure 7.** Detail of minute 10, Lapis Lazuli (Kremer \#1056020)
@@ -800,7 +800,7 @@ Dino-Lite Edge computer software.
 
 **Figure 8.** Detail of minute 24, Lapis Lazuli (Kremer \#1056020)
 sample card, azur-grinding experiment 2018.
-<img src="./media-mckeever/image4.jpg" style="width:3.49097in;height:2.61806in"
+<img src="/images/media-mckeever/image4.jpg" style="width:3.49097in;height:2.61806in"
 alt="A blue handprint on a white surface Description automatically generated" />
 
 Photo: by Sheena McKeever using Dino-Lite Edge / 5MP AM7515 Series,
@@ -808,13 +808,13 @@ Dino-Lite Edge computer software.
 
 **Figure 9.** Detail of minute 45 (1), Lapis Lazuli (Kremer \#1056020)
 sample card, azur-grinding experiment 2018.
-<img src="./media-mckeever/image32.jpg" style="width:3.65069in;height:2.7375in"
+<img src="/images/media-mckeever/image32.jpg" style="width:3.65069in;height:2.7375in"
 alt="A close-up of a blue sky Description automatically generated" />
 
 Photo: by Sheena McKeever using Dino-Lite Edge / 5MP AM7515 Series,
 Dino-Lite Edge computer software.
 
-<img src="./media-mckeever/image27.jpg" style="width:3.65694in;height:2.74306in"
+<img src="/images/media-mckeever/image27.jpg" style="width:3.65694in;height:2.74306in"
 alt="A close-up of a blue and white background Description automatically generated" />
 
 **Figure 10.** Detail of minute 45 (2), Lapis Lazuli (Kremer \#1056020)
@@ -823,7 +823,7 @@ sample card, azur-grinding experiment 2018.
 Photo: by Sheena McKeever using Dino-Lite Edge / 5MP AM7515 Series,
 Dino-Lite Edge computer software.
 
-<img src="./media-mckeever/image15.jpg" style="width:7.98125in;height:2.09722in"
+<img src="/images/media-mckeever/image15.jpg" style="width:7.98125in;height:2.09722in"
 alt="A white wall with a white tile with different colored strips Description automatically generated with medium confidence" />
 
 **Figure 11**. Smalt (Kremer \#10000) sample card, azur-grinding
@@ -833,13 +833,13 @@ Photo: by Sheena McKeever.
 
 **Figure 12.** Detail of minute 12, Smalt (Kremer \#10000) sample card,
 azur-grinding experiment 2018.
-<img src="./media-mckeever/image26.jpg" style="width:3.79792in;height:2.84861in"
+<img src="/images/media-mckeever/image26.jpg" style="width:3.79792in;height:2.84861in"
 alt="A close-up of a blue and white background Description automatically generated" />
 
 Photo: by Sheena McKeever using Dino-Lite Edge / 5MP AM7515 Series,
 Dino-Lite Edge computer software.
 
-<img src="./media-mckeever/image14.jpg" style="width:3.79861in;height:2.84861in"
+<img src="/images/media-mckeever/image14.jpg" style="width:3.79861in;height:2.84861in"
 alt="A close-up of a blue and white background Description automatically generated" />
 
 **Figure 13.** Detail of minute 16, Smalt (Kremer \#10000) sample card,
@@ -848,7 +848,7 @@ azur-grinding experiment 2018.
 Photo: by Sheena McKeever using Dino-Lite Edge / 5MP AM7515 Series,
 Dino-Lite Edge computer software.
 
-<img src="./media-mckeever/image12.jpg" style="width:3.79861in;height:2.84861in"
+<img src="/images/media-mckeever/image12.jpg" style="width:3.79861in;height:2.84861in"
 alt="Blue and white spots on a white surface Description automatically generated" />
 
 **Figure 14.** Detail of minute 24 (1), Smalt (Kremer \#10000) sample
@@ -859,13 +859,13 @@ Dino-Lite Edge computer software.
 
 **Figure 15.** Detail of minute 24 (2), Smalt (Kremer \#10000) sample
 card, azur-grinding experiment 2018.
-<img src="./media-mckeever/image33.jpg" style="width:3.77431in;height:2.83056in"
+<img src="/images/media-mckeever/image33.jpg" style="width:3.77431in;height:2.83056in"
 alt="A close-up of a grey surface Description automatically generated" />
 
 Photo: by Sheena McKeever using Dino-Lite Edge / 5MP AM7515 Series,
 Dino-Lite Edge computer software.
 
-<img src="./media-mckeever/image6.jpg" style="width:3.78264in;height:2.83611in"
+<img src="/images/media-mckeever/image6.jpg" style="width:3.78264in;height:2.83611in"
 alt="A close-up of a blue and white background Description automatically generated" />
 
 **Figure 16.** Detail of minute 45 (1), Smalt (Kremer \#10000) sample
@@ -874,7 +874,7 @@ card, azur-grinding experiment 2018.
 Photo: by Sheena McKeever using Dino-Lite Edge / 5MP AM7515 Series,
 Dino-Lite Edge computer software.
 
-<img src="./media-mckeever/image2.jpg" style="width:3.7875in;height:2.84028in"
+<img src="/images/media-mckeever/image2.jpg" style="width:3.7875in;height:2.84028in"
 alt="A close-up of a blue and white surface Description automatically generated" />
 
 **Figure 17.** Detail of minute 45 (2), Smalt (Kremer \#10000) sample
@@ -885,20 +885,20 @@ Dino-Lite Edge computer software.
 
 **Figure 18**. Verditer (Kremer \#10180) sample card, azur-grinding
 experiment 2018, The Making and Knowing Laboratory, Columbia
-University.<img src="./media-mckeever/image20.jpg" style="width:7.37639in;height:2.54167in"
+University.<img src="/images/media-mckeever/image20.jpg" style="width:7.37639in;height:2.54167in"
 alt="A white board with a chart and a ruler Description automatically generated" />
 
 Photo: by Sheena McKeever.
 
 **Figure 19.** Detail of minute 8, Verditer (Kremer \#10180) sample
 card, azur-grinding experiment 2018.
-<img src="./media-mckeever/image17.jpg" style="width:3.61042in;height:2.70833in"
+<img src="/images/media-mckeever/image17.jpg" style="width:3.61042in;height:2.70833in"
 alt="A close-up of a blue spot Description automatically generated" />
 
 Photo: by Sheena McKeever using Dino-Lite Edge / 5MP AM7515 Series,
 Dino-Lite Edge computer software.
 
-<img src="./media-mckeever/image1.jpg" style="width:3.61042in;height:2.70764in"
+<img src="/images/media-mckeever/image1.jpg" style="width:3.61042in;height:2.70764in"
 alt="A blue and white rectangular object Description automatically generated" />
 
 **Figure 20.** Detail of minute 10, Verditer (Kremer \#10180) sample
@@ -909,13 +909,13 @@ Dino-Lite Edge computer software.
 
 **Figure 21**. Detail of minute 24, Verditer (Kremer \#10180) sample
 card, azur-grinding experiment 2018.
-<img src="./media-mckeever/image7.jpg" style="width:4.87083in;height:3.65208in"
+<img src="/images/media-mckeever/image7.jpg" style="width:4.87083in;height:3.65208in"
 alt="A close-up of a blue and white speckled surface Description automatically generated" />
 
 Photo: by Sheena McKeever using Dino-Lite Edge / 5MP AM7515 Series,
 Dino-Lite Edge computer software.
 
-<img src="./media-mckeever/image30.jpg" style="width:4.82361in;height:3.61736in"
+<img src="/images/media-mckeever/image30.jpg" style="width:4.82361in;height:3.61736in"
 alt="A blue and white background Description automatically generated" />
 
 **Figure 22**. Detail of minute 45, Verditer (Kremer \#10180) sample
@@ -927,12 +927,12 @@ Dino-Lite Edge computer software.
 **Figure 23.** Materials and instruments for 2024 azur-grinding
 experiment, November 2024, The Making and Knowing Laboratory, Columbia
 University.
-<img src="./media-mckeever/image18.jpg" style="width:5.53264in;height:3.60139in"
+<img src="/images/media-mckeever/image18.jpg" style="width:5.53264in;height:3.60139in"
 alt="A desk with a phone and a pen and a calendar Description automatically generated with medium confidence" />
 
 Photo: by Sheena McKeever.
 
-<img src="./media-mckeever/image34.jpg" style="width:4.23542in;height:5.07292in"
+<img src="/images/media-mckeever/image34.jpg" style="width:4.23542in;height:5.07292in"
 alt="A close-up of a chart Description automatically generated" />
 
 **Figure 24**. Azurite (Kremer \#10180) sample card, azur-grinding
@@ -942,13 +942,13 @@ Photo: by Sheena McKeever.
 
 **Figure 25.** Detail of minute 2, Azurite (Kremer \#10200) sample card,
 azur-grinding experiment 2024.
-<img src="./media-mckeever/image21.jpg" style="width:4.59861in;height:3.44861in"
+<img src="/images/media-mckeever/image21.jpg" style="width:4.59861in;height:3.44861in"
 alt="A close-up of a marbled surface Description automatically generated" />
 
 Photo: by Sheena McKeever using Dino-Lite Edge / 5MP AM7515 Series,
 Dino-Lite Edge computer software.
 
-<img src="./media-mckeever/image9.jpg" style="width:4.57778in;height:3.43194in"
+<img src="/images/media-mckeever/image9.jpg" style="width:4.57778in;height:3.43194in"
 alt="A close-up of clouds in the sky Description automatically generated" />
 
 **Figure 26.** Detail of minute 45, Azurite (Kremer \#10200) sample
@@ -960,12 +960,12 @@ Dino-Lite Edge computer software.
 **Figure 27.** Lapis Lazuli (Kremer \#1056020) sample card,
 azur-grinding experiment 2024, The Making and Knowing Laboratory,
 Columbia
-University.<img src="./media-mckeever/image5.jpg" style="width:5.72708in;height:4.34028in"
+University.<img src="/images/media-mckeever/image5.jpg" style="width:5.72708in;height:4.34028in"
 alt="A white board with blue paint on it Description automatically generated" />
 
 Photo: by Sheena McKeever
 
-<img src="./media-mckeever/image25.jpg" style="width:4.73542in;height:3.55069in"
+<img src="/images/media-mckeever/image25.jpg" style="width:4.73542in;height:3.55069in"
 alt="A close-up of a blue and white speckled surface Description automatically generated" />
 
 **Figure 28.** Detail of minute 2, Lapis Lazuli (Kremer \#1056020)
@@ -976,13 +976,13 @@ Dino-Lite Edge computer software.
 
 **Figure 29**. Detail of left-edge film at minute 34, Lapis Lazuli
 (Kremer \#1056020) sample card, azur-grinding experiment 2024.
-<img src="./media-mckeever/image22.jpg" style="width:4.68958in;height:3.51667in"
+<img src="/images/media-mckeever/image22.jpg" style="width:4.68958in;height:3.51667in"
 alt="A close-up of a blue and white background Description automatically generated" />
 
 Photo: by Sheena McKeever using Dino-Lite Edge / 5MP AM7515 Series,
 Dino-Lite Edge computer software.
 
-<img src="./media-mckeever/image29.jpg" style="width:4.68403in;height:3.51181in"
+<img src="/images/media-mckeever/image29.jpg" style="width:4.68403in;height:3.51181in"
 alt="A close-up of a blue and white background Description automatically generated" />
 
 **Figure 30.** Detail of minute 45, Lapis Lazuli (Kremer \#1056020)
@@ -993,12 +993,12 @@ Dino-Lite Edge computer software.
 
 **Figure 31.** Smalt (Kremer \#10000) sample card, azur-grinding
 experiment 2024, The Making and Knowing Laboratory, Columbia
-University.<img src="./media-mckeever/image11.jpg" style="width:4.03472in;height:5.27569in"
+University.<img src="/images/media-mckeever/image11.jpg" style="width:4.03472in;height:5.27569in"
 alt="A close-up of a chart Description automatically generated" />
 
 Photo: by Sheena McKeever.
 
-<img src="./media-mckeever/image16.jpg" style="width:4.74514in;height:3.55903in"
+<img src="/images/media-mckeever/image16.jpg" style="width:4.74514in;height:3.55903in"
 alt="A close-up of a blue and white speckled surface Description automatically generated" />
 
 **Figure 32**. Detail of minute 2, Smalt (Kremer \#10000) sample card,
@@ -1009,13 +1009,13 @@ Dino-Lite Edge computer software.
 
 **Figure 33**. Detail of minute 45, Smalt (Kremer \#10000) sample card,
 azur-grinding experiment 2024.
-<img src="./media-mckeever/image24.jpg" style="width:4.68958in;height:3.51667in"
+<img src="/images/media-mckeever/image24.jpg" style="width:4.68958in;height:3.51667in"
 alt="A close-up of a blue and white background Description automatically generated" />
 
 Photo: by Sheena McKeever using Dino-Lite Edge / 5MP AM7515 Series,
 Dino-Lite Edge computer software.
 
-<img src="./media-mckeever/image8.jpg" style="width:4.09306in;height:5.52847in"
+<img src="/images/media-mckeever/image8.jpg" style="width:4.09306in;height:5.52847in"
 alt="A white board with blue paint on it Description automatically generated" />
 
 **Figure 34.** Verditer (Kremer \#10180) sample card, azur-grinding
@@ -1025,13 +1025,13 @@ Photo: by Sheena McKeever.
 
 **Figure 35.** Detail of minute 2, Verditer (Kremer \#10180) sample
 card, azur-grinding experiment 2024.
-<img src="./media-mckeever/image10.jpg" style="width:4.58819in;height:3.44028in"
+<img src="/images/media-mckeever/image10.jpg" style="width:4.58819in;height:3.44028in"
 alt="A close-up of a blue and white background Description automatically generated" />
 
 Photo: by Sheena McKeever using Dino-Lite Edge / 5MP AM7515 Series,
 Dino-Lite Edge computer software.
 
-<img src="./media-mckeever/image3.jpg" style="width:4.5875in;height:3.44028in"
+<img src="/images/media-mckeever/image3.jpg" style="width:4.5875in;height:3.44028in"
 alt="A blue sky with white clouds Description automatically generated" />
 
 **Figure.** Detail of minute 45, Verditer (Kremer \#10180) sample card,

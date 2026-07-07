@@ -17,7 +17,7 @@ Participants:
 -   [<u>V&A/RCA blog post on Azurite May 2017 part> 2</u>](http://www.vam.ac.uk/blog/research-department/thinking-and-experiencing-techne-making-azurite-part-2)
 
 Handouts:
--   [<u>CAMEO Characteristics of Common Blue> Pigments</u>](http://cameo.mfa.o/images/e/ea/Download_file_506.pdf)
+-   [<u>CAMEO Characteristics of Common Blue> Pigments</u>](http://cameo.mfa.org/images/e/ea/Download_file_506.pdf)
 -   Cennini on Azurite prep
 
 Spike Bucklow presentation:

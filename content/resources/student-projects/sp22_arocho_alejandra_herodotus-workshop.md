@@ -288,7 +288,7 @@ arguably upholds that “theory is the most worthy” and that it is
 correlated with what he has “tried out with \[his\] own hand” (Cennini
 1-2). By including among his recipes so many references to Greco-Roman
 thinkers beyond Herodotus (for a comprehensive list, see
-[<u>sp22_editorial-comments</u>](static/documents/pdf/sp22_Arocho_editorial-comments.pdf)),
+[<u>sp22_editorial-comments</u>](/documents/pdf/sp22_Arocho_editorial-comments.pdf)),
 he strengthens the ties between knowledge of the mind and knowledge of
 the hand: each reference might be more deliberate than we think, for he
 might have read and interpreted the texts according to his vision for

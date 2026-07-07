@@ -148,7 +148,7 @@ Jean Le Begue, “Experimenta de Coloribus (1431),” and The Bolognese Manuscri
      - Mary P. Merrifield, *Medieval and Renaissance Treatises on the Arts of Painting: Original Texts with English Translations* (New York: Dover, 2003)
 - [Traveling Scriptorium: A Teaching Kit by the Yale University Library](https://travelingscriptorium.com/) 
      - [Ink and Pigment Sampler](https://travelingscriptorium.com/2012/03/20/an-online-version-of-the-ink-pigment-sampler-set/) 
-- [CAMEO Characteristics of Common Blue Pigments](http://cameo.mfa.o/images/e/ea/Download_file_506.pdf) - very helpful overview: Table with all blue pigments, their composition, usage, characteristics, etc.
+- [CAMEO Characteristics of Common Blue Pigments](http://cameo.mfa.org/images/e/ea/Download_file_506.pdf) - very helpful overview: Table with all blue pigments, their composition, usage, characteristics, etc.
 - CAMEO links:
      - <http://cameo.mfa.org/wiki/Lapis_lazuli>; <http://cameo.mfa.org/wiki/Ultramarine_blue,_natural> 
      - <http://cameo.mfa.org/wiki/Smalt> 
