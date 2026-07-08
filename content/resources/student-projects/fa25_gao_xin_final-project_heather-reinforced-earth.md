@@ -67,7 +67,7 @@ Situated within the interrelations among text, material behavior, and
 embodied practice, this study demonstrates that reconstruction serves
 not only to recover historical techniques but also to reconstruct the
 epistemic modes through which early modern craftsmen understood and
-transformed the natural world.[^] In doing so, it brings into view the
+transformed the natural world.[^2] In doing so, it brings into view the
 traditional intelligence embedded in early modern earth construction,
 wherein human sensories, natural materials, and environmental conditions
 jointly constitute the technical system.
