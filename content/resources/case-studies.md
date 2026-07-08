@@ -87,7 +87,7 @@ This 4-day workshop was held in March 2023 at Texas A&M University. It was organ
 - [News Item: Bio Art Workshops at Texas A&M University](https://pvfa.tamu.edu/news/2023/03/20/bio-art-workshops-to-show-creative-process-using-cochineal-insects-bacteria/)
 - [Poster: Bio Art Workshops at Texas A&M University](/documents/pdf/sp23_poster_bioart.pdf)
 
-![](/images/tamu_cochineal-step-by-step.jpg?raw=true)
+![image](/images/tamu_cochineal-step-by-step.jpg?raw=true)
 
 ### Refashioning the Renaissance Reconstruction Exchange
 Naomi Rosenkranz, Dr. Sophie Pitman, Professor Paula Hohti, 2019
@@ -123,7 +123,7 @@ In this workshop, participants
 - [Presentation: Dyeing with Cochineal, Step by Step](/documents/pdf/rosenkranz_2018_dyes_cochineal-step-by-step.pdf)
 - [Handout: Mordanting and Dyeing Protocol](/documents/pdf/rosenkranz_2018_dyes_handout_dyeing-with-cochineal.pdf)
 
-![](/images/coloring-textiles-with-bugs.jpg?raw=true)  
+![image](/images/coloring-textiles-with-bugs.jpg?raw=true)  
 
 #### Dyeing and Painting with Nature: The Chemistry of Cochineal
 Naomi Rosenkranz, April 2019
@@ -146,7 +146,7 @@ Building upon the workshop, Coloring Textiles with Bugs, Rosenkranz created anot
 - [Handout: cochineal dyeing process](/documents/pdf/2019-04-13_handout_genspace_dyeing-cochineal.pdf)
 - [Handout: cochineal dye samples summary](/documents/pdf/2019-04-13_handout_cochineal-dye-sample-summary.pdf)
 
-![](/images/2019-genspace-plan.jpg?raw=true)
+![image](/images/2019-genspace-plan.jpg?raw=true)
 
 
 ### Dyeing with Cochineal - A Short High-School Workshop
