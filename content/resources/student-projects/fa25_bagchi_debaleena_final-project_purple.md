@@ -1,10 +1,9 @@
 # Purple in Ms. Fr. 640 and how “Painters make it beautiful”
 
-Debaleena Bagchi
 
-Fall 2025
-
-HIST GU4962: Making and Knowing in Early Modern Europe
+Debaleena Bagchi<br>
+Fall 2025<br>
+HIST GU4962: Making and Knowing in Early Modern Europe<br>
 
 ## Introduction 
 
@@ -231,12 +230,12 @@ or madder or indigo (fig 3). Another recommends using Paris red and rich
 azure, and adding highlights with ground silver or lead white (fig 4).
 
 <img src="/images/media-bagchi/image15.png"
-style="width:3.10938in;height:4.61834in" />
+style="width:3.1532in" />
 
 Figure 3. Page 218 of *Illuminierbuch* by Valentin Boltz von Raffach,
 published in 1549.[^14]
 
-<img src="/images/media-bagchi/image7.png" style="width:3.1532in;height:4.74336in" />
+<img src="/images/media-bagchi/image7.png" style="width:3.1532in" />
 
 Figure 4. Page 220 of *Illuminierbuch* by Valentin Boltz von Raffach,
 published in 1549.[^15]
@@ -301,7 +300,7 @@ unadulterated. Interestingly, this technique of separating grades or
 values of color suggested by Cennini might also be observed in practice
 in an illustration from the *Illuminier Buoch* (fig 6).
 
-<img src="/images/media-bagchi/image16.png" style="width:3.26072in;height:4.03in" />
+<img src="/images/media-bagchi/image16.png" style="width:3.1532in" />
 
 Figure 6. Page 22 of Valentin Boltz’s *Illuminier Buoch* shows a table
 with many small pots that can be presumed to contain different values of
@@ -451,7 +450,7 @@ inferences next to the entries.
 <th>Inference</th>
 </tr>
 <tr>
-<th style="text-align: center;"><p>Folio 42v</p>
+<th style="text-align: left;"><p>Folio 42v</p>
 <p><strong>Canvas for painting in oil without breaking</strong></p>
 <p>In order that your picture in oil does not break &amp; spoil in the
 folding of it, make your layer with honey, <del>oil</del> a bit of oil,
@@ -463,7 +462,7 @@ alongside the one for purple, so I took the liberty of buying prepared
 canvas for my recipe reconstruction.</th>
 </tr>
 <tr>
-<th style="text-align: center;"><p>Folio 93v</p>
+<th style="text-align: left;"><p>Folio 93v</p>
 <p><strong>Azure</strong></p>
 <p><em>Azur d'esmail</em> always wants to be cleaned, because the filth
 that can be perceived in the wash water makes it die. One needs to layer
@@ -478,7 +477,7 @@ for purple calls for using azur d’esmail as the first substance that is
 applied to the canvas.</th>
 </tr>
 <tr>
-<th style="text-align: center;"><p>Folio 165r</p>
+<th style="text-align: left;"><p>Folio 165r</p>
 <p><strong>Stretching a canvas picture</strong></p>
 <p>If it is crumpled &amp; creased from being rolled up, moisten it from
 behind with a wet sponge, &amp; you will stretch it very evenly without
@@ -502,13 +501,13 @@ reconstruction.
 <col style="width: 50%" />
 </colgroup>
 <thead>
-<tr>
+<tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image1.png"
 style="width:2.81987in;height:2.82888in" /></th>
 <th><p>Canvas for color swatches</p>
 <p>(most basic variant available at the store)</p></th>
 </tr>
-<tr>
+<tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image4.png"
 style="width:2.60938in;height:3.2938in" /></th>
 <th><p>Canvas for painting</p>
