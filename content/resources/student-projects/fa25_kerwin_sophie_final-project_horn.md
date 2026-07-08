@@ -532,7 +532,8 @@ boiling, held in place by pliers to cool and harden.<br>
 
 Horn sheet maintaining curved shape after cooling.
 
-#### 3.3.2. Trial 2: Another Way: Recreating Girolamo Cardano’s Recipe to “Amollir les cornes”<br>
+#### 3.3.2. Trial 2: Another Way: Recreating Girolamo Cardano’s Recipe to “Amollir les cornes”
+<br>
 <br>
 
 | **Pour amollir les cornes** | **To soften horns** |
@@ -624,7 +625,8 @@ A comparison of the shaped horn from Trial 1 and Trial 2.<br>
 A detail of the shaped horn from Trial 2 showing breakage from
 bending.
 
-#### 3.3.3. Trial 3: Yet Another Way: Soaking Horn in Woodash Lye<br>
+#### 3.3.3. Trial 3: Yet Another Way: Soaking Horn in Woodash Lye
+<br>
 <br>
 
 
