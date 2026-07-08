@@ -455,23 +455,21 @@ The horn sheet warped from soaking.<br>
 
 ![A person in a lab coat cutting something on a tray](/images/media-kerwin/image23.png)<br>
 
-VIDEO - <a
-href="https://drive.google.com/open?id=1wJ_1QwwCsTo5IrbOIASnWE40HsHbNfjp"><u>Cutting
-horn sheet, made somewhat softer and more pliable through
-soaking.</u></a><br>
+<div style="padding:177.78% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1177756901?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Soaking Horn Video 01_Cutting Horn"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script><br>
+
+Cutting horn sheet, made somewhat softer and more pliable through soaking.<br>
 
 ![A hand holding a piece of horn](/images/media-kerwin/image29.png)<br>
 
-VIDEO - <a
-href="https://drive.google.com/open?id=1JXfZ7lDrgq6Ge4EeCKgodaLYaZMD277X"><u>Demonstrating
-pliability of horn sheet while cutting.</u></a><br>
+<div style="padding:177.78% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1177756792?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Soaking Horn Video 02_Horn Pliability"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script><br>
+
+Demonstrating pliability of horn sheet while cutting.<br>
 
 ![A person holding a knife over a metal container](/images/media-kerwin/image31.png)<br>
 
-VIDEO - <a
-href="https://drive.google.com/open?id=1InHjszWmOWrjVQ6-3zAaOd_bU8WGrHMc"><u>Cutting
-small horn, made somewhat softer and more pliable through
-soaking.</u></a>
+<div style="padding:177.78% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1177756843?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Soaking Horn Video 03_Cutting Horn"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script><br>
+
+Cutting small horn, made somewhat softer and more pliable through soaking.<br>
 
 **Part B: Boiling in Water**
 
@@ -506,14 +504,13 @@ Horn and small sheet boiling
 pliability.<br>
 ![A hand in blue glove holding a round object](/images/media-kerwin/image32.jpg)<br>
 
-Demonstrating pliability of horn sheet after two hours of
-boiling.<br>
+Demonstrating pliability of horn sheet after two hours of boiling.<br>
 
 ![A hand in blue glove holding a round object](/images/media-kerwin/image27.png)<br>
 
-VIDEO - <a
-href="https://drive.google.com/open?id=1ToELP-wjQbaYGkIpPsHOzu4etxZTjqFw"><u>Demonstrating
-pliability of small horn after two hours of boiling</u></a><br>
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1177758630?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Soaking Horn Video 04_Horn Pliability"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script><br>
+
+Demonstrating pliability of small horn after two hours of boiling.<br>
 
 3. When pliability is achieved, experiment with cutting and shaping
 on mandrel.<br>
@@ -535,7 +532,7 @@ boiling, held in place by pliers to cool and harden.<br>
 
 Horn sheet maintaining curved shape after cooling.
 
-#### 3.3.2. Trial 2: Another Way: Recreating Girolamo Cardano’s Recipe to “Amollir les cornes”
+#### 3.3.2. Trial 2: Another Way: Recreating Girolamo Cardano’s Recipe to “Amollir les cornes”<br>
 
 | **Pour amollir les cornes** | **To soften horns** |
 |----|----|
@@ -626,7 +623,7 @@ A comparison of the shaped horn from Trial 1 and Trial 2.<br>
 A detail of the shaped horn from Trial 2 showing breakage from
 bending.
 
-#### 3.3.3. Trial 3: Yet Another Way: Soaking Horn in Woodash Lye
+#### 3.3.3. Trial 3: Yet Another Way: Soaking Horn in Woodash Lye<br>
 
 
 <table>
