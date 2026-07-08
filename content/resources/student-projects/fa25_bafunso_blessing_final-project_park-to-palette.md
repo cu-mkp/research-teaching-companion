@@ -4,7 +4,7 @@ Blessing Bafunso<br>
 Fall 2025<br>
 HIST GU4962: Making and Knowing in Early Modern Europe<br>
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1176592106?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Natural Dyes from Eisenhower Park"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script><br>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1176592106?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Natural Dyes from Eisenhower Park"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
 In this project and video, I explore New York’s current ecosystem
@@ -72,8 +72,8 @@ throughout modern day Nassau County, and are extremely vulnerable to
 development, trash dumping, and exotic species invasions.[^7] The most
 prominent portion of these remnants is, of course, Eisenhower Park.<br>
 
-<img src="./media-bafunso/image1.png" style="width:4.53889in;height:2.70208in"
-alt="A map of a park" /><br>
+<img src="images/media-bafunso/image1.png" style="width:4.53889in"
+alt="A map of a park" />
 
 Modern preservationists note that the Red Golf Course in Eisenhower Park
 has experienced the least amount of soil disturbance among the remnants.
