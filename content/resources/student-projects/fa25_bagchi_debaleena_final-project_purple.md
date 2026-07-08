@@ -46,7 +46,7 @@ author-practitioner seems to demand from his readers).
 
 ## Historical Context and Literature Review 
 
-<img src="./media-bagchi/image12.png"
+<img src="/images/media-bagchi/image12.png"
 style="width:6.46458in;height:1.87078in" />
 
 Figure 1: Detail of fol. 10r, from Making and Knowing Project, Pamela H.
@@ -214,7 +214,7 @@ together, this might imply that the author-practitioner’s recipe for
 purple is consistent with his tendency to offer cost-effective,
 practical solutions and alternatives.
 
-<img src="./media-bagchi/image28.png"
+<img src="/images/media-bagchi/image28.png"
 style="width:6.96978in;height:5.3284in" />
 
 Figure 2: Page 91 of *The Secrets of the reverende Maister Alexis of
@@ -230,13 +230,13 @@ recipe calls for using a dark rose color and shading it with sap green
 or madder or indigo (fig 3). Another recommends using Paris red and rich
 azure, and adding highlights with ground silver or lead white (fig 4).
 
-<img src="./media-bagchi/image15.png"
+<img src="/images/media-bagchi/image15.png"
 style="width:3.10938in;height:4.61834in" />
 
 Figure 3. Page 218 of *Illuminierbuch* by Valentin Boltz von Raffach,
 published in 1549.[^14]
 
-<img src="./media-bagchi/image7.png" style="width:3.1532in;height:4.74336in" />
+<img src="/images/media-bagchi/image7.png" style="width:3.1532in;height:4.74336in" />
 
 Figure 4. Page 220 of *Illuminierbuch* by Valentin Boltz von Raffach,
 published in 1549.[^15]
@@ -273,7 +273,7 @@ in fresco, take indigo and hematite and mix them as for the one above
 without a binder. And make four grades from it in total. Then work up
 your clothing.”[^20]
 
-<img src="./media-bagchi/image9.png"
+<img src="/images/media-bagchi/image9.png"
 style="width:4.13081in;height:5.17561in" />
 
 Figure 5. Fra Angelico, The Mocking of Christ, 1439-1443, fresco, Cell
@@ -301,7 +301,7 @@ unadulterated. Interestingly, this technique of separating grades or
 values of color suggested by Cennini might also be observed in practice
 in an illustration from the *Illuminier Buoch* (fig 6).
 
-<img src="./media-bagchi/image16.png" style="width:3.26072in;height:4.03in" />
+<img src="/images/media-bagchi/image16.png" style="width:3.26072in;height:4.03in" />
 
 Figure 6. Page 22 of Valentin Boltz’s *Illuminier Buoch* shows a table
 with many small pots that can be presumed to contain different values of
@@ -432,7 +432,7 @@ I ended up with the following set of brushes. I assigned each one to the
 three colors I would use—cochineal, azurite, and lead white—to prevent
 any cross-contamination between them.
 
-<img src="./media-bagchi/image29.jpg" style="width:6.462in;height:5.51016in" />
+<img src="/images/media-bagchi/image29.jpg" style="width:6.462in;height:5.51016in" />
 
 Then, to determine my painting surface, I returned to Ms. Fr. 640. The
 manuscript contains about twenty-five mentions of “canvas” linked mostly
@@ -468,7 +468,7 @@ canvas for my recipe reconstruction.</th>
 <p><em>Azur d'esmail</em> always wants to be cleaned, because the filth
 that can be perceived in the wash water makes it die. One needs to layer
 it two times, &amp; the first very thick, moving the paintbrush by
-layering it first lengthwise then across. <img src="./media-bagchi/image30.png"
+layering it first lengthwise then across. <img src="/images/media-bagchi/image30.png"
 style="width:1.25521in;height:0.62975in" /> <u>It is better used on
 canvas, where it is imbibed immediately, than on wood.</u></p>
 <p>(emphasis mine)</p></th>
@@ -503,13 +503,13 @@ reconstruction.
 </colgroup>
 <thead>
 <tr>
-<th><img src="./media-bagchi/image1.png"
+<th><img src="/images/media-bagchi/image1.png"
 style="width:2.81987in;height:2.82888in" /></th>
 <th><p>Canvas for color swatches</p>
 <p>(most basic variant available at the store)</p></th>
 </tr>
 <tr>
-<th><img src="./media-bagchi/image4.png"
+<th><img src="/images/media-bagchi/image4.png"
 style="width:2.60938in;height:3.2938in" /></th>
 <th><p>Canvas for painting</p>
 <p>(more advanced, professional grade, costlier than the canvas on the
@@ -546,7 +546,7 @@ southern European oil paintings that feature purple textiles, I settled
 on recreating a portion of the purple dress from Lorenzo Lotto’s *Christ
 Taking Leave of his Mother*, dated 1521 (fig 7).
 
-<img src="./media-bagchi/image2.jpg" style="width:2.74479in;height:3.4057in" />
+<img src="/images/media-bagchi/image2.jpg" style="width:2.74479in;height:3.4057in" />
 
 Figure 7. Lorenzo Lotto, *Christ Taking Leave of his Mother*, 1521. The
 red rectangle indicates the area of the painting that I chose to
@@ -583,7 +583,7 @@ cochineal lake made in class
 class.</p></th>
 </tr>
 <tr>
-<th><img src="./media-bagchi/image20.jpg"
+<th><img src="/images/media-bagchi/image20.jpg"
 style="width:2.86979in;height:2.63711in" /></th>
 <th><p>Step 2: Place pigment on a glass plate</p>
 <p>Materials: Glass plate</p>
@@ -593,7 +593,7 @@ but looking back, I realise it could have been ground much more
 finely.</p></th>
 </tr>
 <tr>
-<th><img src="./media-bagchi/image11.jpg"
+<th><img src="/images/media-bagchi/image11.jpg"
 style="width:2.87777in;height:2.23999in" /></th>
 <th><p>Step 3: Procure cochineal (extra)</p>
 <p>Materials: Finely ground pigment</p>
@@ -606,7 +606,7 @@ Cochineal(H).</p>
 in Table 2, below.</p></th>
 </tr>
 <tr>
-<th><img src="./media-bagchi/image13.jpg"
+<th><img src="/images/media-bagchi/image13.jpg"
 style="width:2.87316in;height:3.83854in" /></th>
 <th><p>Step 4: Procure binding and mixing agents</p>
 <p>Materials: Walnut oil and turpentine</p>
@@ -623,14 +623,14 @@ process not dissimilar from how turpentine was obtained in the sixteenth
 century.</p></th>
 </tr>
 <tr>
-<th><img src="./media-bagchi/image22.jpg"
+<th><img src="/images/media-bagchi/image22.jpg"
 style="width:2.88021in;height:2.77004in" /></th>
 <th><p>Step 5: Mix pigment and binder</p>
 <p>Notes: I added the walnut oil drop by drop, so as not to flood the
 pigment.</p></th>
 </tr>
 <tr>
-<th><img src="./media-bagchi/image23.jpg"
+<th><img src="/images/media-bagchi/image23.jpg"
 style="width:2.86979in;height:3.15207in" /></th>
 <th><p>Step 6: Mix pigment and binder with a palette knife until roughly
 incorporated</p>
@@ -649,7 +649,7 @@ between.</p>
 coarse to the touch.</p></th>
 </tr>
 <tr>
-<th><img src="./media-bagchi/image48.jpg"
+<th><img src="/images/media-bagchi/image48.jpg"
 style="width:2.86206in;height:3.82813in" /></th>
 <th><p>Step 7: Mull the mixture together</p>
 <p>Materials: Glass muller</p>
@@ -663,7 +663,7 @@ stopped when the mixture reached an oil-paint-like consistency (a
 texture I was familiar with).</p></th>
 </tr>
 <tr>
-<th><img src="./media-bagchi/image5.jpg"
+<th><img src="/images/media-bagchi/image5.jpg"
 style="width:2.86979in;height:2.80566in" /></th>
 <th><p>Step 8: Stop mulling</p>
 <p>Notes: This is the stage at which I stopped mulling.</p>
@@ -671,7 +671,7 @@ style="width:2.86979in;height:2.80566in" /></th>
 paint.</p></th>
 </tr>
 <tr>
-<th><img src="./media-bagchi/image32.jpg"
+<th><img src="/images/media-bagchi/image32.jpg"
 style="width:2.87837in;height:2.64624in" /></th>
 <th><p>Step 9: Separate paint into three sections</p>
 <p>Notes: Since I would have to make glazes with the paint, I decided to
@@ -689,7 +689,7 @@ medium and pigment.”<a href="#fn2" class="footnote-ref" id="fnref2"
 role="doc-noteref"><sup>2</sup></a></p></th>
 </tr>
 <tr>
-<th><img src="./media-bagchi/image10.jpg"
+<th><img src="/images/media-bagchi/image10.jpg"
 style="width:2.88021in;height:2.42872in" /></th>
 <th><p>Step 10: Separate paint into containers</p>
 <p>Materials: Plastic containers</p>
@@ -729,7 +729,7 @@ to soak a cotton rag with turpentine and give everything a thorough wipe
 because the acidic pine spirit is highly effective in neutralizing the
 oil in oil paint.
 
-<img src="./media-bagchi/image46.jpg"
+<img src="/images/media-bagchi/image46.jpg"
 style="width:6.38021in;height:3.58887in" />
 
 This process left my station looking practically untouched, and I was
@@ -755,7 +755,7 @@ cochineal lake.
 <p>Notes: Given to me by Helen Sullivan.</p></th>
 </tr>
 <tr>
-<th><img src="./media-bagchi/image33.jpg"
+<th><img src="/images/media-bagchi/image33.jpg"
 style="width:2.86979in;height:2.98659in" /></th>
 <th><p>Step 2: Grind pigment to find powder</p>
 <p>Materials: Cochineal(H)</p>
@@ -764,7 +764,7 @@ I ground this pigment very finely in a mortar and pestle, and the
 difference in handling it later was remarkable.</p></th>
 </tr>
 <tr>
-<th><img src="./media-bagchi/image11.jpg"
+<th><img src="/images/media-bagchi/image11.jpg"
 style="width:2.88021in;height:2.24189in" /></th>
 <th><p>Step 3: Place pigment on a glass plate</p>
 <p>Materials: Glass plate</p>
@@ -775,7 +775,7 @@ finer powder.</p>
 subsequent steps easier.</p></th>
 </tr>
 <tr>
-<th><img src="./media-bagchi/image18.jpg"
+<th><img src="/images/media-bagchi/image18.jpg"
 style="width:2.85938in;height:4.22552in" /></th>
 <th><p>Step 4: Mix pigment and binder</p>
 <p>Notes: To this batch of ground pigment, I added walnut oil drop by
@@ -785,7 +785,7 @@ the larger clumps of pigment (as in Table 1, Step 6). Instead, it helped
 bind all the fine, loose pigment together.</p></th>
 </tr>
 <tr>
-<th><img src="./media-bagchi/image3.jpg"
+<th><img src="/images/media-bagchi/image3.jpg"
 style="width:2.88021in;height:3.84547in" /></th>
 <th><p>Step 5: Mix pigment and binder with a palette knife until roughly
 incorporated</p>
@@ -797,7 +797,7 @@ pigment.</p>
 Table 1, and its consistency was smoother to the touch.</p></th>
 </tr>
 <tr>
-<th><img src="./media-bagchi/image8.jpg"
+<th><img src="/images/media-bagchi/image8.jpg"
 style="width:2.86979in;height:2.46647in" /></th>
 <th><p>Step 6: Mull the mixture together</p>
 <p>Materials: Glass muller</p>
@@ -806,7 +806,7 @@ mulling, the pigment almost immediately took the consistency of a soft,
 homogenized oily toothpaste.</p></th>
 </tr>
 <tr>
-<th><img src="./media-bagchi/image34.jpg"
+<th><img src="/images/media-bagchi/image34.jpg"
 style="width:2.86979in;height:2.48067in" /></th>
 <th><p>Step 7: Separate paint into containers</p>
 <p>Materials: Plastic containers</p>
@@ -840,7 +840,7 @@ store-bought azurite.
 <th>Notes and Observations</th>
 </tr>
 <tr>
-<th><img src="./media-bagchi/image21.jpg"
+<th><img src="/images/media-bagchi/image21.jpg"
 style="width:2.87452in;height:4.36979in" /></th>
 <th><p>Step 1: Procure azureite pigment</p>
 <p>Materials: Store-bought, finely ground azurite pigment from the
@@ -850,7 +850,7 @@ pigment. For my reconstruction, I used a bottle labeled “Azurite
 natural, standard” from Kremer Pigments, New York.</p></th>
 </tr>
 <tr>
-<th><img src="./media-bagchi/image45.jpg"
+<th><img src="/images/media-bagchi/image45.jpg"
 style="width:2.873in;height:2.53166in" /></th>
 <th><p>Step 2: Place pigment on a glass plate</p>
 <p>Materials: Glass plate</p>
@@ -859,7 +859,7 @@ store-bought azurite pigment was the finest of all the dry pigments I
 used in my reconstruction. It had the texture of talcum powder.</p></th>
 </tr>
 <tr>
-<th><img src="./media-bagchi/image25.jpg"
+<th><img src="/images/media-bagchi/image25.jpg"
 style="width:2.88014in;height:3.43229in" /></th>
 <th><p>Step 3: Mix pigment and binder</p>
 <p>Notes: I added the walnut oil drop by drop to the pigment.</p>
@@ -877,7 +877,7 @@ on their own knowledge and experience to create <em>their</em> desired
 product.</p></th>
 </tr>
 <tr>
-<th><img src="./media-bagchi/image44.jpg"
+<th><img src="/images/media-bagchi/image44.jpg"
 style="width:2.85029in;height:5.08542in" /></th>
 <th><p>Step 4: Mix pigment and binder with a palette knife until roughly
 incorporated</p>
@@ -896,7 +896,7 @@ was absolutely required.</p>
 better to the oil and fix the paint’s runniness.</p></th>
 </tr>
 <tr>
-<th><img src="./media-bagchi/image42.jpg"
+<th><img src="/images/media-bagchi/image42.jpg"
 style="width:2.87937in;height:5.13021in" /></th>
 <th><p>Step 5: Mull the mixture together</p>
 <p>Materials: Glass muller</p>
@@ -914,7 +914,7 @@ complete, but the sound and the feel between my fingers told me it
 wasn’t. So, I continued to mull until the cracking reduced.</p></th>
 </tr>
 <tr>
-<th><img src="./media-bagchi/image41.jpg"
+<th><img src="/images/media-bagchi/image41.jpg"
 style="width:2.88582in;height:2.88582in" /></th>
 <th><p>Step 6: Stop mulling and separate the paint into three
 sections</p>
@@ -923,7 +923,7 @@ well with the pigment so that the final consistency of my paint was
 paste-like, and not runny.</p></th>
 </tr>
 <tr>
-<th><img src="./media-bagchi/image27.jpg"
+<th><img src="/images/media-bagchi/image27.jpg"
 style="width:2.87233in;height:2.34896in" /></th>
 <th><p>Step 7: Separate paint into containers</p>
 <p>Materials: Plastic containers</p>
@@ -939,7 +939,7 @@ different strengths: 100%, 50%, and 25%.</p></th>
 
 Once I had all my paint prepared, I could begin testing them.
 
-<img src="./media-bagchi/image6.jpg"
+<img src="/images/media-bagchi/image6.jpg"
 style="width:3.55445in;height:4.57292in" />
 
 The cochineal and azurite at full opacity were to be my darkest value,
@@ -952,13 +952,13 @@ the different values of azurite on one axis, and the different values of
 cochineal lake to the other, and when laid on top of one another, they
 would produce purple.
 
-<img src="./media-bagchi/image14.jpg"
+<img src="/images/media-bagchi/image14.jpg"
 style="width:3.61538in;height:6.42919in" />
 
 I began by adding the colors to their designated boxes on the canvas,
 trying to keep them separate so they wouldn’t bleed into each other.
 
-<img src="./media-bagchi/image19.jpg"
+<img src="/images/media-bagchi/image19.jpg"
 style="width:6.45262in;height:3.63021in" />
 
 Creating this grid was much more difficult than I anticipated. Even
@@ -975,7 +975,7 @@ is ideal for undiluted oil paint, when painting entirely with glazes and
 laying down color on a blank surface, it might have been helpful to have
 a more absorbent base.
 
-<img src="./media-bagchi/image31.jpg"
+<img src="/images/media-bagchi/image31.jpg"
 style="width:6.39063in;height:3.60099in" />
 
 I took this picture about five hours after the glazes were applied to
@@ -983,7 +983,7 @@ the canvas, and this shine told me that the paint was still very wet. It
 took a few days for the paint to dry fully. So, over the next few days,
 I waited for the shine to go down.
 
-<img src="./media-bagchi/image17.jpg"
+<img src="/images/media-bagchi/image17.jpg"
 style="width:6.40104in;height:3.61202in" />
 
 Once the paint had adequately dried, I was able to apply the next layer.
@@ -995,7 +995,7 @@ slightest disturbance, the paint behaved as if it were wet again. So, I
 used the gentlest touch, almost dabbing the paint with my paintbrush and
 never dragging it, to achieve some results.
 
-<img src="./media-bagchi/image26.jpg"
+<img src="/images/media-bagchi/image26.jpg"
 style="width:6.66146in;height:4.88815in" />
 
 Though the markings between the shades are not as clear as I would have
@@ -1037,7 +1037,7 @@ reconstruction, I chose to limit my palette to cochineal and azurite at
 different opacities, and I only added lead white to the parts of the
 sleeve that are white in the reference image.
 
-<img src="./media-bagchi/image43.jpg"
+<img src="/images/media-bagchi/image43.jpg"
 style="width:2.73438in;height:3.08984in" />
 
 For my painting reconstruction, I chose this store-bought, prepared
@@ -1046,7 +1046,7 @@ better quality than the canvas I used to create my swatches. This
 improved quality certainly made a positive difference, as it absorbed
 the glazes much better and prevented them from bleeding.
 
-<img src="./media-bagchi/image47.jpg"
+<img src="/images/media-bagchi/image47.jpg"
 style="width:6.39083in;height:3.58854in" />
 
 To recreate the purple cloth from the painting, I printed out a
@@ -1071,7 +1071,7 @@ I was very light-handed with this application because I knew I would
 have to reapply the paint to darken the areas that would appear lighter
 as soon as I filled in the negative spaces in between.
 
-<img src="./media-bagchi/image35.jpg"
+<img src="/images/media-bagchi/image35.jpg"
 style="width:6.42188in;height:3.60153in" />
 
 Once I had marked my darkest areas, I then went in with my 50% and 25%
@@ -1080,7 +1080,7 @@ Just as I had predicted, filling in the negative spaces allowed me to
 see that the contrast between my dark and light areas was not as stark
 as in the master image.
 
-<img src="./media-bagchi/image38.jpg"
+<img src="/images/media-bagchi/image38.jpg"
 style="width:6.34896in;height:3.57192in" />
 
 So, I reapplied the full-bodied azurite paint in the darkest areas. And,
@@ -1088,7 +1088,7 @@ even without adding any other color to darken or lighten the paint, it
 was rewarding to see the cloth appear three-dimensional at this early
 stage.
 
-<img src="./media-bagchi/image40.jpg"
+<img src="/images/media-bagchi/image40.jpg"
 style="width:6.42188in;height:3.61422in" />
 
 The canvas was incredibly glossy and wet when I finished this step, and
@@ -1142,7 +1142,7 @@ drying may take many years.”[^31] Since I did not have that much time, I
 waited for a few more days and then added the cochineal glaze over the
 azurite.
 
-<img src="./media-bagchi/image36.jpg"
+<img src="/images/media-bagchi/image36.jpg"
 style="width:6.39063in;height:3.59718in" />
 
 Just as I had with the azurite, I first added my darkest value of
@@ -1155,7 +1155,7 @@ the canvas without disturbing the structure and contours of the cloth
 that had been marked by the first layers of paint that the canvas had
 already absorbed.
 
-<img src="./media-bagchi/image24.jpg"
+<img src="/images/media-bagchi/image24.jpg"
 style="width:6.43229in;height:3.61509in" />
 
 Once I completed the steps for laying the glazes, I added lead white to
@@ -1164,13 +1164,13 @@ no longer going to use the brushes I had reserved for azurite and
 cochineal, I dipped them into the lead white paint to add more dimension
 to the areas where this color was applied.
 
-<img src="./media-bagchi/image37.jpg"
+<img src="/images/media-bagchi/image37.jpg"
 style="width:6.38021in;height:3.63741in" />
 
 Immediately upon completion, this is what my canvas looked like, next to
 the master image.
 
-<img src="./media-bagchi/image39.jpg"
+<img src="/images/media-bagchi/image39.jpg"
 style="width:3.90104in;height:5.03445in" />
 
 I let the canvas dry slightly before photographing again. Once the
