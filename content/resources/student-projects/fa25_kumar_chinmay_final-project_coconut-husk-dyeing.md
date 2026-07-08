@@ -49,7 +49,7 @@ resistant to hydrolysis. Coconut husk is particularly rich in condensed
 tannins, which are known for their strong affinity for cellulose fibers
 and their pronounced color shifts in the presence of metal ions.
 
-<img src="/images/media-kumar/image2.jpg" style="width:5.55in" />
+<img src="/images/media-kumar/image2.png" style="width:5.55in" />
 
 *Fig 1: Tannin Structure as taken From Ku-Vera et al., 2020*
 
