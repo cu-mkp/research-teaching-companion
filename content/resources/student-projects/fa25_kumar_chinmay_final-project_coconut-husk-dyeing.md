@@ -1,9 +1,7 @@
 # Color, Chemistry, and Craft: Investigating the Effects of pH and Water Hardness on Coconut-Husk Natural Dyeing
 
-Chinmay Kumar
-
-Fall 2025
-
+Chinmay Kumar<br>
+Fall 2025<br>
 HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History
 
 ## Abstract
