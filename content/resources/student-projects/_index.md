@@ -7,7 +7,7 @@ weight: 40
 # Student Projects
 In all Making and Knowing courses students create a final project. In _Craft and Science_, students carried out reconstructions of processes in Ms. Fr. 640 and wrote [essays](https://edition640.makingandknowing.org/#/essays), which were published as part of the Ms. Fr. 640 edition, _Secrets of Craft and Nature_. In other Making and Knowing courses, including _Hands-on History_, students create a final project that engages with _Secrets of Craft and Nature_. Browse their projects for ideas about how to engage with _Secrets of Craft and Nature_ and for integrating hands-on activities into your courses.
 
-## GU4962: _Making and Knowing in Early Modern Europe: Hands-On History_ (2021-)
+## GU4962: _Making and Knowing in Early Modern Europe: Hands-On History_ (2021-2025)
 In *Making and Knowing in Early Modern Europe: Hands-On History*, undergrad and grad students explore *Secrets of Craft and Nature*, carry out hands-on lessons, and develop a project that engages with hands-on activities, materials, techniques, and any number of other themes.
 
 Their exploratory and experimental projects serve as companion pieces to *Secrets of Craft and Nature* or mark out alternative pathways into the edition. Projects range from humorous to scholarly, pedagogical, and public facing. Instructors and students can find in them inspiration and pathways by which to explore Ms. Fr. 640 and its digital edition.
