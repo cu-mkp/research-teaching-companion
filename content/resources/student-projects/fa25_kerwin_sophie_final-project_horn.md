@@ -56,7 +56,7 @@ Translation of BnF Ms. Fr. 640* (New York: Making and Knowing Project,
 
 | Ramolir la corne                                                                                                                                                                                                                                                | Softening horn                                                                                                                                                                                                |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Ceulx qui acou mectent en oeuvre les agnus dei  & font des cerclesde corne pour certaines petites boictes ramolissent ladictelesdictscercles les mectant seulem{ent} tremper dans l'eau chaulde& les façonnent apréssur un triboulet en rond ou faict en ovale. | Those who acou mount Agnus Dei & make circles from horn for certain little boxes soften ladicte the said circles simply by soaking them in hot water and next fashion them on a round or oval-shaped triblet. |
+| Ceulx qui *~~acou~~* mectent en oeuvre les agnus dei  & font des cerclesde corne pour certaines petites boictes ramolissent *~~ladicte~~* lesdicts cercles les mectant seulem{ent} tremper dans l'eau chaulde & les façonnent apréssur un triboulet en rond ou faict en ovale. | Those who *~~acou~~* mount Agnus Dei & make circles from horn for certain little boxes soften *~~ladicte~~* the said circles simply by soaking them in hot water and next fashion them on a round or oval-shaped triblet. |
 
 ### 2.1. Who: “Ceulx qui…”
 
@@ -67,7 +67,7 @@ rather than addressing the recipe to “you” or “one” or referring to the
 process described as being carried out by “some” or “others” as he does
 elsewhere, the author-practitioner identifies the process as one
 performed by a very specific group of practitioners who produce
-particular products: “Ceulx qui ~~acou ~~mectent en oeuvre les agnus dei
+particular products: “Ceulx qui *~~acou~~* mectent en oeuvre les agnus dei
 & font des cercles de corne pour certaines petites boictes” (Those who
 *~~acou~~* mount Agnus Dei & make circles from horn for certain little
 boxes).
@@ -278,7 +278,7 @@ heating horn to the proper temperature as too little heating will not
 allow for shaping but excessive heating can begin to break down and
 dissolve the horn or render it brittle and inflexible. She provides an
 approximate temperature as an aid to “the novice horner,” but describes
-a nineteenth century account of a horner’s workshop, when a horner was
+a nineteenth-century account of a horner’s workshop, when a horner was
 asked “How hot the horn should be” before pressing and replied, “when it
 is too hot to handle.”[^20] Thus, the expert horner developed their
 sense of the necessary temperature through practice, embodied
@@ -628,6 +628,7 @@ bending.
 
 #### 3.3.3. Trial 3: Yet Another Way: Soaking Horn in Woodash Lye
 
+
 <table>
 <colgroup>
 <col style="width: 50%" />
@@ -642,8 +643,8 @@ forms</th>
 <tr>
 <th><p>Take the urine of a man which has stood covered for four weeks,
 and one pound of unslaked lime and half the amount of willow ashes or
-ashes of wine lees, eight loth tartar and the same amount of salt;</p>
-<p>mix well together and bring to the boil; pour it into a filter bag
+ashes of wine lees, eight loth tartar and the same amount of salt;
+mix well together and bring to the boil; pour it into a filter bag
 and let it run twice through; keep this lye well covered. When you want
 to make horn soft, immerse the horn material therein for eight days,
 then it will become soft; or take stems from poppies together with their
@@ -826,7 +827,7 @@ Boileau, Étienne. *Réglemens sur les arts et métiers de Paris*. Edited
 by G.-B  Depping. Paris, 1837.
 
 Cardano, Girolamo. *Les Livres de Hierosme Cardanus medecin milannois.
-intitules de la * *Subtilité, et subtiles inventions, ensemble les
+intitules de la Subtilité, et subtiles inventions, ensemble les
 causes occultes, et raisons d'icelles.* Translated by Richard le Blanc.
 Paris, 1556.
 
@@ -852,7 +853,7 @@ approved artists of France / composed and experimented by the Sieur
 Lemery, apothecary to the French king ; made English from the original
 French.* London: Matthew Gilliflower and James Partridge, 1685.
 
-Lamour, *Nouveau manuel de l'ébéniste*. Paris, 1838. 
+Lamour. *Nouveau manuel de l'ébéniste*. Paris, 1838. 
 
 Pausanias. *Description of Greece*. Translated by Jones, W. H. S. and
 Omerod, H. A. Loeb Classical Library Volumes. Cambridge, MA, Harvard
@@ -861,7 +862,7 @@ University Press; London, William Heinemann Ltd. 1918.
 Strype, John. *A survey of the cities of London and Westminster*.
 London, 1720.
 
-### Secondary Sources:
+### Secondary Sources
 
 Baker, Katherine. *A Merchant of Ivory in 16<sup>th</sup>-Century Paris:
 The Estate Inventory of Chicart Bailly.* Brill, 2023.
@@ -921,7 +922,7 @@ Medieval Sculpture" in *Ivory, Bone, and Horn*. The State University of New Jer
 [^4]: Étienne Boileau, *Réglemens sur les arts et métiers de Paris*,
     edited by G.-B Depping (Paris, 1837): Titre XXVII (Des patenotriers
     d’os et de or), p. 66, Titre LXVIII (De ceus qui font tables à
-    escrire á Pariss), p. 171, Titre LXVII (Des Pingniers et des
+    escrire á Paris), p. 171, Titre LXVII (Des Pingniers et des
     Lanterniers de Paris), Titre LXXI (Des Deiciers de Paris), p. 180.
 
 [^5]: Sarah Guérin, *French Gothic Ivories: Material Theologies and the
@@ -991,7 +992,7 @@ Medieval Sculpture" in *Ivory, Bone, and Horn*. The State University of New Jer
     clear lantern horn” (corne de lanterne bien claire) in the recipe
     for Fanciful Tables (Tables fantasques), 68r.
 
-[^20]: Schaverien, Horn, 47–48. For the first heating, when horn is cut
+[^20]: Schaverien, *Horn*, 47–48. For the first heating, when horn is cut
     open and flattened, she recommends 270 °F but specifies that for a
     second heating, when flattened horn is shaped into spoon bowls,
     shoehorns, or box shapes, a lower temperature is required.
@@ -1027,7 +1028,7 @@ Medieval Sculpture" in *Ivory, Bone, and Horn*. The State University of New Jer
     Sculpture in Ivory, Bone, and Horn* (The State University of New
     Jersey, 1989), 19.
 
-[^27]: Schaverien,* *Horn,* 51–52.
+[^27]: Schaverien, *Horn*, 51–52.
 
 [^28]: Kenneth Lapatin notes a similar tendency among scholars
     concerning the ancient and medieval practice of softening ivory
