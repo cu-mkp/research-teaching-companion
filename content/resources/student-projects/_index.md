@@ -20,6 +20,7 @@ In fall 2025, the Making and Knowing Project once again hosted dyer-weaver Berth
 - [“Seulement” Soaking Horn: Ms. Fr. 640’s Recipe for Softening Horn](/resources/student-projects/fa25_kerwin_sophie_final-project_horn/) by Sophie Kerwin
 - [Park to Palette: Turning Long Island Flora into Natural Dyes](/resources/student-projects/fa25_bafunso_blessing_final-project_park-to-palette/) by Blessing Bafunso
 - [“A Very Rare & Tested Secret”: Recipes Against Plague in BnF Ms. Fr. 640](/resources/student-projects/fa25_bai_alice_final-project_plague/) by Alice Bai
+- [Purple in Ms. Fr. 640 and how “Painters make it beautiful”](/resources/student-projects/fa25_bagchi_debaleena_final-project_purple/) by Debaleena Bagchi
 
 ### Fall 2024 Student Projects [[Syllabus](/documents/pdf/syllabus_fa24_gu4962-hands-on-history.pdf)]
 In fall 2024, the Making and Knowing Project hosted dyer-weaver Bertha Estrada Huipe and her son and assistant Mateo Estrada Rodriguez from Ahuirán, Mexico. Over 10 days, students worked alongside Bertha and Mateo, making natural dyes from marigold flowers, coconut husks, pomegranate peels, oak bark, and cochineal, and learning about the many forms of knowledge (environmental, cultural, and tacit) that are embedded in Purépecha dyeing techniques. See the [video overview](https://youtu.be/95KdMq72SXk?si=qT1TMTtcoI4z4ROs). Students built on this experience in their projects.
