@@ -139,26 +139,25 @@ invaded Christian communities.[^24]
 
 ## Recipes Against Plague in BnF Ms. Fr. 640
 
-<span class="mark">The two recipes addressing plague in Ms. Fr. 640 are
-found on folio 44v and 170v of the manuscript, as below:</span>
+The two recipes addressing plague in Ms. Fr. 640 are found on folio 44v and 170v of the manuscript, as below:
 
-### 44v: Excellent water against the plague of Monsieur de Montorsin
+*[<u>Fol. 44v: Excellent water against the plague of Monsieur de Montorsin</u>](https://edition640.makingandknowing.org/folios/44v/f/44v/tl)*
 
-<span class="mark">Take some theriac, rue & dittany, & good vinegar, put
+*Take some theriac, rue & dittany, & good vinegar, put
 the whole in a glass bottle, leave it half-open & well strapped, and put
 it in a very long bath for three or 4 days. Then separate your decoction
 from the residue, of which in time of need you will pour some on a
 flaming red tile & receive the vapor of it & also fumigate your clothes
-with it. This is a very rare & tested secret.</span>
+with it. This is a very rare & tested secret.*
 
-### 170v: Against Plague
+*[<u>Fol. 170v: Against Plague</u>](https://edition640.makingandknowing.org/folios/170v/f/170v/tl)*
 
-<span class="mark">Take, against pestilential fever or poison or plague,
+*Take, against pestilential fever or poison or plague,
 an écu's weight of your opiate soaked in scabious or bugloss water or
 thoroughly tempered wine, if one is afflicted. After taking it, one
-needs to make oneself sweat.</span>
+needs to make oneself sweat.*
 
-<span class="mark">The first recipe appears to be a preventative tactic,
+The first recipe appears to be a preventative tactic,
 a method for fumigating the clothes and body as a prophylactic against
 contracting the plague. The other posits itself to be more curative in
 nature, to be used specifically when “one is afflicted.” It is curious
@@ -167,9 +166,9 @@ against plague. While advice for plague prevention proliferated widely
 in contemporary plague treatises and pamphlets, many shied away from the
 issue of treating and curing the disease once contracted as it was an
 acknowledged fact that “little could be done” once the patient actually
-contracted the plague.</span>[^25] <span class="mark"></span>
+contracted the plague.[^25]
 
-<span class="mark">The ingredients, processes, and descriptions
+The ingredients, processes, and descriptions
 contained within the recipes of Ms. Fr. 640 strongly align with the
 contemporaneous medical landscape of plague treatment. With a view to
 processes, fumigation and sweating are both characteristic features of a
@@ -179,53 +178,53 @@ corpus of health advice regarding the maintenance of a *regimina
 sanitatis*, or “regimen of health,” based on ancient Greco-Roman
 dietetic doctrines. The six include food and drink, sleep and
 wakefulness, exercise and rest, passions and emotions, air, and
-excretion.</span>[^26] <span class="mark">During the time of the plague,
+excretion.[^26] During the time of the plague,
 the two non-naturals of air and excretion were viewed as particularly
 vital. Given the emphasis on the corruption of air as a source of
 infection, many preventative plague regimens recommended ways to
-“correct” the air through methods such as fumigation.</span>[^27]
-<span class="mark">The burning of aromatic herbs and spices were used as
+“correct” the air through methods such as fumigation.[^27]
+The burning of aromatic herbs and spices were used as
 a protective measure meant to both cleanse rooms and people’s bodies,
 following the logic that if foul odours propagated disease, then sweet
-air by extension promoted health.</span>[^28]
-<span class="mark">Excretion, in the form of bloodletting, defecation,
+air by extension promoted health.[^28]
+Excretion, in the form of bloodletting, defecation,
 urination, vomiting, sneezing, and sweating, was another non-natural
 heavily featured in preservative regimens against plague. Special
 potions or concoctions were often taken to induce sweating, such as is
 the case with the recipe prescribed in fol. 170v. These methods were
 believed to evacuate the body of not only bad or excess humours, but
 also the poisonous matter or blood that many doctors saw to be the true
-cause of plague.</span>[^29]
+cause of plague.[^29]
 
-<span class="mark">The ingredients recommended by the
+The ingredients recommended by the
 author-practitioner in the recipes are also frequently echoed in
 contemporary medical advice on preventing and curing plague. Rue,
 dittany, bugloss, and scabious were herbs that were commonly promoted
-for their ability to help the user resist infection.</span>[^30]
-<span class="mark">These herbs could be administered directly via their
+for their ability to help the user resist infection.[^30]
+These herbs could be administered directly via their
 juices, or as counselled by the author-practitioner in these recipes,
-through the medium of wine or water.</span>[^31]
-<span class="mark">Vinegar was used in various ways to sanitise and ward
+through the medium of wine or water.[^31]
+Vinegar was used in various ways to sanitise and ward
 off disease, either deployed in cleaning regimens, consumed orally, or
-gargled and applied to the face.</span>[^32] <span class="mark">Liu
+gargled and applied to the face.[^32] Liu
 remarks that vinegar was also generally used as a solvent in medical
 recipes and treated as a panacea in its own right in the sixteenth and
 seventeenth centuries, in reference to the medicinal use of vinegar in
-other recipes of Ms. Fr. 640.</span>[^33]
+other recipes of Ms. Fr. 640.[^33]
 
-<span class="mark">Opiate, a derivative of opium, was another ingredient
-frequently found in early modern remedies against plague.</span>[^34]
-<span class="mark">The author-practitioner advises the use of an “écu’s
+Opiate, a derivative of opium, was another ingredient
+frequently found in early modern remedies against plague.[^34]
+The author-practitioner advises the use of an “écu’s
 weight” of opiate, which can be understood in the context of dosage
 prescriptions in the early modern period that referred to equivalent
-sizes and weights in coinage;</span>[^35] <span class="mark">the écu
+sizes and weights in coinage;[^35] the écu
 d’or was a common gold coinage used in medieval and early modern
-France.</span>[^36] <span class="mark">In addition to being used as a
+France.[^36] In addition to being used as a
 standalone ingredient, opium was also incorporated in heavy doses in
 theriac, one of the most popular compound medicines prescribed against
-the plague.</span>[^37] <span class="mark"></span>
+the plague.[^37]
 
-<span class="mark">Theriac is a particularly noteworthy plague medicine
+Theriac is a particularly noteworthy plague medicine
 to highlight, as it is identified as among the most popular preventative
 remedies of the time. A medicinal compound originally attributed to the
 ancient Greeks, theriac was a complex substance that was used as a
@@ -236,29 +235,28 @@ ingredient list including components like venomous snake flesh, and was
 heavily endorsed by many plague doctors for its fantastic antidotal
 properties. Beyond its prescription as a treatment for plague, it was
 also widely endorsed for relieving a broad range of other ailments, from
-asthma to kidney stones to menstrual disturbances.</span>[^38]
-<span class="mark">Italian physician Gentile da Foligno claimed that the
+asthma to kidney stones to menstrual disturbances.[^38]
+Italian physician Gentile da Foligno claimed that the
 substance was “opposed to all poisons” and “suitable for those illnesses
-in which other medicines are found to be ineffective.”</span>[^39]
-<span class="mark"></span>
+in which other medicines are found to be ineffective.”[^39]
 
-<span class="mark">Historian John Aberth notes that for all the mentions
+Historian John Aberth notes that for all the mentions
 of theriac in plague tracts, the ingredients of the compound are never
 fully listed, leading to the understanding that it was likely a
 ready-made ingredient that could be bought in an early modern apothecary
-or pharmacy.</span>[^40] <span class="mark">This is verified by the work
+or pharmacy.[^40] This is verified by the work
 of Ahnfelt, Fors, and Wendin, who identify Montpellier and Venice as
 celebrated early modern producers of theriac that exported the product
-far and wide.</span>[^41] <span class="mark">One could plausibly imagine
+far and wide.[^41] One could plausibly imagine
 that the author-practitioner of Ms. Fr. 640 could have purchased a
 theriac of Montpellier origin in his local pharmacy, as an export from
 the nearby Provençal urban center, for use in his proposed
-recipe.</span>
+recipe.
 
-<span class="mark">The 1570s to the 1710s were also termed the “heyday
+The 1570s to the 1710s were also termed the “heyday
 of theriac” for the proliferation of literature on the subject as early
 modern scholars sought to reproduce classical recipes all while
-innovating in their own right.</span>[^42] <span class="mark">Although
+innovating in their own right.[^42] Although
 theriac has been an enduringly popular medicine throughout the medieval
 and early modern period, the particular revival of theriac at the time
 of the author-practitioner’s creation of the manuscript in the 1580s
@@ -267,7 +265,7 @@ Historically, theriac was typically administered orally, either in small
 quantities straight from the container or rolled into pills. Although
 the medicine could also be applied externally, the author-practitioner
 appears unique in incorporating theriac into a fumigatory
-solution.</span>[^43]
+solution.[^43]
 
 ## Cures in Context: Plague and Its Responses in Toulouse 
 
@@ -554,13 +552,13 @@ Modern England.” *The English Historical Review* 121, no. 490 (2006):
     the Scientific Revolution* (University of Chicago Press, 2004),
     145–149.
 
-[^3]: <span class="mark">Frank M. Snowden, “Overview of the Three Plague
+[^3]: Frank M. Snowden, “Overview of the Three Plague
     Pandemics: 541 to ca. 1950,” in *Epidemics and Society: From the
     Black Death to the Present* (Yale University Press, 2019),
-    36.</span>
+    36.
 
-[^4]: <span class="mark">Snowden, “Overview of the Three Plague
-    Pandemics,” 36–38.</span>
+[^4]: Snowden, “Overview of the Three Plague
+    Pandemics,” 36–38.
 
 [^5]: Colin Jones, “Plague and its Metaphors in Early Modern France,”
     *Representations*, no. 53 (1996): 99.
@@ -579,8 +577,8 @@ Modern England.” *The English Historical Review* 121, no. 490 (2006):
 
 [^10]: Aberth, *Doctoring the Black Death*, 16.
 
-[^11]: <span class="mark">Snowden, “Overview of the Three Plague
-    Pandemics,” 29.</span>
+[^11]: Snowden, “Overview of the Three Plague
+    Pandemics,” 29.
 
 [^12]: Jones, *Patterns of Plague*, 33.
 
