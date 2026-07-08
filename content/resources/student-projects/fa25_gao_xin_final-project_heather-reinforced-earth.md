@@ -1,7 +1,8 @@
 # Reconstructing Heather-Reinforced Earth: Material Understanding and Embodied Knowledge in Ms. Fr. 640
 
-Xin Gao <br/>
-Fall 2025, HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History
+Xin Gao<br/>
+Fall 2025<br/>
+HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History
 
 ## Abstract
 
