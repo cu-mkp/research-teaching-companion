@@ -1,14 +1,13 @@
 # Park to Palette: Turning Long Island Flora into Natural Dyes
 
-Blessing Bafunso
+Blessing Bafunso<br>
+Fall 2025<br>
+HIST GU4962: Making and Knowing in Early Modern Europe<br>
 
-Fall 2025
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1176592106?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Natural Dyes from Eisenhower Park"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script><br>
 
-HIST GU4962: Making and Knowing in Early Modern Europe
 
-<span class="mark">EMBED VIDEO</span>
-
-In this project and LINK video, I explore New York’s current ecosystem
+In this project and video, I explore New York’s current ecosystem
 and its capacity for natural dyeing. As someone from New York, I have
 become increasingly aware of how disconnected we are from the
 ingredients at our disposal that have the capacity for creation. I hope
@@ -71,16 +70,18 @@ the decline has been less catastrophic, but only about 100 acres of the
 original 60,000 acres remains. The surviving fragments are scattered
 throughout modern day Nassau County, and are extremely vulnerable to
 development, trash dumping, and exotic species invasions.[^7] The most
-prominent portion of these remnants is, of course, Eisenhower Park.
+prominent portion of these remnants is, of course, Eisenhower Park.<br>
+
+<img src="./media-bafunso/image1.png" style="width:4.53889in;height:2.70208in"
+alt="A map of a park" /><br>
+
 Modern preservationists note that the Red Golf Course in Eisenhower Park
 has experienced the least amount of soil disturbance among the remnants.
 From image analysis, we can confirm the presence of native warm season
 grasses in the course, with an 89% accuracy in distinguishing these
 native species from non-native varieties. And because of this analysis,
 the native Indiangrass seeds have been successfully harvested for
-restoration products by the Francis Purcell
-Preserve.[^8]<img src="./media-bafunso/image1.png" style="width:4.53889in;height:2.70208in"
-alt="A map of a park AI-generated content may be incorrect." />
+restoration products by the Francis Purcell Preserve.[^8]
 
 Beyond their historical significance, many of the plants in the
 Hempstead Plains remnants hold potential to be sources of natural dyes.
@@ -96,8 +97,8 @@ my efforts, I hope I can transform the park from just an area in the
 community but also a possible base for exploring the art of natural
 dyeing.
 
-The LINK video highlights my exploration of Eisenhower Park the
-gathering of ingredients I hypothesize will be useful for natural
+The video highlights my exploration of Eisenhower Park 
+gathering ingredients I hypothesize will be useful for natural
 dyeing. With the usage of online flora databases like
 [<u>iNaturalist</u>](https://www.inaturalist.org/check_lists/1667806-Eisenhower-Park--Nassau-County--Check-List?iconic_taxon=47126)
 and [<u>PlantNet</u>](https://apps.apple.com/app/id600547573), I
