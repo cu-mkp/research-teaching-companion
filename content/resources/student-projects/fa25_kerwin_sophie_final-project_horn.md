@@ -455,19 +455,19 @@ The horn sheet warped from soaking.<br>
 
 ![A person in a lab coat cutting something on a tray](/images/media-kerwin/image23.png)<br>
 
-<div style="padding:177.78% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1177756901?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Soaking Horn Video 01_Cutting Horn"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script><br>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1177756901?h=a695b132e4" width="640" height="360" frameborder="0" allowfullscreen></iframe><br>
 
 Cutting horn sheet, made somewhat softer and more pliable through soaking.<br>
 
 ![A hand holding a piece of horn](/images/media-kerwin/image29.png)<br>
 
-<div style="padding:177.78% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1177756792?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Soaking Horn Video 02_Horn Pliability"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script><br>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1177756792?h=43e61566a0" width="640" height="360" frameborder="0" allowfullscreen></iframe><br>
 
 Demonstrating pliability of horn sheet while cutting.<br>
 
 ![A person holding a knife over a metal container](/images/media-kerwin/image31.png)<br>
 
-<div style="padding:177.78% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1177756843?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Soaking Horn Video 03_Cutting Horn"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script><br>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1177756843?h=81864108a5" width="640" height="360" frameborder="0" allowfullscreen></iframe><br>
 
 Cutting small horn, made somewhat softer and more pliable through soaking.<br>
 
@@ -508,7 +508,7 @@ Demonstrating pliability of horn sheet after two hours of boiling.<br>
 
 ![A hand in blue glove holding a round object](/images/media-kerwin/image27.png)<br>
 
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1177758630?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Soaking Horn Video 04_Horn Pliability"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script><br>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1177758630?h=d0ffca4707" width="640" height="360" frameborder="0" allowfullscreen></iframe><br>
 
 Demonstrating pliability of small horn after two hours of boiling.<br>
 
