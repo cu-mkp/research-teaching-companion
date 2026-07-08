@@ -1,9 +1,7 @@
 # “A Very Rare & Tested Secret”: Recipes Against Plague in BnF Ms. Fr. 640
 
-Alice Bai
-
-Fall 2025
-
+Alice Bai<br>
+Fall 2025<br>
 HIST4962: Making and Knowing in Early Modern Europe
 
 Ms. Fr. 640 contains an assortment of therapeutic and medicinal recipes,
