@@ -151,7 +151,7 @@ this experiment because only cotton handkerchiefs were dyed.
 |  Basic Soft  |       1 g Baking Soda       |     Tap    |     B    |
 |  Basic Hard  | 1 g Baking Soda + 1 g Epsom |     Tap    |    BH    |
 
-![IMAGE](/images/media-kumar/image3.jpg)
+<img src="/images/media-kumar/image3.jpg" style="width:3.7875in;height:2.84028in" />
 
 *Fig 2: Experimental Setup Prior to Cotton Handkerchief Immersion*
 
