@@ -8,14 +8,14 @@ Organized by Tianna Uchacz with Donna Janes and Naomi Rosenkranz
 
 ## Cochineal Dye: History, Chemistry, and Preparation
 
-![](/images/sp23_tamu-dyes-coverpage.jpg?raw=true)
+![image](/images/sp23_tamu-dyes-coverpage.jpg?raw=true)
 
 [Presentation: Cochineal Dye: History, Chemistry, and Preparation](/documents/pdf/2023_dyes_cochineal-history-chem-prep_TAMU-compressed.pdf)
 
 
 ## Overview of Workshop Plans
 
-![](/images/tamu_cochineal-step-by-step.jpg?raw=true)
+![image](/images/tamu_cochineal-step-by-step.jpg?raw=true)
 
 [Dyeing with Cochineal: Workshop Plan and Step-by-Step Instructions](/documents/pdf/2023_dyes_step-by-step-process_TAM.pdf)
 
@@ -36,7 +36,7 @@ Organized by Tianna Uchacz with Donna Janes and Naomi Rosenkranz
 |  IC  |  Iron sulphate  |      Cochineal     |
 |  CC  | Copper sulphate |      Cochineal     |
 
-![](/images/sp23_tamu-dyes_textiles.jpg?raw=true)
+![image](/images/sp23_tamu-dyes_textiles.jpg?raw=true)
 
 Textiles
 - Linen canvas, 100% linen Utrecht unprimed Belgian linen canvas [Type 185 (Blick Art Supplies)](http://www.dickblick.com/items/07394-2501/)
@@ -68,8 +68,8 @@ Dyestuffs
 
 ## The resulting sample sheets
 
-![](/images/sp23_tamu-dyes_textiles-final-01.jpg?raw=true) 
+![image](/images/sp23_tamu-dyes_textiles-final-01.jpg?raw=true) 
 
-![](/images/sp23_tamu-dyes_textiles-final-03.jpg?raw=true) 
+![image](/images/sp23_tamu-dyes_textiles-final-03.jpg?raw=true) 
 
 ![](/images/sp23_tamu-dyes_textiles-final-02.jpg?raw=true) 
