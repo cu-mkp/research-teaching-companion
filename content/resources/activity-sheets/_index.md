@@ -29,6 +29,7 @@ A great way to get started in a class or workshop by familiarizing students with
   
 ### Historical Culinary Recipe Reconstruction
 --
+![Historical Culinary Recipe Reconstruction thumbnail](/images/culinaryreconstruction-thumbnail.jpg)
 Reconstructing an obscure culinary recipe is especially effective as a first hands-on activity to familiarize students with the textual and material challenges of following historical recipes. It is also a wonderful community-building exercise. The students work in groups at home for a week intepreting the recipe, searching for and obtaining ingredients, trying their recipe as many times as possible, and making a powerpoint presentation about their process and questions. Culinary results can be brought into class when completed for group digestion and discussion.
 - [Historical Culinary Recipe Reconstruction](/resources/activity-sheets/activitysheet_hcr-instructor/)
   
