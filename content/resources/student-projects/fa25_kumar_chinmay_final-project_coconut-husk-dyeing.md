@@ -49,7 +49,7 @@ resistant to hydrolysis. Coconut husk is particularly rich in condensed
 tannins, which are known for their strong affinity for cellulose fibers
 and their pronounced color shifts in the presence of metal ions.
 
-![IMAGE](/images/media-kumar/image2.png)
+<img src="/images/media-kumar/image2.jpg" style="width:5.55in" />
 
 *Fig 1: Tannin Structure as taken From Ku-Vera et al., 2020*
 
@@ -151,7 +151,7 @@ this experiment because only cotton handkerchiefs were dyed.
 |  Basic Soft  |       1 g Baking Soda       |     Tap    |     B    |
 |  Basic Hard  | 1 g Baking Soda + 1 g Epsom |     Tap    |    BH    |
 
-<img src="/images/media-kumar/image3.jpg" style="width:3.7875in;height:2.84028in" />
+<img src="/images/media-kumar/image3.jpg" style="width:5.55in" />
 
 *Fig 2: Experimental Setup Prior to Cotton Handkerchief Immersion*
 
@@ -216,7 +216,7 @@ General Procedure:
 
 # Results
 
-![IMAGE](/images/media-kumar/image1.jpg)
+<img src="/images/media-kumar/image1.jpg" style="width:5.55in" />
 
 *Figure 3: Visual Outcomes Immediately After Removal from Dye Bath*
 
