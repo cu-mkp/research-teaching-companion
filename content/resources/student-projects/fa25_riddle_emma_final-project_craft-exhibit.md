@@ -114,9 +114,8 @@ HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History
   benches were also spaced out to allow for the use of wheelchairs and
   mobility devices within the exhibit space.
 
-### **Materials** 
-
-### **Signage**
+### **Materials: Signage**
+ 
   There are eleven main signs located throughout the exhibition.
   Other than the first sign at the main entrance, which includes the
   background of the physical manuscript, the signage follows a standard
@@ -130,7 +129,7 @@ HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History
 
 #### 2.  Dr. Pamela Smith shares a brief introduction of the Making and Knowing Project
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/384070384?h=474f5dc00d" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/384070384?h=474f5dc00d" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 #### 3.  This is an interactive digital copy of the manuscript 
 
@@ -143,7 +142,7 @@ We would like you to take a few minutes to look through it. What are some things
 
 What are some things you noticed about the physical copy? What aspects of the manuscript do you find most intriguing?
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/389763699?h=0250d2889a" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/389763699?h=0250d2889a" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 #### 5.  Below is an interactive storymap that walks through Toulouse sites as mentioned in the manuscript
 
@@ -177,7 +176,7 @@ If you had to guess, how much longer does the sourdough loaf need to
 #### 7. The Making and Knowing Lab at Columbia University
 
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/384070452?h=0250d2889a" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe> 
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/384070452?h=0250d2889a" width="640" height="360" frameborder="0" allowfullscreen></iframe> 
 
 ![IMAGE](/images/media-riddle/image1.jpg)
 
@@ -207,7 +206,7 @@ Photos included in the section of the exhibit
 ![IMAGE](/images/media-riddle/image16.jpg)
 
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/710444936?h=0250d2889a" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe> 
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/710444936?h=0250d2889a" width="640" height="360" frameborder="0" allowfullscreen></iframe> 
 
 Luxi Yang and Jianing Wei, The Making and Knowing pop-up book - a student project from Spring 2022. The pop-up book is an incredible art project that features multiple aspects of the Making and Knowing Project, [<u>Pop-up Book Project</u>](https://teaching640.makingandknowing.org/resources/student-projects/sp22_wei-yang_jianing-luxi_popup/).
  
