@@ -116,38 +116,36 @@ HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History
 
 ### **Materials** 
 
-- Signage: There are ten main signs located throughout the exhibition.
+### **Signage**
+  There are eleven main signs located throughout the exhibition.
   Other than the first sign at the main entrance, which includes the
   background of the physical manuscript, the signage follows a standard
   design of salmon pink (taken from one of the colors in the end pages
-  of the physical manuscript) and black text in the font XB Niloofar.
+  of the physical manuscript) and black text in the font XB Niloofar. There are also captions placed near the materials in a black,
+  sixteen-point, Times New Roman font. 
 
+#### **1. Main Entrance**
+   
 ![IMAGE](/images/media-riddle/image7.jpg)
 
-- There are also captions placed near the materials in a black,
-  sixteen-point, Times New Roman font. These are listed below:
-
-1.  Dr. Pamela Smith shares a brief introduction of the Making and
-    Knowing project. 
+#### **2.  Dr. Pamela Smith shares a brief introduction of the Making and Knowing Project**
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/384070384?h=474f5dc00d" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
-2.  This is an interactive digital copy of the manuscript. We would like
-    you to take a few minutes to look through it. What are some things
+#### **3.  This is an interactive digital copy of the manuscript** 
+    We would like you to take a few minutes to look through it. What are some things
     you notice? What is most interesting? 
 
 ![IMAGE](/images/media-riddle/image5.jpg)
 ![IMAGE](/images/media-riddle/image19.png)
 
-3.  Here is a short video examining the physical manuscript and some of
-    its features. What are some things you noticed about the physical
-    copy? What aspects of the manuscript do you find most intriguing?
+#### **4.  Here is a short video examining the physical manuscript and some of its features** 
+What are some things you noticed about the physical copy? What aspects of the manuscript do you find most intriguing?
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/389763699?h=0250d2889a" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
-4.  Below is an interactive storymap that walks through Toulouse as
-    mentioned in the manuscript. As you look through the different
-    locations, what can you infer about Toulouse's cultural and
+#### **5.  Below is an interactive storymap that walks through Toulouse sites as mentioned in the manuscript** 
+    As you look through the different locations, what can you infer about Toulouse's cultural and
     historical context? Why is the cultural and historical context of
     the city important in understanding the manuscript? 
 
@@ -155,8 +153,8 @@ HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History
 
 ![IMAGE](/images/media-riddle/image3.jpg)
 
-5.  Making is knowing, and an important aspect of making is doing. This
-    video game has few instructions; however, as you learn how to
+#### **6.  Making is knowing, and an important aspect of making is doing** 
+This video game has few instructions; however, as you learn how to
     complete the levels, you move to the next. This represents how
     knowledge is gained through the process of making. 
 
@@ -175,13 +173,13 @@ If you had to guess, how much longer does the sourdough loaf need to
 ![IMAGE](/images/media-riddle/image8.jpg)
 ![IMAGE](/images/media-riddle/image4.jpg)
 
-6. The Making and Knowing Lab at Columbia University
+#### **7. The Making and Knowing Lab at Columbia University**
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/384070452?h=0250d2889a" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe> 
 
 ![IMAGE](/images/media-riddle/image1.jpg)
 
-7. The Author-Practitioner
+#### **8. The Author-Practitioner**
  
 Photos included in the section of the exhibit
   focusing on the author-practitioner and the manuscript include a
@@ -202,26 +200,33 @@ Photos included in the section of the exhibit
 
 ![IMAGE](/images/media-riddle/image20.png)
 
+#### **9. Student Projects**
+
 ![IMAGE](/images/media-riddle/image16.jpg)
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/710444936?h=0250d2889a" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe> 
 
-8. Student Projects
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/710444936?h=0250d2889a" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe> 
 
 ![IMAGE](/images/media-riddle/image10.jpg)
 
 Luxi Yang and Jianing Wei, The Making and Knowing pop-up book - a student project from Spring 2022. The pop-up book is an incredible art project that features multiple aspects of the Making and Knowing Project, [<u>Pop-up Book Project</u>](https://teaching640.makingandknowing.org/resources/student-projects/sp22_wei-yang_jianing-luxi_popup/).
  
-Elliot Zayas and Mac Waters 2021 soundscape provides an immersive experience of the sounds of casting metals in an early modern workshop: [<u>a soundscape of casting metal into
-  a prepared mold</u>](https://vimeo.com/672823504).
+Elliot Zayas and Mac Waters 2021 soundscape project provides an immersive experience of the sounds of casting metals in an early modern workshop: [<u>a soundscape of casting metal into a prepared mold</u>](https://vimeo.com/672823504).
   
-9. Student Research Projects
+#### **10. Student Research Projects**
 ![IMAGE](/images/media-riddle/image22.jpg)
 
-  A lifecast rose from the student-authored essay, [<u>Molding a Rose</u>](https://edition640.makingandknowing.org/essays/ann_022_sp_15). Among all the research projects, the lifecast
-  rose might be the most recognizable out of context. Furthermore, the materials used are easily identifiable.
+  A lifecast rose from the student-authored essay, [<u>Molding a Rose</u>](https://edition640.makingandknowing.org/essays/ann_022_sp_15). Among all the research projects, the lifecast rose might be the most recognizable out of the context of the manuscript. Furthermore, the materials used are easily identifiable.
   
-**Notes on Exhibition Materials**
+#### **11. Programming Poster**
+- A programming poster for the first event in the
+  programming cycle.
+
+![IMAGE](/images/media-riddle/image18.jpg)
+![IMAGE](/images/media-riddle/image17.jpg)
+
+
+### **Notes on Exhibition Materials**
 - Videos: There are two videos included in the exhibit section that
   discuss the author-practitioner and the manuscript. The first video is
   an introduction video that gives a [<u>short overview of the Making
@@ -254,12 +259,6 @@ Elliot Zayas and Mac Waters 2021 soundscape provides an immersive experience of 
   the game to better understand how to move on to the next level. By
   doing so, they are representing how artists interact with natural
   materials through experimentation.
-
-- Programming Poster: A programming poster for the first event in the
-  programming cycle.
-
-![IMAGE](/images/media-riddle/image18.jpg)
-![IMAGE](/images/media-riddle/image17.jpg)
 
 ## Works Cited 
 
