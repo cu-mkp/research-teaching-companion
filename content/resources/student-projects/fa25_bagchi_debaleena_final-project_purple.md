@@ -439,6 +439,8 @@ to oil paint. In the table below, I have provided some examples that are
 extremely relevant for my historical reconstruction and added my
 inferences next to the entries.
 
+Table 1. Mentions of canvas in Ms. Fr. 640 and the inferences I draw from them.
+
 <table>
 <colgroup>
 <col style="width: 50%" />
@@ -544,7 +546,7 @@ southern European oil paintings that feature purple textiles, I settled
 on recreating a portion of the purple dress from Lorenzo Lotto’s *Christ
 Taking Leave of his Mother*, dated 1521 (fig 7).
 
-<img src="/images/media-bagchi/image2.jpg" style="width:2.74479in;height:3.4057in" />
+<img src="/images/media-bagchi/image2.png" style="width:3.1532in" />
 
 Figure 7. Lorenzo Lotto, *Christ Taking Leave of his Mother*, 1521. The
 red rectangle indicates the area of the painting that I chose to
@@ -560,7 +562,7 @@ meant that I had to rely heavily on my own judgement.
 Before beginning my reconstruction, I made a list of materials and broke
 the process down into the steps described in the following table.
 
-Table 1. The process of making cochineal oil paint from powdered
+Table 2. The process of making cochineal oil paint from powdered
 cochineal lake made in class
 
 <table>
@@ -573,14 +575,14 @@ cochineal lake made in class
 <th>Image</th>
 <th>Notes and Observations</th>
 </tr>
-<tr text-align: left>
+<tr style="text-align: left;">
 <th>N/A</th>
 <th><p>Step 1: Procure cochineal pigment<br>
 Materials: Finely ground pigment<br>
 Notes: I repurposed the cochineal lake pigment already created in
 class.</p></th>
 </tr>
-<tr text-align: left>
+<tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image20.jpg"
 style="width:2.86979in;height:2.63711in" /></th>
 <th><p>Step 2: Place pigment on a glass plate<br>
@@ -590,7 +592,7 @@ had made. I erroneously thought it was ground finely enough to begin,
 but looking back, I realise it could have been ground much more
 finely.</p></th>
 </tr>
-<tr text-align: left>
+<tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image11.jpg"
 style="width:2.87777in;height:2.23999in" /></th>
 <th><p>Step 3: Procure cochineal (extra)<br>
@@ -601,15 +603,15 @@ some of her cochineal lake pigment. Wherever I have used her cochineal,
 I have indicated that by writing “Cochineal(H). The image on the left is
 Cochineal(H).<br>
 A more detailed account of making paint using this pigment is found
-in Table 2, below.</p></th>
+in Table 3, below.</p></th>
 </tr>
-<tr text-align: left>
+<tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image13.jpg"
 style="width:2.87316in;height:3.83854in" /></th>
 <th><p>Step 4: Procure binding and mixing agents<br>
 Materials: Walnut oil and turpentine<br>
-<p>Notes: I used walnut oil as my binding agent and turpentine as a
-thinner.</p>
+Notes: I used walnut oil as my binding agent and turpentine as a
+thinner.<br>
 The walnut oil used was cold-pressed walnut oil from the New
 York-based company Kremer.<br>
 The turpentine was 100% pure pine gum spirit turpentine from Diamond
@@ -620,14 +622,14 @@ class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> a
 process not dissimilar from how turpentine was obtained in the sixteenth
 century.</p></th>
 </tr>
-<tr text-align: left>
+<tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image22.jpg"
 style="width:2.88021in;height:2.77004in" /></th>
 <th><p>Step 5: Mix pigment and binder<br>
 Notes: I added the walnut oil drop by drop, so as not to flood the
 pigment.</p></th>
 </tr>
-<tr text-align: left>
+<tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image23.jpg"
 style="width:2.86979in;height:3.15207in" /></th>
 <th><p>Step 6: Mix pigment and binder with a palette knife until roughly
@@ -646,7 +648,7 @@ between.<br>
 At this stage, the mixture had a thick consistency that was dry and
 coarse to the touch.</p></th>
 </tr>
-<tr text-align: left>
+<tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image48.jpg"
 style="width:2.86206in;height:3.82813in" /></th>
 <th><p>Step 7: Mull the mixture together<br>
@@ -660,7 +662,7 @@ felt little resistance and the mixture felt smooth to the touch. I
 stopped when the mixture reached an oil-paint-like consistency (a
 texture I was familiar with).</p></th>
 </tr>
-<tr text-align: left>
+<tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image5.jpg"
 style="width:2.86979in;height:2.80566in" /></th>
 <th><p>Step 8: Stop mulling<br>
@@ -668,7 +670,7 @@ Notes: This is the stage at which I stopped mulling.<br>
 The paint was glossy and held stiff peaks, typical for oil
 paint.</p></th>
 </tr>
-<tr text-align: left>
+<tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image32.jpg"
 style="width:2.87837in;height:2.64624in" /></th>
 <th><p>Step 9: Separate paint into three sections<br>
@@ -686,7 +688,7 @@ allows light to be transmitted without interruption through binding
 medium and pigment.”<a href="#fn2" class="footnote-ref" id="fnref2"
 role="doc-noteref"><sup>2</sup></a></p></th>
 </tr>
-<tr text-align: left>
+<tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image10.jpg"
 style="width:2.88021in;height:2.42872in" /></th>
 <th><p>Step 10: Separate paint into containers<br>
@@ -733,7 +735,7 @@ style="width:6.38021in;height:3.58887in" />
 This process left my station looking practically untouched, and I was
 ready to begin working on my second batch of pigment, cochineal(H).
 
-Table 2. The process of making cochineal(H) oil paint from powdered
+Table 3. The process of making cochineal(H) oil paint from powdered
 cochineal lake.
 
 <table>
@@ -746,13 +748,13 @@ cochineal lake.
 <th>Image</th>
 <th>Notes and Observations</th>
 </tr>
-<tr text-align: left>
-<th></th>
+<tr style="text-align: left;">
+<th>N/A</th>
 <th><p>Step 1: Procure cochineal pigment<br>
 Materials: Finely ground pigment<br>
 Notes: Given to me by Helen Sullivan.</p></th>
 </tr>
-<tr text-align: left>
+<tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image33.jpg"
 style="width:2.86979in;height:2.98659in" /></th>
 <th><p>Step 2: Grind pigment to find powder<br>
@@ -761,7 +763,7 @@ Notes: Determined not to repeat the same mistake from my first batch,
 I ground this pigment very finely in a mortar and pestle, and the
 difference in handling it later was remarkable.</p></th>
 </tr>
-<tr text-align: left>
+<tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image11.jpg"
 style="width:2.88021in;height:2.24189in" /></th>
 <th><p>Step 3: Place pigment on a glass plate<br>
@@ -772,17 +774,17 @@ finer powder.<br>
 Beginning with a finer power had a cascading effect of making the
 subsequent steps easier.</p></th>
 </tr>
-<tr text-align: left>
+<tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image18.jpg"
 style="width:2.85938in;height:4.22552in" /></th>
 <th><p>Step 4: Mix pigment and binder<br>
 Notes: To this batch of ground pigment, I added walnut oil drop by
 drop.<br>
 I found that I needed less oil this time since it did not adhere to
-the larger clumps of pigment (as in Table 1, Step 6). Instead, it helped
+the larger clumps of pigment (as in Table 2, Step 6). Instead, it helped
 bind all the fine, loose pigment together.</p></th>
 </tr>
-<tr text-align: left>
+<tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image3.jpg"
 style="width:2.88021in;height:3.84547in" /></th>
 <th><p>Step 5: Mix pigment and binder with a palette knife until roughly
@@ -792,9 +794,9 @@ Notes: I continued to mix pigment and binder together with a palette
 knife until all the oil had been soaked up and there was no loose
 pigment.<br>
 The resultant paste came together more quickly than the paste from
-Table 1, and its consistency was smoother to the touch.</p></th>
+Table 2, and its consistency was smoother to the touch.</p></th>
 </tr>
-<tr text-align: left>
+<tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image8.jpg"
 style="width:2.86979in;height:2.46647in" /></th>
 <th><p>Step 6: Mull the mixture together<br>
@@ -803,13 +805,13 @@ Notes: This was the smoothest mulling process. Once I started
 mulling, the pigment almost immediately took the consistency of a soft,
 homogenized oily toothpaste.</p></th>
 </tr>
-<tr text-align: left>
+<tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image34.jpg"
 style="width:2.86979in;height:2.48067in" /></th>
 <th><p>Step 7: Separate paint into containers<br>
 Materials: Plastic containers<br>
 Notes: Since this was to be my extra batch of cochineal paint, and
-since the quantity was less than what I produced in Table 1, I decided
+since the quantity was less than what I produced in Table 2, I decided
 to only split cochineal(H) into two opacities: 100% and at 50%
 dilution.<br>
 After separating the paint into containers, I sealed and labelled
@@ -824,7 +826,7 @@ I once again cleaned my work station with turpentine, this time taking
 even more care to remove all residual traces of cochineal pigment so
 that I had an uncontaminated station for making my azure paint.
 
-Table 3. The process of making azurite oil paint from powdered,
+Table 4. The process of making azurite oil paint from powdered,
 store-bought azurite.
 
 <table>
@@ -837,7 +839,7 @@ store-bought azurite.
 <th>Image</th>
 <th>Notes and Observations</th>
 </tr>
-<tr text-align: left>
+<tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image21.jpg"
 style="width:2.87452in;height:4.36979in" /></th>
 <th><p>Step 1: Procure azureite pigment<br>
@@ -847,7 +849,7 @@ Notes: The Making and Knowing Lab had several variations of azurite
 pigment. For my reconstruction, I used a bottle labeled “Azurite
 natural, standard” from Kremer Pigments, New York.</p></th>
 </tr>
-<tr text-align: left>
+<tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image45.jpg"
 style="width:2.873in;height:2.53166in" /></th>
 <th><p>Step 2: Place pigment on a glass plate<br>
@@ -856,7 +858,7 @@ Notes: As might be evident from the image on the left, this
 store-bought azurite pigment was the finest of all the dry pigments I
 used in my reconstruction. It had the texture of talcum powder.</p></th>
 </tr>
-<tr text-align: left>
+<tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image25.jpg"
 style="width:2.88014in;height:3.43229in" /></th>
 <th><p>Step 3: Mix pigment and binder<br>
@@ -874,7 +876,7 @@ for these natural variations to exist, and they trust the maker to draw
 on their own knowledge and experience to create <em>their</em> desired
 product.</p></th>
 </tr>
-<tr text-align: left>
+<tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image44.jpg"
 style="width:2.85029in;height:5.08542in" /></th>
 <th><p>Step 4: Mix pigment and binder with a palette knife until roughly
@@ -893,7 +895,7 @@ was absolutely required.<br>
 I hoped that mulling would help the loose pigment particles adhere
 better to the oil and fix the paint’s runniness.</p></th>
 </tr>
-<tr text-align: left>
+<tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image42.jpg"
 style="width:2.87937in;height:5.13021in" /></th>
 <th><p>Step 5: Mull the mixture together<br>
@@ -911,20 +913,20 @@ deceiving, because it <em>looked</em> as though the process was
 complete, but the sound and the feel between my fingers told me it
 wasn’t. So, I continued to mull until the cracking reduced.</p></th>
 </tr>
-<tr text-align: left>
+<tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image41.jpg"
 style="width:2.88582in;height:2.88582in" /></th>
 <th><p>Step 6: Stop mulling and separate the paint into three
 sections<br>
 Notes: I was glad to note that the mulling helped incorporate the oil
 well with the pigment so that the final consistency of my paint was
-paste-like, and not runny.</p>p</th>
+paste-like, and not runny.</p></th>
 </tr>
-<tr text-align: left>
+<tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image27.jpg"
 style="width:2.87233in;height:2.34896in" /></th>
-<th><p>Step 7: Separate paint into containers</p>
-<p>Materials: Plastic containers<br>
+<th><p>Step 7: Separate paint into containers<br>
+Materials: Plastic containers<br>
 Just as with my cochineal, I diluted the pigment to create three
 different strengths: 100%, 50%, and 25%.</p></th>
 </tr>
