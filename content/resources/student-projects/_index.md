@@ -26,7 +26,7 @@ In fall 2025, the Making and Knowing Project once again hosted dyer-weaver Berth
 In fall 2024, the Making and Knowing Project hosted dyer-weaver Bertha Estrada Huipe and her son and assistant Mateo Estrada Rodriguez from Ahuirán, Mexico. Over 10 days, students worked alongside Bertha and Mateo, making natural dyes from marigold flowers, coconut husks, pomegranate peels, oak bark, and cochineal, and learning about the many forms of knowledge (environmental, cultural, and tacit) that are embedded in Purépecha dyeing techniques. See the [video overview](https://youtu.be/95KdMq72SXk?si=qT1TMTtcoI4z4ROs). Students built on this experience in their projects.
 - [Intertextuality and the Anonymous Author-Practitioner of Ms. Fr. 640](/resources/student-projects/fa24_ardila-javier_final-project_intertextuality/) by Javier Ardila
 - [Red: Experiments in Cochineal Dyeing Techniques with Varying Mordants](/documents/pdf/fa24_bunger-lily_final-project_cochineal.pdf) by Lily Bunger
-- [Dying Azur: The Death of Blue in Ms. Fr. 640](/resources/student-projects/fa24_mckeever-sheena_final-project_azur) by Sheena McKeever
+- [Dying Azur: The Death of Blue in Ms. Fr. 640](/documents/pdf/fa24_mckeever-sheena_final-project_azur.pdf) by Sheena McKeever
 - [Patterning Techniques for Natural Dyes: An Iterative Approach to Making and Knowing](/documents/pdf/fa24_hosseinnia-kian_diaz-rimal-sabina_final-project_textiles.pdf) by Sabina Diaz-Rimal and Kian Hosseinnia
 - [An Exploration of Natural Pigments](/documents/pdf/fa24_lai-cerrina_final-project_pigments.pdf) by Cerrina Lai
 - [To Redden (Rougir): the Language of Color, Observation, and Transformation in Ms. Fr. 640](/resources/student-projects/fa24_roya-chu_final-project_redden/) by Roya Chu
