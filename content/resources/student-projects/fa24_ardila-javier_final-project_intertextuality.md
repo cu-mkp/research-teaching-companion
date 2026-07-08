@@ -289,14 +289,7 @@ contents.
 **List C**
 
  ![Image](/images/media-ardila/image12.png)
- ![Image](/images/media-ardila/image9.png)
- ![Image](/images/media-ardila/image6.png)
- ![Image](/images/media-ardila/image13.png)
- ![Image](/images/media-ardila/image5.png)
- ![Image](/images/media-ardila/image1.png)
- ![Image](/images/media-ardila/image3.png)
- ![Image](/images/media-ardila/image10.png)
-
+ 
 > **Source**: Making and Knowing Project. Digital Critical Edition, fol.
 > 170v. Digital highlight by the author: title (blue), author (green),
 
