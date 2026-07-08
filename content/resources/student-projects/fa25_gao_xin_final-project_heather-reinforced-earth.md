@@ -51,7 +51,7 @@ Methodologically, the project integrates three complementary components:
 1.  Textual analysis, which translates, contextualizes, and interprets
     the recipe within the framework of early modern craft theory;
 
-.  Experimental reconstruction, using soil and dried heather to
+2.  Experimental reconstruction, using soil and dried heather to
     reproduce the operational sequence and observe the material
     behaviors; and
 
@@ -72,7 +72,7 @@ traditional intelligence embedded in early modern earth construction,
 wherein human sensories, natural materials, and environmental conditions
 jointly constitute the technical system.
 
-## . Textual Analysis of the Recipe
+## 2 Textual Analysis of the Recipe
 
 ### 2.1 Material logic and regional practice in sixteenth-century Europe
 
@@ -187,7 +187,7 @@ label "B."*
 *\[4\] Though none of the instruments in the margin is marked "C," the
 author-practitioner is presumably referring to the bottom drawing.*
 
-![IMAGE](/images/media-gao/image6.png)
+<img src="/images/media-gao/image6.png" style="width:2" />
 
 ---
 
@@ -210,7 +210,7 @@ judged. Table 1 summarizes these categories of embodied knowledge,
 ranging from sensory judgement, to tool-mediated actions, to assessments
 of structural performance.
 
-Table 1: Summary of embodied knowledge categories in Fr. 640
+**Table 1: Summary of embodied knowledge categories in Fr. 640**
 
 | **Embodied knowledge category** | **Embodied cues summary** |
 |----|----|
@@ -230,7 +230,7 @@ inseparable from the sensory experience of working them. This embodied
 epistemology provides the conceptual basis for the experimental
 reconstruction undertaken in this study.
 
-Table 2: Textual evidence mapped to sensory judgement and material logic
+**Table 2: Textual evidence mapped to sensory judgement and material logic**
 
 | **Historical text** | **Category** | **Artisanal judgement** | **Implied material logic** |
 |----|----|----|----|
@@ -368,7 +368,7 @@ The initial hydration for testing was too high. During ramming, soil
 adhered to the wooden rammer, forming lumps on the tool surface. This
 indicates over-saturation, reducing compaction efficiency.
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/1176596144?h=09abd9564c" width="560" frameborder="0"    allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1176596144?h=09abd9564c" width="640" frameborder="0" allowfullscreen></iframe>
 
 For the final reconstruction, I adopted a volumetric ratio of 1:1/2
 (clay-rich soil to sandier soil) to balance plasticity with reduced
@@ -451,15 +451,19 @@ loose particles or exposed heathers.
 
 Figure 6: Forming and ramming
 
-<div style="padding:177.78% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1176597683?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Reconstructing Heather Video 02_Making Soil Even"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1176597683?h=f161ed5a31" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<br><br>
 
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1176598199?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Reconstructing Heather Video 03_Tamping Sound"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1176598199?h=290916109f" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<br><br>
 
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1176598730?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Reconstructing Heather Video 04_Edge Compaction"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1176598730?h=fb1a4b3e19" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<br><br>
 
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1176599185?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Reconstructing Heather Video 05_Cohesive Mixture"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1176599185?h=b603b3a0a4" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<br><br>
 
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1176599636?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Reconstructing Heather Video 06_Final Surface Beating"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1176599636?h=6a0fac1426" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 #### 3.2.5 Demolding
 
