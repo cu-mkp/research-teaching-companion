@@ -450,39 +450,39 @@ inferences next to the entries.
 <th>Inference</th>
 </tr>
 <tr>
-<th style="text-align: left;"><p>Folio 42v</p>
-<p><strong>Canvas for painting in oil without breaking</strong></p>
-<p>In order that your picture in oil does not break &amp; spoil in the
+<th style="text-align: left;"><p>Folio 42v<br>
+Canvas for painting in oil without breaking<br>
+In order that your picture in oil does not break &amp; spoil in the
 folding of it, make your layer with honey, <del>oil</del> a bit of oil,
 &amp; water <sup>&amp;</sup> flour.</p></th>
-<th>This entry suggested to me that the author-practitioner recommends
+<th style="text-align: left;">This entry suggested to me that the author-practitioner recommends
 not just any canvas, but a canvas treated and prepared for oil painting.
 Due to time constraints, I was not able to recreate this recipe
 alongside the one for purple, so I took the liberty of buying prepared
 canvas for my recipe reconstruction.</th>
 </tr>
 <tr>
-<th style="text-align: left;"><p>Folio 93v</p>
-<p><strong>Azure</strong></p>
-<p><em>Azur d'esmail</em> always wants to be cleaned, because the filth
+<th style="text-align: left;"><p>Folio 93v<br>
+Azure<br>
+<em>Azur d'esmail</em> always wants to be cleaned, because the filth
 that can be perceived in the wash water makes it die. One needs to layer
 it two times, &amp; the first very thick, moving the paintbrush by
 layering it first lengthwise then across. <img src="/images/media-bagchi/image30.png"
 style="width:1.25521in;height:0.62975in" /> <u>It is better used on
 canvas, where it is imbibed immediately, than on wood.</u></p>
 <p>(emphasis mine)</p></th>
-<th>This entry, I posit, offers the perfect justification for using
+<th style="text-align: left;">This entry, I posit, offers the perfect justification for using
 canvas for my reconstruction because the author-practitioner’s recipe
 for purple calls for using azur d’esmail as the first substance that is
 applied to the canvas.</th>
 </tr>
 <tr>
-<th style="text-align: left;"><p>Folio 165r</p>
-<p><strong>Stretching a canvas picture</strong></p>
-<p>If it is crumpled &amp; creased from being rolled up, moisten it from
+<th style="text-align: left;"><p>Folio 165r<br>
+Stretching a canvas picture<br>
+If it is crumpled &amp; creased from being rolled up, moisten it from
 behind with a wet sponge, &amp; you will stretch it very evenly without
 spoiling it.</p></th>
-<th>This entry, too, helped me confirm my decision to use a prepared,
+<th style="text-align: left;">This entry, too, helped me confirm my decision to use a prepared,
 store-bought canvas stretched on a wooden frame.</th>
 </tr>
 </thead>
@@ -574,14 +574,14 @@ cochineal lake made in class
 <th>Image</th>
 <th>Notes and Observations</th>
 </tr>
-<tr>
+<tr text-align: top; text-align: center>
 <th>N/A</th>
 <th><p>Step 1: Procure cochineal pigment</p>
 <p>Materials: Finely ground pigment</p>
 <p>Notes: I repurposed the cochineal lake pigment already created in
 class.</p></th>
 </tr>
-<tr>
+<tr text-align: top; text-align: center>
 <th><img src="/images/media-bagchi/image20.jpg"
 style="width:2.86979in;height:2.63711in" /></th>
 <th><p>Step 2: Place pigment on a glass plate</p>
@@ -591,7 +591,7 @@ had made. I erroneously thought it was ground finely enough to begin,
 but looking back, I realise it could have been ground much more
 finely.</p></th>
 </tr>
-<tr>
+<tr text-align: top; text-align: center>
 <th><img src="/images/media-bagchi/image11.jpg"
 style="width:2.87777in;height:2.23999in" /></th>
 <th><p>Step 3: Procure cochineal (extra)</p>
@@ -604,7 +604,7 @@ Cochineal(H).</p>
 <p>A more detailed account of making paint using this pigment is found
 in Table 2, below.</p></th>
 </tr>
-<tr>
+<tr text-align: top; text-align: center>
 <th><img src="/images/media-bagchi/image13.jpg"
 style="width:2.87316in;height:3.83854in" /></th>
 <th><p>Step 4: Procure binding and mixing agents</p>
@@ -621,14 +621,14 @@ class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> a
 process not dissimilar from how turpentine was obtained in the sixteenth
 century.</p></th>
 </tr>
-<tr>
+<tr text-align: top; text-align: center>
 <th><img src="/images/media-bagchi/image22.jpg"
 style="width:2.88021in;height:2.77004in" /></th>
 <th><p>Step 5: Mix pigment and binder</p>
 <p>Notes: I added the walnut oil drop by drop, so as not to flood the
 pigment.</p></th>
 </tr>
-<tr>
+<tr text-align: top; text-align: center>
 <th><img src="/images/media-bagchi/image23.jpg"
 style="width:2.86979in;height:3.15207in" /></th>
 <th><p>Step 6: Mix pigment and binder with a palette knife until roughly
@@ -647,7 +647,7 @@ between.</p>
 <p>At this stage, the mixture had a thick consistency that was dry and
 coarse to the touch.</p></th>
 </tr>
-<tr>
+<tr text-align: top; text-align: center>
 <th><img src="/images/media-bagchi/image48.jpg"
 style="width:2.86206in;height:3.82813in" /></th>
 <th><p>Step 7: Mull the mixture together</p>
@@ -661,7 +661,7 @@ felt little resistance and the mixture felt smooth to the touch. I
 stopped when the mixture reached an oil-paint-like consistency (a
 texture I was familiar with).</p></th>
 </tr>
-<tr>
+<tr text-align: top; text-align: center>
 <th><img src="/images/media-bagchi/image5.jpg"
 style="width:2.86979in;height:2.80566in" /></th>
 <th><p>Step 8: Stop mulling</p>
@@ -669,7 +669,7 @@ style="width:2.86979in;height:2.80566in" /></th>
 <p>The paint was glossy and held stiff peaks, typical for oil
 paint.</p></th>
 </tr>
-<tr>
+<tr text-align: top; text-align: center>
 <th><img src="/images/media-bagchi/image32.jpg"
 style="width:2.87837in;height:2.64624in" /></th>
 <th><p>Step 9: Separate paint into three sections</p>
@@ -687,7 +687,7 @@ allows light to be transmitted without interruption through binding
 medium and pigment.”<a href="#fn2" class="footnote-ref" id="fnref2"
 role="doc-noteref"><sup>2</sup></a></p></th>
 </tr>
-<tr>
+<tr text-align: top; text-align: center>
 <th><img src="/images/media-bagchi/image10.jpg"
 style="width:2.88021in;height:2.42872in" /></th>
 <th><p>Step 10: Separate paint into containers</p>
