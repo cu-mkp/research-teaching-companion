@@ -130,13 +130,13 @@ For an updated version of the text, see Making and Knowing Project, Pamela H. Sm
 -   [A Complex Material Made Simple: Examining the Author-Practitioner’s Practical Understanding of Alum](/documents/student-projects/amsterdam_molgat-laurin_claire_alun.pdf) by Claire Molgat Laurin
 -   [A Most Practical Approach: The Author-Practitioner’s Attitude Regarding the Topic of Durability and “Scudegrun”](/documents/student-projects/amsterdam_wolfkamp_laura_scudegrun.pdf) by Laura Wolfkamp
 -   ["Juice of Weld": Research into an Undefined Ingredient of Yellow Lake Pigment](/documents/student-projects/amsterdam_braam_hedwig_yellow-lakes.pdf) by Hedwig Braam
--   [BnF Ms. Fr. 640, fol. 29v: “Gold without Gold”]() by Moorea Hall-Aquitania
+-   [BnF Ms. Fr. 640, fol. 29v: “Gold without Gold”](/documents/student-projects/amsterdam_hall-aquitania_moorea_gold-without-gold.pdf) by Moorea Hall-Aquitania
 -   [The Use of Gold in BnF Ms. Fr. 640](/documents/student-projects/amsterdam_van-der-velde_eline_uses-of-gold.pdf) by Eline van der Velde
 
 ### Painters' Varnishes
 -   [“Drenched in Varnish”: The Role of the Penetrating Aspect of Aspic Oil as a Varnish Component](/documents/student-projects/amsterdam_boute-rosa_imitation-marble.pdf) by Rosa Boute
 -   [Spike Lavender and Lavender Spikes: The Essence of Spike Lavender in the Varnish Recipes of BnF Ms. Fr. 640](/documents/student-projects/amsterdam_wouda_sepha_spike-lavender.pdf) by Sepha Wouda
--   [Distilling Essential Oils: BnF Ms. Fr. 640 and the Art of Distilling in the Sixteenth Century]() by Marjolein Hupkes
+-   [Distilling Essential Oils: BnF Ms. Fr. 640 and the Art of Distilling in the Sixteenth Century](/documents/student-projects/amsterdam_hupkes_marjolein_essential-oils.pdf) by Marjolein Hupkes
 -   [Using Wine to Temper Laque: An Examination of the Role of Wine in Creating Paint]() by Noa Kollaard
 
 ### Sieves
