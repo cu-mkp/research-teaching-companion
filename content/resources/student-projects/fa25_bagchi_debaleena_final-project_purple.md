@@ -513,8 +513,7 @@ style="width:2.81987in;height:2.82888in" /></th>
 <th><img src="/images/media-bagchi/image4.png"
 style="width:2.60938in;height:3.2938in" /></th>
 <th><p>Canvas for painting<br>
-(more advanced, professional grade, costlier than the canvas on the
-left)</p></th>
+(more advanced, professional grade, costlier than the canvas above)</p></th>
 </tr>
 </thead>
 <tbody>
@@ -584,7 +583,7 @@ class.</p></th>
 </tr>
 <tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image20.jpg"
-style="width:2.86979in;height:2.63711in" /></th>
+style="width:2.86979in" /></th>
 <th><p>Step 2: Place pigment on a glass plate<br>
 Materials: Glass plate<br>
 Notes: To make the paint, I first began with the cochineal my team
@@ -594,7 +593,7 @@ finely.</p></th>
 </tr>
 <tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image11.jpg"
-style="width:2.87777in;height:2.23999in" /></th>
+style="width:2.87777in" /></th>
 <th><p>Step 3: Procure cochineal (extra)<br>
 Materials: Finely ground pigment<br>
 Notes: I was worried I would have too little dry pigment for my
@@ -607,7 +606,7 @@ in Table 3, below.</p></th>
 </tr>
 <tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image13.jpg"
-style="width:2.87316in;height:3.83854in" /></th>
+style="width:2.87316in" /></th>
 <th><p>Step 4: Procure binding and mixing agents<br>
 Materials: Walnut oil and turpentine<br>
 Notes: I used walnut oil as my binding agent and turpentine as a
@@ -624,14 +623,14 @@ century.</p></th>
 </tr>
 <tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image22.jpg"
-style="width:2.88021in;height:2.77004in" /></th>
+style="width:2.88021in" /></th>
 <th><p>Step 5: Mix pigment and binder<br>
 Notes: I added the walnut oil drop by drop, so as not to flood the
 pigment.</p></th>
 </tr>
 <tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image23.jpg"
-style="width:2.86979in;height:3.15207in" /></th>
+style="width:2.86979in" /></th>
 <th><p>Step 6: Mix pigment and binder with a palette knife until roughly
 incorporated<br>
 Materials: Palette knife<br>
@@ -650,7 +649,7 @@ coarse to the touch.</p></th>
 </tr>
 <tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image48.jpg"
-style="width:2.86206in;height:3.82813in" /></th>
+style="width:2.86206in" /></th>
 <th><p>Step 7: Mull the mixture together<br>
 Materials: Glass muller<br>
 Notes: When I began mulling the mixture together, most of it stuck to
@@ -664,7 +663,7 @@ texture I was familiar with).</p></th>
 </tr>
 <tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image5.jpg"
-style="width:2.86979in;height:2.80566in" /></th>
+style="width:2.86979in" /></th>
 <th><p>Step 8: Stop mulling<br>
 Notes: This is the stage at which I stopped mulling.<br>
 The paint was glossy and held stiff peaks, typical for oil
@@ -672,7 +671,7 @@ paint.</p></th>
 </tr>
 <tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image32.jpg"
-style="width:2.87837in;height:2.64624in" /></th>
+style="width:2.87837in" /></th>
 <th><p>Step 9: Separate paint into three sections<br>
 Notes: Since I would have to make glazes with the paint, I decided to
 separate it into three.<br>
@@ -690,7 +689,7 @@ role="doc-noteref"><sup>2</sup></a></p></th>
 </tr>
 <tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image10.jpg"
-style="width:2.88021in;height:2.42872in" /></th>
+style="width:2.88021in" /></th>
 <th><p>Step 10: Separate paint into containers<br>
 Materials: Plastic containers<br>
 Notes: I diluted the paint in these plastic containers and labeled
@@ -756,7 +755,7 @@ Notes: Given to me by Helen Sullivan.</p></th>
 </tr>
 <tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image33.jpg"
-style="width:2.86979in;height:2.98659in" /></th>
+style="width:2.86979in" /></th>
 <th><p>Step 2: Grind pigment to find powder<br>
 Materials: Cochineal(H)<br>
 Notes: Determined not to repeat the same mistake from my first batch,
@@ -765,7 +764,7 @@ difference in handling it later was remarkable.</p></th>
 </tr>
 <tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image11.jpg"
-style="width:2.88021in;height:2.24189in" /></th>
+style="width:2.88021in" /></th>
 <th><p>Step 3: Place pigment on a glass plate<br>
 Materials: Glass plate<br>
 Notes: Comparing this image to the image accompanying Step 2 in Table
@@ -776,7 +775,7 @@ subsequent steps easier.</p></th>
 </tr>
 <tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image18.jpg"
-style="width:2.85938in;height:4.22552in" /></th>
+style="width:2.85938in" /></th>
 <th><p>Step 4: Mix pigment and binder<br>
 Notes: To this batch of ground pigment, I added walnut oil drop by
 drop.<br>
@@ -786,7 +785,7 @@ bind all the fine, loose pigment together.</p></th>
 </tr>
 <tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image3.jpg"
-style="width:2.88021in;height:3.84547in" /></th>
+style="width:2.88021in" /></th>
 <th><p>Step 5: Mix pigment and binder with a palette knife until roughly
 incorporated<br>
 Materials: Palette knife<br>
@@ -798,7 +797,7 @@ Table 2, and its consistency was smoother to the touch.</p></th>
 </tr>
 <tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image8.jpg"
-style="width:2.86979in;height:2.46647in" /></th>
+style="width:2.86979in" /></th>
 <th><p>Step 6: Mull the mixture together<br>
 Materials: Glass muller<br>
 Notes: This was the smoothest mulling process. Once I started
@@ -807,7 +806,7 @@ homogenized oily toothpaste.</p></th>
 </tr>
 <tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image34.jpg"
-style="width:2.86979in;height:2.48067in" /></th>
+style="width:2.86979in" /></th>
 <th><p>Step 7: Separate paint into containers<br>
 Materials: Plastic containers<br>
 Notes: Since this was to be my extra batch of cochineal paint, and
@@ -841,7 +840,7 @@ store-bought azurite.
 </tr>
 <tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image21.jpg"
-style="width:2.87452in;height:4.36979in" /></th>
+style="width:2.87452in" /></th>
 <th><p>Step 1: Procure azureite pigment<br>
 Materials: Store-bought, finely ground azurite pigment from the
 Making and Knowing Lab<br>
@@ -851,7 +850,7 @@ natural, standard” from Kremer Pigments, New York.</p></th>
 </tr>
 <tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image45.jpg"
-style="width:2.873in;height:2.53166in" /></th>
+style="width:2.873in" /></th>
 <th><p>Step 2: Place pigment on a glass plate<br>
 Materials: Glass plate<br>
 Notes: As might be evident from the image on the left, this
@@ -860,7 +859,7 @@ used in my reconstruction. It had the texture of talcum powder.</p></th>
 </tr>
 <tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image25.jpg"
-style="width:2.88014in;height:3.43229in" /></th>
+style="width:2.88014in" /></th>
 <th><p>Step 3: Mix pigment and binder<br>
 Notes: I added the walnut oil drop by drop to the pigment.<br>
 Mixing three different batches of pigment made me realize just how
@@ -878,7 +877,7 @@ product.</p></th>
 </tr>
 <tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image44.jpg"
-style="width:2.85029in;height:5.08542in" /></th>
+style="width:2.85029in" /></th>
 <th><p>Step 4: Mix pigment and binder with a palette knife until roughly
 incorporated<br>
 Materials: Palette knife<br>
@@ -897,7 +896,7 @@ better to the oil and fix the paint’s runniness.</p></th>
 </tr>
 <tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image42.jpg"
-style="width:2.87937in;height:5.13021in" /></th>
+style="width:2.87937in" /></th>
 <th><p>Step 5: Mull the mixture together<br>
 Materials: Glass muller<br>
 Notes: This was the quickest yet noisiest mulling process. It sounded
@@ -915,7 +914,7 @@ wasn’t. So, I continued to mull until the cracking reduced.</p></th>
 </tr>
 <tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image41.jpg"
-style="width:2.88582in;height:2.88582in" /></th>
+style="width:2.88582in" /></th>
 <th><p>Step 6: Stop mulling and separate the paint into three
 sections<br>
 Notes: I was glad to note that the mulling helped incorporate the oil
@@ -924,7 +923,7 @@ paste-like, and not runny.</p></th>
 </tr>
 <tr style="text-align: left;">
 <th><img src="/images/media-bagchi/image27.jpg"
-style="width:2.87233in;height:2.34896in" /></th>
+style="width:2.87233in" /></th>
 <th><p>Step 7: Separate paint into containers<br>
 Materials: Plastic containers<br>
 Just as with my cochineal, I diluted the pigment to create three
