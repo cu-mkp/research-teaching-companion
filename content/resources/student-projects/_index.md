@@ -108,9 +108,8 @@ The Spring 2019 course _Transforming Texts: Textual Analysis, Literary Modeling,
 
 ## _The Art Technological Source_, University of Amsterdam & Making and Knowing (2015–2016)
 
-_The Art Technological Source_ was an 8-week course offered several times in 2015 and 2016 by Dr. Marjolijn Bol in collaboration with the Making and Knowing Project to students enrolled in the University of Amsterdam's MA programs in either Technical Art History or Conservation and Restoration. Students worked on various recipes from BnF Ms. Fr. 640 on the following four topics: 1) tracing and painting on glass, 2) yellow dyes and their applications, 3) dragon's blood, 4) painters’ varnishes, and 5) sieves.
+_The Art Technological Source_ was an 8-week course offered several times in 2015 and 2016 by Dr. Marjolijn Bol in collaboration with the Making and Knowing Project to students enrolled in the University of Amsterdam's MA programs in either Technical Art History or Conservation and Restoration. Students worked on various recipes from BnF Ms. Fr. 640 on the following five topics: 1) tracing and painting on glass, 2) yellow dyes and their applications, 3) dragon's blood, 4) painters’ varnishes, and 5) sieves.
 The student papers below are un-edited and rely on an earlier state of the Project’s transcription and translation of Ms. Fr. 640. Nevertheless, they contain useful insights. 
-For an updated version of the text, see Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano, eds., _Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640_ (New York: Making and Knowing Project, 2020), [https://edition640.makingandknowing.org](https://edition640.makingandknowing.org). DOI: [https://doi.org/10.7916/78yt-2v41](https://doi.org/10.7916/78yt-2v41).
 
 ### Tracing and Painting on Glass
 -   [The Application of Monochrome Backgrounds in Reverse Glass Painting](/documents/student-projects/amsterdam_van-der-wielen_roy_reverse-glass-painting.pdf) by Roy van der Wielen
@@ -137,8 +136,17 @@ For an updated version of the text, see Making and Knowing Project, Pamela H. Sm
 -   [“Drenched in Varnish”: The Role of the Penetrating Aspect of Aspic Oil as a Varnish Component](/documents/student-projects/amsterdam_boute-rosa_imitation-marble.pdf) by Rosa Boute
 -   [Spike Lavender and Lavender Spikes: The Essence of Spike Lavender in the Varnish Recipes of BnF Ms. Fr. 640](/documents/student-projects/amsterdam_wouda_sepha_spike-lavender.pdf) by Sepha Wouda
 -   [Distilling Essential Oils: BnF Ms. Fr. 640 and the Art of Distilling in the Sixteenth Century](/documents/student-projects/amsterdam_hupkes_marjolein_essential-oils.pdf) by Marjolein Hupkes
--   [Using Wine to Temper Laque: An Examination of the Role of Wine in Creating Paint]() by Noa Kollaard
+-   [Using Wine to Temper Laque: An Examination of the Role of Wine in Creating Paint](/documents/student-projects/amsterdam_kollaard_noa_imitation-marble.pdf) by Noa Kollaard
 
 ### Sieves
--   [Sieves Deconstructed: A Search into the Construction of Historic Sieves]() by Paulien Coopmans
--   [Fine Raw Silk Sieves and Horse Hair Sieves: How Sieves of Different Materials Obtain Various Textures]() by Lisanne van den Heuvel
+-   [Sieves Deconstructed: A Search into the Construction of Historic Sieves](/documents/student-projects/amsterdam_coopmans_paulien_sieves.pdf) by Paulien Coopmans
+-   [Fine Raw Silk Sieves and Horse Hair Sieves: How Sieves of Different Materials Obtain Various Textures](/documents/student-projects/amsterdam_van-den-heuvel_lisanne_sieves.pdf) by Lisanne van den Heuvel
+
+
+## Metal Conservation, University of Amsterdam & Making and Knowing (2014–2015)
+
+Research was carried out during coursework offered in 2014 and 2015 by Tonny Beentjes, Ellen van Bork, and Tamar Davidowitz in collaboration with the Making and Knowing Project to students enrolled in the University of Amsterdam's MA programs in Conservation and Restoration. Students worked on various recipes from BnF Ms. Fr. 640 on the topics of moldmaking and metalworking.
+The student papers below rely on an earlier state of the Project’s transcription and translation of Ms. Fr. 640. 
+
+-   [Concerning the Incuse-Reverse Mold Casting of Medals]() by Michaela Groeneveld and Marianne Nuij
+-   [The Use of “Spat” in the Preparation of Molds in BnF Ms. Fr. 640]() by Elisabeth Kuiper and Ingeborg Kroon
