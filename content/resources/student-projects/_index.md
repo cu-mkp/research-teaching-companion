@@ -108,34 +108,34 @@ The Spring 2019 course _Transforming Texts: Textual Analysis, Literary Modeling,
 
 ## _The Art Technological Source_, University of Amsterdam & Making and Knowing (2015–2016)
 
-_The Art Technological Source_ was an 8-week course offered for several semesters in 2015 and 2016 by Making & Knowing collaborator Marjolijn Bol to students enrolled in the University of Amsterdam's MA programs in either Technical Art History or Conservation and Restoration. Students worked on various recipes from BnF Ms. Fr. 640 under the following four topics: 1) tracing and painting on glass, 2) dragon's blood, 3) yellow dyes and their applications, 4) painters’ varnishes and, 5) sieves.
+_The Art Technological Source_ was an 8-week course offered for several semesters in 2015 and 2016 by Making & Knowing collaborator Dr. Marjolijn Bol to students enrolled in the University of Amsterdam's MA programs in either Technical Art History or Conservation and Restoration. Students worked on various recipes from BnF Ms. Fr. 640 under the following four topics: 1) tracing and painting on glass, 2) dragon's blood, 3) yellow dyes and their applications, 4) painters’ varnishes and, 5) sieves.
 The student papers below are un-edited and rely on an earlier state of the Project’s transcription and translation of Ms. Fr. 640. Nevertheless, they contain useful insights. 
 For an updated version of the text, see Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano, eds., _Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640_ (New York: Making and Knowing Project, 2020), [https://edition640.makingandknowing.org](https://edition640.makingandknowing.org). DOI: [https://doi.org/10.7916/78yt-2v41](https://doi.org/10.7916/78yt-2v41).
 
 ### Tracing and Painting on Glass
--   [The Application of Monochrome Backgrounds in Reverse Glass Painting]() by Roy van der Wielen
--   [_Tourmentine clere meslee d’un peu de l’arme de mastic_: Resinous Binding Media in Reverse Glass Painting]() by Ilse Steeman
--   [On Scales Black / _Noir d’escaille_ for Black Outlines in Reverse Glass Painting]() by Pilko Magdalena
--   [BnF Ms. Fr. 640, fol. 41v: “Colors and gilt on glass”]() by Rosa Hoogenboom
--   [The Challenges of Gilding on Glass: An Analysis of Adhering Methods for Gilding on Glass]() by Corinna de Regt
+-   [The Application of Monochrome Backgrounds in Reverse Glass Painting](/documents/student-projects/amsterdam_van-der-wielen_roy_reverse-glass-painting.pdf) by Roy van der Wielen
+-   [_Tourmentine clere meslee d’un peu de l’arme de mastic_: Resinous Binding Media in Reverse Glass Painting](/documents/student-projects/amsterdam_steeman_ilse_resin-varnishes.pdf) by Ilse Steeman
+-   [On Scales Black / _Noir d’escaille_ for Black Outlines in Reverse Glass Painting](/documents/student-projects/amsterdam_magdalena_pilko_scale-black.pdf) by Pilko Magdalena
+-   [BnF Ms. Fr. 640, fol. 41v: “Colors and gilt on glass”](/documents/student-projects/amsterdam_hoogenboom_rosa_colors-on-glass.pdf) by Rosa Hoogenboom
+-   [The Challenges of Gilding on Glass: An Analysis of Adhering Methods for Gilding on Glass](/documents/student-projects/amsterdam_de-regt_corinna_gilding-on-glass.pdf) by Corinna de Regt
 
 ### Dragon's Blood
--   [The Use of “Dragon’s Blood” on Fol. 40v of Manuscript BnF Ms. Fr. 640]() by Elisabeth Kuiper
--   [The Use of _Eau de Vie_ in the Reconstruction of Dragon’s Blood]() by Marianne Nuij
--   [The Role of Dragon’s Blood in Falsifying and Imitating Red Gemstones]() by Ingeborg Kroon
--   [The Application of Dragon's Blood on Metal]() by Michaela Groeneveld
+-   [The Use of “Dragon’s Blood” on Fol. 40v of Manuscript BnF Ms. Fr. 640](/documents/student-projects/amsterdam_kuiper_elisabeth_dragons-blood.pdf) by Elisabeth Kuiper
+-   [The Use of _Eau de Vie_ in the Reconstruction of Dragon’s Blood](/documents/student-projects/amsterdam_nuij_narianne_eau-de-vie.pdf) by Marianne Nuij
+-   [The Role of Dragon’s Blood in Falsifying and Imitating Red Gemstones](/documents/student-projects/amsterdam_kroon_ingeborg_dragons-blood.pdf) by Ingeborg Kroon
+-   [The Application of Dragon's Blood on Metal](/documents/student-projects/amsterdam_groeneveld_michaela_dragons-blood-on-metal.pdf) by Michaela Groeneveld
 
 ### Yellow Dyes and their Applications
--   [Chalk in Yellow Lake Pigments]() by Kayleigh van der Gulik
--   [A Complex Material Made Simple: Examining the Author-Practitioner’s Practical Understanding of Alum]() by Molgat Laurin
--   [A Most Practical Approach: The Author-Practitioner’s Attitude Regarding the Topic of Durability and “Scudegrun”]() by Laura Wolfkamp
--   ["Juice of Weld": Research into an Undefined Ingredient of Yellow Lake Pigment]() by Hedwig Braam
+-   [Chalk in Yellow Lake Pigments](/documents/student-projects/amsterdam_van-der-gulik_kayleigh_chalk-in-lakes.pdf) by Kayleigh van der Gulik
+-   [A Complex Material Made Simple: Examining the Author-Practitioner’s Practical Understanding of Alum](/documents/student-projects/amsterdam_molgat-laurin_claire_alun.pdf) by Claire Molgat Laurin
+-   [A Most Practical Approach: The Author-Practitioner’s Attitude Regarding the Topic of Durability and “Scudegrun”](/documents/student-projects/amsterdam_wolfkamp_laura_scudegrun.pdf) by Laura Wolfkamp
+-   ["Juice of Weld": Research into an Undefined Ingredient of Yellow Lake Pigment](/documents/student-projects/amsterdam_braam_hedwig_yellow-lakes.pdf) by Hedwig Braam
 -   [BnF Ms. Fr. 640, fol. 29v: “Gold without Gold”]() by Moorea Hall-Aquitania
--   [The Use of Gold in BnF Ms. Fr. 640]() by Eline van der Velde
+-   [The Use of Gold in BnF Ms. Fr. 640](/documents/student-projects/amsterdam_van-der-velde_eline_uses-of-gold.pdf) by Eline van der Velde
 
 ### Painters' Varnishes
--   [“Drenched in Varnish”: The Role of the Penetrating Aspect of Aspic Oil as a Varnish Component]() by Rosa Boute
--   [Spike Lavender and Lavender Spikes: The Essence of Spike Lavender in the Varnish Recipes of BnF Ms. Fr. 640]() by Sepha Wouda
+-   [“Drenched in Varnish”: The Role of the Penetrating Aspect of Aspic Oil as a Varnish Component](/documents/student-projects/amsterdam_boute-rosa_imitation-marble.pdf) by Rosa Boute
+-   [Spike Lavender and Lavender Spikes: The Essence of Spike Lavender in the Varnish Recipes of BnF Ms. Fr. 640](/documents/student-projects/amsterdam_wouda_sepha_spike-lavender.pdf) by Sepha Wouda
 -   [Distilling Essential Oils: BnF Ms. Fr. 640 and the Art of Distilling in the Sixteenth Century]() by Marjolein Hupkes
 -   [Using Wine to Temper Laque: An Examination of the Role of Wine in Creating Paint]() by Noa Kollaard
 
