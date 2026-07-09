@@ -25,6 +25,13 @@ The lesson plans below are listed in order, starting out with activities that in
 A great way to get started in a class or workshop by familiarizing students with the digital critical edition of Ms. Fr. 640 and the manuscript itself through a scavenger hunt of its contents.
 - [Scavenger Hunt: Get to Know *Secrets of Craft and Nature*](/resources/activity-sheets/scavenger-hunt_secrets-of-craft/) - a simple exploration of intriguing elements in Ms. Fr. 640.
 - [*Secrets of Craft and Nature* Reconnaissance (Directed Scavenger Hunt)](/resources/activity-sheets/scavenger-hunt-2/) - a structured scavenger hunt to introduce important features of _Secrets of Craft and Nature_.
+
+Other ways to engage with the manuscript are through these downloadable edition resources for offline consultation:
+- [Full Diplomatic Transcription and Indices](https://edition-assets.makingandknowing.org/edition-resources/all_tc_figures.pdf)
+- [Full Normalized Transcription and Indices](https://edition-assets.makingandknowing.org/edition-resources/all_tcn_figures.pdf)
+- [Full Translation and Indices](https://edition-assets.makingandknowing.org/edition-resources/all_tl_figures.pdf)
+- [List of Entries PDF](https://edition-assets.makingandknowing.org/edition-resources/list-of-entries.pdf)
+- [Glossary PDF](https://edition-assets.makingandknowing.org/edition-resources/glossary.pdf)
   
 ## Historical Culinary Recipe Reconstruction
 ![Historical Culinary Recipe Reconstruction thumbnail](/images/culinaryreconstruction-thumbnail.jpg)<br>
