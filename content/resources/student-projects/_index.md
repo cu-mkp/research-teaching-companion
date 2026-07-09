@@ -150,5 +150,5 @@ In 2014 and 2015, University of Amsterdam instructors Tonny Beentjes, Ellen van 
 
 The student papers below are un-edited and rely on an earlier state of the Project’s transcription and translation of Ms. Fr. 640. Nevertheless, they contain useful insights. 
 
--   [Concerning the Incuse-Reverse Mold Casting of Medals]() by Michaela Groeneveld and Marianne Nuij
--   [The Use of “Spat” in the Preparation of Molds in BnF Ms. Fr. 640]() by Elisabeth Kuiper and Ingeborg Kroon
+-   [Concerning the Incuse-Reverse Mold Casting of Medals](/documents/student-projects/amsterdam_groeneveld-nuij_michaela-marianne_incuse-reverse-casting.pdf) by Michaela Groeneveld and Marianne Nuij
+-   [The Use of “Spat” in the Preparation of Molds in BnF Ms. Fr. 640](/documents/student-projects/amsterdam_kuiper-kroon_elisabeth-ingeborg_spat.pdf) by Elisabeth Kuiper and Ingeborg Kroon
