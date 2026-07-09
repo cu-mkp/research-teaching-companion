@@ -72,7 +72,7 @@ throughout modern day Nassau County, and are extremely vulnerable to
 development, trash dumping, and exotic species invasions.[^7] The most
 prominent portion of these remnants is, of course, Eisenhower Park.<br>
 
-<img src="images/media-bafunso/image1.png" style="width:4.53889in" alt="A map of a park" />
+<img src="images/media-bafunso/image1.png" alt="A map of a park" />
 
 Modern preservationists note that the Red Golf Course in Eisenhower Park
 has experienced the least amount of soil disturbance among the remnants.
