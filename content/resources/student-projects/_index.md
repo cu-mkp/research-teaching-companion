@@ -105,3 +105,40 @@ The Spring 2019 course _Transforming Texts: Textual Analysis, Literary Modeling,
 -   [Augmented Reality Group (ARGroup)](/documents/pdf/SP19_ARGroup.pdf) by Mahzabin Hasnath, Kathleen Lee, and Taewan Shim. See also PowerPoint presentation [[PDF](/documents/pdf/SP19_ARGroup-Presentation.pdf)] [[PPTX](/documents/student-projects/SP19_ARGroup-Presentation.pptx)]
 
 ![2018 Paleography](/images/2018_paleography_toulouse_for-webpages.jpg)
+
+## _The Art Technological Source_, University of Amsterdam & Making and Knowing (2015–2016)
+
+_The Art Technological Source_ was an 8-week course offered for several semesters in 2015 and 2016 by Making & Knowing collaborator Marjolijn Bol to students enrolled in the University of Amsterdam's MA programs in either Technical Art History or Conservation and Restoration. Students worked on various recipes from BnF Ms. Fr. 640 under the following four topics: 1) tracing and painting on glass, 2) dragon's blood, 3) yellow dyes and their applications, 4) painters’ varnishes and, 5) sieves.
+The student papers below are un-edited and rely on an earlier state of the Project’s transcription and translation of Ms. Fr. 640. Nevertheless, they contain useful insights. 
+For an updated version of the text, see Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano, eds., _Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640_ (New York: Making and Knowing Project, 2020), [https://edition640.makingandknowing.org](https://edition640.makingandknowing.org). DOI: [https://doi.org/10.7916/78yt-2v41](https://doi.org/10.7916/78yt-2v41).
+
+### Tracing and Painting on Glass
+-   [The Application of Monochrome Backgrounds in Reverse Glass Painting]() by Roy van der Wielen
+-   [_Tourmentine clere meslee d’un peu de l’arme de mastic_: Resinous Binding Media in Reverse Glass Painting]() by Ilse Steeman
+-   [On Scales Black / _Noir d’escaille_ for Black Outlines in Reverse Glass Painting]() by Pilko Magdalena
+-   [BnF Ms. Fr. 640, fol. 41v: “Colors and gilt on glass”]() by Rosa Hoogenboom
+-   [The Challenges of Gilding on Glass: An Analysis of Adhering Methods for Gilding on Glass]() by Corinna de Regt
+
+### Dragon's Blood
+-   [The Use of “Dragon’s Blood” on Fol. 40v of Manuscript BnF Ms. Fr. 640]() by Elisabeth Kuiper
+-   [The Use of _Eau de Vie_ in the Reconstruction of Dragon’s Blood]() by Marianne Nuij
+-   [The Role of Dragon’s Blood in Falsifying and Imitating Red Gemstones]() by Ingeborg Kroon
+-   [The Application of Dragon's Blood on Metal]() by Michaela Groeneveld
+
+### Yellow Dyes and their Applications
+-   [Chalk in Yellow Lake Pigments]() by Kayleigh van der Gulik
+-   [A Complex Material Made Simple: Examining the Author-Practitioner’s Practical Understanding of Alum]() by Molgat Laurin
+-   [A Most Practical Approach: The Author-Practitioner’s Attitude Regarding the Topic of Durability and “Scudegrun”]() by Laura Wolfkamp
+-   ["Juice of Weld": Research into an Undefined Ingredient of Yellow Lake Pigment]() by Hedwig Braam
+-   [BnF Ms. Fr. 640, fol. 29v: “Gold without Gold”]() by Moorea Hall-Aquitania
+-   [The Use of Gold in BnF Ms. Fr. 640]() by Eline van der Velde
+
+### Painters' Varnishes
+-   [“Drenched in Varnish”: The Role of the Penetrating Aspect of Aspic Oil as a Varnish Component]() by Rosa Boute
+-   [Spike Lavender and Lavender Spikes: The Essence of Spike Lavender in the Varnish Recipes of BnF Ms. Fr. 640]() by Sepha Wouda
+-   [Distilling Essential Oils: BnF Ms. Fr. 640 and the Art of Distilling in the Sixteenth Century]() by Marjolein Hupkes
+-   [Using Wine to Temper Laque: An Examination of the Role of Wine in Creating Paint]() by Noa Kollaard
+
+### Sieves
+-   [Sieves Deconstructed: A Search into the Construction of Historic Sieves]() by Paulien Coopmans
+-   [Fine Raw Silk Sieves and Horse Hair Sieves: How Sieves of Different Materials Obtain Various Textures]() by Lisanne van den Heuvel
