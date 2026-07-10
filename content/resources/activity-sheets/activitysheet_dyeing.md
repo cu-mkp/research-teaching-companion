@@ -32,7 +32,7 @@ The largest class of natural dyes is mordant dyes. In this process, textiles mus
 
 One of the most common mordants is aluminum, typically in the form of alum (aluminum potassium sulfate). Other mordants include iron sulfate, copper sulfate, and tannins.
 
-{{< figure src="/images/mordant-process.JPG" alt="mordant process" >}}
+{{< figure src="/images/mordant-dyes.png" alt="mordant process" >}}
 
 ## What's the Difference between Dyes and Pigments or Paints?
 Various terms are used to describe materials used to impart color and they are not always used consistently or in a purely technical sense. Generally, dyes should be distinguished from pigments and paints because how they color other materials is different:<br>
