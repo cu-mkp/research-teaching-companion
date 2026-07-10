@@ -14,7 +14,7 @@ The activity of dyeing with natural colorants following modernized historical re
 - consider the relationship between dyes and pigments and thus between the textile trade and art production
 
 
-## What is a dye?
+## What is a Dye?
 
 A dye is a compound that absorbs into and colors another material and is often a complex organic compound ([Conservation and Art Materials Encyclopedia Online (CAMEO)](http://cameo.mfa.org/wiki/Dye)). Until the onset of synthetic dyes in the mid-nineteenth century, most dyes were sourced from natural colorants such as plants, insects, lichens, and shellfish. 
 
@@ -25,16 +25,25 @@ Natural dyes can be categorized into one of three processes used to extract the 
 2. Mordant dyes
 3. Vat dyes
 
+{{< figure src="/images/types-of-dyes.png" alt="dye types" >}}
 
-## Mordant dyes
+## Mordant Dyes
 The largest class of natural dyes is mordant dyes. In this process, textiles must first be treated with a mordant (typically a metal salt or coordination metal) in order to bind the dye more permanently to the textile. The textile binds to the mordant which in turn binds to the colorant. The mordant thus acts as a bridge between the textile and colorant.
 
-The most common mordant is aluminum, typically in the form of alum (aluminum potassium sulfate). Other mordants include iron sulfate, copper sulfate, and tannins.
+One of the most common mordants is aluminum, typically in the form of alum (aluminum potassium sulfate). Other mordants include iron sulfate, copper sulfate, and tannins.
 
 {{< figure src="/images/mordant-process.JPG" alt="mordant process" >}}
 
-> Jo Kirby et al, _Natural Colorants for Dyeing and Lake Pigments: Practical Recipes and their Historical Sources_ (Archetype, London, 2014).
+## What's the Difference between Dyes and Pigments or Paints?
+Various terms are used to describe materials used to impart color and they are not always used consistently or in a purely technical sense. Generally, dyes should be distinguished from pigments and paints because how they color other materials is different:<br>
+\> **Dyes** - _chemical interaction_, forming chemical bonds with textiles (or other substrates)<br>
+\> **Paints** and **Pigments** - _physical interaction_, mechanically attaching to substrates without forming chemical bonds (they sit atop and stick to the surface of a substrate). \[**Paint** = **pigment** + binding medium. See [Making Paints from Pigments and Binding Media and Painting Them Out](/resources/activity-sheets/activitysheet_paintingpigments/)\]<br>
 
+**Colorant** is also frequently used to describe materials that color other materials. This is perhaps the term used least consistently. Most often it is used to mean either: 1) a general catch-all term for a thing that colors, or 2) the component of a dye or pigment that is providing the source of color, e.g., the element or compound.
+
+Additional information and illustrations can be found in [Presentation: Dye vs. Pigment vs. Paint vs. Colorant](/documents/pdf/dye-vs-pigment-vs-paint-vs-colorant.pdf).
+
+{{< figure src="/images/Dye-Pigment-Paint-Colorant.png" alt="Dye vs. Pigment vs. Paint vs. Colorant" >}}
 
 ## An Example Historical Recipe and its Modernization
 
