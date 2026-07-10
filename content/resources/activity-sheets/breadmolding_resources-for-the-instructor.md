@@ -1,5 +1,8 @@
 # Bread Making, Molding, and Casting (for the Instructor)
-{{< figure src="/images/breadmolding-kneading.jpg" alt="Kneading Bread">}}
+{{< figure src="/images/breadmolding-kneading.jpg" width="600" alt="Kneading Bread">}}
+
+{{< figure src="/images/bread.jpg" width="600" alt="Bread">}}
+
 ## Introduction
 
 The sixteenth-century artisanal/technical manual, BnF Ms. Fr. 640, contains
