@@ -368,7 +368,7 @@ The initial hydration for testing was too high. During ramming, soil
 adhered to the wooden rammer, forming lumps on the tool surface. This
 indicates over-saturation, reducing compaction efficiency.
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/1176596144?h=09abd9564c" width="640" frameborder="0" allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1176596144?h=09abd9564c" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 For the final reconstruction, I adopted a volumetric ratio of 1:1/2
 (clay-rich soil to sandier soil) to balance plasticity with reduced
