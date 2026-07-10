@@ -125,7 +125,7 @@ HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History
 
 #### 1. Main Entrance
    
-![IMAGE](/images/media-riddle/image7.jpg)
+<img src="/images/media-riddle/image7.jpg" style="width:5.55in" /> 
 
 #### 2.  Dr. Pamela Smith shares a brief introduction of the Making and Knowing Project
 
