@@ -31,7 +31,7 @@ Binders are materials that bring cohesion and unity to particulate matter. In th
 {{< figure src="/images/painting-binding-media_1.jpg" alt="binding media raw" >}}
 {{< figure src="/images/painting-binding-media_2.jpg" alt="binding media in use" >}}
 
-## What's the Difference between Pigments, Paints, and Dyes?
+### What's the Difference between Pigments, Paints, and Dyes?
 Various terms are used to describe materials used to impart color and they are not always used consistently or in a purely technical sense. Generally, dyes should be distinguished from pigments and paints because how they color other materials is different:<br>
 \> **Dyes** - _chemical interaction_, forming chemical bonds with textiles (or other substrates). See [Dyeing with Natural Colorants](/resources/activity-sheets/activitysheet_dyeing/)<br>
 \> **Paints** and **Pigments** - _physical interaction_, mechanically attaching to substrates without forming chemical bonds (they sit atop and stick to the surface of a substrate). \[**Paint** = **pigment** + binding medium. See [Making Paints from Pigments and Binding Media and Painting Them Out](/resources/activity-sheets/activitysheet_paintingpigments/)\]<br>
