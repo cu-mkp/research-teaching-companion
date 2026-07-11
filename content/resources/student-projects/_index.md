@@ -108,9 +108,9 @@ The Spring 2019 course _Transforming Texts: Textual Analysis, Literary Modeling,
 
 ## _The Art Technological Source_, University of Amsterdam & Making and Knowing (2015–2016)
 
-_The Art Technological Source_ was an 8-week course offered several times in 2015 and 2016 by Dr. Marjolijn Bol in collaboration with the Making and Knowing Project to students enrolled in the University of Amsterdam's MA programs in either Technical Art History or Conservation and Restoration. Students worked on various recipes from BnF Ms. Fr. 640 on the following five topics: 1) tracing and painting on glass, 2) yellow dyes and their applications, 3) dragon's blood, 4) painters’ varnishes, and 5) sieves.
+_The Art Technological Source_ was an 8-week course offered several times in 2015 and 2016 by Dr. Marjolijn Bol in collaboration with the Making and Knowing Project to students enrolled in the University of Amsterdam's MA programs in either Technical Art History or Conservation and Restoration. Students studied various recipes from BnF Ms. Fr. 640 on the following five topics: 1) tracing and painting on glass, 2) yellow dyes and their applications, 3) dragon's blood, 4) painters’ varnishes, and 5) sieves.
 
-The student papers below are un-edited and rely on an earlier state of the Project’s transcription and translation of Ms. Fr. 640. Nevertheless, they contain useful insights. 
+These student papers have not been edited for style and accuracy, and they rely on an earlier state of the Project’s transcription and translation of Ms. Fr. 640. Nevertheless, they contain useful insights. 
 
 ### Tracing and Painting on Glass
 -   [The Application of Monochrome Backgrounds in Reverse Glass Painting](/documents/student-projects/amsterdam_van-der-wielen_roy_reverse-glass-painting.pdf) by Roy van der Wielen
@@ -148,7 +148,7 @@ The student papers below are un-edited and rely on an earlier state of the Proje
 
 In 2014 and 2015, University of Amsterdam instructors Tonny Beentjes, Ellen van Bork, and Tamar Davidowitz supervised student research projects on recipes from BnF Ms. Fr. 640 on moldmaking and metalworking as part of their coursework for the MA program in Conservation and Restoration.
 
-The student papers below are un-edited and rely on an earlier state of the Project’s transcription and translation of Ms. Fr. 640. Nevertheless, they contain useful insights. 
+These student projects have not been edited for style and accuracy, and they rely on an earlier state of the Project’s transcription and translation of Ms. Fr. 640. Nevertheless, they contain valuable research and insights about moldmaking in Ms. Fr. 640. 
 
 -   [Concerning the Incuse-Reverse Mold Casting of Medals](/documents/student-projects/amsterdam_groeneveld-nuij_michaela-marianne_incuse-reverse-casting.pdf) by Michaela Groeneveld and Marianne Nuij
 -   [The Use of “Spat” in the Preparation of Molds in BnF Ms. Fr. 640](/documents/student-projects/amsterdam_kuiper-kroon_elisabeth-ingeborg_spat.pdf) by Elisabeth Kuiper and Ingeborg Kroon
