@@ -9,7 +9,8 @@ HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/1176285136?h=6db9051c42" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
 ## Overview 
-![IMAGE](/images/media-riddle/image14.jpg)
+<img src="/images/media-riddle/image14.jpg" style="width:5.55in" /> 
+
 
 ### Exhibition Statement
 
@@ -87,7 +88,7 @@ HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History
   the exhibition emphasizes embodied knowledge and how it allows a
   deeper understanding of the world around us.
 
-### **Physical Space** 
+### Physical Space
 
 - The physical space is divided into two main sections: the first is the
   actual exhibit space, and the second is a studio for programming and
@@ -114,7 +115,7 @@ HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History
   benches were also spaced out to allow for the use of wheelchairs and
   mobility devices within the exhibit space.
 
-### **Materials: Signage**
+### Materials: Signage
  
   There are eleven main signs located throughout the exhibition.
   Other than the first sign at the main entrance, which includes the
@@ -123,43 +124,54 @@ HIST GU4962: Making and Knowing in Early Modern Europe: Hands-On History
   of the physical manuscript) and black text in the font XB Niloofar. There are also captions placed near the materials in a black,
   sixteen-point, Times New Roman font. 
 
-#### 1. Main Entrance
+### 1. Main Entrance
    
 <img src="/images/media-riddle/image7.jpg" style="width:5.55in" /> 
 
-#### 2.  Dr. Pamela Smith shares a brief introduction of the Making and Knowing Project
+### 2.  Dr. Pamela Smith shares a brief introduction of the Making and Knowing Project
+<br>
+<br>
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/384070384?h=474f5dc00d" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>
 
-#### 3.  This is an interactive digital copy of the manuscript 
+### 3.  This is an interactive digital copy of the manuscript 
 
-We would like you to take a few minutes to look through it. What are some things you notice? What is most interesting? 
+Please take a few minutes to look through it. What do you notice? What is most interesting? 
 
-![IMAGE](/images/media-riddle/image5.jpg)
-![IMAGE](/images/media-riddle/image19.png)
+<img src="/images/media-riddle/image5.jpg" style="width:5.55in" /> 
 
-#### 4.  Here is a short video examining the physical manuscript and some of its features
+<img src="/images/media-riddle/image19.png" style="width:5.55in" /> 
+
+
+### 4.  Here is a short video examining the physical manuscript and some of its features
 
 What are some things you noticed about the physical copy? What aspects of the manuscript do you find most intriguing?
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/389763699?h=0250d2889a" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>
 
-#### 5.  Below is an interactive storymap that walks through Toulouse sites as mentioned in the manuscript
+### 5.  Below is an interactive storymap that walks through Toulouse sites mentioned in the manuscript
 
 As you look through the different locations, what can you infer about Toulouse's cultural and historical context? Why is the cultural and historical context of the city important in understanding the manuscript? 
 
-![IMAGE](/images/media-riddle/image21.png)
+<img src="/images/media-riddle/image21.png" style="width:5.55in" /> 
 
-![IMAGE](/images/media-riddle/image3.jpg)
+<img src="/images/media-riddle/image3.jpg" style="width:5.55in" /> 
 
-#### 6.  Making is knowing, and an important aspect of making is doing
+
+### 6.  Making is knowing, and an important aspect of making is doing
 
 This video game has few instructions; however, as you learn how to
     complete the levels, you move to the next. This represents how
     knowledge is gained through the process of making. 
 
-![IMAGE](/images/media-riddle/image6.jpg)
-![IMAGE](/images/media-riddle/image2.jpg)
+<img src="/images/media-riddle/image6.jpg" style="width:5.55in" /> 
+
+<img src="/images/media-riddle/image2.jpg" style="width:5.55in" /> 
+
 
 If you had to guess, how much longer does the sourdough loaf need to
     stay in the oven? You could most likely make an educated guess based
@@ -170,17 +182,21 @@ If you had to guess, how much longer does the sourdough loaf need to
     observation through your senses and repeated interaction with
     materials.
 
-![IMAGE](/images/media-riddle/image8.jpg)
-![IMAGE](/images/media-riddle/image4.jpg)
+<img src="/images/media-riddle/image8.jpg" style="width:5.55in" /> 
 
-#### 7. The Making and Knowing Lab at Columbia University
+<img src="/images/media-riddle/image4.jpg" style="width:5.55in" /> 
+
+
+### 7. The Making and Knowing Lab at Columbia University
 
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/384070452?h=0250d2889a" width="640" height="360" frameborder="0" allowfullscreen></iframe> 
+<br>
+<br>
+<img src="/images/media-riddle/image1.jpg" style="width:5.55in" /> 
 
-![IMAGE](/images/media-riddle/image1.jpg)
 
-#### 8. The Author-Practitioner
+### 8. The Author-Practitioner
  
 Photos included in the section of the exhibit
   focusing on the author-practitioner and the manuscript include a
@@ -189,21 +205,28 @@ Photos included in the section of the exhibit
   of a black silhouette of a man and a woman facing each other. This
   conveys a similar message of the anonymity of the author’s identity. Other photos treat other aspects of the author-practitioner's identity
   
-![IMAGE](/images/media-riddle/image12.jpg)
+<img src="/images/media-riddle/image12.jpg" style="width:5.55in" /> 
 
-![IMAGE](/images/media-riddle/image15.png)
 
-![IMAGE](/images/media-riddle/image13.jpg)
+<img src="/images/media-riddle/image15.png" style="width:5.55in" /> 
 
-![IMAGE](/images/media-riddle/image11.png)
 
-![IMAGE](/images/media-riddle/image9.jpg)
+<img src="/images/media-riddle/image13.jpg" style="width:5.55in" /> 
 
-![IMAGE](/images/media-riddle/image20.png)
 
-#### 9. Student Projects
+<img src="/images/media-riddle/image11.png" style="width:5.55in" /> 
 
-![IMAGE](/images/media-riddle/image16.jpg)
+
+<img src="/images/media-riddle/image9.jpg" style="width:5.55in" /> 
+
+
+<img src="/images/media-riddle/image20.png" style="width:5.55in" /> 
+
+
+### 9. Student Projects
+
+<img src="/images/media-riddle/image16.jpg" style="width:5.55in" /> 
+
 
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/710444936?h=0250d2889a" width="640" height="360" frameborder="0" allowfullscreen></iframe> 
@@ -212,19 +235,23 @@ Luxi Yang and Jianing Wei, The Making and Knowing pop-up book - a student projec
  
 Elliot Zayas and Mac Waters 2021 soundscape project provides an immersive experience of the sounds of casting metals in an early modern workshop: [<u>a soundscape of casting metal into a prepared mold</u>](https://vimeo.com/672823504).
   
-#### 10. Student Research Projects
-![IMAGE](/images/media-riddle/image22.jpg)
+### 10. Student Research Projects
+<img src="/images/media-riddle/image22.jpg" style="width:5.55in" /> 
+
 
   A lifecast rose from the student-authored essay, [<u>Molding a Rose</u>](https://edition640.makingandknowing.org/essays/ann_022_sp_15). Among all the research projects, the lifecast rose might be the most recognizable out of the context of the manuscript. Furthermore, the materials used are easily identifiable.
 
-![IMAGE](/images/media-riddle/image10.jpg)
+<img src="/images/media-riddle/image10.jpg" style="width:5.55in" /> 
+
   
-#### 11. Programming Poster
+### 11. Programming Poster
 
 - A programming poster for the first event in the programming cycle.
 
-![IMAGE](/images/media-riddle/image18.jpg)
-![IMAGE](/images/media-riddle/image17.jpg)
+<img src="/images/media-riddle/image18.jpg" style="width:5.55in" /> 
+
+<img src="/images/media-riddle/image17.jpg" style="width:5.55in" /> 
+
 
 
 ### Notes on Exhibition Materials
