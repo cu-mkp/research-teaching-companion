@@ -44,23 +44,28 @@ An intriguing recipe in Ms. Fr. 640 for making molds from bread is the basis for
 - [Bread Making, Molding, and Casting](/resources/activity-sheets/breadmolding_resources-for-the-instructor/)
   
 ## Making Stucco for Molding
+![Stucco thumbnail](/images/stucco-molded-thumbnail.jpg)<br> 
 This stucco activity uses rye flour or chalk, mixed with a binder (tragacanth gum in Ms. Fr. 640), materials that can prove very sticky and messy, but this activity is a great way to learn about the production of low-cost, often temporary ornamentation of walls and other surfaces. Plan for one session of mixing and molding, after which the stucco ornaments are dried. Allow sufficient time for clean up! 
 - [Making Stucco for Molding](/resources/activity-sheets/activitysheet_stucco/)
 - Video: [From Watching to Working: Incorporating Making and Knowing Activities into History of Science Courses](https://vimeo.com/840477199) - Monique O'Connell reflects on her experiences of making stucco with her students in a history of science course at Wake Forest University.
 
 ## Dyeing with Natural Colorants
+![Dyeing thumbnail](/images/cochineal-dyed-textiles-mix-thumbnail.JPG)<br> 
 Exploring the world of color is an wonderfully engaging way to introduce hands-on work and material literacy. Dyeing with natural colorants takes this a step further by looking at how textiles were imbued with color from plants (roots, bark, flowers, leaves, and berries) and animals (insects and shellfish) before the advent of synthetic dyes in the nineteenth century. Textiles (and, by extension, dyes) have and continue to be one of the largest industries in the world. Their complex history, global reach and ubiquity, complex chemistry, and transformative craft process provide multiple points of engagement. Dyeing can also be paired with lake pigment making described below, as the colorants are extracted from the same organic materials using similar chemical processes. The Making and Knowing Project and collaborators have adapted these activities in a number of settings, from chemistry labs to public events to home kitchens. With the preparation of dyeing stations, simple dyeing can be carried out in two hours or less.
 - [Dyeing with Natural Colorants](/resources/activity-sheets/activitysheet_dyeing/)
   
 ## Pigments and Paints
 Making paints from pigments is an eye-opening way to get to know substances that are today mostly acquired readymade. Making lake pigments is the transformation of organic materials from dyes (which are water soluble) into pigments (which are particles that can be painted out). Lake pigments can be paired with dyeing described above, as the natural colorants from which color is obtained are the same. Ideally, this activity takes three sessions, though it can be adapted into one or two sessions only. With advance preparation, mineral pigments, such as azurite, take just under two hours to prepare (not counting the mussel feast you can hold the night before to collect the mussel shells!). Verdigris must "grow" slowly over a month or more before sufficient amounts will form to make the pigment to be painted out. Painting out the pigments after binding them with different materials (egg yolk, egg white, oils, or gums) can be quite easy and quick, depending on how many binders the students are provided to experiment with.
 ### Transforming Natural Plant and Insect Colorants into Pigments (Lake Pigments)
+![Lakes thumbnail](/images/materials-wlmg-collection-5-thumbnail.png)<br> 
 - [Making Lake Pigments from Natural Colorants](/resources/activity-sheets/activitysheet_lake-pigments/)
 ### Mineral Pigments
+![Azurite thumbnail](/images/azurite-shells-thumbnail.jpg)<br> 
 - ["Growing" Verdigris Pigment](/resources/activity-sheets/verdigris-assignment/)
      - See also Marie-France Lemay's [“Verdigris” in Traveling Scriptorium: A Teaching Kit by the Yale University Library](https://travelingscriptorium.com/2013/01/17/verdigris/)
 - [Azurite: Grinding, Washing, and Painting](/resources/activity-sheets/azurite-assignment/)
 ### Making Paint, Preparing Supports, and Painting Test Panels
+![Paint thumbnail](/images/pigment-paint-sample-card-thumbnail.png)<br> 
 Pigments (colored particles) must be combined with binding materials such as egg yolk, egg white, oils, or gums in order to create paint. While you can make your own pigments (see above), painting out even ready-made pigments is a crowd-pleasing (and educational!) activity. Making supports for painting (canvas, panel, prepared paper) helps gain an understanding of the crucial importance of the surface for the appearance of the final work of art. This activity can be relatively quick (sewing and stretching canvases) or quite lengthy (preparing panels, which involves nine sessions of applying gesso, allowing it to dry, then scraping and sanding it between each application).
 - [Making Paints from Pigments and Binding Media and Painting Them Out](/resources/activity-sheets/activitysheet_paintingpigments/)
 - [Preparing Panels, Canvases, and Other Supports for Painting, Gilding, and More](/resources/activity-sheets/activitysheet_supportsurfaces/)
