@@ -68,7 +68,6 @@ The Making and Knowing Project's creation of the edition of Ms. Fr. 640, [_Secre
   - Copy Editor
      - Hannah Elmer (2016-20)
      - Stephanie Reitzig (2025-26)
-  - (2016-20): Hannah Elmer
   - Editorial Assistants:
       - Kelsey Troth (2019-20)
       - Ray Abruzzi (2019-21)
